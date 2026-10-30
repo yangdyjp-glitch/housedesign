@@ -1,0 +1,424 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "source_model_sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "saved_model_reopened": true,
+  "all_27_anchors_and_dimensions_preserved": true,
+  "all_geometry_envelopes_match": true,
+  "source_walls": 62,
+  "glass": 12,
+  "curtain_blades": 45,
+  "panorama_cameras": 4,
+  "external_dependencies_relative_and_valid": true,
+  "dependencies": [
+    {
+      "image": "green_point_park_4k.exr",
+      "path": "06_blender/../08_assets/photoreal-v15/green_point_park/green_point_park_4k.exr",
+      "sha256": "9490cba501ade9904f0b23ab2f2078d97fbe0181a562af65b82e89076e89b70f"
+    },
+    {
+      "image": "poly_wool_herringbone_diff_2k.jpg",
+      "path": "06_blender/../08_assets/photoreal-v15/poly_wool_herringbone/poly_wool_herringbone_diff_2k.jpg",
+      "sha256": "ca21de8e2e7f43178f8290361bfb2271eb264af0d2887c7c93e76a113ff3cc64"
+    },
+    {
+      "image": "poly_wool_herringbone_rough_2k.jpg",
+      "path": "06_blender/../08_assets/photoreal-v15/poly_wool_herringbone/poly_wool_herringbone_rough_2k.jpg",
+      "sha256": "8678dfb7f474440c12a5f317fe01802dd1aabbb205a6c947bb044ade72294fa7"
+    },
+    {
+      "image": "potted_plant_01_leaves_alpha.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_alpha_1k.png",
+      "sha256": "380ff44359f128b7cf0e2912b378a0f61f4b0d8e8707dbe043c92465d82e9592"
+    },
+    {
+      "image": "potted_plant_01_leaves_diff.png.001",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_diff_1k.png",
+      "sha256": "83d339ea0c13609fff151afd778d5625bc42eacf5e60454eedabf0b571b0bbaf"
+    },
+    {
+      "image": "potted_plant_01_leaves_nor_gl.png.001",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_nor_gl_1k.png",
+      "sha256": "a5b928cdcbade2872edd19d239de6110e047e31113524ba8a931853b4f9a0916"
+    },
+    {
+      "image": "potted_plant_01_leaves_rough.png.001",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_rough_1k.png",
+      "sha256": "8b3332d70c9d955a108ef38077121588d30d9866a54c2992fe6a5d1c43e92124"
+    },
+    {
+      "image": "potted_plant_01_pot_diff.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_pot_diff_1k.png",
+      "sha256": "db986d79c9af9d10463ba3c8400bfaa7d2271e0a94cd0607b07e29e7053be3a8"
+    },
+    {
+      "image": "potted_plant_01_pot_nor_gl.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_pot_nor_gl_1k.png",
+      "sha256": "70fdafbdede97cd1c811007002026ccc5ecbde74db1114ed4f90c75a2c4d78a9"
+    },
+    {
+      "image": "potted_plant_01_pot_rough.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_pot_rough_1k.png",
+      "sha256": "f4f4232fb21f7aa33caca8ee1fd7acedfc437c46d635b09f636c12b057759e6f"
+    },
+    {
+      "image": "potted_plant_02_leaves_alpha.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_alpha_1k.png",
+      "sha256": "af56887c4a14b1ace924906529ee56d46ad102e0738bcdf53569a57ce1a56bd1"
+    },
+    {
+      "image": "potted_plant_02_leaves_diff.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_diff_1k.png",
+      "sha256": "c664ad56c2117d82ea3b6907d0e6554f1d627da05e0f3e28f71e31bea98c667f"
+    },
+    {
+      "image": "potted_plant_02_leaves_nor_gl.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_nor_gl_1k.png",
+      "sha256": "b77d02419d03704b5551fdd797493822dfe083e0661aafd5778e6cd5aa4229f8"
+    },
+    {
+      "image": "potted_plant_02_leaves_rough.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_rough_1k.png",
+      "sha256": "41e2714a8647e4f189f0c48708960eec38817f566e10949e4dae66d0084f80b8"
+    },
+    {
+      "image": "potted_plant_02_pot_diff.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_pot_diff_1k.png",
+      "sha256": "8988e4ce4d985162e5753b9864eb0971c72532d6f1e9914a513b04570a5b3449"
+    },
+    {
+      "image": "potted_plant_02_pot_nor_gl.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_pot_nor_gl_1k.png",
+      "sha256": "ca1e14ed985c58c4a3f64b48d1f9efd51e407e8e99eafa6d92ccab3e8de664b1"
+    },
+    {
+      "image": "potted_plant_02_pot_rough.png",
+      "path": "06_blender/../08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_pot_rough_1k.png",
+      "sha256": "d848d54ff81db3818cc4df8c75e617362098e3677fc545551d62e386b7345be5"
+    },
+    {
+      "image": "wood_floor_diff_2k.jpg",
+      "path": "06_blender/../08_assets/photoreal-v15/wood_floor/wood_floor_diff_2k.jpg",
+      "sha256": "7c3ff1164c8dd0758ef2c048e9a266d28174120de01052ec40e6ca486177345c"
+    },
+    {
+      "image": "wood_floor_nor_gl_2k.jpg",
+      "path": "06_blender/../08_assets/photoreal-v15/wood_floor/wood_floor_nor_gl_2k.jpg",
+      "sha256": "eff2e4db46bab930dc05997faf5085157eec4fd652cdfc6cd01fa11edd56ef10"
+    },
+    {
+      "image": "wood_floor_rough_2k.jpg",
+      "path": "06_blender/../08_assets/photoreal-v15/wood_floor/wood_floor_rough_2k.jpg",
+      "sha256": "297eda0d75f2020cc541dbf242e1f5fd058053249567f49a4506fc2c5b1a172b"
+    }
+  ],
+  "furniture": [
+    {
+      "id": "tv-low",
+      "x": 0.0,
+      "z": 1800.0,
+      "bounds_error_mm": 0.0,
+      "dimensionsMm": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "tv-high",
+      "x": 0.0,
+      "z": 5000.0,
+      "bounds_error_mm": 0.0,
+      "dimensionsMm": [
+        4500,
+        400,
+        2750
+      ]
+    },
+    {
+      "id": "television",
+      "x": 30.0,
+      "z": 2450.0,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "x": 3100,
+      "z": 1300,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "x": 3200,
+      "z": 4350,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "x": 2550,
+      "z": 2650,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "double-desk",
+      "x": 5300.0,
+      "z": 2000.0,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900.0,
+      "z": 2335.0,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "x": 6838.0,
+      "z": 1176.0,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "x": 2282.0,
+      "z": 7300.0,
+      "bounds_error_mm": 0.0004,
+      "dimensionsMm": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832.0,
+      "z": 7550.0,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832.0,
+      "z": 8200.0,
+      "bounds_error_mm": 0.0004,
+      "dimensionsMm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457.0,
+      "z": 6850.0,
+      "bounds_error_mm": 0.0004,
+      "dimensionsMm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457.0,
+      "z": 8900.0,
+      "bounds_error_mm": 0.0006,
+      "dimensionsMm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 0,
+      "z": 10818,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        1271,
+        350,
+        2750
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150.0,
+      "z": 120.0,
+      "bounds_error_mm": 0.0001,
+      "dimensionsMm": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100.0,
+      "z": 1030.0,
+      "bounds_error_mm": 0.0001,
+      "dimensionsMm": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100.0,
+      "z": 200.0,
+      "bounds_error_mm": 0.0001,
+      "dimensionsMm": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "x": 6488.0,
+      "z": 170.0,
+      "bounds_error_mm": 0.0001,
+      "dimensionsMm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "x": 6488.0,
+      "z": 170.0,
+      "bounds_error_mm": 0.0001,
+      "dimensionsMm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "balcony-tea-table",
+      "x": 3300,
+      "z": 270,
+      "bounds_error_mm": 0.0,
+      "dimensionsMm": [
+        700,
+        700,
+        380
+      ]
+    },
+    {
+      "id": "balcony-tea-chair-1",
+      "x": 2580,
+      "z": 320,
+      "bounds_error_mm": 0.0001,
+      "dimensionsMm": [
+        600,
+        560,
+        580
+      ]
+    },
+    {
+      "id": "balcony-tea-chair-2",
+      "x": 4160,
+      "z": 320,
+      "bounds_error_mm": 0.0003,
+      "dimensionsMm": [
+        600,
+        560,
+        580
+      ]
+    },
+    {
+      "id": "master-bed",
+      "x": 8645,
+      "z": 1826,
+      "bounds_error_mm": 0.0005,
+      "dimensionsMm": [
+        2150,
+        2150,
+        1050
+      ]
+    },
+    {
+      "id": "master-wardrobe",
+      "x": 7328,
+      "z": 1272,
+      "bounds_error_mm": 0.0002,
+      "dimensionsMm": [
+        2500,
+        600,
+        2750
+      ]
+    },
+    {
+      "id": "master-vanity",
+      "x": 10345,
+      "z": 4196,
+      "bounds_error_mm": 0.0004,
+      "dimensionsMm": [
+        800,
+        450,
+        2130
+      ]
+    },
+    {
+      "id": "master-toilet",
+      "x": 9323,
+      "z": 5350,
+      "bounds_error_mm": 0.0003,
+      "dimensionsMm": [
+        680,
+        400,
+        800
+      ]
+    }
+  ],
+  "private_master_suite_retained": true,
+  "changed_five_assemblies_100mm_movement_and_restoration": [
+    "sofa-modular",
+    "ottoman",
+    "plant-balcony-tall",
+    "plant-tv-medium",
+    "plant-balcony-low"
+  ]
+}

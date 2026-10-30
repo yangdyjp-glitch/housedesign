@@ -1,0 +1,88 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "furniture_count": 27,
+  "full_walls": true,
+  "window_glass": 12,
+  "source_walls": 62,
+  "pano": true,
+  "draft": false,
+  "render_mode": "Cycles OptiX, 128 max samples; adaptive; GPU denoised",
+  "exterior_is_illustrative": true,
+  "images": [
+    {
+      "id": "living",
+      "label": "客厅",
+      "path": "07_renders/vr-tour-v02/living-sphere.png",
+      "sha256": "4746acd2e774bcac05d6a08a4460f9c788c194b9b571cf9a74425ffdd83405ef",
+      "seconds": 207.1,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "camera": "v13 · 360 客厅",
+      "eye_height_mm": 1600,
+      "position_plan_mm": [
+        1800,
+        4500
+      ],
+      "exposure": 1.5
+    },
+    {
+      "id": "dining",
+      "label": "餐厅",
+      "path": "07_renders/vr-tour-v02/dining-sphere.png",
+      "sha256": "b57782697afc6dc033fab4c1e6c35810e632b49c2499e6e6e23a379909b2ffba",
+      "seconds": 223.5,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "camera": "v13 · 360 餐厅",
+      "eye_height_mm": 1600,
+      "position_plan_mm": [
+        1100,
+        8000
+      ],
+      "exposure": 1.5
+    },
+    {
+      "id": "balcony",
+      "label": "阳台",
+      "path": "07_renders/vr-tour-v02/balcony-sphere.png",
+      "sha256": "b2b6f7e32e8faec163f59ff54d468fc9b1417c317f05705474458197260c6806",
+      "seconds": 192.4,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "camera": "v13 · 360 阳台",
+      "eye_height_mm": 1600,
+      "position_plan_mm": [
+        2050,
+        850
+      ],
+      "exposure": 1.5
+    },
+    {
+      "id": "entry",
+      "label": "门厅",
+      "path": "07_renders/vr-tour-v02/entry-sphere.png",
+      "sha256": "023e8ed320d422e3ffacac4e46b11125b966d041049a2f72a2713e65f636532a",
+      "seconds": 181.5,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "camera": "v13 · 360 门厅",
+      "eye_height_mm": 1600,
+      "position_plan_mm": [
+        635,
+        10100
+      ],
+      "exposure": 1.100000023841858
+    }
+  ]
+}

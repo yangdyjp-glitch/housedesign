@@ -1,0 +1,46 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "images": [
+    {
+      "id": "living",
+      "png": "07_renders/vr-tour-v02/living-sphere.png",
+      "png_sha256": "4746acd2e774bcac05d6a08a4460f9c788c194b9b571cf9a74425ffdd83405ef",
+      "jpg": "07_renders/vr-tour-v02/living-day.jpg",
+      "jpg_sha256": "534fa2cd6463f98a14f64c2b9f41261c171c256efc2c9a32789263dc8b5346eb",
+      "width": 8192,
+      "height": 4096,
+      "jpeg_quality": 94
+    },
+    {
+      "id": "dining",
+      "png": "07_renders/vr-tour-v02/dining-sphere.png",
+      "png_sha256": "b57782697afc6dc033fab4c1e6c35810e632b49c2499e6e6e23a379909b2ffba",
+      "jpg": "07_renders/vr-tour-v02/dining-day.jpg",
+      "jpg_sha256": "4f99034c26f9e89d13ed9efc5bc9264aa97a3664444c2fcb747ff5078aeca7a1",
+      "width": 8192,
+      "height": 4096,
+      "jpeg_quality": 94
+    },
+    {
+      "id": "balcony",
+      "png": "07_renders/vr-tour-v02/balcony-sphere.png",
+      "png_sha256": "b2b6f7e32e8faec163f59ff54d468fc9b1417c317f05705474458197260c6806",
+      "jpg": "07_renders/vr-tour-v02/balcony-day.jpg",
+      "jpg_sha256": "22ddb5820a3a3c09c9a83cbac3bee8d6180fe5f677ddcf73358bbd477fc907f2",
+      "width": 8192,
+      "height": 4096,
+      "jpeg_quality": 94
+    },
+    {
+      "id": "entry",
+      "png": "07_renders/vr-tour-v02/entry-sphere.png",
+      "png_sha256": "023e8ed320d422e3ffacac4e46b11125b966d041049a2f72a2713e65f636532a",
+      "jpg": "07_renders/vr-tour-v02/entry-day.jpg",
+      "jpg_sha256": "1a238c7cc2773d815c4fddab050538d900a56b86a847e71334a1654a5a4c1d09",
+      "width": 8192,
+      "height": 4096,
+      "jpeg_quality": 94
+    }
+  ]
+}

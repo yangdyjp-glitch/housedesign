@@ -1,0 +1,34 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model_sha256": "a2d1179e26c3b79db465165a8b9933a18216d49aef17b1c9d805edff71ead2aa",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "furniture_count": 27,
+  "full_walls": true,
+  "window_glass": 12,
+  "source_walls": 62,
+  "pano": false,
+  "draft": false,
+  "render_mode": "Cycles OptiX, 256 max samples; adaptive; GPU denoised",
+  "exterior_is_illustrative": true,
+  "images": [
+    {
+      "id": "entry",
+      "label": "门厅",
+      "path": "07_renders/vr-tour-v02/entry-photo.png",
+      "sha256": "a0c47d1ea8dc3f1cb57839ec7dc28dc7c801b5b3be6d5e83ace5ffbb73f30f6c",
+      "seconds": 38.9,
+      "resolution": [
+        1400,
+        2100
+      ],
+      "camera": "v12 · 门厅一字柜",
+      "eye_height_mm": 1500,
+      "position_plan_mm": [
+        600,
+        9450
+      ],
+      "exposure": 1.100000023841858
+    }
+  ]
+}

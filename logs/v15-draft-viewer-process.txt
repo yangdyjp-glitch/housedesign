@@ -1,0 +1,1 @@
+{"status":"VR_TOUR_VIEWER_VERIFIED","tests":15,"calibrationOnly":false,"report":"D:/AI-Yang.cn/HomeDesign/logs/v15-draft-viewer-verification.json"}

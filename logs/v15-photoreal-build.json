@@ -1,0 +1,120 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "source_geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "source_model_sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752",
+  "presentation_model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "furniture_count": 27,
+  "all_27_placements_and_orientations_preserved": true,
+  "full_walls_and_all_windows_preserved": true,
+  "sofa_soft_parts": [
+    {
+      "part": "sofa-modular-back",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-main-base",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-chaise-base",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-chaise-cushion",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-chaise-back-cushion",
+      "edge_radius_mm": 44.0
+    },
+    {
+      "part": "sofa-modular-seat-0",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-back-cushion-0",
+      "edge_radius_mm": 44.0
+    },
+    {
+      "part": "sofa-modular-seat-1",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-back-cushion-1",
+      "edge_radius_mm": 44.0
+    },
+    {
+      "part": "sofa-modular-north-arm",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-south-arm",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-pillow-green",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "sofa-modular-pillow-navy",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "ottoman-base",
+      "edge_radius_mm": 45
+    },
+    {
+      "part": "ottoman-cushion",
+      "edge_radius_mm": 45
+    }
+  ],
+  "plants": [
+    {
+      "id": "plant-balcony-tall",
+      "source": "potted_plant_01",
+      "fit_actual_source_mesh_bounds_mm": {
+        "x": 240.17474629187518,
+        "z": 206.49410679721598,
+        "y": 0,
+        "w": 522.2080316003487,
+        "d": 527.0069115608486,
+        "h": 1558.5
+      },
+      "nominal_size_labels_preserved": true,
+      "visual_species_not_selected_product": true
+    },
+    {
+      "id": "plant-tv-medium",
+      "source": "potted_plant_02",
+      "fit_actual_source_mesh_bounds_mm": {
+        "x": 170.85158637218763,
+        "z": 1097.9596553406698,
+        "y": 0,
+        "w": 410.3063105431312,
+        "d": 414.0768590835239,
+        "h": 1036.0
+      },
+      "nominal_size_labels_preserved": true,
+      "visual_species_not_selected_product": true
+    },
+    {
+      "id": "plant-balcony-low",
+      "source": "potted_plant_02",
+      "fit_actual_source_mesh_bounds_mm": {
+        "x": 1164.410533065625,
+        "z": 261.7815048551543,
+        "y": 0,
+        "w": 373.0057368573921,
+        "d": 376.433508257749,
+        "h": 671.4999999999999
+      },
+      "nominal_size_labels_preserved": true,
+      "visual_species_not_selected_product": true
+    }
+  ],
+  "assets_manifest_sha256": "bc94e5a90d4a0d861abdae27c7acf8daed7e381143b3cb430b80f2105535f8c2",
+  "exterior": "CC0 photographic HDRI only; illustrative scenery, actual site unknown",
+  "render": "Cycles path-traced native full sphere, no AI sphere repaint",
+  "external_textures_relative": true
+}

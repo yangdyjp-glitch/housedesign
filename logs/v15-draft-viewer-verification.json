@@ -1,0 +1,109 @@
+{
+  "status": "passed",
+  "html": "D:/AI-Yang.cn/HomeDesign/09_delivery/vr-tour-v02-draft/打开360全景漫游.html",
+  "htmlSha256": "eb5318d2a5727d91ddd164c6d93c36fefb9c4d097286d6fdd210e83b964825f1",
+  "calibrationOnly": false,
+  "renderQuality": "draft",
+  "modelRevision": 14,
+  "modelSha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "tests": [
+    "Local file opens offline; spherical WebGL projection; 2:1 image decode",
+    "Mouse drag changes yaw/pitch and rendered pixel output",
+    "Wheel zoom and reset",
+    "Arrow keys, Home and keyboard zoom",
+    "All four model image scenes decode, upload and switch",
+    "Map toggles and switches scene",
+    "Projected hotspot uses world direction and switches observation point",
+    "Chinese usage help opens/closes",
+    "Mobile single-finger spherical rotation",
+    "Mobile two-finger pinch changes field of view",
+    "Mobile scene switch, reset and no horizontal overflow at 390px",
+    "320px viewport has no horizontal overflow",
+    "Zenith/nadir and continuous 360-degree yaw wrap",
+    "No network requests, CDN or page errors under browser offline mode",
+    "Simulated 4096px GPU limit downsamples display texture, preserving 2:1 and original download"
+  ],
+  "screenshots": [
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v02-draft-dining-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v02-draft-entry-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v02-draft-living-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v02-draft-balcony-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v02-draft-desktop.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v02-draft-mobile.png"
+  ],
+  "headsetTested": false,
+  "physicalPhoneTested": false,
+  "mobileTestMethod": "Chrome touch-device emulation via Playwright/CDP",
+  "decodedImages": [
+    {
+      "id": "dining",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    },
+    {
+      "id": "entry",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    },
+    {
+      "id": "living",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    },
+    {
+      "id": "balcony",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    }
+  ],
+  "requests": [
+    "file:///D:/AI-Yang.cn/HomeDesign/09_delivery/vr-tour-v02-draft/%E6%89%93%E5%BC%80360%E5%85%A8%E6%99%AF%E6%BC%AB%E6%B8%B8.html",
+    "file:///D:/AI-Yang.cn/HomeDesign/09_delivery/vr-tour-v02-draft/%E6%89%93%E5%BC%80360%E5%85%A8%E6%99%AF%E6%BC%AB%E6%B8%B8.html"
+  ],
+  "errors": [],
+  "webglState": {
+    "scene": "living",
+    "yaw": 0.1395323854541619,
+    "pitch": -1.5607963267948965,
+    "fov": 60,
+    "loaded": true,
+    "width": 2048,
+    "height": 1024,
+    "textureWidth": 2048,
+    "textureHeight": 1024,
+    "frame": 48,
+    "error": null,
+    "yawDeg": 7.9946167919160755,
+    "pitchDeg": -89.42704220486918,
+    "webgl": true,
+    "maxTextureSize": 8192,
+    "activeTextureCount": 1,
+    "pendingImageDecode": false,
+    "scenes": [
+      "living",
+      "dining",
+      "balcony",
+      "entry"
+    ],
+    "perspectiveProjection": true,
+    "networkDependencies": 0,
+    "positionPlanMm": [
+      1800,
+      4500
+    ]
+  },
+  "textureLimitSimulation": {
+    "reportedLimit": 4096,
+    "originalWidth": 2048,
+    "uploadedWidth": 2048,
+    "uploadedHeight": 1024
+  }
+}

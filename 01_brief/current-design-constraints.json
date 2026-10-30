@@ -38,7 +38,7 @@
       "客厅",
       "阳台"
     ],
-    "version": 13,
+    "version": 14,
     "projection": "monoscopic equirectangular 360x180",
     "nodes": 4,
     "resolution": [
@@ -47,7 +47,10 @@
     ],
     "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim",
     "current_master_revision": 14,
-    "status": "historical v13; not re-rendered for v14 master-suite"
+    "status": "current v14 layout with v15 realistic PBR presentation",
+    "presentation_revision": 15,
+    "photorealistic": true,
+    "exterior_is_illustrative": true
   },
   "master_suite": {
     "applied_model_revision": 14,

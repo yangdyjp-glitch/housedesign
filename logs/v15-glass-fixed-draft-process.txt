@@ -1,0 +1,763 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-v14-photoreal-v15.blend"
+Fra:1 Mem:95.53M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:95.53M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:95.53M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | bay-front-glass-0.001
+Fra:1 Mem:95.53M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | front-facade-glass-2.001
+Fra:1 Mem:95.53M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | lower-projection-right-glass-0.001
+Fra:1 Mem:95.54M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | television | 85英寸电视.001
+Fra:1 Mem:95.54M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | side-table | 长方茶几.001
+Fra:1 Mem:95.54M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | bookcase | 书柜与储物.001
+Fra:1 Mem:95.54M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | dining-table | 四人靠墙餐桌.001
+Fra:1 Mem:95.55M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1.001
+Fra:1 Mem:95.58M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2.001
+Fra:1 Mem:95.59M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3.001
+Fra:1 Mem:95.59M (Peak 97.89M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4.001
+Fra:1 Mem:98.16M (Peak 98.16M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | double-desk | 双人办公桌.001
+Fra:1 Mem:98.06M (Peak 98.16M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:98.12M (Peak 98.16M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:98.15M (Peak 98.16M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | tv-high | 奶黄与奶油白通顶长柜
+Fra:1 Mem:98.51M (Peak 98.51M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | plant-balcony-low | 阳台矮绿植 · 写实叶片
+Fra:1 Mem:100.74M (Peak 100.74M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-tea-table | 阳台矮圆茶桌
+Fra:1 Mem:101.76M (Peak 101.76M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | plant-tv-medium | 电视右侧绿植 · 写实叶片
+Fra:1 Mem:102.64M (Peak 102.64M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-tea-chair-1 | 阳台矮茶椅1
+Fra:1 Mem:102.69M (Peak 102.69M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-tea-chair-2 | 阳台矮茶椅2
+Fra:1 Mem:102.75M (Peak 102.75M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | tv-low | 悬空电视柜与设备端柜
+Fra:1 Mem:103.06M (Peak 103.06M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | entry-shoe-cabinet | 入户一字鞋柜与换鞋位
+Fra:1 Mem:104.60M (Peak 104.60M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:107.08M (Peak 107.44M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | plant-balcony-tall | 阳台高绿植 · 写实叶片
+Fra:1 Mem:108.04M (Peak 108.04M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:108.05M (Peak 108.05M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:108.93M (Peak 108.93M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:109.01M (Peak 109.01M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:109.20M (Peak 109.20M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:109.19M (Peak 109.20M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:109.48M (Peak 109.48M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:109.39M (Peak 109.48M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:110.14M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:108.89M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:108.41M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:107.66M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:109.34M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:109.34M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:109.48M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:109.62M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:109.64M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:109.59M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:109.59M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:109.64M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:109.69M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:109.86M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:110.04M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:110.06M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:109.79M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:109.75M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:109.83M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:109.83M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:109.93M (Peak 110.14M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:111.25M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:111.25M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:110.52M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:110.74M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:110.76M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:110.76M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:110.85M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:110.86M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:110.86M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:110.31M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:110.34M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:110.48M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:110.48M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:110.48M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:110.48M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:110.48M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:110.48M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:110.50M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:110.51M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:110.69M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:110.73M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-glass-central
+Fra:1 Mem:110.71M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-glass-left-bottom
+Fra:1 Mem:110.75M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-glass-right-bottom
+Fra:1 Mem:110.75M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-glass-right-upper
+Fra:1 Mem:110.75M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-outer-left
+Fra:1 Mem:110.76M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-outer-right
+Fra:1 Mem:110.79M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-outer-bottom
+Fra:1 Mem:110.78M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-outer-top
+Fra:1 Mem:110.79M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-mullion-left
+Fra:1 Mem:110.82M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-mullion-right
+Fra:1 Mem:110.86M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-transom-left
+Fra:1 Mem:110.91M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-left-left
+Fra:1 Mem:110.89M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-left-right
+Fra:1 Mem:110.92M (Peak 111.25M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-left-bottom
+Fra:1 Mem:111.27M (Peak 111.27M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-left-top
+Fra:1 Mem:111.33M (Peak 111.33M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-screen-left
+Fra:1 Mem:111.36M (Peak 111.36M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-handle-left-base
+Fra:1 Mem:111.37M (Peak 111.37M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-handle-left-lever
+Fra:1 Mem:113.01M (Peak 113.01M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-transom-right
+Fra:1 Mem:113.09M (Peak 113.09M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-right-left
+Fra:1 Mem:113.31M (Peak 113.31M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-right-right
+Fra:1 Mem:112.91M (Peak 113.31M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-right-bottom
+Fra:1 Mem:112.80M (Peak 113.31M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-sash-right-top
+Fra:1 Mem:112.81M (Peak 113.31M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-screen-right
+Fra:1 Mem:113.16M (Peak 113.31M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-handle-right-base
+Fra:1 Mem:113.17M (Peak 113.31M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | balcony-handle-right-lever
+Fra:1 Mem:113.37M (Peak 113.37M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-jamb-left
+Fra:1 Mem:113.36M (Peak 113.37M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-jamb-right
+Fra:1 Mem:113.63M (Peak 113.63M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-overhead-track
+Fra:1 Mem:113.63M (Peak 113.63M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-transom-top
+Fra:1 Mem:113.85M (Peak 113.85M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-upper-fixed-glass
+Fra:1 Mem:113.95M (Peak 113.95M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-left-stile-left
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-left-stile-right
+Fra:1 Mem:113.81M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-left-rail-bottom
+Fra:1 Mem:113.17M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-left-rail-top
+Fra:1 Mem:113.17M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-left-pull
+Fra:1 Mem:112.99M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-right-stile-left
+Fra:1 Mem:113.00M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-right-stile-right
+Fra:1 Mem:113.05M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-right-rail-bottom
+Fra:1 Mem:113.07M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-right-rail-top
+Fra:1 Mem:113.08M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-right-glass
+Fra:1 Mem:113.07M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-right-pull
+Fra:1 Mem:113.07M (Peak 113.99M) | Time:00:00.64 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | kitchen-slider-small-guide-right
+Fra:1 Mem:113.29M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 公共区浅木外观 · 地面产品待选
+Fra:1 Mem:113.31M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 入户地面外观
+Fra:1 Mem:113.16M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-master-public-leaf
+Fra:1 Mem:113.22M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-master-public-handle
+Fra:1 Mem:113.25M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-guest-bath-public-leaf
+Fra:1 Mem:113.32M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-guest-bath-public-reveal
+Fra:1 Mem:113.40M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-guest-bath-public-handle
+Fra:1 Mem:113.41M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-guest-room-public-reveal
+Fra:1 Mem:113.47M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-guest-room-public-leaf
+Fra:1 Mem:113.46M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-guest-room-public-handle
+Fra:1 Mem:113.14M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-dining-wall
+Fra:1 Mem:113.20M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-bath-front-left
+Fra:1 Mem:113.20M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-joint-dining-wall
+Fra:1 Mem:113.22M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-joint-bath-front-left
+Fra:1 Mem:113.21M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-bath-front-right
+Fra:1 Mem:113.20M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-guest-front-left
+Fra:1 Mem:113.30M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-joint-guest-front-left
+Fra:1 Mem:113.31M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-guest-front-right
+Fra:1 Mem:113.88M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-joint-guest-front-right
+Fra:1 Mem:113.88M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-master-public-left
+Fra:1 Mem:113.88M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-joint-master-public-left
+Fra:1 Mem:113.88M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-skirting-living-short-end
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10-hall-cove-lip
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 客厅顶面反射光
+Fra:1 Mem:113.92M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 书柜层板光 0.79
+Fra:1 Mem:113.92M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 书柜层板光 1.59
+Fra:1 Mem:113.92M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 书柜层板光 2.37
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 桌灯工作光
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v10 餐桌任务光位待选灯具
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-entry-mirror
+Fra:1 Mem:114.16M (Peak 114.16M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-tv-background
+Fra:1 Mem:114.19M (Peak 114.19M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-tv-frame-left
+Fra:1 Mem:114.29M (Peak 114.29M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-tv-frame-right
+Fra:1 Mem:114.46M (Peak 114.46M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-tv-frame-top
+Fra:1 Mem:116.74M (Peak 116.74M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-tv-fine-line-0
+Fra:1 Mem:116.56M (Peak 116.74M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-tv-fine-line-1
+Fra:1 Mem:118.65M (Peak 118.65M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-pelmet
+Fra:1 Mem:118.66M (Peak 118.66M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-track
+Fra:1 Mem:118.67M (Peak 118.67M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curved-cove
+Fra:1 Mem:118.70M (Peak 118.70M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-cove-light-lip
+Fra:1 Mem:118.71M (Peak 118.71M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-1
+Fra:1 Mem:118.72M (Peak 118.72M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-2
+Fra:1 Mem:118.72M (Peak 118.72M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-3
+Fra:1 Mem:118.73M (Peak 118.73M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-4
+Fra:1 Mem:118.73M (Peak 118.73M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-5
+Fra:1 Mem:118.73M (Peak 118.73M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-6
+Fra:1 Mem:118.74M (Peak 118.74M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-7
+Fra:1 Mem:118.75M (Peak 118.75M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-8
+Fra:1 Mem:118.75M (Peak 118.75M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-9
+Fra:1 Mem:118.76M (Peak 118.76M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-10
+Fra:1 Mem:118.76M (Peak 118.76M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-11
+Fra:1 Mem:118.77M (Peak 118.77M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-12
+Fra:1 Mem:119.85M (Peak 119.85M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-13
+Fra:1 Mem:120.37M (Peak 120.37M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-14
+Fra:1 Mem:120.37M (Peak 120.37M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-15
+Fra:1 Mem:120.66M (Peak 120.66M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-16
+Fra:1 Mem:120.67M (Peak 120.67M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-17
+Fra:1 Mem:120.02M (Peak 120.67M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-18
+Fra:1 Mem:120.16M (Peak 120.67M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-20
+Fra:1 Mem:121.42M (Peak 121.42M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-21
+Fra:1 Mem:121.48M (Peak 121.48M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-22
+Fra:1 Mem:121.49M (Peak 121.49M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-23
+Fra:1 Mem:121.51M (Peak 121.51M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-24
+Fra:1 Mem:122.35M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-25
+Fra:1 Mem:120.96M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-26
+Fra:1 Mem:121.26M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-27
+Fra:1 Mem:121.26M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-28
+Fra:1 Mem:121.26M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-29
+Fra:1 Mem:120.99M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-30
+Fra:1 Mem:120.99M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-31
+Fra:1 Mem:121.00M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-32
+Fra:1 Mem:121.01M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-33
+Fra:1 Mem:121.01M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-34
+Fra:1 Mem:121.08M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-35
+Fra:1 Mem:121.09M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-36
+Fra:1 Mem:121.37M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-37
+Fra:1 Mem:121.38M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-38
+Fra:1 Mem:121.38M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-40
+Fra:1 Mem:121.39M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-41
+Fra:1 Mem:121.40M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-42
+Fra:1 Mem:121.41M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-43
+Fra:1 Mem:121.41M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-44
+Fra:1 Mem:121.42M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12-curtain-45
+Fra:1 Mem:121.42M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12 弧槽顶面反射光
+Fra:1 Mem:121.14M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12 梦幻帘帘头柔光
+Fra:1 Mem:121.14M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12 入户柜底导向光
+Fra:1 Mem:118.32M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12 入户挂衣柔光
+Fra:1 Mem:118.32M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12 随手格柔光
+Fra:1 Mem:118.32M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v12 入户一般照明
+Fra:1 Mem:118.32M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:118.33M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | master-bed | 主卧2米床
+Fra:1 Mem:119.98M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | master-wardrobe | 主卧通顶衣柜
+Fra:1 Mem:120.02M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | master-vanity | 主卫洗手台与镜
+Fra:1 Mem:120.04M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | master-toilet | 主卫马桶
+Fra:1 Mem:121.72M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bath-floor-main
+Fra:1 Mem:122.08M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bath-floor-service-side
+Fra:1 Mem:122.09M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bedroom-floor
+Fra:1 Mem:122.17M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bedroom-foyer-floor
+Fra:1 Mem:122.17M (Peak 122.35M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-zone-floor-main
+Fra:1 Mem:126.09M (Peak 126.09M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-zone-floor-service-side
+Fra:1 Mem:126.09M (Peak 126.09M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-track
+Fra:1 Mem:126.34M (Peak 126.34M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-handle
+Fra:1 Mem:126.64M (Peak 126.64M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-drain-provisional
+Fra:1 Mem:126.87M (Peak 126.87M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-bar
+Fra:1 Mem:127.17M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-mixer
+Fra:1 Mem:127.04M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-shower-arm
+Fra:1 Mem:126.38M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bath-door-jamb-top
+Fra:1 Mem:126.36M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bath-door-jamb-bottom
+Fra:1 Mem:126.70M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bath-door-leaf
+Fra:1 Mem:127.04M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14-bath-door-handle
+Fra:1 Mem:126.99M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14 主卫一般光
+Fra:1 Mem:127.00M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | v14 主卫镜前柔光
+Fra:1 Mem:127.00M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发.001 · 实体软包
+Fra:1 Mem:127.02M (Peak 127.17M) | Time:00:00.65 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Synchronizing object | ottoman | 可移脚凳.001 · 实体软包
+Fra:1 Mem:123.90M (Peak 136.23M) | Time:00:00.66 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Initializing
+Fra:1 Mem:98.25M (Peak 136.23M) | Time:00:00.66 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Waiting for render to start
+Fra:1 Mem:98.25M (Peak 136.23M) | Time:00:00.66 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Scene
+Fra:1 Mem:98.25M (Peak 136.23M) | Time:00:00.66 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Shaders
+Fra:1 Mem:98.25M (Peak 136.23M) | Time:00:00.66 | Mem:0.00M, Peak:0.00M | v14布局 · v15写实PBR全景表现, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:98.39M (Peak 136.23M) | Time:00:00.75 | Mem:0.06M, Peak:0.06M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Procedurals
+Fra:1 Mem:98.39M (Peak 136.23M) | Time:00:00.75 | Mem:0.06M, Peak:0.06M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Background
+Fra:1 Mem:98.39M (Peak 136.23M) | Time:00:00.75 | Mem:0.06M, Peak:0.06M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Camera
+Fra:1 Mem:98.39M (Peak 136.23M) | Time:00:00.75 | Mem:0.06M, Peak:0.06M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:98.39M (Peak 136.23M) | Time:00:00.75 | Mem:0.06M, Peak:0.06M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Objects
+Fra:1 Mem:98.39M (Peak 136.23M) | Time:00:00.75 | Mem:0.06M, Peak:0.06M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:98.45M (Peak 136.23M) | Time:00:00.75 | Mem:0.12M, Peak:0.12M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Particle Systems
+Fra:1 Mem:98.45M (Peak 136.23M) | Time:00:00.75 | Mem:0.12M, Peak:0.12M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:98.45M (Peak 136.23M) | Time:00:00.75 | Mem:0.12M, Peak:0.12M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Meshes
+Fra:1 Mem:107.47M (Peak 136.23M) | Time:00:00.80 | Mem:0.12M, Peak:0.12M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:107.47M (Peak 136.23M) | Time:00:00.80 | Mem:0.12M, Peak:0.12M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.80 | Mem:0.14M, Peak:0.14M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:121.51M (Peak 136.23M) | Time:00:00.80 | Mem:14.17M, Peak:14.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH light 254/253 | Building BVH
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.80 | Mem:14.17M, Peak:14.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 17/253 | Building BVH
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.80 | Mem:14.17M, Peak:14.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 20/253 | Building BVH
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.80 | Mem:14.17M, Peak:14.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 20/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.80 | Mem:14.17M, Peak:14.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 13/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.80 | Mem:14.17M, Peak:14.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 19/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.16M (Peak 136.23M) | Time:00:00.81 | Mem:16.03M, Peak:16.09M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 21/253 | Building BVH
+Fra:1 Mem:123.16M (Peak 136.23M) | Time:00:00.81 | Mem:16.03M, Peak:16.09M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 21/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.18M (Peak 136.23M) | Time:00:00.81 | Mem:15.93M, Peak:16.10M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 22/253 | Building BVH
+Fra:1 Mem:123.18M (Peak 136.23M) | Time:00:00.81 | Mem:15.93M, Peak:16.10M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 22/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.31M (Peak 136.23M) | Time:00:00.81 | Mem:16.06M, Peak:16.10M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-tea-table-top 23/253 | Building BVH
+Fra:1 Mem:123.31M (Peak 136.23M) | Time:00:00.81 | Mem:16.06M, Peak:16.10M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-tea-table-top 23/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.31M (Peak 136.23M) | Time:00:00.81 | Mem:16.12M, Peak:16.35M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-tea-chair-1-seat · 弧形轮廓 24/253 | Building BVH
+Fra:1 Mem:123.31M (Peak 136.23M) | Time:00:00.81 | Mem:16.12M, Peak:16.35M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-tea-chair-1-seat · 弧形轮廓 24/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.76M (Peak 136.23M) | Time:00:00.81 | Mem:16.72M, Peak:16.72M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-tea-chair-2-seat · 弧形轮廓 25/253 | Building BVH
+Fra:1 Mem:123.76M (Peak 136.23M) | Time:00:00.81 | Mem:16.72M, Peak:16.72M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-tea-chair-2-seat · 弧形轮廓 25/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.16M (Peak 136.23M) | Time:00:00.81 | Mem:17.00M, Peak:17.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-low-floating-body · 弧形轮廓 26/253 | Building BVH
+Fra:1 Mem:124.16M (Peak 136.23M) | Time:00:00.81 | Mem:17.01M, Peak:17.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-low-floating-body · 弧形轮廓 26/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.81 | Mem:17.14M, Peak:17.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-entry-shoe-cabinet-upper · 弧形轮廓 27/253 | Building BVH
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.81 | Mem:17.14M, Peak:17.17M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-entry-shoe-cabinet-upper · 弧形轮廓 27/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.59M (Peak 136.23M) | Time:00:00.81 | Mem:17.43M, Peak:17.43M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 28/253 | Building BVH
+Fra:1 Mem:124.59M (Peak 136.23M) | Time:00:00.81 | Mem:17.58M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 28/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.54M (Peak 136.23M) | Time:00:00.81 | Mem:17.46M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 29/253 | Building BVH
+Fra:1 Mem:124.54M (Peak 136.23M) | Time:00:00.81 | Mem:17.46M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 29/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.53M (Peak 136.23M) | Time:00:00.81 | Mem:17.42M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 30/253 | Building BVH
+Fra:1 Mem:124.53M (Peak 136.23M) | Time:00:00.81 | Mem:17.57M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 30/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.48M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 31/253 | Building BVH
+Fra:1 Mem:124.48M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 31/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.49M (Peak 136.23M) | Time:00:00.81 | Mem:17.57M, Peak:17.58M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 32/253 | Building BVH
+Fra:1 Mem:124.49M (Peak 136.23M) | Time:00:00.81 | Mem:17.76M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 32/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.38M (Peak 136.23M) | Time:00:00.81 | Mem:17.39M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 33/253 | Building BVH
+Fra:1 Mem:124.38M (Peak 136.23M) | Time:00:00.81 | Mem:17.40M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 33/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.39M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 34/253 | Building BVH
+Fra:1 Mem:124.39M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 34/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.40M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 35/253 | Building BVH
+Fra:1 Mem:124.40M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:17.76M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 35/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.41M (Peak 136.23M) | Time:00:00.81 | Mem:17.88M, Peak:17.88M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 36/253 | Building BVH
+Fra:1 Mem:124.41M (Peak 136.23M) | Time:00:00.81 | Mem:17.88M, Peak:17.88M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 36/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.19M (Peak 136.23M) | Time:00:00.81 | Mem:17.44M, Peak:18.48M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH Circle.003 252/253 | Building BVH
+Fra:1 Mem:124.19M (Peak 136.23M) | Time:00:00.81 | Mem:17.44M, Peak:18.48M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH Circle.003 252/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.85M (Peak 136.23M) | Time:00:00.81 | Mem:17.40M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 37/253 | Building BVH
+Fra:1 Mem:123.85M (Peak 136.23M) | Time:00:00.81 | Mem:17.66M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 37/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.66M (Peak 136.23M) | Time:00:00.81 | Mem:17.35M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 38/253 | Building BVH
+Fra:1 Mem:123.66M (Peak 136.23M) | Time:00:00.81 | Mem:18.20M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 38/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.42M (Peak 136.23M) | Time:00:00.81 | Mem:17.41M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 39/253 | Building BVH
+Fra:1 Mem:123.42M (Peak 136.23M) | Time:00:00.81 | Mem:17.54M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 39/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.36M (Peak 136.23M) | Time:00:00.82 | Mem:17.61M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 40/253 | Building BVH
+Fra:1 Mem:123.36M (Peak 136.23M) | Time:00:00.82 | Mem:17.61M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 40/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.24M (Peak 136.23M) | Time:00:00.82 | Mem:17.38M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 41/253 | Building BVH
+Fra:1 Mem:123.24M (Peak 136.23M) | Time:00:00.82 | Mem:17.54M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 41/253 | Building OptiX acceleration structure
+Fra:1 Mem:123.17M (Peak 136.23M) | Time:00:00.82 | Mem:18.65M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 42/253 | Building BVH
+Fra:1 Mem:123.17M (Peak 136.23M) | Time:00:00.82 | Mem:18.65M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 42/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.73M (Peak 136.23M) | Time:00:00.82 | Mem:17.12M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 43/253 | Building BVH
+Fra:1 Mem:122.73M (Peak 136.23M) | Time:00:00.82 | Mem:17.74M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 43/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.28M (Peak 136.23M) | Time:00:00.82 | Mem:17.39M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 44/253 | Building BVH
+Fra:1 Mem:122.28M (Peak 136.23M) | Time:00:00.82 | Mem:17.39M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 44/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.16M (Peak 136.23M) | Time:00:00.82 | Mem:16.96M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 45/253 | Building BVH
+Fra:1 Mem:122.16M (Peak 136.23M) | Time:00:00.82 | Mem:17.94M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 45/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.87M (Peak 136.23M) | Time:00:00.82 | Mem:16.89M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 46/253 | Building BVH
+Fra:1 Mem:121.87M (Peak 136.23M) | Time:00:00.82 | Mem:16.89M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 46/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.92M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 47/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.92M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 47/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.92M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 48/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.92M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 48/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.93M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 49/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.93M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 49/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.91M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 50/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.92M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 50/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.94M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 51/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.94M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 51/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.95M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 52/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.95M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 52/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.93M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 53/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.95M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 53/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.96M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 54/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.96M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 54/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:16.94M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 55/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.82 | Mem:17.41M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 55/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.67M (Peak 136.23M) | Time:00:00.82 | Mem:16.99M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH Plane.001 251/253 | Building BVH
+Fra:1 Mem:121.67M (Peak 136.23M) | Time:00:00.82 | Mem:16.99M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH Plane.001 251/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:16.96M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 56/253 | Building BVH
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:16.96M, Peak:18.95M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 56/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 阳台柔和日光 57/253 | Building BVH
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 阳台柔和日光 57/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 入户侧开口日光 58/253 | Building BVH
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 入户侧开口日光 58/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 59/253 | Building BVH
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 59/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 60/253 | Building BVH
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 60/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 61/253 | Building BVH
+Fra:1 Mem:124.32M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 61/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.31M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 62/253 | Building BVH
+Fra:1 Mem:124.31M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 62/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.31M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 63/253 | Building BVH
+Fra:1 Mem:124.31M (Peak 136.23M) | Time:00:00.82 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 63/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.30M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 64/253 | Building BVH
+Fra:1 Mem:124.30M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 64/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.30M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 65/253 | Building BVH
+Fra:1 Mem:124.30M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 65/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 66/253 | Building BVH
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 66/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 67/253 | Building BVH
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 67/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.61M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 68/253 | Building BVH
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 68/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 69/253 | Building BVH
+Fra:1 Mem:124.29M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 69/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.28M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 70/253 | Building BVH
+Fra:1 Mem:124.28M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 70/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.28M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 71/253 | Building BVH
+Fra:1 Mem:124.28M (Peak 136.23M) | Time:00:00.82 | Mem:19.64M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 71/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.82 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 72/253 | Building BVH
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.82 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 72/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.82 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 73/253 | Building BVH
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.82 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 73/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.61M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 置物格内部照明 74/253 | Building BVH
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.61M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 置物格内部照明 74/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.61M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 75/253 | Building BVH
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.61M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 75/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 76/253 | Building BVH
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 76/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.62M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 77/253 | Building BVH
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.63M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 77/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.83 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 78/253 | Building BVH
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.83 | Mem:19.65M, Peak:19.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 78/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.83 | Mem:19.66M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 79/253 | Building BVH
+Fra:1 Mem:124.27M (Peak 136.23M) | Time:00:00.83 | Mem:19.66M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 79/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.64M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 80/253 | Building BVH
+Fra:1 Mem:124.26M (Peak 136.23M) | Time:00:00.83 | Mem:19.65M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 80/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.25M (Peak 136.23M) | Time:00:00.83 | Mem:19.64M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 81/253 | Building BVH
+Fra:1 Mem:124.25M (Peak 136.23M) | Time:00:00.83 | Mem:19.65M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 81/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.25M (Peak 136.23M) | Time:00:00.83 | Mem:19.62M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 82/253 | Building BVH
+Fra:1 Mem:124.25M (Peak 136.23M) | Time:00:00.83 | Mem:19.64M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 82/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.24M (Peak 136.23M) | Time:00:00.83 | Mem:19.62M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 83/253 | Building BVH
+Fra:1 Mem:124.24M (Peak 136.23M) | Time:00:00.83 | Mem:19.65M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 83/253 | Building OptiX acceleration structure
+Fra:1 Mem:124.23M (Peak 136.23M) | Time:00:00.83 | Mem:19.62M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 84/253 | Building BVH
+Fra:1 Mem:124.23M (Peak 136.23M) | Time:00:00.83 | Mem:19.62M, Peak:19.66M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 84/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.83 | Mem:19.76M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH ottoman-base · 弧形轮廓 250/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.83 | Mem:19.79M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH ottoman-base · 弧形轮廓 250/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.83 | Mem:19.82M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 85/253 | Building BVH
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.83 | Mem:19.82M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 85/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.83 | Mem:19.82M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 86/253 | Building BVH
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.83 | Mem:19.82M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 86/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.82M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 87/253 | Building BVH
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.83M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 87/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.83M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 88/253 | Building BVH
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.83M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 88/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.83 | Mem:19.83M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 89/253 | Building BVH
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.83 | Mem:19.84M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 89/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.83 | Mem:19.83M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 90/253 | Building BVH
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.83 | Mem:19.84M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 90/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.83 | Mem:19.84M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 91/253 | Building BVH
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.83 | Mem:19.85M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 91/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.85M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 92/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.85M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 92/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.87M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 93/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 93/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.86M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 94/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.86M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 94/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.87M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 95/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.83 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 95/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.93M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 96/253 | Building BVH
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.93M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 96/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 97/253 | Building BVH
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.83 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 97/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.84 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 98/253 | Building BVH
+Fra:1 Mem:121.62M (Peak 136.23M) | Time:00:00.84 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 98/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.84 | Mem:19.90M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 99/253 | Building BVH
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.84 | Mem:19.90M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 99/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.84 | Mem:19.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 100/253 | Building BVH
+Fra:1 Mem:121.63M (Peak 136.23M) | Time:00:00.84 | Mem:19.90M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 100/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.84 | Mem:19.91M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 101/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.84 | Mem:19.91M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 101/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.84 | Mem:19.92M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 102/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.84 | Mem:19.92M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 102/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.84 | Mem:19.91M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 103/253 | Building BVH
+Fra:1 Mem:121.64M (Peak 136.23M) | Time:00:00.84 | Mem:20.14M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 103/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:19.93M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH sofa-modular-back · 弧形轮廓 249/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:19.93M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH sofa-modular-back · 弧形轮廓 249/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.23M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 104/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.23M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 104/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.23M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 105/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.23M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 105/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.23M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 106/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.24M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 106/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.22M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 107/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.24M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 107/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.23M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 108/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 108/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 109/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 109/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.24M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 110/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 110/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.24M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 111/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 111/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.26M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 112/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.26M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 112/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 113/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 113/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 114/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 114/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 115/253 | Building BVH
+Fra:1 Mem:121.89M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 115/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 116/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.25M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 116/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.26M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 117/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.27M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 117/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.28M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 118/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.28M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 118/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.27M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 119/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.28M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 119/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.28M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 120/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.28M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 120/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.27M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 121/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:20.27M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 121/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:21.71M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 122/253 | Building BVH
+Fra:1 Mem:121.88M (Peak 136.23M) | Time:00:00.84 | Mem:21.71M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 122/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.31M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14 主卧一般光 248/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.31M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14 主卧一般光 248/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14 主卫镜前柔光 247/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14 主卫镜前柔光 247/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14 主卫一般光 246/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14 主卫一般光 246/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-handle · 弧形轮廓 245/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-handle · 弧形轮廓 245/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.31M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 123/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 123/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.31M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-right · 弧形轮廓 124/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.31M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-right · 弧形轮廓 124/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 公共区浅木外观 · 地面产品待选 125/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 公共区浅木外观 · 地面产品待选 125/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 公共区暖白顶面 126/253 | Building BVH
+Fra:1 Mem:121.59M (Peak 136.23M) | Time:00:00.84 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 公共区暖白顶面 126/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.84 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 入户地面外观 127/253 | Building BVH
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.84 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 入户地面外观 127/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-master-public-reveal · 弧形轮廓 128/253 | Building BVH
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-master-public-reveal · 弧形轮廓 128/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-master-public-leaf · 弧形轮廓 129/253 | Building BVH
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-master-public-leaf · 弧形轮廓 129/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-master-public-handle · 弧形轮廓 130/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-master-public-handle · 弧形轮廓 130/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-bath-public-reveal · 弧形轮廓 131/253 | Building BVH
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-bath-public-reveal · 弧形轮廓 131/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-bath-public-leaf · 弧形轮廓 132/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-bath-public-leaf · 弧形轮廓 132/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-bath-public-handle · 弧形轮廓 133/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-bath-public-handle · 弧形轮廓 133/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-room-public-reveal · 弧形轮廓 134/253 | Building BVH
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-room-public-reveal · 弧形轮廓 134/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-room-public-leaf · 弧形轮廓 135/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-room-public-leaf · 弧形轮廓 135/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-room-public-handle · 弧形轮廓 136/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-guest-room-public-handle · 弧形轮廓 136/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-dining-wall · 弧形轮廓 137/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-dining-wall · 弧形轮廓 137/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-dining-wall · 弧形轮廓 138/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-dining-wall · 弧形轮廓 138/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.85 | Mem:20.33M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-left · 弧形轮廓 139/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-left · 弧形轮廓 139/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-left · 弧形轮廓 140/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-left · 弧形轮廓 140/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.85 | Mem:20.36M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-right · 弧形轮廓 141/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.85 | Mem:20.36M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-right · 弧形轮廓 141/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-leaf · 弧形轮廓 244/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-leaf · 弧形轮廓 244/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-right · 弧形轮廓 142/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.36M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-right · 弧形轮廓 142/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-left · 弧形轮廓 143/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-left · 弧形轮廓 143/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-left · 弧形轮廓 144/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-left · 弧形轮廓 144/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-right · 弧形轮廓 145/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-right · 弧形轮廓 145/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-right · 弧形轮廓 146/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-right · 弧形轮廓 146/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-master-public-left · 弧形轮廓 147/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-master-public-left · 弧形轮廓 147/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-master-public-left · 弧形轮廓 148/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.85 | Mem:20.36M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-master-public-left · 弧形轮廓 148/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-living-short-end · 弧形轮廓 149/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-living-short-end · 弧形轮廓 149/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-living-short-end · 弧形轮廓 150/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-skirting-joint-living-short-end · 弧形轮廓 150/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.85 | Mem:20.36M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-living-cove-lip · 弧形轮廓 151/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.85 | Mem:20.37M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-living-cove-lip · 弧形轮廓 151/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-hall-cove-lip · 弧形轮廓 152/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10-hall-cove-lip · 弧形轮廓 152/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.34M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 客厅顶面反射光 153/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 客厅顶面反射光 153/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 通道顶面反射光 154/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 通道顶面反射光 154/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 书柜层板光 0.79 155/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 书柜层板光 0.79 155/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 书柜层板光 1.59 156/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 书柜层板光 1.59 156/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 书柜层板光 2.37 157/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 书柜层板光 2.37 157/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 桌灯工作光 158/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 桌灯工作光 158/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 餐桌任务光位待选灯具 159/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v10 餐桌任务光位待选灯具 159/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-entry-mirror · 弧形轮廓 160/253 | Building BVH
+Fra:1 Mem:121.53M (Peak 136.23M) | Time:00:00.85 | Mem:20.35M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-entry-mirror · 弧形轮廓 160/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.39M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-background · 弧形轮廓 161/253 | Building BVH
+Fra:1 Mem:121.58M (Peak 136.23M) | Time:00:00.85 | Mem:20.40M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-background · 弧形轮廓 161/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.39M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-frame-left · 弧形轮廓 162/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.85 | Mem:20.39M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-frame-left · 弧形轮廓 162/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.85 | Mem:20.44M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-frame-right · 弧形轮廓 163/253 | Building BVH
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.85 | Mem:20.44M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-frame-right · 弧形轮廓 163/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.66M (Peak 136.23M) | Time:00:00.85 | Mem:20.48M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-frame-top · 弧形轮廓 164/253 | Building BVH
+Fra:1 Mem:121.66M (Peak 136.23M) | Time:00:00.85 | Mem:20.48M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-frame-top · 弧形轮廓 164/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.52M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-fine-line-0 · 弧形轮廓 165/253 | Building BVH
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.52M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-fine-line-0 · 弧形轮廓 165/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.52M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-fine-line-1 · 弧形轮廓 166/253 | Building BVH
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.53M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-tv-fine-line-1 · 弧形轮廓 166/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.53M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-pelmet · 弧形轮廓 167/253 | Building BVH
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-pelmet · 弧形轮廓 167/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.53M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-jamb-bottom · 弧形轮廓 243/253 | Building BVH
+Fra:1 Mem:121.70M (Peak 136.23M) | Time:00:00.85 | Mem:20.53M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-jamb-bottom · 弧形轮廓 243/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.71M (Peak 136.23M) | Time:00:00.85 | Mem:20.54M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-track · 弧形轮廓 168/253 | Building BVH
+Fra:1 Mem:121.71M (Peak 136.23M) | Time:00:00.85 | Mem:20.54M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-track · 弧形轮廓 168/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.71M (Peak 136.23M) | Time:00:00.85 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curved-cove 169/253 | Building BVH
+Fra:1 Mem:121.71M (Peak 136.23M) | Time:00:00.85 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curved-cove 169/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-cove-light-lip · 弧形轮廓 170/253 | Building BVH
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-cove-light-lip · 弧形轮廓 170/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-1 171/253 | Building BVH
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-1 171/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-2 172/253 | Building BVH
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-2 172/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-3 173/253 | Building BVH
+Fra:1 Mem:121.72M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-3 173/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-4 174/253 | Building BVH
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-4 174/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-5 175/253 | Building BVH
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-5 175/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-6 176/253 | Building BVH
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-6 176/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-7 177/253 | Building BVH
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-7 177/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.63M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-8 178/253 | Building BVH
+Fra:1 Mem:121.73M (Peak 136.23M) | Time:00:00.86 | Mem:20.70M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-8 178/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.69M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-9 179/253 | Building BVH
+Fra:1 Mem:121.69M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-9 179/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.69M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-10 180/253 | Building BVH
+Fra:1 Mem:121.69M (Peak 136.23M) | Time:00:00.86 | Mem:20.62M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-10 180/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.65M (Peak 136.23M) | Time:00:00.86 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-11 181/253 | Building BVH
+Fra:1 Mem:121.65M (Peak 136.23M) | Time:00:00.86 | Mem:20.68M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-11 181/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.86 | Mem:20.67M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-12 182/253 | Building BVH
+Fra:1 Mem:121.61M (Peak 136.23M) | Time:00:00.86 | Mem:20.67M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-12 182/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.53M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-13 183/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.54M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-13 183/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-14 184/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-14 184/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-15 185/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-15 185/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.54M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-16 186/253 | Building BVH
+Fra:1 Mem:121.56M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-16 186/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.54M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-jamb-top · 弧形轮廓 242/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-door-jamb-top · 弧形轮廓 242/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-17 187/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-17 187/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-18 188/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-18 188/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-19 189/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-19 189/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.55M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-20 190/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-20 190/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-21 191/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-21 191/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-22 192/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-22 192/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-23 193/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-23 193/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.56M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-24 194/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-24 194/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-25 195/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-25 195/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-26 196/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-26 196/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-27 197/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-27 197/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-28 198/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-28 198/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-29 199/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-29 199/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-30 200/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-30 200/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-31 201/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.86 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-31 201/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.57M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-32 202/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-32 202/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-33 203/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-33 203/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-34 204/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-34 204/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-35 205/253 | Building BVH
+Fra:1 Mem:121.55M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-35 205/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.58M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-head 241/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-head 241/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-36 206/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-36 206/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-37 207/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-37 207/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-38 208/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-38 208/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-39 209/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-39 209/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-40 210/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-40 210/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.59M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-41 211/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-41 211/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.60M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-42 212/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-42 212/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-43 213/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-43 213/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-44 214/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-44 214/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-45 215/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12-curtain-45 215/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 弧槽顶面反射光 216/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 弧槽顶面反射光 216/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 梦幻帘帘头柔光 217/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 梦幻帘帘头柔光 217/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 入户柜底导向光 218/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 入户柜底导向光 218/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 入户挂衣柔光 219/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 入户挂衣柔光 219/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 随手格柔光 220/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 随手格柔光 220/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 入户一般照明 221/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v12 入户一般照明 221/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14完整墙并集 222/253 | Building BVH
+Fra:1 Mem:121.54M (Peak 136.23M) | Time:00:00.87 | Mem:20.61M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14完整墙并集 222/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.87 | Mem:20.64M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bed-base · 弧形轮廓 223/253 | Building BVH
+Fra:1 Mem:121.57M (Peak 136.23M) | Time:00:00.87 | Mem:20.64M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bed-base · 弧形轮廓 223/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.82M (Peak 136.23M) | Time:00:00.87 | Mem:20.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-wardrobe-plinth · 弧形轮廓 224/253 | Building BVH
+Fra:1 Mem:121.82M (Peak 136.23M) | Time:00:00.87 | Mem:20.89M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-wardrobe-plinth · 弧形轮廓 224/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.85M (Peak 136.23M) | Time:00:00.87 | Mem:20.93M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-vanity-body · 弧形轮廓 225/253 | Building BVH
+Fra:1 Mem:121.85M (Peak 136.23M) | Time:00:00.87 | Mem:20.93M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-vanity-body · 弧形轮廓 225/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.97M (Peak 136.23M) | Time:00:00.87 | Mem:21.04M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-wc-foot 226/253 | Building BVH
+Fra:1 Mem:121.97M (Peak 136.23M) | Time:00:00.87 | Mem:21.05M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-wc-foot 226/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.05M (Peak 136.23M) | Time:00:00.87 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-floor-main · 弧形轮廓 227/253 | Building BVH
+Fra:1 Mem:122.05M (Peak 136.23M) | Time:00:00.87 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-floor-main · 弧形轮廓 227/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-floor-service-side · 弧形轮廓 228/253 | Building BVH
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bath-floor-service-side · 弧形轮廓 228/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.14M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bedroom-floor · 弧形轮廓 229/253 | Building BVH
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.14M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bedroom-floor · 弧形轮廓 229/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.15M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bedroom-foyer-floor · 弧形轮廓 230/253 | Building BVH
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.15M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-bedroom-foyer-floor · 弧形轮廓 230/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.14M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-arm · 弧形轮廓 240/253 | Building BVH
+Fra:1 Mem:122.06M (Peak 136.23M) | Time:00:00.87 | Mem:21.15M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-arm · 弧形轮廓 240/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.14M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-zone-floor-main · 弧形轮廓 231/253 | Building BVH
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.16M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-zone-floor-main · 弧形轮廓 231/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.15M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-zone-floor-service-side · 弧形轮廓 232/253 | Building BVH
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.16M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-zone-floor-service-side · 弧形轮廓 232/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.15M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-track · 弧形轮廓 233/253 | Building BVH
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.16M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-track · 弧形轮廓 233/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.16M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-fixed-glass · 弧形轮廓 234/253 | Building BVH
+Fra:1 Mem:122.07M (Peak 136.23M) | Time:00:00.87 | Mem:21.17M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-fixed-glass · 弧形轮廓 234/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.08M (Peak 136.23M) | Time:00:00.87 | Mem:21.17M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-moving-glass · 弧形轮廓 235/253 | Building BVH
+Fra:1 Mem:122.08M (Peak 136.23M) | Time:00:00.87 | Mem:21.17M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-moving-glass · 弧形轮廓 235/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.08M (Peak 136.23M) | Time:00:00.87 | Mem:21.17M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-handle · 弧形轮廓 236/253 | Building BVH
+Fra:1 Mem:122.08M (Peak 136.23M) | Time:00:00.87 | Mem:21.18M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-handle · 弧形轮廓 236/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.08M (Peak 136.23M) | Time:00:00.87 | Mem:21.18M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-drain-provisional · 弧形轮廓 237/253 | Building BVH
+Fra:1 Mem:122.08M (Peak 136.23M) | Time:00:00.87 | Mem:21.18M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-drain-provisional · 弧形轮廓 237/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.09M (Peak 136.23M) | Time:00:00.87 | Mem:21.18M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-bar · 弧形轮廓 238/253 | Building BVH
+Fra:1 Mem:122.09M (Peak 136.23M) | Time:00:00.87 | Mem:21.19M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-bar · 弧形轮廓 238/253 | Building OptiX acceleration structure
+Fra:1 Mem:122.09M (Peak 136.23M) | Time:00:00.88 | Mem:21.19M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-mixer · 弧形轮廓 239/253 | Building BVH
+Fra:1 Mem:122.09M (Peak 136.23M) | Time:00:00.88 | Mem:21.19M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Geometry BVH v14-shower-mixer · 弧形轮廓 239/253 | Building OptiX acceleration structure
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.88 | Mem:21.09M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.88 | Mem:21.09M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.88 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:121.52M (Peak 136.23M) | Time:00:00.88 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:132.71M (Peak 136.23M) | Time:00:00.88 | Mem:21.13M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:132.71M (Peak 136.23M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Objects Flags
+Fra:1 Mem:132.71M (Peak 136.23M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:132.71M (Peak 136.23M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images
+Fra:1 Mem:132.71M (Peak 136.23M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading potted_plant_01_leaves_nor_gl_1k.png
+Fra:1 Mem:140.71M (Peak 140.71M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading potted_plant_02_leaves_alpha_1k.png
+Fra:1 Mem:142.71M (Peak 142.71M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading wood_floor_diff_2k.jpg
+Fra:1 Mem:142.71M (Peak 142.71M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading poly_wool_herringbone_diff_2k.jpg
+Fra:1 Mem:158.71M (Peak 158.71M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading poly_wool_herringbone_rough_2k.jpg
+Fra:1 Mem:175.05M (Peak 175.05M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading potted_plant_01_leaves_rough_1k.png
+Fra:1 Mem:179.13M (Peak 179.13M) | Time:00:00.89 | Mem:32.32M, Peak:32.65M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading potted_plant_02_leaves_rough_1k.png
+Fra:1 Mem:325.15M (Peak 325.15M) | Time:00:00.90 | Mem:34.32M, Peak:34.32M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading wood_floor_nor_gl_2k.jpg
+Fra:1 Mem:341.15M (Peak 341.15M) | Time:00:00.90 | Mem:36.32M, Peak:36.32M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading potted_plant_01_pot_nor_gl_1k.png
+Fra:1 Mem:349.15M (Peak 349.15M) | Time:00:00.90 | Mem:38.32M, Peak:38.32M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Images | Loading potted_plant_02_leaves_nor_gl_1k.png
+Fra:1 Mem:375.15M (Peak 375.15M) | Time:00:01.01 | Mem:274.74M, Peak:274.74M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Camera Volume
+Fra:1 Mem:375.15M (Peak 375.15M) | Time:00:01.01 | Mem:274.74M, Peak:274.74M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:375.15M (Peak 375.15M) | Time:00:01.01 | Mem:274.82M, Peak:274.82M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Lights
+Fra:1 Mem:375.15M (Peak 375.15M) | Time:00:01.01 | Mem:274.82M, Peak:274.82M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Lights | Importance map
+Fra:1 Mem:439.18M (Peak 727.15M) | Time:00:01.13 | Mem:338.87M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:439.20M (Peak 727.15M) | Time:00:01.13 | Mem:338.89M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Integrator
+Fra:1 Mem:439.20M (Peak 727.15M) | Time:00:01.13 | Mem:338.89M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Film
+Fra:1 Mem:439.20M (Peak 727.15M) | Time:00:01.13 | Mem:338.81M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:439.20M (Peak 727.15M) | Time:00:01.13 | Mem:338.89M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Baking
+Fra:1 Mem:439.20M (Peak 727.15M) | Time:00:01.13 | Mem:338.89M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:439.21M (Peak 727.15M) | Time:00:01.13 | Mem:338.89M, Peak:498.84M | v14布局 · v15写实PBR全景表现, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:444.85M (Peak 727.15M) | Time:00:01.15 | Mem:890.15M, Peak:890.15M | v14布局 · v15写实PBR全景表现, ViewLayer | Sample 0/48
+Fra:1 Mem:514.43M (Peak 727.15M) | Time:00:01.21 | Remaining:00:02.75 | Mem:959.74M, Peak:959.74M | v14布局 · v15写实PBR全景表现, ViewLayer | Sample 1/48
+Fra:1 Mem:543.74M (Peak 727.15M) | Time:00:02.72 | Mem:1222.05M, Peak:1244.03M | v14布局 · v15写实PBR全景表现, ViewLayer | Sample 48/48
+Fra:1 Mem:543.74M (Peak 727.15M) | Time:00:02.72 | Mem:1222.05M, Peak:1244.03M | v14布局 · v15写实PBR全景表现, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\vr-tour-v02\balcony-photo-draft.png'
+Time: 00:02.94 (Saving: 00:00.16)
+
+BlenderMCP addon registered
+V15_IMAGE_READY balcony 3.0
+V15_RENDER_COMPLETE 1
+BlenderMCP addon unregistered
+
+Blender quit

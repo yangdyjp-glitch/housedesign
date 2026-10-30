@@ -1,0 +1,22 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model": "06_blender/home-v14-photoreal-v15.blend",
+  "model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "geometry": "02_geometry/geometry-master-v14.json",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "style": "05_style/photoreal-presentation-v15.json",
+  "style_sha256": "6b97acf05c7ac9eafa6def162900d5b7c9baa8387fa9fc180ffbe7f1a0e224e4",
+  "assets": "08_assets/photoreal-v15/asset-manifest.json",
+  "tour": "09_delivery/vr-tour-v02/打开360全景漫游.html",
+  "resolution": [
+    8192,
+    4096
+  ],
+  "view_count": 4,
+  "projection": "monoscopic equirectangular 360x180",
+  "source_layout_furniture_count": 27,
+  "all_placements_preserved": true,
+  "exterior_is_illustrative": true,
+  "main_editable_model_preserved": true
+}

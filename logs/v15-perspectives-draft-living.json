@@ -1,0 +1,33 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model_sha256": "a2d1179e26c3b79db465165a8b9933a18216d49aef17b1c9d805edff71ead2aa",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "furniture_count": 27,
+  "full_walls": true,
+  "window_glass": 12,
+  "source_walls": 62,
+  "pano": false,
+  "draft": true,
+  "render_mode": "Cycles OptiX 256 max samples / 48 draft; adaptive; GPU denoised",
+  "exterior_is_illustrative": true,
+  "images": [
+    {
+      "id": "living",
+      "label": "客厅",
+      "path": "07_renders/vr-tour-v02/living-photo-draft.png",
+      "sha256": "3b21e04b703b5f2c5d611f835c5c10c29b9baafc886ef7982d27200cd4c90b9a",
+      "seconds": 3.6,
+      "resolution": [
+        1200,
+        800
+      ],
+      "camera": "v11 · 客厅至阳台",
+      "eye_height_mm": 1650,
+      "position_plan_mm": [
+        1400,
+        7100
+      ]
+    }
+  ]
+}

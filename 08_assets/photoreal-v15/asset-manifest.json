@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-31",
+  "purpose": "PBR materials, foliage and environment lighting for a consistent true spherical VR render; outdoor HDRI is illustrative, not site scenery",
+  "license": "CC0",
+  "entries": [
+    {
+      "asset": "green_point_park",
+      "path": "08_assets/photoreal-v15/green_point_park/green_point_park_4k.exr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/green_point_park_4k.exr",
+      "bytes": 22077896,
+      "md5": "33679bced29e0b36dfd0fe229911012a",
+      "sha256": "9490cba501ade9904f0b23ab2f2078d97fbe0181a562af65b82e89076e89b70f",
+      "source": "https://polyhaven.com/a/green_point_park",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "poly_wool_herringbone",
+      "path": "08_assets/photoreal-v15/poly_wool_herringbone/poly_wool_herringbone_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/poly_wool_herringbone/poly_wool_herringbone_diff_2k.jpg",
+      "bytes": 3650614,
+      "md5": "ab20cb6c120dfa5d38f4e4d3fd9b980d",
+      "sha256": "ca21de8e2e7f43178f8290361bfb2271eb264af0d2887c7c93e76a113ff3cc64",
+      "source": "https://polyhaven.com/a/poly_wool_herringbone",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "poly_wool_herringbone",
+      "path": "08_assets/photoreal-v15/poly_wool_herringbone/poly_wool_herringbone_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/poly_wool_herringbone/poly_wool_herringbone_nor_gl_2k.jpg",
+      "bytes": 4048573,
+      "md5": "954185c16339c6bb3d1825071e4cfe90",
+      "sha256": "bd68cd14cafdb033dccb80ff8aff2600317e66ef11eb37ef7f224e420075f1fd",
+      "source": "https://polyhaven.com/a/poly_wool_herringbone",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "poly_wool_herringbone",
+      "path": "08_assets/photoreal-v15/poly_wool_herringbone/poly_wool_herringbone_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/poly_wool_herringbone/poly_wool_herringbone_rough_2k.jpg",
+      "bytes": 3674893,
+      "md5": "009bf33f8d8a5fda0ba245e5a4dd646d",
+      "sha256": "8678dfb7f474440c12a5f317fe01802dd1aabbb205a6c947bb044ade72294fa7",
+      "source": "https://polyhaven.com/a/poly_wool_herringbone",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/potted_plant_01_1k.blend",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/potted_plant_01/potted_plant_01_1k.blend",
+      "bytes": 2784361,
+      "md5": "bb15d3876df0af34b5da74d3fb30ac32",
+      "sha256": "7ec6c8782889627ff251240e52ee3d4e601bb64d8d2ab2dc682bc78f049b11ab",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_alpha_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_leaves_alpha_1k.png",
+      "bytes": 90654,
+      "md5": "16b9d6529665f89b069696f46ffa3f36",
+      "sha256": "380ff44359f128b7cf0e2912b378a0f61f4b0d8e8707dbe043c92465d82e9592",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_diff_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_leaves_diff_1k.png",
+      "bytes": 3368765,
+      "md5": "a1e100797a055cb55dbbff2aa9095aaf",
+      "sha256": "83d339ea0c13609fff151afd778d5625bc42eacf5e60454eedabf0b571b0bbaf",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_nor_gl_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_leaves_nor_gl_1k.png",
+      "bytes": 4012816,
+      "md5": "0cdae385d28c2d80331a657daab48dbb",
+      "sha256": "a5b928cdcbade2872edd19d239de6110e047e31113524ba8a931853b4f9a0916",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_leaves_rough_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_leaves_rough_1k.png",
+      "bytes": 1059300,
+      "md5": "f8d44664f9aa7c95088334bcab7a3c6b",
+      "sha256": "8b3332d70c9d955a108ef38077121588d30d9866a54c2992fe6a5d1c43e92124",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_pot_diff_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_pot_diff_1k.png",
+      "bytes": 4849826,
+      "md5": "83a8851050896c27c531863b02c8894a",
+      "sha256": "db986d79c9af9d10463ba3c8400bfaa7d2271e0a94cd0607b07e29e7053be3a8",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_pot_nor_gl_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_pot_nor_gl_1k.png",
+      "bytes": 4818586,
+      "md5": "5e5af69e2722f56931196263d681d114",
+      "sha256": "70fdafbdede97cd1c811007002026ccc5ecbde74db1114ed4f90c75a2c4d78a9",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_01",
+      "path": "08_assets/photoreal-v15/potted_plant_01/textures/potted_plant_01_pot_rough_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_01/potted_plant_01_pot_rough_1k.png",
+      "bytes": 1629094,
+      "md5": "4df6a1b9a92906d9db92f72d6ed47246",
+      "sha256": "f4f4232fb21f7aa33caca8ee1fd7acedfc437c46d635b09f636c12b057759e6f",
+      "source": "https://polyhaven.com/a/potted_plant_01",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/potted_plant_02_1k.blend",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/potted_plant_02/potted_plant_02_1k.blend",
+      "bytes": 8110012,
+      "md5": "163df1645574fbc0f35e72ee6d212552",
+      "sha256": "965c69cccdfe590965aef12d73608eb00da74006b319b167ec6e40f0fc2063f5",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_alpha_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_leaves_alpha_1k.png",
+      "bytes": 100823,
+      "md5": "257cbcf74e428dc583a1d66511f2b3c0",
+      "sha256": "af56887c4a14b1ace924906529ee56d46ad102e0738bcdf53569a57ce1a56bd1",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_diff_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_leaves_diff_1k.png",
+      "bytes": 4282900,
+      "md5": "e40343a5d93db54caba5469b59cff76a",
+      "sha256": "c664ad56c2117d82ea3b6907d0e6554f1d627da05e0f3e28f71e31bea98c667f",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_nor_gl_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_leaves_nor_gl_1k.png",
+      "bytes": 4442426,
+      "md5": "5cb84d09b303078b74e161db2fa4009b",
+      "sha256": "b77d02419d03704b5551fdd797493822dfe083e0661aafd5778e6cd5aa4229f8",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_leaves_rough_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_leaves_rough_1k.png",
+      "bytes": 1348122,
+      "md5": "e88115c549f8d1ed38448311c5564d6f",
+      "sha256": "41e2714a8647e4f189f0c48708960eec38817f566e10949e4dae66d0084f80b8",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_pot_diff_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_pot_diff_1k.png",
+      "bytes": 4980098,
+      "md5": "550416d1c00b0ce2c8eba7de8aa5975d",
+      "sha256": "8988e4ce4d985162e5753b9864eb0971c72532d6f1e9914a513b04570a5b3449",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_pot_nor_gl_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_pot_nor_gl_1k.png",
+      "bytes": 3580734,
+      "md5": "8dfc5af0b07401346b2a02c705c14558",
+      "sha256": "ca1e14ed985c58c4a3f64b48d1f9efd51e407e8e99eafa6d92ccab3e8de664b1",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "potted_plant_02",
+      "path": "08_assets/photoreal-v15/potted_plant_02/textures/potted_plant_02_pot_rough_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/potted_plant_02/potted_plant_02_pot_rough_1k.png",
+      "bytes": 1220537,
+      "md5": "2713c7b90a4f901d887482a708167858",
+      "sha256": "d848d54ff81db3818cc4df8c75e617362098e3677fc545551d62e386b7345be5",
+      "source": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "wood_floor",
+      "path": "08_assets/photoreal-v15/wood_floor/wood_floor_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_diff_2k.jpg",
+      "bytes": 2983667,
+      "md5": "d209b7416b022ed06093aef068c7fe23",
+      "sha256": "7c3ff1164c8dd0758ef2c048e9a266d28174120de01052ec40e6ca486177345c",
+      "source": "https://polyhaven.com/a/wood_floor",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "wood_floor",
+      "path": "08_assets/photoreal-v15/wood_floor/wood_floor_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_nor_gl_2k.jpg",
+      "bytes": 1863576,
+      "md5": "e1d8a588c1fc3d62cc60da1e4cd1a689",
+      "sha256": "eff2e4db46bab930dc05997faf5085157eec4fd652cdfc6cd01fa11edd56ef10",
+      "source": "https://polyhaven.com/a/wood_floor",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    },
+    {
+      "asset": "wood_floor",
+      "path": "08_assets/photoreal-v15/wood_floor/wood_floor_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_rough_2k.jpg",
+      "bytes": 2267559,
+      "md5": "325868b3352d71059753498b1c94385b",
+      "sha256": "297eda0d75f2020cc541dbf242e1f5fd058053249567f49a4506fc2c5b1a172b",
+      "source": "https://polyhaven.com/a/wood_floor",
+      "license": "CC0",
+      "license_source": "https://polyhaven.com/license"
+    }
+  ]
+}

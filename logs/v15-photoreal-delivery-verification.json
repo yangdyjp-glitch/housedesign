@@ -1,0 +1,84 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "source_model_v14_unchanged": true,
+  "source_geometry_unchanged": true,
+  "all_27_placements_preserved": true,
+  "full_walls_and_windows_retained": true,
+  "model_reopened_and_dependencies_verified": true,
+  "materials": "CC0 photo-texture PBR; fabric weave, oak floor, foliage; original color choices retained",
+  "new_furniture_or_decor": false,
+  "images": [
+    {
+      "id": "living",
+      "native_sha256": "4746acd2e774bcac05d6a08a4460f9c788c194b9b571cf9a74425ffdd83405ef",
+      "jpg_sha256": "534fa2cd6463f98a14f64c2b9f41261c171c256efc2c9a32789263dc8b5346eb",
+      "seam_edge_MAE_255": 2.675,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "final_sphere_view_reviewed": true
+    },
+    {
+      "id": "dining",
+      "native_sha256": "b57782697afc6dc033fab4c1e6c35810e632b49c2499e6e6e23a379909b2ffba",
+      "jpg_sha256": "4f99034c26f9e89d13ed9efc5bc9264aa97a3664444c2fcb747ff5078aeca7a1",
+      "seam_edge_MAE_255": 0.5931,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "final_sphere_view_reviewed": true
+    },
+    {
+      "id": "balcony",
+      "native_sha256": "b2b6f7e32e8faec163f59ff54d468fc9b1417c317f05705474458197260c6806",
+      "jpg_sha256": "22ddb5820a3a3c09c9a83cbac3bee8d6180fe5f677ddcf73358bbd477fc907f2",
+      "seam_edge_MAE_255": 0.993,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "final_sphere_view_reviewed": true
+    },
+    {
+      "id": "entry",
+      "native_sha256": "023e8ed320d422e3ffacac4e46b11125b966d041049a2f72a2713e65f636532a",
+      "jpg_sha256": "1a238c7cc2773d815c4fddab050538d900a56b86a847e71334a1654a5a4c1d09",
+      "seam_edge_MAE_255": 2.1435,
+      "resolution": [
+        8192,
+        4096
+      ],
+      "final_sphere_view_reviewed": true
+    }
+  ],
+  "viewer_tests": [
+    "Local file opens offline; spherical WebGL projection; 2:1 image decode",
+    "Mouse drag changes yaw/pitch and rendered pixel output",
+    "Wheel zoom and reset",
+    "Arrow keys, Home and keyboard zoom",
+    "All four model image scenes decode, upload and switch",
+    "Map toggles and switches scene",
+    "Projected hotspot uses world direction and switches observation point",
+    "Chinese usage help opens/closes",
+    "Mobile single-finger spherical rotation",
+    "Mobile two-finger pinch changes field of view",
+    "Mobile scene switch, reset and no horizontal overflow at 390px",
+    "320px viewport has no horizontal overflow",
+    "Zenith/nadir and continuous 360-degree yaw wrap",
+    "Actual 8K living view exports both 360 seam sides, zenith and nadir for visual review",
+    "No network requests, CDN or page errors under browser offline mode",
+    "Simulated 4096px GPU limit downsamples display texture, preserving 2:1 and original download"
+  ],
+  "runtime_errors": [],
+  "desktop_offline_and_touch_simulation_passed": true,
+  "physical_phone_tested": false,
+  "headset_tested": false,
+  "free_walking": false,
+  "stereo": false,
+  "exterior_is_illustrative": true,
+  "budget_considered": false
+}

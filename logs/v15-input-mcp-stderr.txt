@@ -1,0 +1,27 @@
+2026-10-31 05:18:58,946 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-31 05:18:58,947 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-31 05:18:58,948 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-31 05:18:58,949 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-31 05:18:58,949 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-31 05:18:58,949 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-31 05:18:58,949 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 05:18:58,970 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-31 05:18:58,970 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-31 05:18:58,970 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 05:18:58,970 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-31 05:18:58,970 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-31 05:18:58,975 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-31 05:18:58,975 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-31 05:18:58,978 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 05:18:58,982 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\ns=bpy.context.scene\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,revision=s.get('home_design_revision'),dirty=bpy.data.is_dirty,geometry_sha256=s.get('home_design_geometry_sha256'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,7)) for o in s.objects if o.get('home_design_role')=='furniture'])))"}
+2026-10-31 05:18:58,982 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 05:18:59,033 - BlenderMCPServer - INFO - Received complete response (2380 bytes)
+2026-10-31 05:18:59,033 - BlenderMCPServer - INFO - Received 2380 bytes of data
+2026-10-31 05:18:59,033 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 05:18:59,033 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-31 05:18:59,033 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 05:18:59,095 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-31 05:18:59,095 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-31 05:18:59,095 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 05:18:59,101 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-31 05:18:59,101 - BlenderMCPServer - INFO - BlenderMCP server shut down

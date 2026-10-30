@@ -1,0 +1,31 @@
+{
+  "presentation_revision": 15,
+  "layout_revision": 14,
+  "layout_geometry": "02_geometry/geometry-master-v14.json",
+  "editable_layout_model": "06_blender/home-main-v14.blend",
+  "presentation_model": "06_blender/home-v14-photoreal-v15.blend",
+  "source_instruction": "用户认为编辑视图偏卡通，要求更贴近真实的景色，并将VR全景改成更真实图片",
+  "style_decisions_retained": "现代日式、干净暖白、浅木、奶黄柜、绿及深蓝点缀；圆角桌和局部柔弧",
+  "layout_policy": "保留全部27件对象的位置与朝向，保留v14主卫概念、完整墙窗、门与帘；未选择的地毯、吊灯、装饰画及家具平移不自动加入",
+  "improvements": [
+    "实拍木地板漫反射、粗糙度及法线纹理，以浅木色重新映射，不锁定商品",
+    "0.3米比例的织物纹理、微凹凸、粗糙度和掠射柔光，保持米灰、苔绿与深蓝",
+    "沙发与脚凳软包全边圆润，位于原方案外包尺寸内",
+    "三盆植物的叶片改用CC0细节模型，原简洁暖白花盆和原包络、位置保留",
+    "墙漆、柜门微表面及平面玻璃反射细化",
+    "自然环境光与AgX高光过渡；入口按较低曝光校准",
+    "四张真正的8192×4096全经纬球面全景，可查看完整天花和地面"
+  ],
+  "asset_manifest": "08_assets/photoreal-v15/asset-manifest.json",
+  "asset_license": "Poly Haven CC0；源URL与文件哈希逐件记录，作者见源页面",
+  "exterior": "摄影HDRI仅作窗外景观与环境光示意，并非本户真实窗景，未推断楼层或地理位置",
+  "projection": "native Cycles equirectangular 360x180, monoscopic",
+  "image_method": "原生三维PBR与路径追踪，四点使用同一份写实模型；无生成式球面重绘",
+  "quality": "8K球面最大128采样、适应采样和GPU降噪；四区透视图最大256采样",
+  "accuracy": "写实程度提高不代表家具产品、尺寸、机电或结构已确定；扩卫仍是待核概念方案",
+  "budget_considered": false,
+  "layout_geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "source_model_sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752",
+  "presentation_model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "asset_manifest_sha256": "bc94e5a90d4a0d861abdae27c7acf8daed7e381143b3cb430b80f2105535f8c2"
+}

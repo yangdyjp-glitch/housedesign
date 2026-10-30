@@ -1,0 +1,1186 @@
+[
+  {
+    "name": "outer-left-glass-0.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.029520004987716675,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.029520004987716675,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.056255996227264404,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 2.8831212520599365,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.056255996227264404,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 2.8831212520599365,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "bay-front-glass-0.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.054599881172180176,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.054599881172180176,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 4.035849571228027,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.04257597774267197,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 4.035849571228027,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.04257597774267197,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "outer-right-glass-0.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.020856142044067383,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.020856142044067383,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.03535270690917969,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.2800369262695312,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.03535270690917969,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.2800369262695312,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "front-facade-glass-0.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.016776084899902344,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.016776084899902344,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.0289278030395508,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.03532824665307999,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.0289278030395508,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.03532824665307999,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "front-facade-glass-1.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.036528587341308594,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.036528587341308594,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 2.692418098449707,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -0.9999999403953552,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.04245629906654358,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 2.692418098449707,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.9999999403953552,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.04245629906654358,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "front-facade-glass-2.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.05212974548339844,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.05212974548339844,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 3.848782539367676,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.042528294026851654,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 3.848782539367676,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.042528294026851654,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "lower-projection-right-glass-0.001",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.03415188193321228,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.03415188193321228,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.035327911376953125,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 2.094656467437744,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.035327911376953125,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 2.094656467437744,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "outer-top-glass-0.001",
+    "role": "baseline_window_reference",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.13620001077651978,
+        "smooth": false,
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.13620001077651978,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 12.88224983215332,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.054479990154504776,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 12.88224983215332,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.054479990154504776,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "balcony-glass-central",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.10127999633550644,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.10127999633550644,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 9.11520004272461,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.051840003579854965,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 9.11520004272461,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.051840003579854965,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "balcony-glass-left-bottom",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.014820000156760216,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -0.9999999403953552
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.014820000156760216,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          0.9999999403953552
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.5665562748908997,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022020000964403152,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.5665562748908997,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022020000964403152,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "balcony-glass-left-upper",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.013283999636769295,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.013283999636769295,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.621857225894928,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -0.9999999403953552,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.02696399949491024,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.621857225894928,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.9999999403953552,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.02696399949491024,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "balcony-glass-right-bottom",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.014820000156760216,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -0.9999999403953552
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.014820000156760216,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          0.9999999403953552
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.5665562748908997,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022020000964403152,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.5665562748908997,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022020000964403152,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "balcony-glass-right-upper",
+    "role": "glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.013283999636769295,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.013283999636769295,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.621857225894928,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -0.9999999403953552,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.02696399949491024,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.621857225894928,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.9999999403953552,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.02696399949491024,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "kitchen-slider-upper-fixed-glass",
+    "role": "door_glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.01641000062227249,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.01641000062227249,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.49230003356933594,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.003000000026077032,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.49230003356933594,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.003000000026077032,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "kitchen-slider-left-glass",
+    "role": "door_glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.007844999432563782,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.007844999432563782,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.7839529514312744,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022739998996257782,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.7839529514312744,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022739998996257782,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  },
+  {
+    "name": "kitchen-slider-right-glass",
+    "role": "door_glass",
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "modifiers": [],
+    "faces": [
+      {
+        "vertices": 4,
+        "area": 0.007844999432563782,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.007844999432563782,
+        "smooth": false,
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.7839529514312744,
+        "smooth": false,
+        "normal": [
+          0.0,
+          -1.0,
+          -0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022739998996257782,
+        "smooth": false,
+        "normal": [
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 1.7839529514312744,
+        "smooth": false,
+        "normal": [
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "vertices": 4,
+        "area": 0.022739998996257782,
+        "smooth": false,
+        "normal": [
+          -1.0,
+          0.0,
+          -0.0
+        ]
+      }
+    ],
+    "has_custom_normals": false,
+    "vertices": 8
+  }
+]

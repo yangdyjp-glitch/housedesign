@@ -25,6 +25,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", type=Path, default=ROOT / "07_renders/vr-tour-v01/tour-config.json")
     parser.add_argument("--output", type=Path, default=OUT)
+    parser.add_argument("--template", type=Path, default=TEMPLATE)
     args = parser.parse_args()
     out = args.output.resolve()
     assert out.is_relative_to(ROOT.resolve()), "Delivery stays inside the project"
@@ -77,7 +78,7 @@ def main():
                                           positionPlanMm=scene.get("positionPlanMm"),
                                           headingAtImageCenterDeg=scene.get("headingAtImageCenterDeg", 0)))
     payload = json.dumps(config, ensure_ascii=False, separators=(",", ":")).replace("<", "\\u003c")
-    template = TEMPLATE.read_text(encoding="utf-8")
+    template = args.template.read_text(encoding="utf-8")
     assert template.count("__TOUR_DATA__") == 1
     html = template.replace("__TOUR_DATA__", payload)
     html_path = out / "打开360全景漫游.html"

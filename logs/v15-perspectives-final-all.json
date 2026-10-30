@@ -1,0 +1,88 @@
+{
+  "presentation_revision": 15,
+  "geometry_revision": 14,
+  "model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "furniture_count": 27,
+  "full_walls": true,
+  "window_glass": 12,
+  "source_walls": 62,
+  "pano": false,
+  "draft": false,
+  "render_mode": "Cycles OptiX, 256 max samples; adaptive; GPU denoised",
+  "exterior_is_illustrative": true,
+  "images": [
+    {
+      "id": "living",
+      "label": "客厅",
+      "path": "07_renders/vr-tour-v02/living-photo.png",
+      "sha256": "94ba8d69ce1469c4b0df7c28981fe23390efd417c268837a4f876186b49a474c",
+      "seconds": 33.1,
+      "resolution": [
+        2100,
+        1400
+      ],
+      "camera": "v11 · 客厅至阳台",
+      "eye_height_mm": 1650,
+      "position_plan_mm": [
+        1400,
+        7100
+      ],
+      "exposure": 1.5
+    },
+    {
+      "id": "dining",
+      "label": "餐厅",
+      "path": "07_renders/vr-tour-v02/dining-photo.png",
+      "sha256": "a323851dca7dd4e3addeb22a68762f67c789429de7a298b25f18ea5db00c07b6",
+      "seconds": 39.1,
+      "resolution": [
+        2100,
+        1400
+      ],
+      "camera": "v11 · 餐厅与玻璃门",
+      "eye_height_mm": 1650,
+      "position_plan_mm": [
+        1450,
+        6100
+      ],
+      "exposure": 1.5
+    },
+    {
+      "id": "balcony",
+      "label": "阳台",
+      "path": "07_renders/vr-tour-v02/balcony-photo.png",
+      "sha256": "9d10f977a346dbde7d3febc3c37cd0eb18890284cd16f3b30551eafceb8cd8e8",
+      "seconds": 25.7,
+      "resolution": [
+        2100,
+        1400
+      ],
+      "camera": "v11 · 阳台茶席",
+      "eye_height_mm": 1900,
+      "position_plan_mm": [
+        5600,
+        2300
+      ],
+      "exposure": 1.5
+    },
+    {
+      "id": "entry",
+      "label": "门厅",
+      "path": "07_renders/vr-tour-v02/entry-photo.png",
+      "sha256": "2f48dbd20533ca22c613d755fd0404f49ab8813eb99915b368d3595d671c3dfd",
+      "seconds": 34.7,
+      "resolution": [
+        1400,
+        2100
+      ],
+      "camera": "v12 · 门厅一字柜",
+      "eye_height_mm": 1500,
+      "position_plan_mm": [
+        600,
+        9450
+      ],
+      "exposure": 1.100000023841858
+    }
+  ]
+}
