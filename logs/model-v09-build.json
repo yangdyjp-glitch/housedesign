@@ -1,0 +1,123 @@
+{
+  "revision": 9,
+  "model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v09.blend",
+  "geometry_sha256": "c3806b73ad37549d6329159fb1178d8fd2d79804e0584f6eb219e98d7b91ec0c",
+  "style_sha256": "5062cec31e157faa218ebe173cdd41a618c258d43695ff5b61474c484f33d5ef",
+  "door_parts": [
+    {
+      "id": "kitchen-slider-jamb-left",
+      "bounds_error_mm": 0.00022888183615066282
+    },
+    {
+      "id": "kitchen-slider-jamb-right",
+      "bounds_error_mm": 0.00022888183615066282
+    },
+    {
+      "id": "kitchen-slider-overhead-track",
+      "bounds_error_mm": 0.00022888183615066282
+    },
+    {
+      "id": "kitchen-slider-transom-top",
+      "bounds_error_mm": 0.00022888183615066282
+    },
+    {
+      "id": "kitchen-slider-upper-fixed-glass",
+      "bounds_error_mm": 0.0004196166987213701
+    },
+    {
+      "id": "kitchen-slider-left-stile-left",
+      "bounds_error_mm": 0.0005264282219030747
+    },
+    {
+      "id": "kitchen-slider-left-stile-right",
+      "bounds_error_mm": 0.0005264282219030747
+    },
+    {
+      "id": "kitchen-slider-left-rail-bottom",
+      "bounds_error_mm": 0.0005264282219030747
+    },
+    {
+      "id": "kitchen-slider-left-rail-top",
+      "bounds_error_mm": 0.0005264282219030747
+    },
+    {
+      "id": "kitchen-slider-left-glass",
+      "bounds_error_mm": 0.00019073486257070726
+    },
+    {
+      "id": "kitchen-slider-left-pull",
+      "bounds_error_mm": 0.0004272460945031753
+    },
+    {
+      "id": "kitchen-slider-right-stile-left",
+      "bounds_error_mm": 0.00016021728521664613
+    },
+    {
+      "id": "kitchen-slider-right-stile-right",
+      "bounds_error_mm": 0.00016021728521664613
+    },
+    {
+      "id": "kitchen-slider-right-rail-bottom",
+      "bounds_error_mm": 0.00019454956046160987
+    },
+    {
+      "id": "kitchen-slider-right-rail-top",
+      "bounds_error_mm": 0.00019454956046160987
+    },
+    {
+      "id": "kitchen-slider-right-glass",
+      "bounds_error_mm": 0.0005722045894884786
+    },
+    {
+      "id": "kitchen-slider-right-pull",
+      "bounds_error_mm": 0.00014495849676166017
+    },
+    {
+      "id": "kitchen-slider-small-guide-left",
+      "bounds_error_mm": 0.00031280517553966547
+    },
+    {
+      "id": "kitchen-slider-small-guide-right",
+      "bounds_error_mm": 0.0007324218742610356
+    }
+  ],
+  "all_21_furniture_meshes_and_transforms_unchanged": true,
+  "wall_sources": 60,
+  "existing_window_glass": 12,
+  "door_glass": 3,
+  "door_frames": 16,
+  "opening_motion_tested": true,
+  "default_open": false,
+  "opening": {
+    "id": "kitchen-slider",
+    "name": "餐厨玻璃推拉门",
+    "type": "two-leaf-bypass-overhead-slider",
+    "location": "red-marked junction between dining and kitchen",
+    "x": 1391,
+    "z": 9635,
+    "widthMm": 1691,
+    "depthMm": 120,
+    "totalHeightMm": 2750,
+    "slidingLeafTopMm": 2350,
+    "upperFixedGlass": true,
+    "openingSide": "left opens, both leaves stack right",
+    "openTravelMm": 800.5,
+    "clearOpeningProvisionalMm": 800.5,
+    "leafWidthMm": 840.5,
+    "overlapMm": 40,
+    "jambWidthMm": 25,
+    "track": "overhead double track, local floor guides only",
+    "finish": "existing warm dark-grey thin frame and clear glass",
+    "defaultOpen": false,
+    "frameSystemIsConcept": true,
+    "sourceReference": "00_sources/v09-dining-kitchen-door-markup.png",
+    "sourceSHA256": "f8925e0c42bbb16cd71f99a0e466beb4ee2e624eebb97f1496b7c9cb2f68cae1",
+    "modelOpeningSource": [
+      "left-short-partition-end interior edge x1391",
+      "front-facade-0 left edge x3082",
+      "z9635 existing kitchen boundary"
+    ],
+    "dimensionStatus": "Existing model fit, unmeasured on site; two-leaf configuration, height, top light, tracks and finish are designer proposals"
+  },
+  "previous_model_sha256": "be82fe4e17cc3a291b8a4be7e54a22b03591e0e4d280ed0eacc784c85e42f35c"
+}

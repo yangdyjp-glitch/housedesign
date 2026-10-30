@@ -1,0 +1,27 @@
+{
+  "revision": 13,
+  "model_sha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3",
+  "geometry_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+  "style_sha256": "5bf6107877d0647f356201cddd13074a91dc5dc42dffd572987f061d32aace59",
+  "old_v12_unchanged": true,
+  "panorama_count": 4,
+  "panorama_resolution": [
+    8192,
+    4096
+  ],
+  "projection": "monoscopic 360x180",
+  "camera_eye_height_mm": 1600,
+  "final_images_visually_reviewed": true,
+  "viewer_offline_verified": true,
+  "viewer_qa": "logs/vr-tour-v01-verification.json",
+  "live_session_verified": true,
+  "widget_verified": true,
+  "furniture_count": 23,
+  "new_user_offsets_consumed_once": true,
+  "private_boundaries_unchanged": true,
+  "budget_considered": false,
+  "zip": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\v13-餐厅门厅客厅阳台360全景漫游.zip",
+  "zip_valid": true,
+  "files": 41,
+  "bytes": 21479737
+}

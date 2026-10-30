@@ -1,0 +1,18 @@
+{
+  "revision": 10,
+  "zip": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\v10-公共区深化与主卫研究.zip",
+  "files": 23,
+  "zip_valid": true,
+  "images_visually_reviewed": true,
+  "master_bath_diagram_visually_reviewed": true,
+  "model_sha256": "e0cf9b40f2bbe494e549b6dab411713866c84f26043c61295081a491327efa00",
+  "geometry_sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8",
+  "style_sha256": "105e9cb2612ffa439fe55879120cd8aba7670536dd179abf877b074d5c765ccd",
+  "active_model_matches": true,
+  "geometry_master_matches": true,
+  "previous_v09_unchanged": true,
+  "private_room_boundaries_unchanged": true,
+  "all_21_furniture_retained": true,
+  "public_door_furniture_contacts": [],
+  "lighting_scenes_verified_in_live_session": true
+}

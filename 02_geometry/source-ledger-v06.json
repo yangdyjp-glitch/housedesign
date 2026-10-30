@@ -1,0 +1,748 @@
+{
+  "created": "2026-10-30T11:20:25.554132+00:00",
+  "geometry_file": "02_geometry/geometry-master-v06.json",
+  "geometry_sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+  "units": "mm",
+  "source_dimensions_verified": false,
+  "source_images": [
+    {
+      "id": "codex-clipboard-9cd2d453-b333-4021-b37e-41631362d66d.png",
+      "path": "00_source\\original\\codex-clipboard-9cd2d453-b333-4021-b37e-41631362d66d.png",
+      "role": "用户删除墙体标记",
+      "sha256": "1e6e19bb597d3417b8c46238fdb65aaa7661529c208985b069de9aa7e572b598"
+    },
+    {
+      "id": "codex-clipboard-dd3840b3-08e9-4dcc-bd35-cda470532299.png",
+      "path": "00_source\\original\\codex-clipboard-dd3840b3-08e9-4dcc-bd35-cda470532299.png",
+      "role": "五个功能区域标记",
+      "sha256": "bc4bb7b10d7b56314057f92055a8bd8bf7121be9f13816aa62089949f378da2f"
+    },
+    {
+      "id": "codex-clipboard-df1537cd-add6-4258-8426-21e02c517ef3.png",
+      "path": "00_source\\original\\codex-clipboard-df1537cd-add6-4258-8426-21e02c517ef3.png",
+      "role": "房间用途、窗型和墙面对齐说明",
+      "sha256": "a493849a59235dc425b8494735b60659fdca3f4ec2c0cf75962fe373f35622af"
+    },
+    {
+      "id": "房型.jpg",
+      "path": "00_source\\original\\房型.jpg",
+      "role": "原手绘测量图",
+      "sha256": "9cf0c9de748de5df23dc29122c5e714f26dd2abfa0dbc8fe8f4e46361dbe8925"
+    }
+  ],
+  "baseline": {
+    "path": "02_geometry/geometry-baseline-v04.json",
+    "sha256": "8cdd3524cd57109a45f47b06e6c54f2d648e104e7ee1afce0f2aa60e4e191ae8",
+    "status": "existing sketch reconstruction; preserve unverified dimensions"
+  },
+  "current_layout": {
+    "path": "03_layout/widget-layout-v06-initial.json",
+    "status": "user six amendments applied to latest prior positions"
+  },
+  "measurements": [
+    {
+      "name": "上侧横向总宽",
+      "source": 7188,
+      "used": 7188,
+      "status": "采用"
+    },
+    {
+      "name": "上侧浅区进深",
+      "source": 1072,
+      "used": 1072,
+      "status": "采用"
+    },
+    {
+      "name": "原中间隔间净宽",
+      "source": 2974,
+      "used": 2974,
+      "status": "墙已删除，保留定位"
+    },
+    {
+      "name": "原中间隔间进深",
+      "source": 3704,
+      "used": 3704,
+      "status": "手写末位待核"
+    },
+    {
+      "name": "主卧净宽",
+      "source": 3467,
+      "used": 3467,
+      "status": "手写末位待核"
+    },
+    {
+      "name": "客卧",
+      "source": [
+        2577,
+        3370
+      ],
+      "used": [
+        2577,
+        3370
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "客卫上区",
+      "source": [
+        1554,
+        1365
+      ],
+      "used": [
+        1557,
+        1365
+      ],
+      "status": "与下区对齐，宽差3"
+    },
+    {
+      "name": "客卫下区",
+      "source": [
+        1557,
+        2060
+      ],
+      "used": [
+        1557,
+        2060
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "次卧底段",
+      "source": [
+        3171,
+        2605
+      ],
+      "used": [
+        3171,
+        2605
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "主卫",
+      "source": [
+        1472,
+        2014
+      ],
+      "used": [
+        1472,
+        2014
+      ],
+      "status": "与横墙2040标注冲突，待核"
+    },
+    {
+      "name": "厨房底宽/纵深",
+      "source": [
+        3062,
+        2775
+      ],
+      "used": [
+        3062,
+        2775
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "左外墙总长",
+      "source": 11089,
+      "used": 9635,
+      "status": "与分段尺寸不闭合，未作为硬约束"
+    },
+    {
+      "name": "左侧内部纵向标注",
+      "source": 6432,
+      "used": null,
+      "status": "起止点待核"
+    },
+    {
+      "name": "主卧外墙纵向标注",
+      "source": null,
+      "used": 3704,
+      "status": "字迹待核，暂与相邻空间对齐"
+    },
+    {
+      "name": "主卫下横墙",
+      "source": 2040,
+      "used": 1592,
+      "status": "与净宽标注不闭合，待核"
+    },
+    {
+      "name": "阳台窗下缘",
+      "source": "用户确认落地窗",
+      "used": 0,
+      "status": "取消上一版607 mm窗下墙，窗顶2270 mm暂沿原开口"
+    },
+    {
+      "name": "主卧飘窗凸出/窗台高",
+      "source": [
+        500,
+        "待核"
+      ],
+      "used": [
+        500,
+        500
+      ],
+      "status": "凸出尺寸沿原图，窗台高500 mm暂定"
+    }
+  ],
+  "walls": [
+    {
+      "id": "outer-top-0",
+      "baseline_id": "outer-top-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-top-lintel-0",
+      "baseline_id": "outer-top-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-top-end",
+      "baseline_id": "outer-top-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-0",
+      "baseline_id": "outer-left-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-lintel-0",
+      "baseline_id": "outer-left-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-end",
+      "baseline_id": "outer-left-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "top-step-end",
+      "baseline_id": "top-step-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-top-left-end",
+      "baseline_id": "upper-right-top-left-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-top-right-end",
+      "baseline_id": "upper-right-top-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-left-end",
+      "baseline_id": "bay-left-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-right-end",
+      "baseline_id": "bay-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-0",
+      "baseline_id": "bay-front-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-sill-0",
+      "baseline_id": "bay-front-sill-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-lintel-0",
+      "baseline_id": "bay-front-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-end",
+      "baseline_id": "bay-front-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "master-bay-seat",
+      "baseline_id": "master-bay-seat",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-0",
+      "baseline_id": "outer-right-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-sill-0",
+      "baseline_id": "outer-right-sill-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-lintel-0",
+      "baseline_id": "outer-right-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-end",
+      "baseline_id": "outer-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-0",
+      "baseline_id": "front-facade-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-sill-0",
+      "baseline_id": "front-facade-sill-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-lintel-0",
+      "baseline_id": "front-facade-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-1",
+      "baseline_id": "front-facade-1",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-sill-1",
+      "baseline_id": "front-facade-sill-1",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-lintel-1",
+      "baseline_id": "front-facade-lintel-1",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-2",
+      "baseline_id": "front-facade-2",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-sill-2",
+      "baseline_id": "front-facade-sill-2",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-lintel-2",
+      "baseline_id": "front-facade-lintel-2",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-end",
+      "baseline_id": "front-facade-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-0",
+      "baseline_id": "lower-projection-right-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-sill-0",
+      "baseline_id": "lower-projection-right-sill-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-lintel-0",
+      "baseline_id": "lower-projection-right-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-end",
+      "baseline_id": "lower-projection-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-bottom-end",
+      "baseline_id": "lower-projection-bottom-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-left-end",
+      "baseline_id": "lower-projection-left-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "left-step-return-end",
+      "baseline_id": "left-step-return-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "left-short-partition-end",
+      "baseline_id": "left-short-partition-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "retained-central-right-end",
+      "baseline_id": "retained-central-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "retained-central-top-stub-end",
+      "baseline_id": "retained-central-top-stub-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "retained-central-bottom-stub-end",
+      "baseline_id": "retained-central-bottom-stub-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-lintel-0",
+      "baseline_id": "upper-right-bottom-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-1",
+      "baseline_id": "upper-right-bottom-1",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-lintel-1",
+      "baseline_id": "upper-right-bottom-lintel-1",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-end",
+      "baseline_id": "upper-right-bottom-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-left-end",
+      "baseline_id": "right-small-left-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-bottom-end",
+      "baseline_id": "right-small-bottom-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-service-block",
+      "baseline_id": "right-small-service-block",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-left-end",
+      "baseline_id": "lower-narrow-left-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-right-end",
+      "baseline_id": "lower-narrow-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-top-0",
+      "baseline_id": "lower-narrow-top-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-top-lintel-0",
+      "baseline_id": "lower-narrow-top-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-split-0",
+      "baseline_id": "lower-narrow-split-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-split-lintel-0",
+      "baseline_id": "lower-narrow-split-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-top-0",
+      "baseline_id": "lower-centre-top-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-top-lintel-0",
+      "baseline_id": "lower-centre-top-lintel-0",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-top-end",
+      "baseline_id": "lower-centre-top-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-right-end",
+      "baseline_id": "lower-centre-right-end",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-left-service-block",
+      "baseline_id": "lower-left-service-block",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bottom-corner-block",
+      "baseline_id": "bottom-corner-block",
+      "status": "草图复原或拟合；未逐段完成实测校准",
+      "confidence": "provisional"
+    }
+  ],
+  "furniture": [
+    {
+      "id": "tv-low",
+      "name": "电视低柜",
+      "x_mm": 0,
+      "z_mm": 1800,
+      "dimensions_mm": {
+        "length": 3200,
+        "width": 400,
+        "height": 450
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "tv-high",
+      "name": "入户至电视通长立柜",
+      "x_mm": 0,
+      "z_mm": 5000,
+      "dimensions_mm": {
+        "length": 4500,
+        "width": 400,
+        "height": 2400
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "television",
+      "name": "85英寸电视",
+      "x_mm": 30,
+      "z_mm": 2450,
+      "dimensions_mm": {
+        "length": 1900,
+        "width": 70,
+        "height": 1100
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "sofa-modular",
+      "name": "贵妃组合沙发",
+      "x_mm": 2900,
+      "z_mm": 1300,
+      "dimensions_mm": {
+        "length": 3000,
+        "width": 1900,
+        "height": 850
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "ottoman",
+      "name": "可移脚凳",
+      "x_mm": 3000,
+      "z_mm": 4350,
+      "dimensions_mm": {
+        "length": 850,
+        "width": 650,
+        "height": 430
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "side-table",
+      "name": "长方茶几",
+      "x_mm": 2650,
+      "z_mm": 2750,
+      "dimensions_mm": {
+        "length": 1400,
+        "width": 700,
+        "height": 400
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "double-desk",
+      "name": "双人办公桌",
+      "x_mm": 5300,
+      "z_mm": 2000,
+      "dimensions_mm": {
+        "length": 2400,
+        "width": 700,
+        "height": 750
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "office-chair-1",
+      "name": "办公椅1",
+      "x_mm": 5900,
+      "z_mm": 2335,
+      "dimensions_mm": {
+        "length": 560,
+        "width": 560,
+        "height": 950
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "bookcase",
+      "name": "书柜与储物",
+      "x_mm": 6838,
+      "z_mm": 1176,
+      "dimensions_mm": {
+        "length": 3600,
+        "width": 350,
+        "height": 2400
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "dining-table",
+      "name": "四人靠墙餐桌",
+      "x_mm": 2282,
+      "z_mm": 7300,
+      "dimensions_mm": {
+        "length": 1600,
+        "width": 800,
+        "height": 750
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "dining-chair-1",
+      "name": "餐椅1",
+      "x_mm": 1832,
+      "z_mm": 7550,
+      "dimensions_mm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "dining-chair-2",
+      "name": "餐椅2",
+      "x_mm": 1832,
+      "z_mm": 8200,
+      "dimensions_mm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "dining-chair-3",
+      "name": "餐椅3",
+      "x_mm": 2457,
+      "z_mm": 6850,
+      "dimensions_mm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "source": "user amendment plus current design recommendation"
+    },
+    {
+      "id": "dining-chair-4",
+      "name": "餐椅4",
+      "x_mm": 2457,
+      "z_mm": 8900,
+      "dimensions_mm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "source": "user amendment plus current design recommendation"
+    }
+  ],
+  "fixed_provisional_values": {
+    "wall_height_mm": 2750,
+    "external_wall_mm": 240,
+    "internal_wall_mm": [
+      120,
+      168
+    ],
+    "bay_seat_height_mm": 500,
+    "display_slab_mm": 160
+  },
+  "unresolved": [
+    "外轮廓总长不闭合",
+    "部分手写尺寸含糊",
+    "入口、梁柱、墙体性质和净高待核",
+    "办公椅与书柜局部净距408mm待评审"
+  ],
+  "validation_scope": "Exact transfer of the existing digital model and user placements; not verification of the real building",
+  "revision": 6,
+  "entrance": {
+    "plan_side": "lower-left",
+    "approximate_point": [
+      0,
+      10150
+    ],
+    "opening_width_confirmed": false,
+    "source": "user: balcony taken as south implies entrance northeast / lower-left in this image",
+    "orientation_status": "conditional diagram convention; surveyed geographic orientation not verified"
+  }
+}

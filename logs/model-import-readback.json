@@ -1,0 +1,38 @@
+[
+  {
+    "phase": "import",
+    "response": {
+      "meta": null,
+      "content": [
+        {
+          "type": "text",
+          "text": "Code executed successfully: Info: Saved as \"home-main-v05.blend\"\nMODEL_IMPORTED {\"file\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\home-main-v05.blend\", \"furniture\": 13, \"parts\": 175, \"walls\": 60, \"glass\": 8, \"source_sha256\": \"3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43\"}\n",
+          "annotations": null,
+          "meta": null
+        }
+      ],
+      "structuredContent": {
+        "result": "Code executed successfully: Info: Saved as \"home-main-v05.blend\"\nMODEL_IMPORTED {\"file\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\home-main-v05.blend\", \"furniture\": 13, \"parts\": 175, \"walls\": 60, \"glass\": 8, \"source_sha256\": \"3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43\"}\n"
+      },
+      "isError": false
+    }
+  },
+  {
+    "phase": "reopen_validate",
+    "response": {
+      "meta": null,
+      "content": [
+        {
+          "type": "text",
+          "text": "Code executed successfully: MODEL_READBACK_OK {\"file\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\home-main-v05.blend\", \"units\": \"METRIC\", \"source_sha256\": \"3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43\", \"placements\": [{\"id\": \"tv-low\", \"x_mm\": 0.0, \"z_mm\": 1800.0, \"parts\": 11}, {\"id\": \"tv-high\", \"x_mm\": 0.0, \"z_mm\": 5100.0, \"parts\": 7}, {\"id\": \"television\", \"x_mm\": 30.0, \"z_mm\": 2550.0, \"parts\": 2}, {\"id\": \"sofa-modular\", \"x_mm\": 3850.0, \"z_mm\": 1900.0, \"parts\": 14}, {\"id\": \"ottoman\", \"x_mm\": 3000.0, \"z_mm\": 4350.0, \"parts\": 6}, {\"id\": \"side-table\", \"x_mm\": 2725.0, \"z_mm\": 3125.0, \"parts\": 3}, {\"id\": \"double-desk\", \"x_mm\": 5300.0, \"z_mm\": 2000.0, \"parts\": 18}, {\"id\": \"office-chair-1\", \"x_mm\": 5900.0, \"z_mm\": 2335.0, \"parts\": 13}, {\"id\": \"office-chair-2\", \"x_mm\": 5900.0, \"z_mm\": 3435.0, \"parts\": 13}, {\"id\": \"bookcase\", \"x_mm\": 6838.0, \"z_mm\": 1176.0, \"parts\": 71}, {\"id\": \"dining-table\", \"x_mm\": 2332.0, \"z_mm\": 7300.0, \"parts\": 5}, {\"id\": \"dining-chair-1\", \"x_mm\": 1832.0, \"z_mm\": 7550.0, \"parts\": 6}, {\"id\": \"dining-chair-2\", \"x_mm\": 1832.0, \"z_mm\": 8200.0, \"parts\": 6}]}\n",
+          "annotations": null,
+          "meta": null
+        }
+      ],
+      "structuredContent": {
+        "result": "Code executed successfully: MODEL_READBACK_OK {\"file\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\home-main-v05.blend\", \"units\": \"METRIC\", \"source_sha256\": \"3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43\", \"placements\": [{\"id\": \"tv-low\", \"x_mm\": 0.0, \"z_mm\": 1800.0, \"parts\": 11}, {\"id\": \"tv-high\", \"x_mm\": 0.0, \"z_mm\": 5100.0, \"parts\": 7}, {\"id\": \"television\", \"x_mm\": 30.0, \"z_mm\": 2550.0, \"parts\": 2}, {\"id\": \"sofa-modular\", \"x_mm\": 3850.0, \"z_mm\": 1900.0, \"parts\": 14}, {\"id\": \"ottoman\", \"x_mm\": 3000.0, \"z_mm\": 4350.0, \"parts\": 6}, {\"id\": \"side-table\", \"x_mm\": 2725.0, \"z_mm\": 3125.0, \"parts\": 3}, {\"id\": \"double-desk\", \"x_mm\": 5300.0, \"z_mm\": 2000.0, \"parts\": 18}, {\"id\": \"office-chair-1\", \"x_mm\": 5900.0, \"z_mm\": 2335.0, \"parts\": 13}, {\"id\": \"office-chair-2\", \"x_mm\": 5900.0, \"z_mm\": 3435.0, \"parts\": 13}, {\"id\": \"bookcase\", \"x_mm\": 6838.0, \"z_mm\": 1176.0, \"parts\": 71}, {\"id\": \"dining-table\", \"x_mm\": 2332.0, \"z_mm\": 7300.0, \"parts\": 5}, {\"id\": \"dining-chair-1\", \"x_mm\": 1832.0, \"z_mm\": 7550.0, \"parts\": 6}, {\"id\": \"dining-chair-2\", \"x_mm\": 1832.0, \"z_mm\": 8200.0, \"parts\": 6}]}\n"
+      },
+      "isError": false
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "status": "concept door-position study, not construction confirmation",
+  "homeowner_priority": "master bathroom internal arrangement and doorway",
+  "mattress_width_mm": 2000,
+  "trial_bed_outer_size_mm": [
+    2150,
+    2150
+  ],
+  "trial_bed_outer_size_status": "designer clearance-test envelope, not selected product",
+  "master_bedroom_model_inner_mm": [
+    3467,
+    3704
+  ],
+  "master_bathroom_model_inner_mm": [
+    1472,
+    2014
+  ],
+  "homeowner_site_measurement": "暂时不清楚",
+  "drain_position": "unknown",
+  "bath_width_source_conflict": "2040-related handwritten dimension conflicts with fitted 1472 width",
+  "wet_area_boundary_changed": false,
+  "main_model_private_boundaries_changed": false,
+  "concept_a": "retain existing opening; study bedroom-side sliding leaf parking and sealing, with no wall-pocket assumed",
+  "concept_b": "study a small shift of the shared-wall opening only if wall and head conditions permit; reserve a wider vanity wall section",
+  "unresolved": [
+    "actual internal width and length",
+    "drain/riser and waterproof boundary",
+    "wall and lintel structure",
+    "bed-frame and bedside furniture envelopes",
+    "door parking, sealing and privacy"
+  ],
+  "applicable_rule_source": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2023/art_17339_775528.html",
+  "diagram": "09_delivery/v10主卫门位研究.svg",
+  "bed_wardrobe_trial_clearance_mm": 717,
+  "diagram_status": "door concepts only; no chosen fixture plan; no main model private-room edits"
+}

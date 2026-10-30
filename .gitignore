@@ -1,0 +1,31 @@
+# Local dependency installations and caches; design sources/results stay tracked.
+/tools/runtime/
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.venv/
+**/venv/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Downloaded installers are reproducible dependencies, not house design assets.
+/logs/downloads/*
+!/logs/downloads/*.json
+!/logs/downloads/*.sha256
+!/logs/downloads/*.md
+!/logs/downloads/*.txt
+
+# Machine-local credentials and unfinished transport files.
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.p12
+*.part
+*.crdownload
+/logs/git-upload-local.json

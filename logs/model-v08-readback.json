@@ -1,0 +1,274 @@
+{
+  "saved_model_reopened": true,
+  "revision": 8,
+  "geometry_sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca",
+  "style_sha256": "42759bbd2312d5e03461f6521db082b21890ee0972c70939d564f7ca6b0e33a0",
+  "furniture": [
+    {
+      "id": "tv-low",
+      "x": 0.0,
+      "z": 1800.0,
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "tv-high",
+      "x": 0.0,
+      "z": 5000.0,
+      "dimensions_mm": [
+        4500,
+        400,
+        2750
+      ]
+    },
+    {
+      "id": "television",
+      "x": 30.0,
+      "z": 2450.0,
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "x": 2900.0,
+      "z": 1800.0,
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "x": 3000.0,
+      "z": 4850.0,
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "x": 2650.0,
+      "z": 3250.0,
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "double-desk",
+      "x": 5300.0,
+      "z": 2000.0,
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900.0,
+      "z": 2335.0,
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "x": 6838.0,
+      "z": 1176.0,
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "x": 2282.0,
+      "z": 7300.0,
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832.0,
+      "z": 7550.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832.0,
+      "z": 8200.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457.0,
+      "z": 6850.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457.0,
+      "z": 8900.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 921.0,
+      "z": 9635.0,
+      "dimensions_mm": [
+        1533,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "entry-return-cabinet",
+      "x": 0.0,
+      "z": 10818.0,
+      "dimensions_mm": [
+        921,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150.0,
+      "z": 120.0,
+      "dimensions_mm": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100.0,
+      "z": 1030.0,
+      "dimensions_mm": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100.0,
+      "z": 200.0,
+      "dimensions_mm": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    }
+  ],
+  "all_21_positions_preserved": true,
+  "architecture": {
+    "wall_sources": 60,
+    "glass": 12,
+    "window_parts": 22
+  },
+  "cabinet": {
+    "selection": "C amended",
+    "lower": "#F1DDAE",
+    "upper": "cream",
+    "niche": "walnut",
+    "ceiling_gap_mm": 0,
+    "niche_clear_height_mm": 200,
+    "top_mm": 2750
+  },
+  "window": {
+    "wall": "outer-top",
+    "bottom": 0,
+    "top": 2270,
+    "type": "large-fixed-centre-plus-two-upper-opening-side-sashes-over-fixed-lower-panes",
+    "topProvisional": true,
+    "sourceReference": "00_sources/v08-balcony-window-reference.png",
+    "sourceSHA256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8",
+    "sourceDimensionsMm": {
+      "totalWidth": 6000,
+      "totalHeight": 2300,
+      "leftBay": 700,
+      "centreBay": 4600,
+      "rightBay": 700,
+      "upperSide": 1300,
+      "lowerSide": 1000,
+      "rightAnnotation1500": "likely handle reference, unverified"
+    },
+    "modelOpeningMm": {
+      "x": 853,
+      "width": 5675,
+      "height": 2270,
+      "bottom": 0,
+      "verifiedOnSite": false
+    },
+    "provisionalLayoutMm": {
+      "leftBay": 700,
+      "centreBay": 4275,
+      "rightBay": 700,
+      "lowerSide": 1000,
+      "upperSide": 1270
+    },
+    "nominalFrameMm": 55,
+    "nominalSashBorderMm": 32,
+    "referencePolicy": "match type; keep existing provisional opening; side 700 and lower 1000 used as adjustable references; measured site values prevail",
+    "openingDirection": "unverified",
+    "sashesShown": "closed",
+    "centralMullions": 0,
+    "upperSideScreens": "visual inference from hatched reference",
+    "glassPaneCount": 5
+  }
+}

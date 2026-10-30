@@ -1,0 +1,351 @@
+{
+  "model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v08.blend",
+  "revision": 8,
+  "geometry_sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca",
+  "style_sha256": "42759bbd2312d5e03461f6521db082b21890ee0972c70939d564f7ca6b0e33a0",
+  "furniture": [
+    {
+      "id": "tv-low",
+      "position_mm": [
+        0.0,
+        1800.0
+      ],
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ],
+      "mesh_bounds_error_mm": 4.768371586472142e-05
+    },
+    {
+      "id": "tv-high",
+      "position_mm": [
+        0.0,
+        5000.0
+      ],
+      "dimensions_mm": [
+        4500,
+        400,
+        2750
+      ],
+      "mesh_bounds_error_mm": 5.960464455334602e-06
+    },
+    {
+      "id": "television",
+      "position_mm": [
+        30.0,
+        2450.0
+      ],
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ],
+      "mesh_bounds_error_mm": 0.00019073486345888568
+    },
+    {
+      "id": "sofa-modular",
+      "position_mm": [
+        2900.0,
+        1800.0
+      ],
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ],
+      "mesh_bounds_error_mm": 0.00019073486345888568
+    },
+    {
+      "id": "ottoman",
+      "position_mm": [
+        3000.0,
+        4850.0
+      ],
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ],
+      "mesh_bounds_error_mm": 9.536743172944284e-05
+    },
+    {
+      "id": "side-table",
+      "position_mm": [
+        2650.0,
+        3250.0
+      ],
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ],
+      "mesh_bounds_error_mm": 0.00014305114737211966
+    },
+    {
+      "id": "double-desk",
+      "position_mm": [
+        5300.0,
+        2000.0
+      ],
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ],
+      "mesh_bounds_error_mm": 0.00019073486345888568
+    },
+    {
+      "id": "office-chair-1",
+      "position_mm": [
+        5900.0,
+        2335.0
+      ],
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ],
+      "mesh_bounds_error_mm": 0.00017166137711299712
+    },
+    {
+      "id": "bookcase",
+      "position_mm": [
+        6838.0,
+        1176.0
+      ],
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ],
+      "mesh_bounds_error_mm": 0.00020217895535523667
+    },
+    {
+      "id": "dining-table",
+      "position_mm": [
+        2282.0,
+        7300.0
+      ],
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ],
+      "mesh_bounds_error_mm": 0.00038146972691777137
+    },
+    {
+      "id": "dining-chair-1",
+      "position_mm": [
+        1832.0,
+        7550.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "mesh_bounds_error_mm": 0.00019073486345888568
+    },
+    {
+      "id": "dining-chair-2",
+      "position_mm": [
+        1832.0,
+        8200.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "mesh_bounds_error_mm": 0.00038146972691777137
+    },
+    {
+      "id": "dining-chair-3",
+      "position_mm": [
+        2457.0,
+        6850.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "mesh_bounds_error_mm": 0.00038146972691777137
+    },
+    {
+      "id": "dining-chair-4",
+      "position_mm": [
+        2457.0,
+        8900.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "mesh_bounds_error_mm": 0.0005722045894884786
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "position_mm": [
+        921.0,
+        9635.0
+      ],
+      "dimensions_mm": [
+        1533,
+        350,
+        2400
+      ],
+      "mesh_bounds_error_mm": 0.00022888183615066282
+    },
+    {
+      "id": "entry-return-cabinet",
+      "position_mm": [
+        0.0,
+        10818.0
+      ],
+      "dimensions_mm": [
+        921,
+        350,
+        2400
+      ],
+      "mesh_bounds_error_mm": 0.00022125244214521445
+    },
+    {
+      "id": "plant-balcony-tall",
+      "position_mm": [
+        150.0,
+        120.0
+      ],
+      "dimensions_mm": [
+        700,
+        700,
+        1500
+      ],
+      "mesh_bounds_error_mm": 5.1498413089490214e-05
+    },
+    {
+      "id": "plant-tv-medium",
+      "position_mm": [
+        100.0,
+        1030.0
+      ],
+      "dimensions_mm": [
+        550,
+        550,
+        1000
+      ],
+      "mesh_bounds_error_mm": 0.00013690805267252415
+    },
+    {
+      "id": "plant-balcony-low",
+      "position_mm": [
+        1100.0,
+        200.0
+      ],
+      "dimensions_mm": [
+        500,
+        500,
+        650
+      ],
+      "mesh_bounds_error_mm": 5.8059863139448e-05
+    },
+    {
+      "id": "washer",
+      "position_mm": [
+        6488.0,
+        170.0
+      ],
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ],
+      "mesh_bounds_error_mm": 8.392334027718107e-05
+    },
+    {
+      "id": "dryer",
+      "position_mm": [
+        6488.0,
+        170.0
+      ],
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ],
+      "mesh_bounds_error_mm": 8.392334027718107e-05
+    }
+  ],
+  "other_20_meshes_positions_unchanged": true,
+  "all_21_positions_preserved": true,
+  "source_walls_preserved": 60,
+  "glass": 12,
+  "new_window_parts": 22,
+  "superseded_window_parts_archived": [
+    "outer-top-glass-0.001",
+    "表现窗框 outer-top-glass-0",
+    "表现窗框 outer-top-glass-0.001",
+    "表现窗框 outer-top-glass-0.002",
+    "表现窗框 outer-top-glass-0.003",
+    "阳台细窗梃",
+    "阳台细窗梃.001"
+  ],
+  "cabinet": {
+    "option": "C amended",
+    "lower_srgb": "#F1DDAE",
+    "upper": "cream",
+    "niche": "walnut",
+    "height_mm": 2750,
+    "ceiling_gap_mm": 0,
+    "niche_bottom_mm": 1200,
+    "niche_top_mm": 1400
+  },
+  "window": {
+    "wall": "outer-top",
+    "bottom": 0,
+    "top": 2270,
+    "type": "large-fixed-centre-plus-two-upper-opening-side-sashes-over-fixed-lower-panes",
+    "topProvisional": true,
+    "sourceReference": "00_sources/v08-balcony-window-reference.png",
+    "sourceSHA256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8",
+    "sourceDimensionsMm": {
+      "totalWidth": 6000,
+      "totalHeight": 2300,
+      "leftBay": 700,
+      "centreBay": 4600,
+      "rightBay": 700,
+      "upperSide": 1300,
+      "lowerSide": 1000,
+      "rightAnnotation1500": "likely handle reference, unverified"
+    },
+    "modelOpeningMm": {
+      "x": 853,
+      "width": 5675,
+      "height": 2270,
+      "bottom": 0,
+      "verifiedOnSite": false
+    },
+    "provisionalLayoutMm": {
+      "leftBay": 700,
+      "centreBay": 4275,
+      "rightBay": 700,
+      "lowerSide": 1000,
+      "upperSide": 1270
+    },
+    "nominalFrameMm": 55,
+    "nominalSashBorderMm": 32,
+    "referencePolicy": "match type; keep existing provisional opening; side 700 and lower 1000 used as adjustable references; measured site values prevail",
+    "openingDirection": "unverified",
+    "sashesShown": "closed",
+    "centralMullions": 0,
+    "upperSideScreens": "visual inference from hatched reference",
+    "glassPaneCount": 5
+  },
+  "movement_100mm": [
+    "tv-high",
+    "washer"
+  ],
+  "linked_laundry_movement": true
+}

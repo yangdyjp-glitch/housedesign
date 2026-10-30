@@ -1,0 +1,27 @@
+2026-10-31 00:36:14,029 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-31 00:36:14,030 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-31 00:36:14,031 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-31 00:36:14,032 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-31 00:36:14,032 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-31 00:36:14,032 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-31 00:36:14,032 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 00:36:14,061 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-31 00:36:14,061 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-31 00:36:14,061 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 00:36:14,061 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-31 00:36:14,061 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-31 00:36:14,064 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-31 00:36:14,064 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-31 00:36:14,066 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 00:36:14,070 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,dirty=bpy.data.is_dirty,managed=bool(bpy.context.scene.get('HomeDesign_ManagedSession')),revision=bpy.context.scene.get('home_design_revision'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,6)) for o in bpy.context.scene.objects if o.get('home_design_role')=='furniture'],materials=[dict(name=m.name,nodes=[dict(name=n.name,type=n.type) for n in m.node_tree.nodes] if m.use_nodes else [],links=[dict(from_node=l.from_node.name,to_node=l.to_node.name,to_socket=l.to_socket.name) for l in m.node_tree.links] if m.use_nodes else []) for m in bpy.data.materials if m.name.startswith(('R01','J02','V08'))],lights=[dict(name=o.name,type=o.data.type,energy=o.data.energy,color=list(o.data.color),position=list(o.location)) for o in bpy.context.scene.objects if o.type=='LIGHT'],ceilings=[dict(name=o.name,dimensions=list(o.dimensions),position=list(o.location)) for o in bpy.context.scene.objects if o.name.startswith('表现用顶面')])))"}
+2026-10-31 00:36:14,070 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 00:36:14,126 - BlenderMCPServer - INFO - Received complete response (16453 bytes)
+2026-10-31 00:36:14,126 - BlenderMCPServer - INFO - Received 16453 bytes of data
+2026-10-31 00:36:14,126 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 00:36:14,126 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-31 00:36:14,127 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 00:36:14,185 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-31 00:36:14,185 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-31 00:36:14,185 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 00:36:14,189 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-31 00:36:14,189 - BlenderMCPServer - INFO - BlenderMCP server shut down

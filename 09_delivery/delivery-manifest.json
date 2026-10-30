@@ -1,0 +1,31 @@
+{
+  "created": "2026-10-30T11:20:25.554132+00:00",
+  "geometry_sha256": "3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43",
+  "outputs": [
+    {
+      "path": "06_blender/home-main-v05.blend",
+      "size_bytes": 1723722,
+      "sha256": "65048ec01647b55fd65789a5e1df3d613b4e5f87901a4f0a78dd022b0cb9e008"
+    },
+    {
+      "path": "06_blender/validation/2m-cube-roundtrip.blend",
+      "size_bytes": 492047,
+      "sha256": "d6e68232b71c4d5478413d521f734df8d41b5b235e271deada0d11fe9c68afb0"
+    },
+    {
+      "path": "07_renders/model-v05-top.png",
+      "size_bytes": 2084270,
+      "sha256": "17fc6cf322b5ab4f72a12196bf44d331e343e3e89003415ab9557e9b7966ed9d"
+    },
+    {
+      "path": "07_renders/model-v05-axonometric.png",
+      "size_bytes": 2175420,
+      "sha256": "f90dda347ee40993d7d3827f563cd57416ff14c8d05355e5a0d30bb04a7cbd9d"
+    },
+    {
+      "path": "07_renders/environment-test-fictional.png",
+      "size_bytes": 2706785,
+      "sha256": "cbf3731d4b340582cce8b56583cb0235de867ca81f5a9c7e78a542a63eb6813c"
+    }
+  ]
+}

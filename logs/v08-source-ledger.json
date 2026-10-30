@@ -1,0 +1,57 @@
+{
+  "reference": "D:\\AI-Yang.cn\\HomeDesign\\00_sources\\v08-balcony-window-reference.png",
+  "source_sha256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8",
+  "window": {
+    "wall": "outer-top",
+    "bottom": 0,
+    "top": 2270,
+    "type": "large-fixed-centre-plus-two-upper-opening-side-sashes-over-fixed-lower-panes",
+    "topProvisional": true,
+    "sourceReference": "00_sources/v08-balcony-window-reference.png",
+    "sourceSHA256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8",
+    "sourceDimensionsMm": {
+      "totalWidth": 6000,
+      "totalHeight": 2300,
+      "leftBay": 700,
+      "centreBay": 4600,
+      "rightBay": 700,
+      "upperSide": 1300,
+      "lowerSide": 1000,
+      "rightAnnotation1500": "likely handle reference, unverified"
+    },
+    "modelOpeningMm": {
+      "x": 853,
+      "width": 5675,
+      "height": 2270,
+      "bottom": 0,
+      "verifiedOnSite": false
+    },
+    "provisionalLayoutMm": {
+      "leftBay": 700,
+      "centreBay": 4275,
+      "rightBay": 700,
+      "lowerSide": 1000,
+      "upperSide": 1270
+    },
+    "nominalFrameMm": 55,
+    "nominalSashBorderMm": 32,
+    "referencePolicy": "match type; keep existing provisional opening; side 700 and lower 1000 used as adjustable references; measured site values prevail",
+    "openingDirection": "unverified",
+    "sashesShown": "closed",
+    "centralMullions": 0,
+    "upperSideScreens": "visual inference from hatched reference",
+    "glassPaneCount": 5
+  },
+  "cabinet": {
+    "option": "C",
+    "amendment": "navy changed to milk yellow",
+    "selectedBy": "direct user instruction",
+    "upper": "cream",
+    "lower": "milk-yellow",
+    "niche": "walnut",
+    "fullHeight": true
+  },
+  "geometry_sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca",
+  "furniture_positions": "v08-input-live-state.json",
+  "measuredCAD": false
+}

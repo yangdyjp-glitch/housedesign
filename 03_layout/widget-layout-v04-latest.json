@@ -1,0 +1,127 @@
+{
+  "source": "latest user-operated widget state from this conversation",
+  "modelRevision": 4,
+  "view": "plan",
+  "moveStepMm": 100,
+  "furniturePositions": [
+    {
+      "id": "tv-low",
+      "x": 0,
+      "z": 1800,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "tv-high",
+      "x": 0,
+      "z": 5100,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "television",
+      "x": 30,
+      "z": 2550,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "sofa-modular",
+      "x": 3850,
+      "z": 1900,
+      "dx": 1000,
+      "dz": -400
+    },
+    {
+      "id": "ottoman",
+      "x": 3000,
+      "z": 4350,
+      "dx": 1000,
+      "dz": 300
+    },
+    {
+      "id": "side-table",
+      "x": 2725,
+      "z": 3125,
+      "dx": 800,
+      "dz": 100
+    },
+    {
+      "id": "double-desk",
+      "x": 5300,
+      "z": 2000,
+      "dx": 1300,
+      "dz": -300
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900,
+      "z": 2335,
+      "dx": 1100,
+      "dz": -300
+    },
+    {
+      "id": "office-chair-2",
+      "x": 5900,
+      "z": 3435,
+      "dx": 1100,
+      "dz": -400
+    },
+    {
+      "id": "bookcase",
+      "x": 6838,
+      "z": 1176,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-table",
+      "x": 2332,
+      "z": 7300,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832,
+      "z": 7550,
+      "dx": 0,
+      "dz": 100
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832,
+      "z": 8200,
+      "dx": 0,
+      "dz": 0
+    }
+  ],
+  "selectedSchemes": [
+    {
+      "zone": "red",
+      "option": "A",
+      "name": "低柜＋端部高柜"
+    },
+    {
+      "zone": "blue",
+      "option": "B",
+      "name": "模块沙发＋可移脚凳"
+    },
+    {
+      "zone": "green",
+      "option": "B",
+      "name": "沙发后双人桌，面向电视"
+    },
+    {
+      "zone": "yellow",
+      "option": "A",
+      "name": "两端高柜＋中部书架"
+    },
+    {
+      "zone": "ink",
+      "option": "B",
+      "name": "靠墙餐桌，取消卡座",
+      "amendment": "no-banquette-table-against-wall"
+    }
+  ]
+}

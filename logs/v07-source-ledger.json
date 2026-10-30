@@ -1,0 +1,27 @@
+{
+  "revision": 7,
+  "source_annotations": [
+    {
+      "path": "00_sources/v07-placement-annotation.png",
+      "sha256": "3e48ae1f322df2c1b8b059e7cd2468643d2b018a23554544a1a880a858fcf449",
+      "evidence": "user placement/compass annotation; pixels are not measured dimensions"
+    },
+    {
+      "path": "00_sources/v07-user-compass.png",
+      "sha256": "40f0289a50fdc5213c1023390777d9a3439ac9f9a620b70fe591ce27c34eb2a1",
+      "evidence": "user placement/compass annotation; pixels are not measured dimensions"
+    }
+  ],
+  "user_direction": "north=image down; user compass",
+  "designer_dimensions_provisional": true,
+  "measured_cad": false,
+  "desk_monitor_reference": "https://www.delltechnologies.com/asset/en-us/products/electronics-and-accessories/technical-support/dell-34-curved-gaming-monitor-s3422dwg-product-data-sheet.pdf",
+  "laundry_references": [
+    "https://www.bosch-home.co.uk/supportdetail/product/WGG24409GB/01",
+    "https://www.bosch-home.co.uk/supportdetail/product/WQG24509GB/09"
+  ],
+  "product_selection": "generic envelopes referenced to official typical dimensions, no particular model selected or installation certified",
+  "geometry_sha256": "0ccc097db63ca0b4732518708e3f2e01c78e31049a9a5eb364fca4d581bd28bd",
+  "furniture": 21,
+  "parts": 344
+}

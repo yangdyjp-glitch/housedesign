@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "html": "D:/AI-Yang.cn/HomeDesign/09_delivery/vr-tour-v01-partial/打开360全景漫游.html",
+  "htmlSha256": "561d493fae46e2b354655d9f385c0b8f98d85d10cdcc6dc574afdcc550978c16",
+  "calibrationOnly": false,
+  "renderQuality": "partial",
+  "modelRevision": 13,
+  "modelSha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3",
+  "tests": [
+    "Local file opens offline; spherical WebGL projection; 2:1 image decode",
+    "Mouse drag changes yaw/pitch and rendered pixel output",
+    "Wheel zoom and reset",
+    "Arrow keys, Home and keyboard zoom",
+    "All four model image scenes decode, upload and switch",
+    "Map toggles and switches scene",
+    "Projected hotspot uses world direction and switches observation point",
+    "Chinese usage help opens/closes",
+    "Mobile single-finger spherical rotation",
+    "Mobile two-finger pinch changes field of view",
+    "Mobile scene switch, reset and no horizontal overflow at 390px",
+    "320px viewport has no horizontal overflow",
+    "Zenith/nadir and continuous 360-degree yaw wrap",
+    "Actual 8K living view exports both 360 seam sides, zenith and nadir for visual review",
+    "No network requests, CDN or page errors under browser offline mode",
+    "Simulated 4096px GPU limit downsamples display texture, preserving 2:1 and original download"
+  ],
+  "screenshots": [
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-partial-dining-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-partial-entry-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-partial-living-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-partial-balcony-perspective.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-partial-desktop.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-partial-mobile.png"
+  ],
+  "headsetTested": false,
+  "physicalPhoneTested": false,
+  "mobileTestMethod": "Chrome touch-device emulation via Playwright/CDP",
+  "decodedImages": [
+    {
+      "id": "dining",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    },
+    {
+      "id": "entry",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    },
+    {
+      "id": "living",
+      "width": 8192,
+      "height": 4096,
+      "textureWidth": 8192,
+      "textureHeight": 4096
+    },
+    {
+      "id": "balcony",
+      "width": 2048,
+      "height": 1024,
+      "textureWidth": 2048,
+      "textureHeight": 1024
+    }
+  ],
+  "sphereReviewAngles": [
+    {
+      "name": "seam-left",
+      "yawDeg": 179,
+      "pitchDeg": 0,
+      "file": "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-final-seam-left.png"
+    },
+    {
+      "name": "seam-right",
+      "yawDeg": -179,
+      "pitchDeg": 0,
+      "file": "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-final-seam-right.png"
+    },
+    {
+      "name": "zenith",
+      "yawDeg": 0,
+      "pitchDeg": 89,
+      "file": "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-final-zenith.png"
+    },
+    {
+      "name": "nadir",
+      "yawDeg": 0,
+      "pitchDeg": -89,
+      "file": "D:/AI-Yang.cn/HomeDesign/logs/vr-tour-v01-final-nadir.png"
+    }
+  ],
+  "requests": [
+    "file:///D:/AI-Yang.cn/HomeDesign/09_delivery/vr-tour-v01-partial/%E6%89%93%E5%BC%80360%E5%85%A8%E6%99%AF%E6%BC%AB%E6%B8%B8.html",
+    "file:///D:/AI-Yang.cn/HomeDesign/09_delivery/vr-tour-v01-partial/%E6%89%93%E5%BC%80360%E5%85%A8%E6%99%AF%E6%BC%AB%E6%B8%B8.html"
+  ],
+  "errors": [],
+  "webglState": {
+    "scene": "living",
+    "yaw": 0,
+    "pitch": -1.5533430342749535,
+    "fov": 60,
+    "loaded": true,
+    "width": 8192,
+    "height": 4096,
+    "textureWidth": 8192,
+    "textureHeight": 4096,
+    "frame": 55,
+    "error": null,
+    "yawDeg": 0,
+    "pitchDeg": -89,
+    "webgl": true,
+    "maxTextureSize": 8192,
+    "activeTextureCount": 1,
+    "pendingImageDecode": false,
+    "scenes": [
+      "living",
+      "dining",
+      "balcony",
+      "entry"
+    ],
+    "perspectiveProjection": true,
+    "networkDependencies": 0,
+    "positionPlanMm": [
+      1800,
+      4500
+    ]
+  },
+  "textureLimitSimulation": {
+    "reportedLimit": 4096,
+    "originalWidth": 8192,
+    "uploadedWidth": 4096,
+    "uploadedHeight": 2048
+  }
+}

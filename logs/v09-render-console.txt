@@ -1,0 +1,751 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v09.blend"
+Fra:1 Mem:51.88M (Peak 51.88M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:51.88M (Peak 51.88M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:51.88M (Peak 51.88M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发.001
+Fra:1 Mem:53.90M (Peak 53.90M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | side-table | 长方茶几.001
+Fra:1 Mem:53.91M (Peak 53.91M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1.001
+Fra:1 Mem:53.95M (Peak 53.95M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | bookcase | 书柜与储物.001
+Fra:1 Mem:53.97M (Peak 53.97M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dining-table | 四人靠墙餐桌.001
+Fra:1 Mem:54.18M (Peak 54.18M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1.001
+Fra:1 Mem:54.25M (Peak 54.25M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-small-guide-right
+Fra:1 Mem:54.27M (Peak 54.27M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2.001
+Fra:1 Mem:54.28M (Peak 54.28M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3.001
+Fra:1 Mem:54.24M (Peak 54.28M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4.001
+Fra:1 Mem:54.49M (Peak 54.49M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | double-desk | 双人办公桌.001
+Fra:1 Mem:55.18M (Peak 55.18M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-pull
+Fra:1 Mem:55.09M (Peak 55.18M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | entry-shoe-cabinet | 入户鞋柜
+Fra:1 Mem:55.09M (Peak 55.18M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-glass
+Fra:1 Mem:55.11M (Peak 55.18M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-rail-top
+Fra:1 Mem:55.34M (Peak 55.34M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-rail-bottom
+Fra:1 Mem:55.62M (Peak 55.62M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-stile-right
+Fra:1 Mem:55.69M (Peak 55.69M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-stile-left
+Fra:1 Mem:55.79M (Peak 55.79M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-pull
+Fra:1 Mem:56.32M (Peak 56.32M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | plant-tv-medium | 电视右侧绿植
+Fra:1 Mem:56.64M (Peak 56.64M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-glass
+Fra:1 Mem:56.65M (Peak 56.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-rail-top
+Fra:1 Mem:56.52M (Peak 56.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-rail-bottom
+Fra:1 Mem:56.55M (Peak 56.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | plant-balcony-low | 阳台矮绿植
+Fra:1 Mem:56.55M (Peak 56.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:56.55M (Peak 56.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:56.55M (Peak 56.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-stile-right
+Fra:1 Mem:56.73M (Peak 56.73M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-stile-left
+Fra:1 Mem:57.12M (Peak 57.12M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-upper-fixed-glass
+Fra:1 Mem:57.17M (Peak 57.17M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-transom-top
+Fra:1 Mem:57.46M (Peak 57.46M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-overhead-track
+Fra:1 Mem:57.50M (Peak 57.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-jamb-right
+Fra:1 Mem:57.53M (Peak 57.53M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-jamb-left
+Fra:1 Mem:57.52M (Peak 57.53M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-right-lever
+Fra:1 Mem:57.64M (Peak 57.64M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | tv-high | 奶黄与奶油白通顶长柜
+Fra:1 Mem:57.65M (Peak 57.65M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:57.78M (Peak 57.78M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-right-base
+Fra:1 Mem:57.85M (Peak 57.85M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:57.88M (Peak 57.88M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-screen-right
+Fra:1 Mem:57.94M (Peak 57.94M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-right-top
+Fra:1 Mem:58.06M (Peak 58.06M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-right-bottom
+Fra:1 Mem:58.50M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-right-right
+Fra:1 Mem:58.36M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-right-left
+Fra:1 Mem:57.77M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-transom-right
+Fra:1 Mem:57.84M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:58.23M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-left-lever
+Fra:1 Mem:58.33M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-left-base
+Fra:1 Mem:58.16M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:58.18M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-screen-left
+Fra:1 Mem:58.24M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-top
+Fra:1 Mem:58.20M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:57.89M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:58.02M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-bottom
+Fra:1 Mem:58.20M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-right
+Fra:1 Mem:58.40M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-left
+Fra:1 Mem:58.46M (Peak 58.50M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:58.51M (Peak 58.51M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:58.71M (Peak 58.71M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-transom-left
+Fra:1 Mem:58.74M (Peak 58.74M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:58.73M (Peak 58.74M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-mullion-right
+Fra:1 Mem:58.73M (Peak 58.74M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:58.81M (Peak 58.81M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:58.86M (Peak 58.86M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-mullion-left
+Fra:1 Mem:58.74M (Peak 58.86M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:58.56M (Peak 58.86M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-top
+Fra:1 Mem:58.75M (Peak 58.86M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:58.73M (Peak 58.86M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:59.92M (Peak 59.92M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-bottom
+Fra:1 Mem:60.00M (Peak 60.00M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:60.16M (Peak 60.16M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:60.51M (Peak 60.51M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:60.82M (Peak 60.82M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:60.83M (Peak 60.83M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:61.33M (Peak 61.33M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-right
+Fra:1 Mem:61.40M (Peak 61.40M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-left
+Fra:1 Mem:61.38M (Peak 61.40M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:61.40M (Peak 61.40M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:61.99M (Peak 61.99M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-right-upper
+Fra:1 Mem:61.94M (Peak 61.99M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-right-bottom
+Fra:1 Mem:61.59M (Peak 61.99M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-left-upper
+Fra:1 Mem:61.65M (Peak 61.99M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:61.90M (Peak 61.99M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-left-bottom
+Fra:1 Mem:61.97M (Peak 61.99M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-central
+Fra:1 Mem:62.05M (Peak 62.05M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:62.47M (Peak 62.47M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:62.51M (Peak 62.51M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:62.55M (Peak 62.55M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:62.59M (Peak 62.59M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:62.64M (Peak 62.64M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:62.49M (Peak 62.64M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:62.69M (Peak 62.69M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:63.21M (Peak 63.21M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:63.15M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:63.15M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:62.61M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:62.76M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:62.95M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:62.95M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:62.93M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:62.93M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:62.93M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:62.93M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:63.14M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:63.09M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:63.09M (Peak 63.23M) | Time:00:00.21 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:62.42M (Peak 63.23M) | Time:00:00.22 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Initializing
+Fra:1 Mem:55.19M (Peak 63.23M) | Time:00:00.22 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Waiting for render to start
+Fra:1 Mem:55.19M (Peak 63.23M) | Time:00:00.22 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene
+Fra:1 Mem:55.19M (Peak 63.23M) | Time:00:00.22 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Shaders
+Fra:1 Mem:55.19M (Peak 63.23M) | Time:00:00.22 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.30 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Procedurals
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.30 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Background
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.30 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Camera
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.30 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.30 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.30 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.30 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Particle Systems
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.30 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.30 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Meshes
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.30 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.30 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:56.68M (Peak 82.36M) | Time:00:00.30 | Mem:0.08M, Peak:0.08M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH light 129/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 原户型轮廓 · 总长未闭合 mesh.001 2/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 原户型轮廓 · 总长未闭合 mesh.001 2/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH front-facade-glass-0 mesh.001 6/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH front-facade-glass-1 mesh.001 7/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH sofa-modular-back mesh 12/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH ottoman-base mesh 13/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-right · 弧形轮廓 128/128 | Building BVH
+Fra:1 Mem:56.88M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 14/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.88M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH office-chair-1-seat mesh 15/128 | Building BVH
+Fra:1 Mem:56.88M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 17/128 | Building BVH
+Fra:1 Mem:56.88M (Peak 82.36M) | Time:00:00.30 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 17/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.88M (Peak 82.36M) | Time:00:00.30 | Mem:1.51M, Peak:1.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 16/128 | Building BVH
+Fra:1 Mem:56.90M (Peak 82.36M) | Time:00:00.30 | Mem:1.51M, Peak:1.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 18/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.22M (Peak 82.36M) | Time:00:00.30 | Mem:1.51M, Peak:1.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 20/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.15M (Peak 82.36M) | Time:00:00.31 | Mem:3.29M, Peak:3.29M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/128 | Building BVH
+Fra:1 Mem:58.15M (Peak 82.36M) | Time:00:00.31 | Mem:3.81M, Peak:3.81M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.99M (Peak 82.36M) | Time:00:00.31 | Mem:2.94M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/128 | Building BVH
+Fra:1 Mem:57.99M (Peak 82.36M) | Time:00:00.31 | Mem:2.94M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.24M (Peak 82.36M) | Time:00:00.31 | Mem:3.19M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/128 | Building BVH
+Fra:1 Mem:58.24M (Peak 82.36M) | Time:00:00.31 | Mem:3.19M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.28M (Peak 82.36M) | Time:00:00.31 | Mem:3.23M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/128 | Building BVH
+Fra:1 Mem:58.28M (Peak 82.36M) | Time:00:00.31 | Mem:3.23M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.30M (Peak 82.36M) | Time:00:00.31 | Mem:3.24M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/128 | Building BVH
+Fra:1 Mem:58.30M (Peak 82.36M) | Time:00:00.31 | Mem:3.58M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.23M (Peak 82.36M) | Time:00:00.31 | Mem:3.26M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/128 | Building BVH
+Fra:1 Mem:58.23M (Peak 82.36M) | Time:00:00.31 | Mem:3.27M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.29M (Peak 82.36M) | Time:00:00.31 | Mem:3.47M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/128 | Building BVH
+Fra:1 Mem:58.29M (Peak 82.36M) | Time:00:00.31 | Mem:3.47M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.29M (Peak 82.36M) | Time:00:00.31 | Mem:3.55M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/128 | Building BVH
+Fra:1 Mem:58.29M (Peak 82.36M) | Time:00:00.31 | Mem:3.55M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.31M (Peak 82.36M) | Time:00:00.31 | Mem:3.43M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/128 | Building BVH
+Fra:1 Mem:58.31M (Peak 82.36M) | Time:00:00.31 | Mem:3.43M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.38M (Peak 82.36M) | Time:00:00.31 | Mem:3.49M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/128 | Building BVH
+Fra:1 Mem:58.38M (Peak 82.36M) | Time:00:00.31 | Mem:3.49M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.46M (Peak 82.36M) | Time:00:00.31 | Mem:3.61M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/128 | Building BVH
+Fra:1 Mem:58.46M (Peak 82.36M) | Time:00:00.31 | Mem:3.61M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.46M (Peak 82.36M) | Time:00:00.31 | Mem:3.61M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/128 | Building BVH
+Fra:1 Mem:58.46M (Peak 82.36M) | Time:00:00.31 | Mem:3.61M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.38M (Peak 82.36M) | Time:00:00.32 | Mem:3.58M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/128 | Building BVH
+Fra:1 Mem:58.38M (Peak 82.36M) | Time:00:00.32 | Mem:3.58M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.38M (Peak 82.36M) | Time:00:00.32 | Mem:3.59M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/128 | Building BVH
+Fra:1 Mem:58.38M (Peak 82.36M) | Time:00:00.32 | Mem:3.59M, Peak:3.86M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.20M (Peak 82.36M) | Time:00:00.32 | Mem:3.54M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/128 | Building BVH
+Fra:1 Mem:58.20M (Peak 82.36M) | Time:00:00.32 | Mem:3.56M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.20M (Peak 82.36M) | Time:00:00.32 | Mem:3.55M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 127/128 | Building BVH
+Fra:1 Mem:58.20M (Peak 82.36M) | Time:00:00.32 | Mem:3.55M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 127/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.13M (Peak 82.36M) | Time:00:00.32 | Mem:3.52M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/128 | Building BVH
+Fra:1 Mem:58.13M (Peak 82.36M) | Time:00:00.32 | Mem:3.57M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.13M (Peak 82.36M) | Time:00:00.32 | Mem:3.53M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/128 | Building BVH
+Fra:1 Mem:58.13M (Peak 82.36M) | Time:00:00.32 | Mem:3.53M, Peak:4.19M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.56M (Peak 82.36M) | Time:00:00.32 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/128 | Building BVH
+Fra:1 Mem:57.56M (Peak 82.36M) | Time:00:00.32 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.52M (Peak 82.36M) | Time:00:00.32 | Mem:3.26M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/128 | Building BVH
+Fra:1 Mem:57.52M (Peak 82.36M) | Time:00:00.32 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.48M (Peak 82.36M) | Time:00:00.33 | Mem:3.26M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/128 | Building BVH
+Fra:1 Mem:57.48M (Peak 82.36M) | Time:00:00.33 | Mem:3.26M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.24M (Peak 82.36M) | Time:00:00.33 | Mem:3.21M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/128 | Building BVH
+Fra:1 Mem:57.24M (Peak 82.36M) | Time:00:00.33 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.21M (Peak 82.36M) | Time:00:00.33 | Mem:3.23M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/128 | Building BVH
+Fra:1 Mem:57.21M (Peak 82.36M) | Time:00:00.33 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.19M (Peak 82.36M) | Time:00:00.33 | Mem:3.50M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/128 | Building BVH
+Fra:1 Mem:57.19M (Peak 82.36M) | Time:00:00.33 | Mem:3.50M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.15M (Peak 82.36M) | Time:00:00.33 | Mem:3.25M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/128 | Building BVH
+Fra:1 Mem:57.15M (Peak 82.36M) | Time:00:00.33 | Mem:3.52M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.10M (Peak 82.36M) | Time:00:00.33 | Mem:3.54M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/128 | Building BVH
+Fra:1 Mem:57.10M (Peak 82.36M) | Time:00:00.33 | Mem:3.54M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.05M (Peak 82.36M) | Time:00:00.33 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/128 | Building BVH
+Fra:1 Mem:57.05M (Peak 82.36M) | Time:00:00.33 | Mem:3.54M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.99M (Peak 82.36M) | Time:00:00.33 | Mem:3.52M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/128 | Building BVH
+Fra:1 Mem:56.99M (Peak 82.36M) | Time:00:00.33 | Mem:3.52M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.93M (Peak 82.36M) | Time:00:00.33 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/128 | Building BVH
+Fra:1 Mem:56.93M (Peak 82.36M) | Time:00:00.33 | Mem:3.58M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.23M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.24M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.24M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.26M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.24M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.25M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.25M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.33 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.82M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 126/128 | Building BVH
+Fra:1 Mem:56.82M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 126/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.34 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/128 | Building BVH
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/128 | Building BVH
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/128 | Building BVH
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.34 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.34 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/128 | Building BVH
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.34 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/128 | Building BVH
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/128 | Building BVH
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.34 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.27M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 置物格内部照明 77/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 置物格内部照明 77/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.34 | Mem:3.28M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.29M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.35 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 125/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 125/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.35 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.35 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.35 | Mem:3.30M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.35 | Mem:3.31M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.35 | Mem:3.32M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.35 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.35 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.33M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.35 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.34M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.35M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.35M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.35M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.35 | Mem:3.37M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.36 | Mem:3.36M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.36 | Mem:3.36M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.36 | Mem:3.43M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.36 | Mem:3.37M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.36 | Mem:3.37M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.40M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.72M (Peak 82.36M) | Time:00:00.36 | Mem:3.38M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/128 | Building BVH
+Fra:1 Mem:56.72M (Peak 82.36M) | Time:00:00.36 | Mem:3.38M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.36 | Mem:3.38M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.36 | Mem:3.38M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.36 | Mem:3.38M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 124/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.36 | Mem:3.38M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 124/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.36 | Mem:3.39M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.36 | Mem:3.39M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.40M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.40M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.40M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.40M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.36 | Mem:3.41M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.36 | Mem:3.43M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.41M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.41M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 110/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.43M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 110/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 111/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 111/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.42M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 112/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.36 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 112/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 113/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 113/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 114/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 114/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.43M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 115/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 115/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 116/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 116/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 117/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 117/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.44M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 118/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.46M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 118/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 119/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 119/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.46M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 120/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.46M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 120/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 121/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 121/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 123/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 123/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.46M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 122/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.37 | Mem:3.48M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 122/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.38 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.38 | Mem:3.45M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.38 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.38 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.38 | Mem:3.47M, Peak:4.82M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.39 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects Flags
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.39 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.39 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Images
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.39 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Camera Volume
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.39 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.39 | Mem:7.49M, Peak:7.49M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lights
+Fra:1 Mem:60.61M (Peak 82.36M) | Time:00:00.39 | Mem:7.49M, Peak:7.49M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:60.62M (Peak 82.36M) | Time:00:00.39 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Integrator
+Fra:1 Mem:60.62M (Peak 82.36M) | Time:00:00.39 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Film
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.39 | Mem:7.43M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.39 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Baking
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.39 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.39 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:66.26M (Peak 82.36M) | Time:00:00.41 | Mem:558.77M, Peak:558.77M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 0/96
+Fra:1 Mem:222.82M (Peak 222.82M) | Time:00:00.57 | Remaining:00:16.11 | Mem:715.32M, Peak:715.32M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 1/96
+Fra:1 Mem:222.83M (Peak 222.83M) | Time:00:11.51 | Remaining:00:02.22 | Mem:715.33M, Peak:715.33M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 80/96
+Fra:1 Mem:288.75M (Peak 387.63M) | Time:00:17.86 | Mem:715.33M, Peak:715.33M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 96/96
+Fra:1 Mem:288.75M (Peak 387.63M) | Time:00:17.86 | Mem:715.33M, Peak:715.33M | v09 · 餐厨玻璃推拉门, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v09-sliding-door\door-closed.png'
+Time: 00:18.17 (Saving: 00:00.25)
+
+Fra:1 Mem:55.56M (Peak 55.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:55.56M (Peak 55.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | front-facade-glass-0.001
+Fra:1 Mem:55.56M (Peak 55.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | lower-projection-right-glass-0.001
+Fra:1 Mem:55.56M (Peak 55.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发.001
+Fra:1 Mem:55.56M (Peak 55.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | bookcase | 书柜与储物.001
+Fra:1 Mem:55.57M (Peak 55.57M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2.001
+Fra:1 Mem:55.58M (Peak 55.58M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | entry-shoe-cabinet | 入户鞋柜
+Fra:1 Mem:55.58M (Peak 55.58M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | entry-return-cabinet | 入户转角储物柜
+Fra:1 Mem:55.58M (Peak 55.58M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | plant-balcony-tall | 阳台高绿植
+Fra:1 Mem:55.73M (Peak 55.73M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | plant-tv-medium | 电视右侧绿植
+Fra:1 Mem:56.12M (Peak 56.12M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | plant-balcony-low | 阳台矮绿植
+Fra:1 Mem:56.94M (Peak 56.94M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:58.37M (Peak 58.37M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:58.33M (Peak 58.37M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | tv-high | 奶黄与奶油白通顶长柜
+Fra:1 Mem:59.65M (Peak 59.65M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-small-guide-right
+Fra:1 Mem:60.35M (Peak 60.38M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-small-guide-left
+Fra:1 Mem:60.41M (Peak 60.41M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:60.43M (Peak 60.43M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:60.58M (Peak 60.58M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-pull
+Fra:1 Mem:60.59M (Peak 60.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-glass
+Fra:1 Mem:60.46M (Peak 60.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-rail-top
+Fra:1 Mem:60.44M (Peak 60.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:60.56M (Peak 60.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:60.14M (Peak 60.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:60.32M (Peak 60.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-rail-bottom
+Fra:1 Mem:60.89M (Peak 60.89M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-stile-right
+Fra:1 Mem:60.94M (Peak 60.94M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-right-stile-left
+Fra:1 Mem:60.96M (Peak 60.96M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:61.03M (Peak 61.03M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-pull
+Fra:1 Mem:61.07M (Peak 61.07M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-glass
+Fra:1 Mem:61.07M (Peak 61.07M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:60.97M (Peak 61.07M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-rail-top
+Fra:1 Mem:60.99M (Peak 61.07M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:61.14M (Peak 61.14M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:61.09M (Peak 61.14M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:61.22M (Peak 61.22M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:61.40M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:60.49M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:60.52M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:60.62M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:60.85M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:60.85M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:60.86M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:61.00M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:61.23M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:61.35M (Peak 61.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:61.93M (Peak 61.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:61.75M (Peak 61.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:61.90M (Peak 61.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:61.65M (Peak 61.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:61.64M (Peak 61.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:61.72M (Peak 61.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:62.43M (Peak 62.43M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:62.24M (Peak 62.43M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:62.35M (Peak 62.43M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:62.56M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:62.36M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:62.52M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:61.85M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:62.03M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:62.03M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:62.08M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:62.07M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:62.08M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:62.07M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-rail-bottom
+Fra:1 Mem:62.10M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:62.11M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:62.12M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-stile-right
+Fra:1 Mem:62.13M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:62.12M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:62.15M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:62.18M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-left-stile-left
+Fra:1 Mem:62.21M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:62.23M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:62.49M (Peak 62.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-upper-fixed-glass
+Fra:1 Mem:62.59M (Peak 62.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:63.03M (Peak 63.03M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-transom-top
+Fra:1 Mem:63.04M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-central
+Fra:1 Mem:62.82M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-left-bottom
+Fra:1 Mem:62.82M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-right-bottom
+Fra:1 Mem:62.82M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-glass-right-upper
+Fra:1 Mem:62.83M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-left
+Fra:1 Mem:62.85M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-right
+Fra:1 Mem:62.29M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-bottom
+Fra:1 Mem:62.59M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-outer-top
+Fra:1 Mem:62.75M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-mullion-right
+Fra:1 Mem:62.59M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-transom-left
+Fra:1 Mem:62.59M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-left
+Fra:1 Mem:62.25M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-right
+Fra:1 Mem:62.26M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-bottom
+Fra:1 Mem:62.29M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-left-top
+Fra:1 Mem:62.31M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-jamb-right
+Fra:1 Mem:62.30M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-left-lever
+Fra:1 Mem:62.34M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-transom-right
+Fra:1 Mem:62.35M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-sash-right-right
+Fra:1 Mem:62.53M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-screen-right
+Fra:1 Mem:62.54M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-right-base
+Fra:1 Mem:62.53M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | kitchen-slider-jamb-left
+Fra:1 Mem:62.54M (Peak 63.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Synchronizing object | balcony-handle-right-lever
+Fra:1 Mem:62.42M (Peak 63.93M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Initializing
+Fra:1 Mem:55.19M (Peak 63.93M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Waiting for render to start
+Fra:1 Mem:55.19M (Peak 63.93M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene
+Fra:1 Mem:55.19M (Peak 63.93M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Shaders
+Fra:1 Mem:55.19M (Peak 63.93M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v09 · 餐厨玻璃推拉门, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.21 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Procedurals
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.21 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Background
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.21 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Camera
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.21 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.21 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects
+Fra:1 Mem:55.31M (Peak 82.36M) | Time:00:00.21 | Mem:0.04M, Peak:0.04M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.21 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Particle Systems
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.21 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.21 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Meshes
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.21 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:55.34M (Peak 82.36M) | Time:00:00.21 | Mem:0.07M, Peak:0.07M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:56.68M (Peak 82.36M) | Time:00:00.21 | Mem:0.08M, Peak:0.08M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH light 129/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH light 129/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH television-body mesh 11/128 | Building BVH
+Fra:1 Mem:56.66M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 14/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.68M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH office-chair-1-seat mesh 15/128 | Building BVH
+Fra:1 Mem:56.68M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 18/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.87M (Peak 82.36M) | Time:00:00.21 | Mem:1.40M, Peak:1.40M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 16/128 | Building BVH
+Fra:1 Mem:56.87M (Peak 82.36M) | Time:00:00.21 | Mem:1.41M, Peak:1.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 20/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.14M (Peak 82.36M) | Time:00:00.22 | Mem:2.54M, Peak:2.54M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/128 | Building BVH
+Fra:1 Mem:58.14M (Peak 82.36M) | Time:00:00.22 | Mem:2.54M, Peak:2.54M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.00M (Peak 82.36M) | Time:00:00.22 | Mem:2.88M, Peak:3.52M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/128 | Building BVH
+Fra:1 Mem:58.00M (Peak 82.36M) | Time:00:00.22 | Mem:2.88M, Peak:3.52M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.24M (Peak 82.36M) | Time:00:00.22 | Mem:3.33M, Peak:3.52M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/128 | Building BVH
+Fra:1 Mem:58.24M (Peak 82.36M) | Time:00:00.22 | Mem:3.33M, Peak:3.52M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.19M (Peak 82.36M) | Time:00:00.22 | Mem:3.12M, Peak:3.52M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/128 | Building BVH
+Fra:1 Mem:58.19M (Peak 82.36M) | Time:00:00.22 | Mem:3.12M, Peak:3.52M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.65M (Peak 82.36M) | Time:00:00.22 | Mem:2.89M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/128 | Building BVH
+Fra:1 Mem:57.65M (Peak 82.36M) | Time:00:00.22 | Mem:2.89M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.70M (Peak 82.36M) | Time:00:00.22 | Mem:2.94M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/128 | Building BVH
+Fra:1 Mem:57.70M (Peak 82.36M) | Time:00:00.22 | Mem:2.94M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.76M (Peak 82.36M) | Time:00:00.22 | Mem:3.06M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/128 | Building BVH
+Fra:1 Mem:57.76M (Peak 82.36M) | Time:00:00.22 | Mem:3.15M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.76M (Peak 82.36M) | Time:00:00.22 | Mem:3.04M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/128 | Building BVH
+Fra:1 Mem:57.76M (Peak 82.36M) | Time:00:00.22 | Mem:3.04M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.83M (Peak 82.36M) | Time:00:00.22 | Mem:3.11M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/128 | Building BVH
+Fra:1 Mem:57.83M (Peak 82.36M) | Time:00:00.22 | Mem:3.11M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.90M (Peak 82.36M) | Time:00:00.22 | Mem:3.18M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/128 | Building BVH
+Fra:1 Mem:57.90M (Peak 82.36M) | Time:00:00.22 | Mem:3.18M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/128 | Building OptiX acceleration structure
+Fra:1 Mem:58.03M (Peak 82.36M) | Time:00:00.23 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/128 | Building BVH
+Fra:1 Mem:58.03M (Peak 82.36M) | Time:00:00.23 | Mem:3.64M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.91M (Peak 82.36M) | Time:00:00.23 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/128 | Building BVH
+Fra:1 Mem:57.91M (Peak 82.36M) | Time:00:00.23 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.92M (Peak 82.36M) | Time:00:00.23 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/128 | Building BVH
+Fra:1 Mem:57.92M (Peak 82.36M) | Time:00:00.23 | Mem:3.36M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.87M (Peak 82.36M) | Time:00:00.23 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/128 | Building BVH
+Fra:1 Mem:57.87M (Peak 82.36M) | Time:00:00.23 | Mem:3.69M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.67M (Peak 82.36M) | Time:00:00.23 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/128 | Building BVH
+Fra:1 Mem:57.67M (Peak 82.36M) | Time:00:00.23 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.62M (Peak 82.36M) | Time:00:00.23 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/128 | Building BVH
+Fra:1 Mem:57.62M (Peak 82.36M) | Time:00:00.23 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.58M (Peak 82.36M) | Time:00:00.23 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/128 | Building BVH
+Fra:1 Mem:57.58M (Peak 82.36M) | Time:00:00.23 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.51M (Peak 82.36M) | Time:00:00.23 | Mem:3.25M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/128 | Building BVH
+Fra:1 Mem:57.51M (Peak 82.36M) | Time:00:00.23 | Mem:3.26M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.52M (Peak 82.36M) | Time:00:00.23 | Mem:3.26M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/128 | Building BVH
+Fra:1 Mem:57.52M (Peak 82.36M) | Time:00:00.23 | Mem:3.26M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.52M (Peak 82.36M) | Time:00:00.23 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 127/128 | Building BVH
+Fra:1 Mem:57.52M (Peak 82.36M) | Time:00:00.23 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 127/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.48M (Peak 82.36M) | Time:00:00.23 | Mem:3.26M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/128 | Building BVH
+Fra:1 Mem:57.48M (Peak 82.36M) | Time:00:00.23 | Mem:3.63M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.24M (Peak 82.36M) | Time:00:00.24 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/128 | Building BVH
+Fra:1 Mem:57.24M (Peak 82.36M) | Time:00:00.24 | Mem:3.40M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.21M (Peak 82.36M) | Time:00:00.24 | Mem:3.23M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/128 | Building BVH
+Fra:1 Mem:57.21M (Peak 82.36M) | Time:00:00.24 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.19M (Peak 82.36M) | Time:00:00.24 | Mem:3.24M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/128 | Building BVH
+Fra:1 Mem:57.19M (Peak 82.36M) | Time:00:00.24 | Mem:3.35M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.15M (Peak 82.36M) | Time:00:00.24 | Mem:3.25M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/128 | Building BVH
+Fra:1 Mem:57.15M (Peak 82.36M) | Time:00:00.24 | Mem:3.52M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.10M (Peak 82.36M) | Time:00:00.24 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/128 | Building BVH
+Fra:1 Mem:57.10M (Peak 82.36M) | Time:00:00.24 | Mem:3.54M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/128 | Building OptiX acceleration structure
+Fra:1 Mem:57.05M (Peak 82.36M) | Time:00:00.24 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/128 | Building BVH
+Fra:1 Mem:57.05M (Peak 82.36M) | Time:00:00.24 | Mem:3.54M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.99M (Peak 82.36M) | Time:00:00.24 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/128 | Building BVH
+Fra:1 Mem:56.99M (Peak 82.36M) | Time:00:00.24 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.93M (Peak 82.36M) | Time:00:00.24 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/128 | Building BVH
+Fra:1 Mem:56.93M (Peak 82.36M) | Time:00:00.24 | Mem:3.41M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.24 | Mem:3.23M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.24 | Mem:3.23M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.24M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.26M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.24M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.25M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.25M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.26M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.82M (Peak 82.36M) | Time:00:00.25 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 126/128 | Building BVH
+Fra:1 Mem:56.82M (Peak 82.36M) | Time:00:00.25 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 126/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/128 | Building BVH
+Fra:1 Mem:56.81M (Peak 82.36M) | Time:00:00.25 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.26 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/128 | Building BVH
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/128 | Building BVH
+Fra:1 Mem:56.80M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/128 | Building BVH
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/128 | Building BVH
+Fra:1 Mem:56.79M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/128 | Building BVH
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/128 | Building BVH
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/128 | Building BVH
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/128 | Building BVH
+Fra:1 Mem:56.78M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.29M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 置物格内部照明 77/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 置物格内部照明 77/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.27M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.28M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.30M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.26 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.26 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.26 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.26 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 125/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.26 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 125/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.27 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.27 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.31M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.32M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.27 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.27 | Mem:3.33M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.27 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.27 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.34M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.35M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.35M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.27 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/128 | Building BVH
+Fra:1 Mem:56.77M (Peak 82.36M) | Time:00:00.27 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.36M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.42M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.36M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/128 | Building BVH
+Fra:1 Mem:56.76M (Peak 82.36M) | Time:00:00.27 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.27 | Mem:3.37M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.27 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.37M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.27 | Mem:3.40M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.72M (Peak 82.36M) | Time:00:00.27 | Mem:3.37M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/128 | Building BVH
+Fra:1 Mem:56.72M (Peak 82.36M) | Time:00:00.27 | Mem:3.38M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.27 | Mem:3.38M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.27 | Mem:3.38M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.27 | Mem:3.38M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.27 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.28 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/128 | Building BVH
+Fra:1 Mem:56.73M (Peak 82.36M) | Time:00:00.28 | Mem:3.40M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.39M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.40M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.41M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.41M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.28 | Mem:3.41M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 124/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.28 | Mem:3.42M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 124/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.28 | Mem:3.41M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/128 | Building BVH
+Fra:1 Mem:56.75M (Peak 82.36M) | Time:00:00.28 | Mem:3.41M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.42M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.42M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 110/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 110/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.42M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 111/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 111/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.42M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 112/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 112/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 113/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 113/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 114/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.45M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 114/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.43M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 115/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.45M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 115/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 116/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 116/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 117/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 117/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.44M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 118/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.28 | Mem:3.46M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 118/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.45M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 119/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 119/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.45M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 120/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.46M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 120/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.46M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 121/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 121/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.46M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 122/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 122/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 123/128 | Building BVH
+Fra:1 Mem:56.74M (Peak 82.36M) | Time:00:00.29 | Mem:3.48M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 123/128 | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.30 | Mem:3.45M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.30 | Mem:3.45M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.30 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:56.67M (Peak 82.36M) | Time:00:00.30 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.30 | Mem:3.47M, Peak:4.43M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.31 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Objects Flags
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.31 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.31 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Images
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.31 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Camera Volume
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.31 | Mem:7.41M, Peak:7.41M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:60.60M (Peak 82.36M) | Time:00:00.31 | Mem:7.49M, Peak:7.49M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lights
+Fra:1 Mem:60.61M (Peak 82.36M) | Time:00:00.31 | Mem:7.49M, Peak:7.49M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:60.62M (Peak 82.36M) | Time:00:00.31 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Integrator
+Fra:1 Mem:60.62M (Peak 82.36M) | Time:00:00.31 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Film
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.31 | Mem:7.43M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.31 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Baking
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.31 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:60.63M (Peak 82.36M) | Time:00:00.31 | Mem:7.51M, Peak:7.51M | v09 · 餐厨玻璃推拉门, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:66.26M (Peak 82.36M) | Time:00:00.32 | Mem:558.77M, Peak:558.77M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 0/96
+Fra:1 Mem:222.82M (Peak 222.82M) | Time:00:00.52 | Remaining:00:18.22 | Mem:715.32M, Peak:715.32M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 1/96
+Fra:1 Mem:222.83M (Peak 222.83M) | Time:00:11.59 | Remaining:00:02.25 | Mem:715.33M, Peak:715.33M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 80/96
+Fra:1 Mem:288.75M (Peak 387.63M) | Time:00:17.49 | Mem:715.33M, Peak:715.33M | v09 · 餐厨玻璃推拉门, ViewLayer | Sample 96/96
+Fra:1 Mem:288.75M (Peak 387.63M) | Time:00:17.49 | Mem:715.33M, Peak:715.33M | v09 · 餐厨玻璃推拉门, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v09-sliding-door\door-open.png'
+Time: 00:17.69 (Saving: 00:00.13)
+
+BlenderMCP addon registered
+V09_RENDER_VERIFIED {"views": 2, "furniture": 21, "door_motion_verified": true}
+BlenderMCP addon unregistered
+
+Blender quit

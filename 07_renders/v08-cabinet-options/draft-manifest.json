@@ -1,0 +1,30 @@
+{
+  "status": "three unselected options",
+  "base_model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v07.blend",
+  "base_sha256": "f432ed4ed8da8eba33d1574087cb6d0fa0d9387d5c2890c2ba9b6e58e9094fbb",
+  "options": [
+    {
+      "id": "B",
+      "name": "灰橄榄绿＋浅橡木",
+      "color_hex": "#7C8974",
+      "description": "灰绿门板搭配细木色内嵌拉手；电视端R80弧形端头，呼应绿植与圆角家具。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-b-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-b-sage-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-b-geometry.json",
+      "geometry_sha256": "a43a3678c3b3937cebd87ba6cad72d6095269c46b5cc7d21b510efed1d74a1ae",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 19
+    }
+  ]
+}

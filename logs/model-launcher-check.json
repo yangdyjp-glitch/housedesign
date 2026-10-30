@@ -1,0 +1,6 @@
+{
+  "verified": true,
+  "result": "Managed Blender GUI window found by process id and GHOST_WindowClass",
+  "shown_in_test": false,
+  "mode": "open_model.py --check"
+}

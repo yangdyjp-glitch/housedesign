@@ -1,0 +1,25 @@
+{
+  "observed_at": "2026-10-30T11:20:25.554132+00:00",
+  "static_python_files": 43,
+  "tests": [
+    {
+      "skill": "xiong-interior-design",
+      "entry": "scripts/test_geometry_utils.py",
+      "passed": 32,
+      "failed": 0
+    },
+    {
+      "skill": "xiong-interior-design",
+      "entry": "scripts/test_export_reference_dxf.py",
+      "passed": 6,
+      "failed": 0,
+      "note": "ezdxf font discovery emitted an unrelated non-TrueType mstmc.ttf warning; all assertions passed"
+    }
+  ],
+  "optional_not_run": [
+    "moodboard PDF rendering",
+    "xiong browser annotator and viewer integration",
+    "all other upstream script entrypoints"
+  ],
+  "session_skill_discovery": "pending next normal Codex session; no new thread or app restart forced"
+}

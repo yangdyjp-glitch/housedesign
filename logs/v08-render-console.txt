@@ -1,0 +1,647 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v08.blend"
+Fra:1 Mem:49.92M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:49.92M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:49.92M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | bay-front-glass-0.001
+Fra:1 Mem:49.92M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | front-facade-glass-0.001
+Fra:1 Mem:49.93M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:49.93M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | tv-low | 电视低柜.001
+Fra:1 Mem:49.93M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | television | 85英寸电视.001
+Fra:1 Mem:49.94M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发.001
+Fra:1 Mem:51.96M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | ottoman | 可移脚凳.001
+Fra:1 Mem:51.96M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1.001
+Fra:1 Mem:51.96M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1.001
+Fra:1 Mem:51.97M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3.001
+Fra:1 Mem:52.01M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4.001
+Fra:1 Mem:52.03M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | double-desk | 双人办公桌.001
+Fra:1 Mem:52.04M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | entry-shoe-cabinet | 入户鞋柜
+Fra:1 Mem:52.05M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | entry-return-cabinet | 入户转角储物柜
+Fra:1 Mem:52.05M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | plant-tv-medium | 电视右侧绿植
+Fra:1 Mem:52.05M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:52.48M (Peak 52.99M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:54.06M (Peak 54.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | tv-high | 奶黄与奶油白通顶长柜
+Fra:1 Mem:54.09M (Peak 54.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:53.99M (Peak 54.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:54.14M (Peak 54.14M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:54.51M (Peak 54.51M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:54.59M (Peak 54.59M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:55.00M (Peak 55.00M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:55.19M (Peak 55.19M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:55.18M (Peak 55.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:54.98M (Peak 55.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:55.02M (Peak 55.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:55.02M (Peak 55.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:55.37M (Peak 55.37M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:55.22M (Peak 55.37M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:55.32M (Peak 55.37M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:55.40M (Peak 55.40M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:55.57M (Peak 55.57M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:55.61M (Peak 55.61M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:55.65M (Peak 55.65M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:55.67M (Peak 55.67M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:55.72M (Peak 55.72M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:55.57M (Peak 55.72M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:55.61M (Peak 55.72M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:55.67M (Peak 55.72M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:55.64M (Peak 55.72M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:55.86M (Peak 55.86M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:55.85M (Peak 55.86M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:56.97M (Peak 56.97M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:56.98M (Peak 56.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:56.96M (Peak 57.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:56.36M (Peak 57.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:56.52M (Peak 57.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:56.54M (Peak 57.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-right-lever
+Fra:1 Mem:56.72M (Peak 57.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:56.95M (Peak 57.06M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:57.08M (Peak 57.08M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:57.04M (Peak 57.08M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-right-base
+Fra:1 Mem:57.09M (Peak 57.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:56.97M (Peak 57.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:56.97M (Peak 57.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:57.15M (Peak 57.15M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:57.15M (Peak 57.15M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-screen-right
+Fra:1 Mem:57.18M (Peak 57.18M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-top
+Fra:1 Mem:57.20M (Peak 57.20M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:57.20M (Peak 57.20M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:57.21M (Peak 57.21M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:57.32M (Peak 57.32M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:57.31M (Peak 57.32M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:57.31M (Peak 57.32M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-bottom
+Fra:1 Mem:57.31M (Peak 57.32M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:57.34M (Peak 57.34M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:57.45M (Peak 57.45M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:57.60M (Peak 57.60M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-right
+Fra:1 Mem:57.74M (Peak 57.74M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:58.04M (Peak 58.04M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:58.15M (Peak 58.15M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-left
+Fra:1 Mem:58.19M (Peak 58.19M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-central
+Fra:1 Mem:58.19M (Peak 58.19M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-left-bottom
+Fra:1 Mem:58.27M (Peak 58.27M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-transom-right
+Fra:1 Mem:58.33M (Peak 58.33M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-left-upper
+Fra:1 Mem:58.33M (Peak 58.33M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-right-upper
+Fra:1 Mem:58.37M (Peak 58.37M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-left
+Fra:1 Mem:59.67M (Peak 59.67M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-right
+Fra:1 Mem:59.65M (Peak 59.67M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-left-lever
+Fra:1 Mem:59.61M (Peak 59.67M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-bottom
+Fra:1 Mem:59.71M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-left-base
+Fra:1 Mem:59.49M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-screen-left
+Fra:1 Mem:59.45M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-top
+Fra:1 Mem:59.36M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-top
+Fra:1 Mem:59.59M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-transom-left
+Fra:1 Mem:59.60M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-left
+Fra:1 Mem:59.61M (Peak 59.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-bottom
+Fra:1 Mem:60.24M (Peak 61.47M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Initializing
+Fra:1 Mem:53.95M (Peak 61.47M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.95M (Peak 61.47M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene
+Fra:1 Mem:53.95M (Peak 61.47M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Shaders
+Fra:1 Mem:53.95M (Peak 61.47M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.27 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Procedurals
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.28 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Background
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.28 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Camera
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.28 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.28 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.28 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.28 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Particle Systems
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.28 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.28 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Meshes
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.28 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.28 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:55.39M (Peak 81.11M) | Time:00:00.28 | Mem:0.07M, Peak:0.07M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:55.37M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH light 110/109 | Building BVH
+Fra:1 Mem:55.37M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH light 110/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH outer-left-glass-0 mesh.001 3/109 | Building BVH
+Fra:1 Mem:55.37M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH front-facade-glass-1 mesh.001 7/109 | Building BVH
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH lower-projection-right-glass-0 mesh.001 9/109 | Building BVH
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 14/109 | Building BVH
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 17/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 20/109 | Building BVH
+Fra:1 Mem:55.41M (Peak 81.11M) | Time:00:00.28 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 20/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.28 | Mem:2.91M, Peak:2.91M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/109 | Building BVH
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.28 | Mem:2.99M, Peak:2.99M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.28 | Mem:3.21M, Peak:3.21M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/109 | Building BVH
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.28 | Mem:3.21M, Peak:3.21M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.99M (Peak 81.11M) | Time:00:00.28 | Mem:3.09M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/109 | Building BVH
+Fra:1 Mem:56.99M (Peak 81.11M) | Time:00:00.28 | Mem:3.29M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.28 | Mem:3.09M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/109 | Building BVH
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.28 | Mem:3.09M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.96M (Peak 81.11M) | Time:00:00.28 | Mem:3.11M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/109 | Building BVH
+Fra:1 Mem:56.96M (Peak 81.11M) | Time:00:00.28 | Mem:3.13M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.02M (Peak 81.11M) | Time:00:00.29 | Mem:3.16M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/109 | Building BVH
+Fra:1 Mem:57.02M (Peak 81.11M) | Time:00:00.29 | Mem:3.32M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.97M (Peak 81.11M) | Time:00:00.29 | Mem:3.15M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/109 | Building BVH
+Fra:1 Mem:56.97M (Peak 81.11M) | Time:00:00.29 | Mem:3.36M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.29 | Mem:3.25M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/109 | Building BVH
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.29 | Mem:3.34M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.29 | Mem:3.26M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/109 | Building BVH
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.29 | Mem:3.26M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.01M (Peak 81.11M) | Time:00:00.29 | Mem:3.29M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/109 | Building BVH
+Fra:1 Mem:57.01M (Peak 81.11M) | Time:00:00.29 | Mem:3.29M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.08M (Peak 81.11M) | Time:00:00.29 | Mem:3.35M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/109 | Building BVH
+Fra:1 Mem:57.08M (Peak 81.11M) | Time:00:00.29 | Mem:3.36M, Peak:3.46M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.21M (Peak 81.11M) | Time:00:00.29 | Mem:3.49M, Peak:3.49M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/109 | Building BVH
+Fra:1 Mem:57.21M (Peak 81.11M) | Time:00:00.29 | Mem:3.49M, Peak:3.49M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.21M (Peak 81.11M) | Time:00:00.29 | Mem:3.49M, Peak:3.49M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/109 | Building BVH
+Fra:1 Mem:57.21M (Peak 81.11M) | Time:00:00.29 | Mem:3.49M, Peak:3.49M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.16M (Peak 81.11M) | Time:00:00.29 | Mem:3.49M, Peak:3.69M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/109 | Building BVH
+Fra:1 Mem:57.16M (Peak 81.11M) | Time:00:00.29 | Mem:3.50M, Peak:3.69M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.17M (Peak 81.11M) | Time:00:00.29 | Mem:3.51M, Peak:3.69M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/109 | Building BVH
+Fra:1 Mem:57.17M (Peak 81.11M) | Time:00:00.29 | Mem:3.51M, Peak:3.69M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/109 | Building OptiX acceleration structure
+Fra:1 Mem:57.17M (Peak 81.11M) | Time:00:00.29 | Mem:3.51M, Peak:3.69M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/109 | Building BVH
+Fra:1 Mem:57.17M (Peak 81.11M) | Time:00:00.29 | Mem:3.51M, Peak:3.69M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.97M (Peak 81.11M) | Time:00:00.29 | Mem:3.51M, Peak:4.44M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/109 | Building BVH
+Fra:1 Mem:56.97M (Peak 81.11M) | Time:00:00.29 | Mem:3.52M, Peak:4.44M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.98M (Peak 81.11M) | Time:00:00.29 | Mem:3.52M, Peak:4.44M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/109 | Building BVH
+Fra:1 Mem:56.98M (Peak 81.11M) | Time:00:00.29 | Mem:3.52M, Peak:4.44M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.79M (Peak 81.11M) | Time:00:00.30 | Mem:3.47M, Peak:4.44M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/109 | Building BVH
+Fra:1 Mem:56.79M (Peak 81.11M) | Time:00:00.30 | Mem:4.04M, Peak:4.44M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.23M (Peak 81.11M) | Time:00:00.30 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/109 | Building BVH
+Fra:1 Mem:56.23M (Peak 81.11M) | Time:00:00.30 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.19M (Peak 81.11M) | Time:00:00.30 | Mem:4.06M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/109 | Building BVH
+Fra:1 Mem:56.19M (Peak 81.11M) | Time:00:00.30 | Mem:4.06M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.95M (Peak 81.11M) | Time:00:00.30 | Mem:3.17M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/109 | Building BVH
+Fra:1 Mem:55.95M (Peak 81.11M) | Time:00:00.30 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.92M (Peak 81.11M) | Time:00:00.30 | Mem:3.18M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/109 | Building BVH
+Fra:1 Mem:55.92M (Peak 81.11M) | Time:00:00.30 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.90M (Peak 81.11M) | Time:00:00.30 | Mem:3.19M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/109 | Building BVH
+Fra:1 Mem:55.90M (Peak 81.11M) | Time:00:00.30 | Mem:3.31M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.86M (Peak 81.11M) | Time:00:00.30 | Mem:3.21M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/109 | Building BVH
+Fra:1 Mem:55.86M (Peak 81.11M) | Time:00:00.30 | Mem:3.21M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.86M (Peak 81.11M) | Time:00:00.30 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/109 | Building BVH
+Fra:1 Mem:55.86M (Peak 81.11M) | Time:00:00.30 | Mem:3.33M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.81M (Peak 81.11M) | Time:00:00.30 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/109 | Building BVH
+Fra:1 Mem:55.81M (Peak 81.11M) | Time:00:00.30 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.76M (Peak 81.11M) | Time:00:00.30 | Mem:3.35M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/109 | Building BVH
+Fra:1 Mem:55.76M (Peak 81.11M) | Time:00:00.30 | Mem:3.50M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.70M (Peak 81.11M) | Time:00:00.31 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/109 | Building BVH
+Fra:1 Mem:55.70M (Peak 81.11M) | Time:00:00.31 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.64M (Peak 81.11M) | Time:00:00.31 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/109 | Building BVH
+Fra:1 Mem:55.64M (Peak 81.11M) | Time:00:00.31 | Mem:3.36M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.31 | Mem:3.19M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.31 | Mem:3.19M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.20M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.20M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.21M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.22M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.31 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.32 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/109 | Building BVH
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/109 | Building BVH
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/109 | Building BVH
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/109 | Building BVH
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 置物格内部照明 77/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 置物格内部照明 77/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.23M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.32 | Mem:3.24M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.26M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.32 | Mem:3.25M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.28M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.28M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.27M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.33 | Mem:3.28M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.28M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.28M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.33 | Mem:3.29M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.33 | Mem:3.30M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.31M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.31M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.33M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.35M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.33 | Mem:3.38M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.34 | Mem:3.32M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.34 | Mem:3.35M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.34 | Mem:3.33M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.34 | Mem:3.39M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.34 | Mem:3.33M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.34 | Mem:3.40M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.34 | Mem:3.33M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/109 | Building BVH
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.34 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.34 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/109 | Building BVH
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.34 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.34 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.34 | Mem:3.35M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.34 | Mem:3.35M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.34 | Mem:3.35M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.35 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.35 | Mem:3.34M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.35 | Mem:3.36M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.35 | Mem:3.36M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.35 | Mem:3.36M, Peak:4.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.35 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects Flags
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.35 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.35 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Images
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.35 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Camera Volume
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.35 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.36 | Mem:7.27M, Peak:7.27M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lights
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.36 | Mem:7.27M, Peak:7.27M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:59.22M (Peak 81.11M) | Time:00:00.36 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Integrator
+Fra:1 Mem:59.22M (Peak 81.11M) | Time:00:00.36 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Film
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.36 | Mem:7.21M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.36 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Baking
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.36 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.36 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:64.87M (Peak 81.11M) | Time:00:00.38 | Mem:558.55M, Peak:558.55M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 0/128
+Fra:1 Mem:221.42M (Peak 221.42M) | Time:00:00.54 | Remaining:00:21.29 | Mem:715.11M, Peak:715.11M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 1/128
+Fra:1 Mem:221.44M (Peak 221.44M) | Time:00:10.80 | Remaining:00:06.25 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 80/128
+Fra:1 Mem:221.44M (Peak 221.44M) | Time:00:12.93 | Remaining:00:04.18 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 96/128
+Fra:1 Mem:221.44M (Peak 221.44M) | Time:00:15.08 | Remaining:00:02.10 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 112/128
+Fra:1 Mem:287.36M (Peak 386.24M) | Time:00:20.99 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 128/128
+Fra:1 Mem:287.36M (Peak 386.24M) | Time:00:20.99 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v08-selected\cabinet-milk-yellow.png'
+Time: 00:21.29 (Saving: 00:00.24)
+
+Fra:1 Mem:53.59M (Peak 53.59M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:53.59M (Peak 53.59M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | front-facade-glass-2.001
+Fra:1 Mem:53.60M (Peak 53.60M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发.001
+Fra:1 Mem:53.62M (Peak 53.62M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1.001
+Fra:1 Mem:53.65M (Peak 53.65M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | bookcase | 书柜与储物.001
+Fra:1 Mem:53.67M (Peak 53.67M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-table | 四人靠墙餐桌.001
+Fra:1 Mem:53.68M (Peak 53.68M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1.001
+Fra:1 Mem:53.69M (Peak 53.69M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2.001
+Fra:1 Mem:53.73M (Peak 53.73M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3.001
+Fra:1 Mem:53.76M (Peak 53.76M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4.001
+Fra:1 Mem:54.23M (Peak 54.23M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | double-desk | 双人办公桌.001
+Fra:1 Mem:54.34M (Peak 54.34M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | entry-return-cabinet | 入户转角储物柜
+Fra:1 Mem:54.21M (Peak 54.34M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | plant-balcony-tall | 阳台高绿植
+Fra:1 Mem:54.47M (Peak 54.47M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | plant-tv-medium | 电视右侧绿植
+Fra:1 Mem:54.63M (Peak 54.63M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | plant-balcony-low | 阳台矮绿植
+Fra:1 Mem:54.69M (Peak 54.69M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-right-lever
+Fra:1 Mem:55.30M (Peak 55.30M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-right-base
+Fra:1 Mem:55.46M (Peak 55.46M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-screen-right
+Fra:1 Mem:55.31M (Peak 55.46M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:55.41M (Peak 55.46M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-top
+Fra:1 Mem:55.68M (Peak 55.68M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:56.09M (Peak 56.09M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | tv-high | 奶黄与奶油白通顶长柜
+Fra:1 Mem:58.19M (Peak 58.31M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:58.41M (Peak 58.41M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:58.41M (Peak 58.41M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:58.66M (Peak 58.66M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:57.90M (Peak 58.66M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:58.17M (Peak 58.66M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:58.73M (Peak 58.73M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:59.04M (Peak 59.04M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:58.88M (Peak 59.04M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:58.87M (Peak 59.04M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:58.91M (Peak 59.04M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:58.95M (Peak 59.04M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:59.03M (Peak 59.04M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:59.37M (Peak 59.37M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:59.57M (Peak 59.57M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:59.55M (Peak 59.57M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:59.33M (Peak 59.57M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:59.64M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:59.32M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:59.32M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:58.17M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:58.14M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:58.60M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:58.60M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:58.62M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:58.66M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:58.71M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:58.94M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:59.01M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:59.07M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:58.84M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:58.89M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:58.98M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-bottom
+Fra:1 Mem:59.01M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:59.05M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:58.99M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:59.00M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:59.02M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:59.05M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:59.07M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:59.07M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:59.08M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:59.08M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:59.09M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:59.09M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:59.07M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:59.12M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:59.10M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:59.11M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:59.13M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:59.24M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-central
+Fra:1 Mem:59.24M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-left-bottom
+Fra:1 Mem:59.25M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-left-upper
+Fra:1 Mem:59.26M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-glass-right-bottom
+Fra:1 Mem:59.26M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-left
+Fra:1 Mem:59.26M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-right
+Fra:1 Mem:59.26M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-bottom
+Fra:1 Mem:59.28M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-outer-top
+Fra:1 Mem:59.32M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-mullion-left
+Fra:1 Mem:59.32M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-transom-left
+Fra:1 Mem:59.36M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-left
+Fra:1 Mem:59.52M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-right
+Fra:1 Mem:59.57M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-bottom
+Fra:1 Mem:59.59M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-left-top
+Fra:1 Mem:59.40M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-screen-left
+Fra:1 Mem:59.38M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-left-base
+Fra:1 Mem:59.39M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-handle-left-lever
+Fra:1 Mem:59.40M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-transom-right
+Fra:1 Mem:59.40M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-left
+Fra:1 Mem:59.43M (Peak 59.64M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Synchronizing object | balcony-sash-right-right
+Fra:1 Mem:60.24M (Peak 61.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Initializing
+Fra:1 Mem:53.95M (Peak 61.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.95M (Peak 61.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene
+Fra:1 Mem:53.95M (Peak 61.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Shaders
+Fra:1 Mem:53.95M (Peak 61.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.22 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Procedurals
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.22 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Background
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.22 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Camera
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.22 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.22 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects
+Fra:1 Mem:54.06M (Peak 81.11M) | Time:00:00.22 | Mem:0.04M, Peak:0.04M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.22 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Particle Systems
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.22 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.22 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Meshes
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.22 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:54.09M (Peak 81.11M) | Time:00:00.22 | Mem:0.06M, Peak:0.06M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:55.39M (Peak 81.11M) | Time:00:00.22 | Mem:0.07M, Peak:0.07M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:55.37M (Peak 81.11M) | Time:00:00.22 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH light 110/109 | Building BVH
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.22 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 16/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.22 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/109 | Building BVH
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.22 | Mem:1.35M, Peak:1.35M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 109/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.23 | Mem:2.76M, Peak:2.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/109 | Building BVH
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.23 | Mem:2.84M, Peak:2.84M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 108/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.23 | Mem:2.84M, Peak:2.85M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/109 | Building BVH
+Fra:1 Mem:56.86M (Peak 81.11M) | Time:00:00.23 | Mem:3.77M, Peak:3.77M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 21/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.70M (Peak 81.11M) | Time:00:00.23 | Mem:2.89M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/109 | Building BVH
+Fra:1 Mem:56.70M (Peak 81.11M) | Time:00:00.23 | Mem:2.90M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 22/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.23 | Mem:3.14M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/109 | Building BVH
+Fra:1 Mem:56.95M (Peak 81.11M) | Time:00:00.23 | Mem:3.35M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 23/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.90M (Peak 81.11M) | Time:00:00.23 | Mem:3.15M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/109 | Building BVH
+Fra:1 Mem:56.90M (Peak 81.11M) | Time:00:00.23 | Mem:3.15M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 24/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.92M (Peak 81.11M) | Time:00:00.23 | Mem:3.16M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/109 | Building BVH
+Fra:1 Mem:56.92M (Peak 81.11M) | Time:00:00.23 | Mem:3.32M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 25/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.92M (Peak 81.11M) | Time:00:00.23 | Mem:3.41M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/109 | Building BVH
+Fra:1 Mem:56.92M (Peak 81.11M) | Time:00:00.23 | Mem:3.41M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 26/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.90M (Peak 81.11M) | Time:00:00.23 | Mem:3.80M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/109 | Building BVH
+Fra:1 Mem:56.90M (Peak 81.11M) | Time:00:00.23 | Mem:3.80M, Peak:3.82M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 27/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.39M (Peak 81.11M) | Time:00:00.24 | Mem:3.62M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/109 | Building BVH
+Fra:1 Mem:56.39M (Peak 81.11M) | Time:00:00.24 | Mem:3.62M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 28/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.27M (Peak 81.11M) | Time:00:00.24 | Mem:3.04M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/109 | Building BVH
+Fra:1 Mem:56.27M (Peak 81.11M) | Time:00:00.24 | Mem:3.05M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 29/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.34M (Peak 81.11M) | Time:00:00.24 | Mem:3.12M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/109 | Building BVH
+Fra:1 Mem:56.34M (Peak 81.11M) | Time:00:00.24 | Mem:3.12M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 30/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.47M (Peak 81.11M) | Time:00:00.24 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/109 | Building BVH
+Fra:1 Mem:56.47M (Peak 81.11M) | Time:00:00.24 | Mem:3.39M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 31/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.42M (Peak 81.11M) | Time:00:00.24 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/109 | Building BVH
+Fra:1 Mem:56.42M (Peak 81.11M) | Time:00:00.24 | Mem:3.42M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.37M (Peak 81.11M) | Time:00:00.24 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/109 | Building BVH
+Fra:1 Mem:56.37M (Peak 81.11M) | Time:00:00.24 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.33M (Peak 81.11M) | Time:00:00.24 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/109 | Building BVH
+Fra:1 Mem:56.33M (Peak 81.11M) | Time:00:00.24 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.32M (Peak 81.11M) | Time:00:00.24 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/109 | Building BVH
+Fra:1 Mem:56.32M (Peak 81.11M) | Time:00:00.24 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.33M (Peak 81.11M) | Time:00:00.24 | Mem:3.38M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/109 | Building BVH
+Fra:1 Mem:56.33M (Peak 81.11M) | Time:00:00.24 | Mem:3.38M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.22M (Peak 81.11M) | Time:00:00.24 | Mem:3.20M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/109 | Building BVH
+Fra:1 Mem:56.22M (Peak 81.11M) | Time:00:00.24 | Mem:3.20M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.22M (Peak 81.11M) | Time:00:00.24 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/109 | Building BVH
+Fra:1 Mem:56.22M (Peak 81.11M) | Time:00:00.24 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.23M (Peak 81.11M) | Time:00:00.24 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/109 | Building BVH
+Fra:1 Mem:56.23M (Peak 81.11M) | Time:00:00.24 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.24M (Peak 81.11M) | Time:00:00.24 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/109 | Building BVH
+Fra:1 Mem:56.24M (Peak 81.11M) | Time:00:00.24 | Mem:3.38M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 107/109 | Building OptiX acceleration structure
+Fra:1 Mem:56.18M (Peak 81.11M) | Time:00:00.25 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/109 | Building BVH
+Fra:1 Mem:56.18M (Peak 81.11M) | Time:00:00.25 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.94M (Peak 81.11M) | Time:00:00.25 | Mem:3.17M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/109 | Building BVH
+Fra:1 Mem:55.94M (Peak 81.11M) | Time:00:00.25 | Mem:3.36M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.91M (Peak 81.11M) | Time:00:00.25 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/109 | Building BVH
+Fra:1 Mem:55.91M (Peak 81.11M) | Time:00:00.25 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.90M (Peak 81.11M) | Time:00:00.25 | Mem:3.19M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/109 | Building BVH
+Fra:1 Mem:55.90M (Peak 81.11M) | Time:00:00.25 | Mem:3.46M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.85M (Peak 81.11M) | Time:00:00.25 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/109 | Building BVH
+Fra:1 Mem:55.85M (Peak 81.11M) | Time:00:00.25 | Mem:3.47M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.81M (Peak 81.11M) | Time:00:00.25 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/109 | Building BVH
+Fra:1 Mem:55.81M (Peak 81.11M) | Time:00:00.25 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.76M (Peak 81.11M) | Time:00:00.25 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/109 | Building BVH
+Fra:1 Mem:55.76M (Peak 81.11M) | Time:00:00.25 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.70M (Peak 81.11M) | Time:00:00.25 | Mem:3.47M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/109 | Building BVH
+Fra:1 Mem:55.70M (Peak 81.11M) | Time:00:00.25 | Mem:3.47M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.64M (Peak 81.11M) | Time:00:00.25 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/109 | Building BVH
+Fra:1 Mem:55.64M (Peak 81.11M) | Time:00:00.25 | Mem:3.36M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.25 | Mem:3.18M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.25 | Mem:3.18M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.19M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.22M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.21M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.53M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/109 | Building BVH
+Fra:1 Mem:55.53M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 106/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/109 | Building BVH
+Fra:1 Mem:55.52M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/109 | Building BVH
+Fra:1 Mem:55.51M (Peak 81.11M) | Time:00:00.26 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/109 | Building BVH
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.26 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/109 | Building BVH
+Fra:1 Mem:55.50M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/109 | Building BVH
+Fra:1 Mem:55.49M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.26 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.23M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 置物格内部照明 77/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 置物格内部照明 77/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.24M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.25M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 83/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 84/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 85/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 86/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 87/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.27M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 105/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.26M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 88/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 89/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.27 | Mem:3.28M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 90/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 91/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.27 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 92/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.27 | Mem:3.29M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 93/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.28 | Mem:3.30M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.28 | Mem:3.30M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 94/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.28 | Mem:3.30M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.28 | Mem:3.31M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 95/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.28 | Mem:3.31M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.28 | Mem:3.35M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 96/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.28 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/109 | Building BVH
+Fra:1 Mem:55.48M (Peak 81.11M) | Time:00:00.28 | Mem:3.38M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 97/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.28 | Mem:3.32M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.28 | Mem:3.39M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 98/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.28 | Mem:3.33M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/109 | Building BVH
+Fra:1 Mem:55.47M (Peak 81.11M) | Time:00:00.28 | Mem:3.33M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 99/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.28 | Mem:3.33M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/109 | Building BVH
+Fra:1 Mem:55.46M (Peak 81.11M) | Time:00:00.28 | Mem:3.40M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 100/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.28 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/109 | Building BVH
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.28 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 101/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.28 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/109 | Building BVH
+Fra:1 Mem:55.44M (Peak 81.11M) | Time:00:00.28 | Mem:3.35M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 102/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.28 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.28 | Mem:3.35M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 103/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.28 | Mem:3.35M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/109 | Building BVH
+Fra:1 Mem:55.45M (Peak 81.11M) | Time:00:00.28 | Mem:3.36M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 104/109 | Building OptiX acceleration structure
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.29 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.29 | Mem:3.34M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.29 | Mem:3.36M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:55.38M (Peak 81.11M) | Time:00:00.29 | Mem:3.36M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.29 | Mem:3.36M, Peak:4.58M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.29 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Objects Flags
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.29 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.30 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Images
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.30 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Camera Volume
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.30 | Mem:7.19M, Peak:7.19M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.30 | Mem:7.27M, Peak:7.27M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lights
+Fra:1 Mem:59.21M (Peak 81.11M) | Time:00:00.30 | Mem:7.27M, Peak:7.27M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.30 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Integrator
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.30 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Film
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.30 | Mem:7.21M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.30 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Baking
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.30 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:59.23M (Peak 81.11M) | Time:00:00.30 | Mem:7.29M, Peak:7.29M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:64.87M (Peak 81.11M) | Time:00:00.31 | Mem:558.55M, Peak:558.55M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 0/128
+Fra:1 Mem:221.42M (Peak 221.42M) | Time:00:00.45 | Remaining:00:17.85 | Mem:715.11M, Peak:715.11M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 1/128
+Fra:1 Mem:221.44M (Peak 221.44M) | Time:00:08.51 | Remaining:00:04.92 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 80/128
+Fra:1 Mem:221.44M (Peak 221.44M) | Time:00:10.26 | Remaining:00:03.31 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 96/128
+Fra:1 Mem:221.44M (Peak 221.44M) | Time:00:12.15 | Remaining:00:01.69 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 112/128
+Fra:1 Mem:287.36M (Peak 386.24M) | Time:00:17.76 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Sample 128/128
+Fra:1 Mem:287.36M (Peak 386.24M) | Time:00:17.76 | Mem:715.12M, Peak:715.12M | v08 · 奶黄通顶长柜与阳台整玻, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v08-selected\balcony-window.png'
+Time: 00:17.95 (Saving: 00:00.13)
+
+BlenderMCP addon registered
+V08_RENDER_VERIFIED {"furniture": 21, "glass": 12, "cabinet_ceiling_gap_mm": 0, "views": 2}
+BlenderMCP addon unregistered
+
+Blender quit

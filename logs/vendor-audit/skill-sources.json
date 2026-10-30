@@ -1,0 +1,58 @@
+[
+  {
+    "name": "moodboard-aesthetic-iteration",
+    "repo": "gujun1502/arch-skills",
+    "path": "skills/moodboard-aesthetic-iteration",
+    "commit": "478d5ae32806e5a95dfcbeb70ba5a68126c22e9e",
+    "default_branch": "main",
+    "resolution": "Official GitHub embedded currentOid; API403 and git HTTPS timeout fallback",
+    "license_file": "D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\licenses\\moodboard-aesthetic-iteration\\LICENSE",
+    "download_returncode": 0,
+    "download_output": "Installed moodboard-aesthetic-iteration to D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\skills\\moodboard-aesthetic-iteration\n"
+  },
+  {
+    "name": "xiong-interior-design",
+    "repo": "xionglaoshi/xiong-interior-design",
+    "path": ".",
+    "commit": "8d5deb487cdc1370022f5b95ec15212ef69ba70a",
+    "default_branch": "main",
+    "resolution": "Official GitHub embedded currentOid; API403 and git HTTPS timeout fallback",
+    "license_file": "D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\licenses\\xiong-interior-design\\LICENSE",
+    "download_returncode": 0,
+    "download_output": "Installed xiong-interior-design to D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\skills\\xiong-interior-design\n"
+  },
+  {
+    "name": "interior-design-visualizer",
+    "repo": "RyanZhang10/interior-design-visualizer",
+    "path": "interior-design-visualizer",
+    "commit": "45a2c52be71624e44b1dc7d4bc07c37682474d9a",
+    "default_branch": "main",
+    "resolution": "Official GitHub embedded currentOid; API403 and git HTTPS timeout fallback",
+    "license_note": "HTTP Error 404: Not Found",
+    "download_returncode": 0,
+    "download_output": "Installed interior-design-visualizer to D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\skills\\interior-design-visualizer\n"
+  },
+  {
+    "name": "interior-designer",
+    "repo": "wonsukchoi/domain-experts",
+    "path": "roles/interior-designer",
+    "commit": "9554f15f4c20bfa121d1dc85db24cf4389c5b737",
+    "default_branch": "main",
+    "resolution": "Official GitHub embedded currentOid; API403 and git HTTPS timeout fallback",
+    "license_file": "D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\licenses\\interior-designer\\LICENSE",
+    "download_returncode": 0,
+    "download_output": "Installed interior-designer to D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\skills\\interior-designer\n"
+  },
+  {
+    "name": "interior-design-expert",
+    "repo": "curiositech/some_claude_skills",
+    "path": ".claude/skills/interior-design-expert",
+    "commit": "f49825290077e5fb46bb3e867dfa8a5b0161152b",
+    "default_branch": "main",
+    "resolution": "Official GitHub embedded currentOid; API403 and git HTTPS timeout fallback",
+    "license_file": "D:\\AI-Yang.cn\\HomeDesign\\logs\\vendor-audit\\licenses\\interior-design-expert\\LICENSE",
+    "download_returncode": 0,
+    "download_output": "Pinned bundled installer succeeded with Windows extended-length TEMP and backslash skill path; source kept in audit area.",
+    "recovery": "Initial archive extraction hit Windows path limit; extended path also required backslash subpath."
+  }
+]

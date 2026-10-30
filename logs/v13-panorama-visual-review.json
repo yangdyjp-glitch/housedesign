@@ -1,0 +1,59 @@
+{
+  "revision": 13,
+  "all_four_final_panoramas_reviewed": true,
+  "images": [
+    {
+      "id": "living",
+      "sha256": "5269560e9571e2e936f6d89526af2af05eb7e09e5398a80351f7a7e8801fd53d",
+      "resolution": [
+        8192,
+        4096
+      ],
+      "seam_edge_mean_absolute_difference_255": 2.467,
+      "manually_reviewed": true
+    },
+    {
+      "id": "dining",
+      "sha256": "f9c9cbc9e6aa8e3130ac460c35168b344213718b07ffdba2138cff767e6d5bbb",
+      "resolution": [
+        8192,
+        4096
+      ],
+      "seam_edge_mean_absolute_difference_255": 1.065,
+      "manually_reviewed": true
+    },
+    {
+      "id": "balcony",
+      "sha256": "75fb571907332f154612b41968411225c875869f3ee25fa76029127d60b95d8d",
+      "resolution": [
+        8192,
+        4096
+      ],
+      "seam_edge_mean_absolute_difference_255": 1.399,
+      "manually_reviewed": true
+    },
+    {
+      "id": "entry",
+      "sha256": "5b465ea5c9a90975921583e2c6b831547fd6c9efb963192606172732f51aa9a1",
+      "resolution": [
+        8192,
+        4096
+      ],
+      "seam_edge_mean_absolute_difference_255": 0.769,
+      "manually_reviewed": true
+    }
+  ],
+  "review_basis": [
+    "Native full-sphere images and matching perspective views were inspected",
+    "Four interior views retain the same v13 furniture geometry and finishes",
+    "Equirectangular unfold curves are projection; perspective viewer shows straight room geometry",
+    "Spherical axis orientation was tested with separate colored-axis scene",
+    "Single-eye panorama; not a measured site record, stereo capture or free walking"
+  ],
+  "originals": "07_renders/vr-tour-v01/*-day.png",
+  "render_source": "Blender Cycles 192 samples OptiX; no AI repaint",
+  "unchanged_context": [
+    "Window exterior neutral placeholder, kitchen and private rooms not furnished",
+    "Entry opening and equipment details still provisional"
+  ]
+}

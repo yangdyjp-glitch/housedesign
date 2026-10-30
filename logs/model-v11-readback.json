@@ -1,0 +1,253 @@
+{
+  "revision": 11,
+  "saved_model_reopened": true,
+  "geometry_sha256": "dc76ff10da16ed6c8927c5381f280864ea996dafba7ad6f6a9a1b4234c14f672",
+  "style_sha256": "b59f6c1fe091dcf30ac9b73fc7d5905d93c30ec919daef917cf67b83a6f9aace",
+  "furniture_count": 24,
+  "furniture": [
+    {
+      "id": "tv-low",
+      "x": 0.0,
+      "z": 1800.0,
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "tv-high",
+      "x": 0.0,
+      "z": 5000.0,
+      "dimensions_mm": [
+        4500,
+        400,
+        2750
+      ]
+    },
+    {
+      "id": "television",
+      "x": 30.0,
+      "z": 2450.0,
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "x": 3100,
+      "z": 1200,
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "x": 3200,
+      "z": 4250,
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "x": 2550,
+      "z": 2450,
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "double-desk",
+      "x": 5300.0,
+      "z": 2000.0,
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900.0,
+      "z": 2335.0,
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "x": 6838.0,
+      "z": 1176.0,
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "x": 2282.0,
+      "z": 7300.0,
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832.0,
+      "z": 7550.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832.0,
+      "z": 8200.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457.0,
+      "z": 6850.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457.0,
+      "z": 8900.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 921.0,
+      "z": 9635.0,
+      "dimensions_mm": [
+        1533,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "entry-return-cabinet",
+      "x": 0.0,
+      "z": 10818.0,
+      "dimensions_mm": [
+        921,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150.0,
+      "z": 120.0,
+      "dimensions_mm": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100.0,
+      "z": 1030.0,
+      "dimensions_mm": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100.0,
+      "z": 200.0,
+      "dimensions_mm": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "balcony-tea-table",
+      "x": 3300,
+      "z": 170,
+      "dimensions_mm": [
+        700,
+        700,
+        380
+      ]
+    },
+    {
+      "id": "balcony-tea-chair-1",
+      "x": 2580,
+      "z": 220,
+      "dimensions_mm": [
+        600,
+        560,
+        580
+      ]
+    },
+    {
+      "id": "balcony-tea-chair-2",
+      "x": 4160,
+      "z": 220,
+      "dimensions_mm": [
+        600,
+        560,
+        580
+      ]
+    }
+  ],
+  "source_walls": 60,
+  "window_glass": 12,
+  "kitchen_door_glass": 3,
+  "private_room_boundaries_unchanged": true
+}

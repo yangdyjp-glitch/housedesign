@@ -1,0 +1,159 @@
+{
+  "status": "conditional dimensional and functional study, not a selected or construction-ready layout",
+  "user_markup": "00_sources/master-bath-expansion-markup-01.png",
+  "user_markup_sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36",
+  "source_geometry": "02_geometry/geometry-master-v10.json",
+  "source_geometry_sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8",
+  "interpretation": "user explicitly confirmed that the new grey area merges with the original master bath; scope ambiguity resolved, feasibility and selected door geometry still unresolved",
+  "user_requirements": [
+    "2m mattress width",
+    "head north, feet south; north is image bottom",
+    "wardrobe along image left wall",
+    "entry on image left side of expanded bath",
+    "vanity then toilet then shower",
+    "dry-wet separation",
+    "no bathtub",
+    "ignore budget"
+  ],
+  "model_dimensions_mm": {
+    "bedroom": [
+      3467,
+      3704
+    ],
+    "original_bath": [
+      1472,
+      2014
+    ],
+    "wall_thickness": 120
+  },
+  "dimension_status": "all underlying room, bath, wall and window data remain provisional; original 2040 dimension conflict unresolved",
+  "designer_trial_mm": {
+    "extension": 800,
+    "new_bath_inner": [
+      1472,
+      2814
+    ],
+    "bed_outer": [
+      2150,
+      2150
+    ],
+    "wardrobe_depth": 600,
+    "foot_clearance": 754,
+    "bed_side_to_cabinet": 717,
+    "right_bed_side_clearance": 0,
+    "private_sidewall_span": 680,
+    "trial_side_door_opening_span": 860,
+    "side_door_end_beyond_old_bedroom_boundary": 230,
+    "trial_vanity": [
+      800,
+      450
+    ],
+    "trial_shower_depth": 900,
+    "toilet_zone_depth": 914
+  },
+  "extension_tradeoff": [
+    {
+      "extension_mm": 700,
+      "foot_clearance_mm": 854,
+      "private_sidewall_span_mm": 580
+    },
+    {
+      "extension_mm": 800,
+      "foot_clearance_mm": 754,
+      "private_sidewall_span_mm": 680
+    },
+    {
+      "extension_mm": 1000,
+      "foot_clearance_mm": 554,
+      "private_sidewall_span_mm": 880
+    }
+  ],
+  "independent_geometry": {
+    "room_local_origin_global_mm": [
+      7328,
+      1072
+    ],
+    "blue_wall": [
+      1317,
+      2904,
+      2150,
+      120
+    ],
+    "bed": [
+      1317,
+      754,
+      2150,
+      2150
+    ],
+    "wardrobe": [
+      0,
+      200,
+      600,
+      2500
+    ],
+    "new_bath_inner": [
+      1995,
+      3024,
+      1472,
+      2814
+    ],
+    "side_door_requiring_entry_boundary_restudy": [
+      1875,
+      3074,
+      120,
+      860
+    ],
+    "vanity": [
+      3017,
+      3124,
+      450,
+      800
+    ],
+    "toilet_trial": [
+      1995,
+      4278,
+      680,
+      400
+    ],
+    "shower": [
+      1995,
+      4938,
+      1472,
+      900
+    ],
+    "existing_service_block": [
+      1995,
+      5487,
+      280,
+      351
+    ]
+  },
+  "unresolved": [
+    "original approved wet-area boundary and lower-floor room use",
+    "wall and lintel structure",
+    "actual bath width and length",
+    "toilet outlet and riser position",
+    "entry pocket and public corridor if side door crosses old boundary",
+    "bed two-sided access",
+    "mirror, window, glass partition and service-block interaction"
+  ],
+  "rule_sources": [
+    "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2023/art_17339_775528.html",
+    "https://gf.cabr-fire.com/article-70096.htm"
+  ],
+  "angled_entry_alternative": {
+    "status": "unselected design alternative only",
+    "borrow_from_entry_corner_mm": 700,
+    "diagonal_span_mm": 975.9,
+    "trial_rough_opening_mm": 860,
+    "finished_clear_width": "must be determined with chosen frame and leaf; not equal to 860 rough opening",
+    "main_bedroom_entry_preserved": true,
+    "public_corridor_not_extended_in_this_alternative": true,
+    "door_operation_and_wall_junctions": "not finalized"
+  },
+  "original_model_modified": false,
+  "active_revision": 12,
+  "current_public_model": "06_blender/home-main-v12.blend",
+  "scope_confirmation": "对，新增段与原主卫合并",
+  "original_model_sha256": "e0cf9b40f2bbe494e549b6dab411713866c84f26043c61295081a491327efa00"
+}

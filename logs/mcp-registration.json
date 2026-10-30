@@ -1,0 +1,48 @@
+{
+  "config": "C:\\Users\\Administrator\\.codex\\config.toml",
+  "backup": "C:\\Users\\Administrator\\.codex\\config.toml.before-home-design-20261030-185351",
+  "prior_sha256": "34171f52a3de44c3da5af5649f07ee7565e92b89525731fac413ed313e461492",
+  "current_sha256": "c399a57d5494d35003469d579ecdc6560a5fe9f553ebe73c29efec171ea362a9",
+  "unrelated_settings_preserved": true,
+  "blender": {
+    "command": "D:\\AI-Yang.cn\\HomeDesign\\tools\\runtime\\mcp-env\\Scripts\\python.exe",
+    "args": [
+      "D:\\AI-Yang.cn\\HomeDesign\\tools\\mcp_launch.py"
+    ],
+    "startup_timeout_sec": 90,
+    "tool_timeout_sec": 180,
+    "env": {
+      "DISABLE_TELEMETRY": "true",
+      "BLENDER_MCP_SAFE_MODE": "1",
+      "BLENDERMCP_NO_UPDATE_CHECK": "1",
+      "BLENDERMCP_ADDONS_DIR": "C:\\Users\\Administrator\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\scripts\\addons"
+    }
+  },
+  "registered_servers": [
+    {
+      "name": "blender",
+      "enabled": true
+    },
+    {
+      "name": "code-review",
+      "enabled": false
+    },
+    {
+      "name": "codex_app",
+      "enabled": false
+    },
+    {
+      "name": "cua_repl",
+      "enabled": true
+    },
+    {
+      "name": "fastctx",
+      "enabled": true
+    },
+    {
+      "name": "node_repl",
+      "enabled": true
+    }
+  ],
+  "recovery": "Codex CLI also normalized node_repl; restored original bytes and appended only the blender table, then verified semantic equality of every prior setting."
+}

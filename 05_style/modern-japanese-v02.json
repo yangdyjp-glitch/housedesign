@@ -1,0 +1,20 @@
+{
+  "version": "v06-style-v02",
+  "geometry_base": "02_geometry/geometry-master-v06.json",
+  "geometry_sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+  "homeowner_decisions": ["现代日式，简约", "暖色调为主", "桌子尽可能采用圆角", "墙体拐角尽可能采用弧线", "允许绿色与深蓝点缀"],
+  "designer_decisions": {
+    "palette": {"warm_white": "#EAE4D8", "pale_oak": "#C9AE87", "oatmeal": "#C9BDAB", "sage_green": "#71816A", "deep_navy": "#243C55"},
+    "color_distribution_intent": "暖白及米色约65%，浅木约25%，绿色和深蓝合计不超过10%；是视觉控制目标，非图像像素测量",
+    "table_corner_radii_mm": {"side-table-top": 100, "side-table-lower-shelf": 70, "dining-table-top": 100, "double-desk-top": 70},
+    "wall_finish_profiles_mm": {"lower-narrow-top-0": [0, 0, 0, 80], "left-short-partition-end": [0, 0, 60, 60], "retained-central-top-stub-end": [65, 0, 0, 65], "retained-central-bottom-stub-end": [50, 0, 0, 50]},
+    "wall_profile_corner_order": ["Blender xmin,ymin", "xmax,ymin", "xmax,ymax", "xmin,ymax"],
+    "wall_scope": "仅主公共区可见的外露阳角和端头，弧面位于原墙体显示包络内；墙基线、门洞净宽、卧室与卫浴内部不调整",
+    "wall_construction_status": "弧形饰面意向，不作为原结构墙削切指令；施工基层、实际做法与半径须现场深化",
+    "soft_furnishings": "原沙发上两只薄抱枕：一只低饱和苔绿、一只深蓝；办公室唯一一把椅子的坐背采用灰绿织物；餐桌外侧两椅的坐垫采用灰绿；少量深蓝书脊与置物格中的深蓝浅托盘",
+    "lighting": "保留自然日光和约3000K暖光，白墙保持暖白可辨，避免全屋泛黄",
+    "simplification": "保留平整柜面和留白，不增加格栅墙、造型吊顶、拱门、岛台或卡座"
+  },
+  "locked": ["14件主要家具的位置、外包尺寸和朝向", "85英寸电视", "阳台端贵妃位", "双人桌在沙发后且暂放一把椅子", "餐桌长边靠墙且共四椅", "入户端置物格离地1200–1400mm", "门窗位置和主墙基线", "办公椅至书柜408mm局部净距"],
+  "rounding_note": "桌面是有直线中段的圆角矩形，不改成圆桌；靠墙餐桌的长直边仍与墙接触。"
+}

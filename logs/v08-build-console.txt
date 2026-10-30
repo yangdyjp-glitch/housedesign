@@ -1,0 +1,9 @@
+BlenderMCP addon registered
+Info: 已保存：03_layout/blender-layout-latest.json
+Info: Saved as "home-main-v08.blend"
+MODEL_V08_BUILT {"furniture": 21, "glass": 12, "window_parts": 22, "cabinet_top_mm": 2750, "positions_unchanged": true}
+BlenderMCP addon unregistered
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v07.blend"
+
+Blender quit

@@ -1,0 +1,11 @@
+# Geometry/style/source SHA256 values refer to exact bytes.
+# Preserve byte sequences on all platforms; do not convert LF/CRLF at checkout.
+* -text
+*.blend binary
+*.blend1 binary
+*.glb binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.zip binary

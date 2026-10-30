@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "title": "全景校对 · 低清试图",
+  "modelRevision": 13,
+  "sourceConfig": "07_renders\\vr-tour-v01\\tour-config-draft.json",
+  "sourceConfigSha256": "1408ffafc138227230b52237936ad21e8d25f9cfe8fab486a4189c661b4c2b9e",
+  "projection": "monoscopic equirectangular 360×180",
+  "geometry": "D:\\AI-Yang.cn\\HomeDesign\\02_geometry\\geometry-master-v13.json",
+  "geometrySha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+  "viewer": "offline WebGL spherical perspective; no network dependencies",
+  "panoramas": [
+    {
+      "id": "living",
+      "label": "客厅",
+      "source": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\vr-tour-v01\\living-draft.png",
+      "file": "全景原图\\living-day.png",
+      "width": 2048,
+      "height": 1024,
+      "sha256": "f938725a56f741e8a4de5ab4399d1fc98ed5f57cf507b11c37c0811642b5c3b3",
+      "positionPlanMm": [
+        1800,
+        4500
+      ],
+      "headingAtImageCenterDeg": 0
+    },
+    {
+      "id": "dining",
+      "label": "餐厅",
+      "source": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\vr-tour-v01\\dining-draft.png",
+      "file": "全景原图\\dining-day.png",
+      "width": 2048,
+      "height": 1024,
+      "sha256": "58733b51b8c0f207c397f436e69bd37c7c02a42410ec52a1de678a8564c742ce",
+      "positionPlanMm": [
+        1100,
+        8000
+      ],
+      "headingAtImageCenterDeg": 0
+    },
+    {
+      "id": "balcony",
+      "label": "阳台",
+      "source": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\vr-tour-v01\\balcony-draft.png",
+      "file": "全景原图\\balcony-day.png",
+      "width": 2048,
+      "height": 1024,
+      "sha256": "0ec013e7634c17135205ee2e83c3ef9dc008107d68c60d86d4e374a0a3a0e9fc",
+      "positionPlanMm": [
+        2050,
+        850
+      ],
+      "headingAtImageCenterDeg": 0
+    },
+    {
+      "id": "entry",
+      "label": "门厅",
+      "source": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\vr-tour-v01\\entry-draft.png",
+      "file": "全景原图\\entry-day.png",
+      "width": 2048,
+      "height": 1024,
+      "sha256": "057dbaa7beab3301d3216dd9bd19856fb73924f9a510898ca824b43f2d4ac4ea",
+      "positionPlanMm": [
+        635,
+        10100
+      ],
+      "headingAtImageCenterDeg": 0
+    }
+  ],
+  "html": {
+    "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\vr-tour-v01-draft\\打开360全景漫游.html",
+    "sha256": "59129e5aa487be0bc911ec8cef489dfd6510dcf781ed45804de379b134db3277",
+    "bytes": 10646858
+  }
+}

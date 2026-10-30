@@ -1,0 +1,21 @@
+v06 实体材质渲染与写实效果图 · 2026-10-30
+
+本轮使用 home-design-director、interior-design-visualizer 与 imagegen 技能。
+按当前 v06 布局制作，范围为客厅、电视墙、办公区、书柜和餐厅。
+材质沿用浅橡木、暖白哑光柜门和米灰布艺；本轮是材质与光线表现，未记录为用户最终选定风格。
+
+文件说明
+living-cycles.png：电视与入户通长柜，Blender Cycles 实体渲染。
+office-cycles.png：贵妃沙发、茶几及沙发后的双人桌和书柜，Blender Cycles 实体渲染。
+office-detail-cycles.png：双工位及唯一一把办公椅的细节，Blender Cycles 实体渲染。
+dining-cycles.png：四椅靠墙餐桌及通长柜置物格，Blender Cycles 实体渲染。
+三个 *-photoreal-v01.png：分别以同名 Cycles 图作为建筑与家具位置参考，使用内置 imagegen 增强材质和光线的写实效果示意。
+三个 *-imagegen-prompt.txt：实际使用的完整出图提示词；参考图片与生成路径记录在 render-manifest.json。
+
+尺寸与版本
+实体渲染基于 home-main-v06.blend 和 geometry-master-v06.json，14件家具、206个组成零件保持位置、朝向和外包尺寸；模型逐件核验误差小于0.001mm。
+85英寸电视、3000mm长上端贵妃沙发、1400×700茶几、2400×700×750双人桌配一把椅子、1600×800×750靠墙餐桌配四椅均沿用。
+4500×400×2400通长柜的入户端置物格按离地1200–1400mm、净高200mm建模。
+home-v06-presentation-v01.blend 是独立表现副本，增加细纹材质、倒角、暂定2750mm顶面、窗框及灯光。当前主模型、家具移动页面、100mm步进和悬停尺寸功能不受影响。
+写实效果图用于感受材质和空间氛围，细小物件、软包细节、木纹、缝隙及窗外景观为图像表现示意；尺寸与精确摆放以实体模型和 Cycles 图为准，不能从AI图反量尺寸。
+源草图未闭合、门洞及净高等原有待核事项仍保留；办公椅至书柜408mm净距未为出图而移动。

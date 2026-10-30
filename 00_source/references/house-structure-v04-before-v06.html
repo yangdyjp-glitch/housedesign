@@ -1,0 +1,406 @@
+<div id="house-structure-v1">
+  <div class="viz-controls" aria-label="结构视图">
+    <button type="button" class="btn btn-primary" data-view="3d" aria-pressed="true">透视立体</button>
+    <button type="button" class="btn" data-view="ortho" aria-pressed="false">正交立体</button>
+    <button type="button" class="btn" data-view="plan" aria-pressed="false">平面尺寸</button>
+    <label class="form-check"><input class="form-check-input" type="checkbox" data-dims><span class="form-check-label">尺寸</span></label>
+    <label class="form-check"><input class="form-check-input" type="checkbox" data-furniture checked><span class="form-check-label">家具</span></label>
+    <label class="form-check"><input class="form-check-input" type="checkbox" data-removed><span class="form-check-label">已删墙迹</span></label>
+  </div>
+  <div class="house-height-control" data-height-control>
+    <label class="form-label" for="house-cut-v1">墙体显示高度 <output data-height-value class="tabular-nums">1.20 m</output></label>
+    <input class="form-range" id="house-cut-v1" type="range" min="600" max="2750" step="50" value="1200">
+  </div>
+  <canvas class="cursor-interaction" role="img" aria-label="房屋主模型：所有13件新家具可点击选中并拖动，平面和立体视图同步，位移按100毫米吸附。点击空白处拖动可旋转立体模型。也可从家具列表选择，并用方向按钮或偏移输入框每100毫米移动。"></canvas>
+  <div class="house-editor" aria-label="家具移动">
+    <div class="viz-controls">
+      <div><label class="form-label" for="house-item-v1">移动家具</label><select class="form-select" id="house-item-v1"><option value="">点击家具或从此处选择</option></select></div>
+      <div><label class="form-label" for="house-offset-x-v1">左右偏移（mm）</label><input class="form-control tabular-nums" id="house-offset-x-v1" type="number" min="-20000" max="20000" step="100" value="0" disabled></div>
+      <div><label class="form-label" for="house-offset-z-v1">上下偏移（mm）</label><input class="form-control tabular-nums" id="house-offset-z-v1" type="number" min="-20000" max="20000" step="100" value="0" disabled></div>
+    </div>
+    <div class="viz-row house-move-buttons" role="group" aria-label="按平面方向每步移动100毫米">
+      <span class="text-small">按平面方向 · 每步 100 mm</span>
+      <button class="btn" type="button" data-move="left" aria-label="向左移动100毫米" disabled>← 100</button>
+      <button class="btn" type="button" data-move="up" aria-label="向上移动100毫米" disabled>↑ 100</button>
+      <button class="btn" type="button" data-move="down" aria-label="向下移动100毫米" disabled>↓ 100</button>
+      <button class="btn" type="button" data-move="right" aria-label="向右移动100毫米" disabled>→ 100</button>
+      <button class="btn" type="button" data-undo disabled>撤销移动</button>
+    </div>
+    <div class="text-small house-move-status" data-move-status aria-live="polite">点选家具后拖动；空白处拖动旋转立体模型。</div>
+  </div>
+  <div class="viz-row text-small house-legend" aria-label="图例">
+    <span><span class="house-swatch" data-key="wall"></span>保留墙体</span>
+    <span><span class="house-swatch" data-key="glass"></span>窗洞</span>
+    <span><span class="house-swatch" data-key="open"></span>客厅及通道</span>
+    <span><span class="house-swatch" data-key="furniture"></span>家具与柜体</span>
+    <span data-removed-legend hidden><span class="house-line"></span>已删除</span>
+    <span data-beam-legend hidden>虚线：高度标记待核</span>
+  </div>
+  <div class="text-small house-detail" aria-live="polite" data-detail>红 A · 蓝 B · 绿 B · 黄 A · 黑 B（取消卡座，餐桌靠墙）</div>
+  <div class="text-small text-muted house-assumption">初步拟合 · 墙高暂设 2.75 m · 外墙 240 / 内墙 120–168 mm · 总长未闭合</div>
+  <script type="application/json" id="house-data-v1">{"title":"房屋主模型 · 家具100mm移动","revision":4,"units":"mm","height":2750,"geometry_status":"依据手绘图的初步空间复原；非闭合实测CAD或施工图","photo":"C:/Users/Administrator/Desktop/房型.jpg","reference":"C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-9cd2d453-b333-4021-b37e-41631362d66d.png","alignment_reference":"C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-df1537cd-add6-4258-8426-21e02c517ef3.png","assumptions":["外墙厚240 mm、内墙厚120–168 mm为建模暂定值，并非承重判断。","统一墙高2750 mm为暂定值；照片中的h/D标注仅用于局部窗洞参考。","尺寸暂按毫米读取；无方位信息，方向沿用照片。","优先保留墙体关系和清楚的分段净尺寸；外轮廓总长未闭合，纵向位置含拟合。","房间用途已按用户说明更新；客卫保留原图中的上下两区及内部隔断。","阳台按照片上侧长窗区域理解，窗下缘至地面，窗顶2270 mm暂沿原开口。","主卧凸出部分为飘窗，凸出500 mm；窗台高500 mm暂定，未将其计为可步入地面。","红框两段墙以室内侧墙面z=1072 mm对齐；因墙厚不同，不强制墙中心线相同。","入口位置、梁柱与承重属性仍未确认。","三段红圈墙已从OBJ、GLB和现状平面中删除；DELETED_REFERENCE层仅留核对位置。","家具采用用户所选红A、蓝B、绿B、黄A、黑B；黑B取消卡座，餐桌长边直接靠墙。","双人办公桌在沙发后，两席同向面对电视；书柜独立在座位后方，座椅活动区与通道分开。","家具尺寸为方案尺寸，非产品实测或定制下单尺寸；浅木、暖白与灰米色仅作材质示意。"],"floor":[[0,0],[7188,0],[7188,1072],[10795,1072],[10795,9635],[3500,9635],[3500,12410],[438,12410],[438,11168],[0,11168]],"walls":[{"id":"outer-top-0","x":-240,"z":-240,"w":1093,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"outer-top-lintel-0","x":853,"z":-240,"w":5675,"d":240,"y":2270,"h":480,"kind":"external","confidence":"provisional"},{"id":"outer-top-end","x":6528,"z":-240,"w":900,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"outer-left-0","x":-240,"z":-240,"w":240,"d":9775,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"outer-left-lintel-0","x":-240,"z":9535,"w":240,"d":1230,"y":2344,"h":406,"kind":"external","confidence":"provisional"},{"id":"outer-left-end","x":-240,"z":10765,"w":240,"d":643,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"top-step-end","x":7188,"z":0,"w":240,"d":1072,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"upper-right-top-left-end","x":7188,"z":832,"w":661,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"upper-right-top-right-end","x":10324,"z":832,"w":711,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"bay-left-end","x":7849,"z":572,"w":100,"d":500,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"bay-right-end","x":10224,"z":572,"w":100,"d":500,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"bay-front-0","x":7849,"z":472,"w":100,"d":100,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"bay-front-sill-0","x":7949,"z":472,"w":2275,"d":100,"y":0,"h":500,"kind":"external","confidence":"provisional"},{"id":"bay-front-lintel-0","x":7949,"z":472,"w":2275,"d":100,"y":2274,"h":476,"kind":"external","confidence":"provisional"},{"id":"bay-front-end","x":10224,"z":472,"w":100,"d":100,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"master-bay-seat","x":7849,"z":572,"w":2475,"d":500,"y":0,"h":500,"kind":"bay-seat","confidence":"provisional"},{"id":"outer-right-0","x":10795,"z":1072,"w":240,"d":4053,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"outer-right-sill-0","x":10795,"z":5125,"w":240,"d":869,"y":0,"h":445,"kind":"external","confidence":"provisional"},{"id":"outer-right-lintel-0","x":10795,"z":5125,"w":240,"d":869,"y":1918,"h":832,"kind":"external","confidence":"provisional"},{"id":"outer-right-end","x":10795,"z":5994,"w":240,"d":3881,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"front-facade-0","x":3082,"z":9635,"w":848,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"front-facade-sill-0","x":3930,"z":9635,"w":699,"d":240,"y":0,"h":448,"kind":"external","confidence":"provisional"},{"id":"front-facade-lintel-0","x":3930,"z":9635,"w":699,"d":240,"y":1920,"h":830,"kind":"external","confidence":"provisional"},{"id":"front-facade-1","x":4629,"z":9635,"w":721,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"front-facade-sill-1","x":5350,"z":9635,"w":1522,"d":240,"y":0,"h":602,"kind":"external","confidence":"provisional"},{"id":"front-facade-lintel-1","x":5350,"z":9635,"w":1522,"d":240,"y":2371,"h":379,"kind":"external","confidence":"provisional"},{"id":"front-facade-2","x":6872,"z":9635,"w":1222,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"front-facade-sill-2","x":8094,"z":9635,"w":2172,"d":240,"y":0,"h":614,"kind":"external","confidence":"provisional"},{"id":"front-facade-lintel-2","x":8094,"z":9635,"w":2172,"d":240,"y":2386,"h":364,"kind":"external","confidence":"provisional"},{"id":"front-facade-end","x":10266,"z":9635,"w":769,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"lower-projection-right-0","x":3500,"z":9635,"w":240,"d":900,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"lower-projection-right-sill-0","x":3500,"z":10535,"w":240,"d":1423,"y":0,"h":494,"kind":"external","confidence":"provisional"},{"id":"lower-projection-right-lintel-0","x":3500,"z":10535,"w":240,"d":1423,"y":1966,"h":784,"kind":"external","confidence":"provisional"},{"id":"lower-projection-right-end","x":3500,"z":11958,"w":240,"d":692,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"lower-projection-bottom-end","x":198,"z":12410,"w":3542,"d":240,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"lower-projection-left-end","x":198,"z":11168,"w":240,"d":1242,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"left-step-return-end","x":-240,"z":11168,"w":1511,"d":180,"y":0,"h":2750,"kind":"external","confidence":"provisional"},{"id":"left-short-partition-end","x":1271,"z":9635,"w":120,"d":1533,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"retained-central-right-end","x":7188,"z":1072,"w":140,"d":3824,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"retained-central-top-stub-end","x":6516,"z":932,"w":812,"d":140,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"retained-central-bottom-stub-end","x":6916,"z":4776,"w":454,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"upper-right-bottom-lintel-0","x":7370,"z":4776,"w":866,"d":120,"y":2180,"h":570,"kind":"wall","confidence":"provisional"},{"id":"upper-right-bottom-1","x":8236,"z":4776,"w":1488,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"upper-right-bottom-lintel-1","x":9724,"z":4776,"w":892,"d":120,"y":2100,"h":650,"kind":"wall","confidence":"provisional"},{"id":"upper-right-bottom-end","x":10616,"z":4776,"w":179,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"right-small-left-end","x":9203,"z":4896,"w":120,"d":2134,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"right-small-bottom-end","x":9203,"z":6910,"w":1592,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"right-small-service-block","x":9323,"z":6559,"w":280,"d":351,"y":0,"h":1100,"kind":"recess","confidence":"provisional"},{"id":"lower-narrow-left-end","x":3082,"z":6090,"w":120,"d":3545,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-narrow-right-end","x":4759,"z":6090,"w":120,"d":3545,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-narrow-top-0","x":3082,"z":5970,"w":730,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-narrow-top-lintel-0","x":3812,"z":5970,"w":947,"d":120,"y":2100,"h":650,"kind":"wall","confidence":"provisional"},{"id":"lower-narrow-split-0","x":3082,"z":7455,"w":869,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-narrow-split-lintel-0","x":3951,"z":7455,"w":808,"d":120,"y":2100,"h":650,"kind":"wall","confidence":"provisional"},{"id":"lower-centre-top-0","x":4759,"z":6145,"w":184,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-centre-top-lintel-0","x":4943,"z":6145,"w":868,"d":120,"y":2100,"h":650,"kind":"wall","confidence":"provisional"},{"id":"lower-centre-top-end","x":5811,"z":6145,"w":1813,"d":120,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-centre-right-end","x":7456,"z":6265,"w":168,"d":3370,"y":0,"h":2750,"kind":"wall","confidence":"provisional"},{"id":"lower-left-service-block","x":3082,"z":9275,"w":418,"d":360,"y":0,"h":1100,"kind":"recess","confidence":"provisional"},{"id":"bottom-corner-block","x":438,"z":12037,"w":373,"d":373,"y":0,"h":2750,"kind":"recess","confidence":"provisional"}],"glass":[{"id":"outer-top-glass-0","x":853,"z":-132.0,"w":5675,"d":24,"y":0,"h":2270,"kind":"glass","confidence":"provisional"},{"id":"outer-left-glass-0","x":-132.0,"z":9535,"w":24,"d":1230,"y":0,"h":2344,"kind":"glass","confidence":"provisional"},{"id":"bay-front-glass-0","x":7949,"z":510.0,"w":2275,"d":24,"y":500,"h":1774,"kind":"glass","confidence":"provisional"},{"id":"outer-right-glass-0","x":10903.0,"z":5125,"w":24,"d":869,"y":445,"h":1473,"kind":"glass","confidence":"provisional"},{"id":"front-facade-glass-0","x":3930,"z":9743.0,"w":699,"d":24,"y":448,"h":1472,"kind":"glass","confidence":"provisional"},{"id":"front-facade-glass-1","x":5350,"z":9743.0,"w":1522,"d":24,"y":602,"h":1769,"kind":"glass","confidence":"provisional"},{"id":"front-facade-glass-2","x":8094,"z":9743.0,"w":2172,"d":24,"y":614,"h":1772,"kind":"glass","confidence":"provisional"},{"id":"lower-projection-right-glass-0","x":3608.0,"z":10535,"w":24,"d":1423,"y":494,"h":1472,"kind":"glass","confidence":"provisional"}],"removed":[{"id":"deleted-vertical","x":4070,"z":1072,"w":144,"d":3704,"y":0,"h":2750,"kind":"removed"},{"id":"deleted-top-return","x":4070,"z":932,"w":644,"d":140,"y":0,"h":2750,"kind":"removed"},{"id":"deleted-bottom-return","x":4070,"z":4776,"w":1982,"d":120,"y":0,"h":2750,"kind":"removed"}],"openings":[{"wall":"outer-top","axis":"x","c":-240,"start":853,"end":6528,"sill":0,"top":2270,"type":"window"},{"wall":"outer-left","axis":"z","c":-240,"start":9535,"end":10765,"sill":0,"top":2344,"type":"window"},{"wall":"bay-front","axis":"x","c":472,"start":7949,"end":10224,"sill":500,"top":2274,"type":"window"},{"wall":"outer-right","axis":"z","c":10795,"start":5125,"end":5994,"sill":445,"top":1918,"type":"window"},{"wall":"front-facade","axis":"x","c":9635,"start":3930,"end":4629,"sill":448,"top":1920,"type":"window"},{"wall":"front-facade","axis":"x","c":9635,"start":5350,"end":6872,"sill":602,"top":2371,"type":"window"},{"wall":"front-facade","axis":"x","c":9635,"start":8094,"end":10266,"sill":614,"top":2386,"type":"window"},{"wall":"lower-projection-right","axis":"z","c":3500,"start":10535,"end":11958,"sill":494,"top":1966,"type":"window"},{"wall":"upper-right-bottom","axis":"x","c":4776,"start":7370,"end":8236,"sill":0,"top":2180,"type":"door"},{"wall":"upper-right-bottom","axis":"x","c":4776,"start":9724,"end":10616,"sill":0,"top":2100,"type":"door"},{"wall":"lower-narrow-top","axis":"x","c":5970,"start":3812,"end":4759,"sill":0,"top":2100,"type":"door"},{"wall":"lower-narrow-split","axis":"x","c":7455,"start":3951,"end":4759,"sill":0,"top":2100,"type":"door"},{"wall":"lower-centre-top","axis":"x","c":6145,"start":4943,"end":5811,"sill":0,"top":2100,"type":"door"}],"rooms":[{"id":"open","name":"客厅","x":3450,"z":3220,"detail":"用户确认用途为客厅；红圈三段墙已删除，原隔间已并入。"},{"id":"balcony","name":"阳台","x":3250,"z":510,"detail":"上侧长窗按落地窗处理，下缘为地面；窗顶暂沿原开口2270 mm。"},{"id":"upper-right","name":"主卧","x":9020,"z":2850,"detail":"净宽按原图3467 mm；上方凸出部分为飘窗，非落地空间。"},{"id":"bay","name":"飘窗","x":9086,"z":805,"detail":"主卧飘窗：凸出500 mm；窗台高暂定500 mm，需复核。"},{"id":"hall","name":"通道","x":6020,"z":5480,"detail":"原图通道关系保留；局部尺寸为拟合。"},{"id":"small-right","name":"主卫","x":10020,"z":5920,"detail":"暂按1472 × 2014 mm；与横墙2040标注冲突。"},{"id":"narrow-top","name":"客卫上区","shortName":"客卫","group":"guest-bath","x":3980,"z":6730,"detail":"客卫上区，保留内部隔断和开口；暂按1557 × 1365 mm。"},{"id":"narrow-bottom","name":"客卫下区","shortName":"客卫","group":"guest-bath","x":3980,"z":8490,"detail":"与上区同属客卫；净尺寸按原图1557 × 2060 mm。"},{"id":"centre","name":"客卧","x":6167,"z":8120,"detail":"净尺寸按原图2577 × 3370 mm。"},{"id":"lower-right","name":"次卧","x":9210,"z":8350,"detail":"底段按原图3171 × 2605 mm；保留上侧转折。"},{"id":"projection","name":"厨房","x":2060,"z":11340,"detail":"用户确认用途为厨房；底宽3062 mm、纵深2775 mm。"}],"features":{"balconyWindow":{"wall":"outer-top","bottom":0,"top":2270,"type":"floor-level-window","topProvisional":true},"masterBay":{"seat":"master-bay-seat","projection":500,"seatHeight":500,"seatHeightProvisional":true},"alignedWalls":{"indoorFaceAxis":"z","indoorFaceCoordinate":1072,"segments":["retained-central-top-stub","upper-right-top-left","upper-right-top-right"]},"furnishing":{"selectedSchemes":[{"zone":"red","option":"A","name":"低柜＋端部高柜"},{"zone":"blue","option":"B","name":"模块沙发＋可移脚凳"},{"zone":"green","option":"B","name":"沙发后双人桌，面向电视"},{"zone":"yellow","option":"A","name":"两端高柜＋中部书架"},{"zone":"ink","option":"B","name":"靠墙餐桌，取消卡座","amendment":"no-banquette-table-against-wall"}],"clearances":{"sofaToDesk":200,"deskDepth":650,"officeChairMovement":1100,"officePassage":1088,"passageBounds":[5750,1200,1088,3600],"diningWallX":3082,"diningTableWallGap":0,"diningBanquette":false},"officeFacesTV":true,"diningBanquette":false,"movable":true,"moveStepMm":100,"movableObjectIds":["tv-low","tv-high","television","sofa-modular","ottoman","side-table","double-desk","office-chair-1","office-chair-2","bookcase","dining-table","dining-chair-1","dining-chair-2"]}},"dimensions":[{"a":[0,-430],"b":[7188,-430],"label":"7188"},{"a":[7328,1800],"b":[10795,1800],"label":"3467*"},{"a":[4879,9925],"b":[7456,9925],"label":"2577"},{"a":[7624,10255],"b":[10795,10255],"label":"3171"},{"a":[438,13000],"b":[3500,13000],"label":"3062"},{"a":[6930,6265],"b":[6930,9635],"label":"3370"}],"beams":[{"a":[0,1072],"b":[4070,1072],"label":"h2362？"},{"a":[0,6090],"b":[3082,6090],"label":"h2484？"}],"measurements":[{"name":"上侧横向总宽","source":7188,"used":7188,"status":"采用"},{"name":"上侧浅区进深","source":1072,"used":1072,"status":"采用"},{"name":"原中间隔间净宽","source":2974,"used":2974,"status":"墙已删除，保留定位"},{"name":"原中间隔间进深","source":3704,"used":3704,"status":"手写末位待核"},{"name":"主卧净宽","source":3467,"used":3467,"status":"手写末位待核"},{"name":"客卧","source":[2577,3370],"used":[2577,3370],"status":"采用"},{"name":"客卫上区","source":[1554,1365],"used":[1557,1365],"status":"与下区对齐，宽差3"},{"name":"客卫下区","source":[1557,2060],"used":[1557,2060],"status":"采用"},{"name":"次卧底段","source":[3171,2605],"used":[3171,2605],"status":"采用"},{"name":"主卫","source":[1472,2014],"used":[1472,2014],"status":"与横墙2040标注冲突，待核"},{"name":"厨房底宽/纵深","source":[3062,2775],"used":[3062,2775],"status":"采用"},{"name":"左外墙总长","source":11089,"used":9635,"status":"与分段尺寸不闭合，未作为硬约束"},{"name":"左侧内部纵向标注","source":6432,"used":null,"status":"起止点待核"},{"name":"主卧外墙纵向标注","source":null,"used":3704,"status":"字迹待核，暂与相邻空间对齐"},{"name":"主卫下横墙","source":2040,"used":1592,"status":"与净宽标注不闭合，待核"},{"name":"阳台窗下缘","source":"用户确认落地窗","used":0,"status":"取消上一版607 mm窗下墙，窗顶2270 mm暂沿原开口"},{"name":"主卧飘窗凸出/窗台高","source":[500,"待核"],"used":[500,500],"status":"凸出尺寸沿原图，窗台高500 mm暂定"}],"furniture":[{"id":"tv-low-case-body","parent":"tv-low","kind":"furniture","shape":"box","x":0,"z":1800,"w":400,"d":3200,"y":70,"h":380,"material":"cabinet"},{"id":"tv-low-case-top","parent":"tv-low","kind":"furniture","shape":"box","x":0,"z":1800,"w":400,"d":3200,"y":430,"h":20,"material":"wood"},{"id":"tv-low-case-door-0","parent":"tv-low","kind":"furniture","shape":"box","x":382,"z":1804.0,"w":18,"d":792.0,"y":74,"h":352,"material":"cabinet"},{"id":"tv-low-case-handle-0","parent":"tv-low","kind":"furniture","shape":"box","x":397,"z":2155.0,"w":3,"d":90,"y":305.6,"h":10,"material":"metal"},{"id":"tv-low-case-door-1","parent":"tv-low","kind":"furniture","shape":"box","x":382,"z":2604.0,"w":18,"d":792.0,"y":74,"h":352,"material":"cabinet"},{"id":"tv-low-case-handle-1","parent":"tv-low","kind":"furniture","shape":"box","x":397,"z":2955.0,"w":3,"d":90,"y":305.6,"h":10,"material":"metal"},{"id":"tv-low-case-door-2","parent":"tv-low","kind":"furniture","shape":"box","x":382,"z":3404.0,"w":18,"d":792.0,"y":74,"h":352,"material":"cabinet"},{"id":"tv-low-case-handle-2","parent":"tv-low","kind":"furniture","shape":"box","x":397,"z":3755.0,"w":3,"d":90,"y":305.6,"h":10,"material":"metal"},{"id":"tv-low-case-door-3","parent":"tv-low","kind":"furniture","shape":"box","x":382,"z":4204.0,"w":18,"d":792.0,"y":74,"h":352,"material":"cabinet"},{"id":"tv-low-case-handle-3","parent":"tv-low","kind":"furniture","shape":"box","x":397,"z":4555.0,"w":3,"d":90,"y":305.6,"h":10,"material":"metal"},{"id":"tv-low-plinth","parent":"tv-low","kind":"furniture","shape":"box","x":45,"z":1840,"w":300,"d":3120,"y":0,"h":70,"material":"metal"},{"id":"tv-high-case-body","parent":"tv-high","kind":"furniture","shape":"box","x":0,"z":5100,"w":550,"d":900,"y":60,"h":2340,"material":"cabinet"},{"id":"tv-high-case-top","parent":"tv-high","kind":"furniture","shape":"box","x":0,"z":5100,"w":550,"d":900,"y":2380,"h":20,"material":"wood"},{"id":"tv-high-case-door-0","parent":"tv-high","kind":"furniture","shape":"box","x":532,"z":5104.0,"w":18,"d":442.0,"y":64,"h":2312,"material":"cabinet"},{"id":"tv-high-case-handle-0","parent":"tv-high","kind":"furniture","shape":"box","x":547,"z":5280.0,"w":3,"d":90,"y":1510.8,"h":10,"material":"metal"},{"id":"tv-high-case-door-1","parent":"tv-high","kind":"furniture","shape":"box","x":532,"z":5554.0,"w":18,"d":442.0,"y":64,"h":2312,"material":"cabinet"},{"id":"tv-high-case-handle-1","parent":"tv-high","kind":"furniture","shape":"box","x":547,"z":5730.0,"w":3,"d":90,"y":1510.8,"h":10,"material":"metal"},{"id":"tv-high-plinth","parent":"tv-high","kind":"furniture","shape":"box","x":40,"z":5140,"w":470,"d":820,"y":0,"h":60,"material":"metal"},{"id":"television-body","parent":"television","kind":"furniture","shape":"box","x":30,"z":2550,"w":60,"d":1700,"y":640,"h":960,"material":"metal"},{"id":"television-screen","parent":"television","kind":"furniture","shape":"box","x":90,"z":2575,"w":5,"d":1650,"y":665,"h":910,"material":"screen"},{"id":"sofa-modular-base","parent":"sofa-modular","kind":"furniture","shape":"box","x":2870,"z":2320,"w":910,"d":2360,"y":100,"h":190,"material":"fabric-dark"},{"id":"sofa-modular-back","parent":"sofa-modular","kind":"furniture","shape":"box","x":3660,"z":2300,"w":140,"d":2400,"y":280,"h":570,"material":"fabric-dark"},{"id":"sofa-modular-seat-0","parent":"sofa-modular","kind":"furniture","shape":"box","x":2850,"z":2448,"w":798,"d":685,"y":290,"h":140,"material":"fabric"},{"id":"sofa-modular-back-cushion-0","parent":"sofa-modular","kind":"furniture","shape":"box","x":3550,"z":2450,"w":110,"d":682,"y":430,"h":350,"material":"fabric"},{"id":"sofa-modular-seat-1","parent":"sofa-modular","kind":"furniture","shape":"box","x":2850,"z":3149,"w":798,"d":685,"y":290,"h":140,"material":"fabric"},{"id":"sofa-modular-back-cushion-1","parent":"sofa-modular","kind":"furniture","shape":"box","x":3550,"z":3150,"w":110,"d":682,"y":430,"h":350,"material":"fabric"},{"id":"sofa-modular-seat-2","parent":"sofa-modular","kind":"furniture","shape":"box","x":2850,"z":3850,"w":798,"d":685,"y":290,"h":140,"material":"fabric"},{"id":"sofa-modular-back-cushion-2","parent":"sofa-modular","kind":"furniture","shape":"box","x":3550,"z":3850,"w":110,"d":682,"y":430,"h":350,"material":"fabric"},{"id":"sofa-modular-arm-2300","parent":"sofa-modular","kind":"furniture","shape":"box","x":2850,"z":2300,"w":950,"d":140,"y":280,"h":350,"material":"fabric"},{"id":"sofa-modular-arm-4560","parent":"sofa-modular","kind":"furniture","shape":"box","x":2850,"z":4560,"w":950,"d":140,"y":280,"h":350,"material":"fabric"},{"id":"sofa-modular-foot-2920-2370","parent":"sofa-modular","kind":"furniture","shape":"box","x":2920,"z":2370,"w":55,"d":55,"y":0,"h":100,"material":"metal"},{"id":"sofa-modular-foot-2920-4570","parent":"sofa-modular","kind":"furniture","shape":"box","x":2920,"z":4570,"w":55,"d":55,"y":0,"h":100,"material":"metal"},{"id":"sofa-modular-foot-3680-2370","parent":"sofa-modular","kind":"furniture","shape":"box","x":3680,"z":2370,"w":55,"d":55,"y":0,"h":100,"material":"metal"},{"id":"sofa-modular-foot-3680-4570","parent":"sofa-modular","kind":"furniture","shape":"box","x":3680,"z":4570,"w":55,"d":55,"y":0,"h":100,"material":"metal"},{"id":"ottoman-base","parent":"ottoman","kind":"furniture","shape":"box","x":2020,"z":4070,"w":810,"d":610,"y":80,"h":210,"material":"fabric-dark"},{"id":"ottoman-cushion","parent":"ottoman","kind":"furniture","shape":"box","x":2000,"z":4050,"w":850,"d":650,"y":290,"h":140,"material":"fabric"},{"id":"ottoman-foot-2070-4120","parent":"ottoman","kind":"furniture","shape":"box","x":2070,"z":4120,"w":50,"d":50,"y":0,"h":80,"material":"metal"},{"id":"ottoman-foot-2070-4560","parent":"ottoman","kind":"furniture","shape":"box","x":2070,"z":4560,"w":50,"d":50,"y":0,"h":80,"material":"metal"},{"id":"ottoman-foot-2720-4120","parent":"ottoman","kind":"furniture","shape":"box","x":2720,"z":4120,"w":50,"d":50,"y":0,"h":80,"material":"metal"},{"id":"ottoman-foot-2720-4560","parent":"ottoman","kind":"furniture","shape":"box","x":2720,"z":4560,"w":50,"d":50,"y":0,"h":80,"material":"metal"},{"id":"side-table-top","parent":"side-table","kind":"furniture","shape":"cylinder","x":1925,"z":3025,"w":450,"d":450,"y":470,"h":30,"material":"wood"},{"id":"side-table-stem","parent":"side-table","kind":"furniture","shape":"cylinder","x":2115,"z":3215,"w":70,"d":70,"y":30,"h":440,"material":"metal"},{"id":"side-table-base","parent":"side-table","kind":"furniture","shape":"cylinder","x":2005,"z":3105,"w":290,"d":290,"y":0,"h":30,"material":"metal"},{"id":"double-desk-top","parent":"double-desk","kind":"furniture","shape":"box","x":4000,"z":2300,"w":650,"d":2400,"y":720,"h":30,"material":"wood"},{"id":"double-desk-leg-4040-2340","parent":"double-desk","kind":"furniture","shape":"box","x":4040,"z":2340,"w":50,"d":50,"y":0,"h":720,"material":"metal"},{"id":"double-desk-leg-4040-4610","parent":"double-desk","kind":"furniture","shape":"box","x":4040,"z":4610,"w":50,"d":50,"y":0,"h":720,"material":"metal"},{"id":"double-desk-leg-4560-2340","parent":"double-desk","kind":"furniture","shape":"box","x":4560,"z":2340,"w":50,"d":50,"y":0,"h":720,"material":"metal"},{"id":"double-desk-leg-4560-4610","parent":"double-desk","kind":"furniture","shape":"box","x":4560,"z":4610,"w":50,"d":50,"y":0,"h":720,"material":"metal"},{"id":"double-desk-rail","parent":"double-desk","kind":"furniture","shape":"box","x":4040,"z":2340,"w":40,"d":2320,"y":645,"h":55,"material":"metal"},{"id":"double-desk-monitor-base-1","parent":"double-desk","kind":"furniture","shape":"cylinder","x":4090,"z":2790,"w":220,"d":220,"y":750,"h":20,"material":"metal"},{"id":"double-desk-monitor-stand-1","parent":"double-desk","kind":"furniture","shape":"box","x":4130,"z":2878,"w":45,"d":44,"y":770,"h":235,"material":"metal"},{"id":"double-desk-monitor-body-1","parent":"double-desk","kind":"furniture","shape":"box","x":4100,"z":2650,"w":45,"d":500,"y":970,"h":330,"material":"metal"},{"id":"double-desk-monitor-screen-1","parent":"double-desk","kind":"furniture","shape":"box","x":4145,"z":2662,"w":3,"d":476,"y":982,"h":306,"material":"screen"},{"id":"double-desk-keyboard-1","parent":"double-desk","kind":"furniture","shape":"box","x":4410,"z":2680,"w":140,"d":440,"y":750,"h":16,"material":"metal"},{"id":"double-desk-mouse-1","parent":"double-desk","kind":"furniture","shape":"cylinder","x":4465,"z":3175,"w":70,"d":70,"y":750,"h":20,"material":"metal"},{"id":"office-chair-1-seat","parent":"office-chair-1","kind":"furniture","shape":"box","x":4800,"z":2650,"w":500,"d":500,"y":420,"h":65,"material":"fabric-dark"},{"id":"office-chair-1-back","parent":"office-chair-1","kind":"furniture","shape":"box","x":5235,"z":2650,"w":65,"d":500,"y":485,"h":465,"material":"fabric-dark"},{"id":"office-chair-1-arm-2635","parent":"office-chair-1","kind":"furniture","shape":"box","x":4870,"z":2635,"w":330,"d":30,"y":640,"h":35,"material":"metal"},{"id":"office-chair-1-arm-support-2635","parent":"office-chair-1","kind":"furniture","shape":"box","x":5140,"z":2635,"w":35,"d":30,"y":485,"h":155,"material":"metal"},{"id":"office-chair-1-arm-3135","parent":"office-chair-1","kind":"furniture","shape":"box","x":4870,"z":3135,"w":330,"d":30,"y":640,"h":35,"material":"metal"},{"id":"office-chair-1-arm-support-3135","parent":"office-chair-1","kind":"furniture","shape":"box","x":5140,"z":3135,"w":35,"d":30,"y":485,"h":155,"material":"metal"},{"id":"office-chair-1-column","parent":"office-chair-1","kind":"furniture","shape":"cylinder","x":5015,"z":2865,"w":70,"d":70,"y":90,"h":330,"material":"metal"},{"id":"office-chair-1-base-x","parent":"office-chair-1","kind":"furniture","shape":"box","x":4775,"z":2875,"w":550,"d":50,"y":60,"h":30,"material":"metal"},{"id":"office-chair-1-base-z","parent":"office-chair-1","kind":"furniture","shape":"box","x":5025,"z":2625,"w":50,"d":550,"y":60,"h":30,"material":"metal"},{"id":"office-chair-1-caster--250-0","parent":"office-chair-1","kind":"furniture","shape":"cylinder","x":4770,"z":2870,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"office-chair-1-caster-250-0","parent":"office-chair-1","kind":"furniture","shape":"cylinder","x":5270,"z":2870,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"office-chair-1-caster-0--250","parent":"office-chair-1","kind":"furniture","shape":"cylinder","x":5020,"z":2620,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"office-chair-1-caster-0-250","parent":"office-chair-1","kind":"furniture","shape":"cylinder","x":5020,"z":3120,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"double-desk-monitor-base-2","parent":"double-desk","kind":"furniture","shape":"cylinder","x":4090,"z":3990,"w":220,"d":220,"y":750,"h":20,"material":"metal"},{"id":"double-desk-monitor-stand-2","parent":"double-desk","kind":"furniture","shape":"box","x":4130,"z":4078,"w":45,"d":44,"y":770,"h":235,"material":"metal"},{"id":"double-desk-monitor-body-2","parent":"double-desk","kind":"furniture","shape":"box","x":4100,"z":3850,"w":45,"d":500,"y":970,"h":330,"material":"metal"},{"id":"double-desk-monitor-screen-2","parent":"double-desk","kind":"furniture","shape":"box","x":4145,"z":3862,"w":3,"d":476,"y":982,"h":306,"material":"screen"},{"id":"double-desk-keyboard-2","parent":"double-desk","kind":"furniture","shape":"box","x":4410,"z":3880,"w":140,"d":440,"y":750,"h":16,"material":"metal"},{"id":"double-desk-mouse-2","parent":"double-desk","kind":"furniture","shape":"cylinder","x":4465,"z":4375,"w":70,"d":70,"y":750,"h":20,"material":"metal"},{"id":"office-chair-2-seat","parent":"office-chair-2","kind":"furniture","shape":"box","x":4800,"z":3850,"w":500,"d":500,"y":420,"h":65,"material":"fabric-dark"},{"id":"office-chair-2-back","parent":"office-chair-2","kind":"furniture","shape":"box","x":5235,"z":3850,"w":65,"d":500,"y":485,"h":465,"material":"fabric-dark"},{"id":"office-chair-2-arm-3835","parent":"office-chair-2","kind":"furniture","shape":"box","x":4870,"z":3835,"w":330,"d":30,"y":640,"h":35,"material":"metal"},{"id":"office-chair-2-arm-support-3835","parent":"office-chair-2","kind":"furniture","shape":"box","x":5140,"z":3835,"w":35,"d":30,"y":485,"h":155,"material":"metal"},{"id":"office-chair-2-arm-4335","parent":"office-chair-2","kind":"furniture","shape":"box","x":4870,"z":4335,"w":330,"d":30,"y":640,"h":35,"material":"metal"},{"id":"office-chair-2-arm-support-4335","parent":"office-chair-2","kind":"furniture","shape":"box","x":5140,"z":4335,"w":35,"d":30,"y":485,"h":155,"material":"metal"},{"id":"office-chair-2-column","parent":"office-chair-2","kind":"furniture","shape":"cylinder","x":5015,"z":4065,"w":70,"d":70,"y":90,"h":330,"material":"metal"},{"id":"office-chair-2-base-x","parent":"office-chair-2","kind":"furniture","shape":"box","x":4775,"z":4075,"w":550,"d":50,"y":60,"h":30,"material":"metal"},{"id":"office-chair-2-base-z","parent":"office-chair-2","kind":"furniture","shape":"box","x":5025,"z":3825,"w":50,"d":550,"y":60,"h":30,"material":"metal"},{"id":"office-chair-2-caster--250-0","parent":"office-chair-2","kind":"furniture","shape":"cylinder","x":4770,"z":4070,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"office-chair-2-caster-250-0","parent":"office-chair-2","kind":"furniture","shape":"cylinder","x":5270,"z":4070,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"office-chair-2-caster-0--250","parent":"office-chair-2","kind":"furniture","shape":"cylinder","x":5020,"z":3820,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"office-chair-2-caster-0-250","parent":"office-chair-2","kind":"furniture","shape":"cylinder","x":5020,"z":4320,"w":60,"d":60,"y":0,"h":60,"material":"metal"},{"id":"bookcase-north-tower-body","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1176,"w":350,"d":800,"y":0,"h":2400,"material":"cabinet"},{"id":"bookcase-north-tower-top","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1176,"w":350,"d":800,"y":2380,"h":20,"material":"wood"},{"id":"bookcase-north-tower-door-0","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1180.0,"w":18,"d":392.0,"y":4,"h":2372,"material":"cabinet"},{"id":"bookcase-north-tower-handle-0","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1331.0,"w":3,"d":90,"y":1488.0,"h":10,"material":"metal"},{"id":"bookcase-north-tower-door-1","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1580.0,"w":18,"d":392.0,"y":4,"h":2372,"material":"cabinet"},{"id":"bookcase-north-tower-handle-1","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1731.0,"w":3,"d":90,"y":1488.0,"h":10,"material":"metal"},{"id":"bookcase-south-tower-body","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3976,"w":350,"d":800,"y":0,"h":2400,"material":"cabinet"},{"id":"bookcase-south-tower-top","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3976,"w":350,"d":800,"y":2380,"h":20,"material":"wood"},{"id":"bookcase-south-tower-door-0","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3980.0,"w":18,"d":392.0,"y":4,"h":2372,"material":"cabinet"},{"id":"bookcase-south-tower-handle-0","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":4131.0,"w":3,"d":90,"y":1488.0,"h":10,"material":"metal"},{"id":"bookcase-south-tower-door-1","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":4380.0,"w":18,"d":392.0,"y":4,"h":2372,"material":"cabinet"},{"id":"bookcase-south-tower-handle-1","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":4531.0,"w":3,"d":90,"y":1488.0,"h":10,"material":"metal"},{"id":"bookcase-lower-case-body","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":0,"h":800,"material":"cabinet"},{"id":"bookcase-lower-case-top","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":780,"h":20,"material":"wood"},{"id":"bookcase-lower-case-door-0","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1980.0,"w":18,"d":492.0,"y":4,"h":772,"material":"cabinet"},{"id":"bookcase-lower-case-handle-0","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":2181.0,"w":3,"d":90,"y":496.0,"h":10,"material":"metal"},{"id":"bookcase-lower-case-door-1","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":2480.0,"w":18,"d":492.0,"y":4,"h":772,"material":"cabinet"},{"id":"bookcase-lower-case-handle-1","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":2681.0,"w":3,"d":90,"y":496.0,"h":10,"material":"metal"},{"id":"bookcase-lower-case-door-2","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":2980.0,"w":18,"d":492.0,"y":4,"h":772,"material":"cabinet"},{"id":"bookcase-lower-case-handle-2","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3181.0,"w":3,"d":90,"y":496.0,"h":10,"material":"metal"},{"id":"bookcase-lower-case-door-3","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3480.0,"w":18,"d":492.0,"y":4,"h":772,"material":"cabinet"},{"id":"bookcase-lower-case-handle-3","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3681.0,"w":3,"d":90,"y":496.0,"h":10,"material":"metal"},{"id":"bookcase-back","parent":"bookcase","kind":"furniture","shape":"box","x":7168,"z":1976,"w":20,"d":2000,"y":800,"h":1600,"material":"cabinet"},{"id":"bookcase-partition-2000","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":330,"d":18,"y":800,"h":1600,"material":"wood"},{"id":"bookcase-partition-2991","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":2967,"w":330,"d":18,"y":800,"h":1600,"material":"wood"},{"id":"bookcase-partition-3982","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":3958,"w":330,"d":18,"y":800,"h":1600,"material":"wood"},{"id":"bookcase-shelf-800","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":800,"h":20,"material":"wood"},{"id":"bookcase-shelf-1200","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":1200,"h":20,"material":"wood"},{"id":"bookcase-shelf-1600","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":1600,"h":20,"material":"wood"},{"id":"bookcase-shelf-2000","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":2000,"h":20,"material":"wood"},{"id":"bookcase-shelf-2380","parent":"bookcase","kind":"furniture","shape":"box","x":6838,"z":1976,"w":350,"d":2000,"y":2380,"h":20,"material":"wood"},{"id":"bookcase-book-0-0-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2066,"w":230,"d":70,"y":820,"h":240,"material":"cabinet"},{"id":"bookcase-book-0-0-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2191,"w":230,"d":70,"y":820,"h":275,"material":"book"},{"id":"bookcase-book-0-0-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2316,"w":230,"d":70,"y":820,"h":310,"material":"cabinet"},{"id":"bookcase-book-0-0-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2441,"w":230,"d":70,"y":820,"h":240,"material":"book"},{"id":"bookcase-book-0-0-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2566,"w":230,"d":70,"y":820,"h":275,"material":"cabinet"},{"id":"bookcase-book-0-1-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3066,"w":230,"d":70,"y":820,"h":240,"material":"cabinet"},{"id":"bookcase-book-0-1-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3191,"w":230,"d":70,"y":820,"h":275,"material":"book"},{"id":"bookcase-book-0-1-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3316,"w":230,"d":70,"y":820,"h":310,"material":"cabinet"},{"id":"bookcase-book-0-1-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3441,"w":230,"d":70,"y":820,"h":240,"material":"book"},{"id":"bookcase-book-0-1-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3566,"w":230,"d":70,"y":820,"h":275,"material":"cabinet"},{"id":"bookcase-book-1-0-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2066,"w":230,"d":70,"y":1220,"h":240,"material":"cabinet"},{"id":"bookcase-book-1-0-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2191,"w":230,"d":70,"y":1220,"h":275,"material":"book"},{"id":"bookcase-book-1-0-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2316,"w":230,"d":70,"y":1220,"h":310,"material":"cabinet"},{"id":"bookcase-book-1-0-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2441,"w":230,"d":70,"y":1220,"h":240,"material":"book"},{"id":"bookcase-book-1-0-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2566,"w":230,"d":70,"y":1220,"h":275,"material":"cabinet"},{"id":"bookcase-book-1-1-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3066,"w":230,"d":70,"y":1220,"h":240,"material":"cabinet"},{"id":"bookcase-book-1-1-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3191,"w":230,"d":70,"y":1220,"h":275,"material":"book"},{"id":"bookcase-book-1-1-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3316,"w":230,"d":70,"y":1220,"h":310,"material":"cabinet"},{"id":"bookcase-book-1-1-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3441,"w":230,"d":70,"y":1220,"h":240,"material":"book"},{"id":"bookcase-book-1-1-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3566,"w":230,"d":70,"y":1220,"h":275,"material":"cabinet"},{"id":"bookcase-book-2-0-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2066,"w":230,"d":70,"y":1620,"h":240,"material":"cabinet"},{"id":"bookcase-book-2-0-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2191,"w":230,"d":70,"y":1620,"h":275,"material":"book"},{"id":"bookcase-book-2-0-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2316,"w":230,"d":70,"y":1620,"h":310,"material":"cabinet"},{"id":"bookcase-book-2-0-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2441,"w":230,"d":70,"y":1620,"h":240,"material":"book"},{"id":"bookcase-book-2-0-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2566,"w":230,"d":70,"y":1620,"h":275,"material":"cabinet"},{"id":"bookcase-book-2-1-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3066,"w":230,"d":70,"y":1620,"h":240,"material":"cabinet"},{"id":"bookcase-book-2-1-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3191,"w":230,"d":70,"y":1620,"h":275,"material":"book"},{"id":"bookcase-book-2-1-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3316,"w":230,"d":70,"y":1620,"h":310,"material":"cabinet"},{"id":"bookcase-book-2-1-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3441,"w":230,"d":70,"y":1620,"h":240,"material":"book"},{"id":"bookcase-book-2-1-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3566,"w":230,"d":70,"y":1620,"h":275,"material":"cabinet"},{"id":"bookcase-book-3-0-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2066,"w":230,"d":70,"y":2020,"h":240,"material":"cabinet"},{"id":"bookcase-book-3-0-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2191,"w":230,"d":70,"y":2020,"h":275,"material":"book"},{"id":"bookcase-book-3-0-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2316,"w":230,"d":70,"y":2020,"h":310,"material":"cabinet"},{"id":"bookcase-book-3-0-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2441,"w":230,"d":70,"y":2020,"h":240,"material":"book"},{"id":"bookcase-book-3-0-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":2566,"w":230,"d":70,"y":2020,"h":275,"material":"cabinet"},{"id":"bookcase-book-3-1-0","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3066,"w":230,"d":70,"y":2020,"h":240,"material":"cabinet"},{"id":"bookcase-book-3-1-1","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3191,"w":230,"d":70,"y":2020,"h":275,"material":"book"},{"id":"bookcase-book-3-1-2","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3316,"w":230,"d":70,"y":2020,"h":310,"material":"cabinet"},{"id":"bookcase-book-3-1-3","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3441,"w":230,"d":70,"y":2020,"h":240,"material":"book"},{"id":"bookcase-book-3-1-4","parent":"bookcase","kind":"furniture","shape":"box","x":6870,"z":3566,"w":230,"d":70,"y":2020,"h":275,"material":"cabinet"},{"id":"dining-table-top","parent":"dining-table","kind":"furniture","shape":"box","x":2332,"z":7300,"w":750,"d":1400,"y":720,"h":30,"material":"wood"},{"id":"dining-table-leg-2382-7350","parent":"dining-table","kind":"furniture","shape":"box","x":2382,"z":7350,"w":50,"d":50,"y":0,"h":720,"material":"wood"},{"id":"dining-table-leg-2382-8600","parent":"dining-table","kind":"furniture","shape":"box","x":2382,"z":8600,"w":50,"d":50,"y":0,"h":720,"material":"wood"},{"id":"dining-table-leg-2982-7350","parent":"dining-table","kind":"furniture","shape":"box","x":2982,"z":7350,"w":50,"d":50,"y":0,"h":720,"material":"wood"},{"id":"dining-table-leg-2982-8600","parent":"dining-table","kind":"furniture","shape":"box","x":2982,"z":8600,"w":50,"d":50,"y":0,"h":720,"material":"wood"},{"id":"dining-chair-1-seat","parent":"dining-chair-1","kind":"furniture","shape":"box","x":1832,"z":7450,"w":450,"d":450,"y":420,"h":40,"material":"fabric"},{"id":"dining-chair-1-back","parent":"dining-chair-1","kind":"furniture","shape":"box","x":1832,"z":7450,"w":55,"d":450,"y":460,"h":390,"material":"wood"},{"id":"dining-chair-1-leg-1852-7470","parent":"dining-chair-1","kind":"furniture","shape":"box","x":1852,"z":7470,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-1-leg-1852-7830","parent":"dining-chair-1","kind":"furniture","shape":"box","x":1852,"z":7830,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-1-leg-2212-7470","parent":"dining-chair-1","kind":"furniture","shape":"box","x":2212,"z":7470,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-1-leg-2212-7830","parent":"dining-chair-1","kind":"furniture","shape":"box","x":2212,"z":7830,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-2-seat","parent":"dining-chair-2","kind":"furniture","shape":"box","x":1832,"z":8200,"w":450,"d":450,"y":420,"h":40,"material":"fabric"},{"id":"dining-chair-2-back","parent":"dining-chair-2","kind":"furniture","shape":"box","x":1832,"z":8200,"w":55,"d":450,"y":460,"h":390,"material":"wood"},{"id":"dining-chair-2-leg-1852-8220","parent":"dining-chair-2","kind":"furniture","shape":"box","x":1852,"z":8220,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-2-leg-1852-8580","parent":"dining-chair-2","kind":"furniture","shape":"box","x":1852,"z":8580,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-2-leg-2212-8220","parent":"dining-chair-2","kind":"furniture","shape":"box","x":2212,"z":8220,"w":50,"d":50,"y":0,"h":420,"material":"wood"},{"id":"dining-chair-2-leg-2212-8580","parent":"dining-chair-2","kind":"furniture","shape":"box","x":2212,"z":8580,"w":50,"d":50,"y":0,"h":420,"material":"wood"}],"furnitureObjects":[{"id":"tv-low","name":"电视低柜","zone":"red","scheme":"A","x":0,"z":1800,"w":400,"d":3200,"h":450,"detail":"红 A：3200×400×450 低柜；配餐厅端 900×550×2400 高柜。","label":true,"labelRotate":-90},{"id":"tv-high","name":"电视端部高柜","zone":"red","scheme":"A","x":0,"z":5100,"w":550,"d":900,"h":2400,"detail":"红 A：高柜在靠餐厅一端，靠阳台端保持低矮。","label":false,"labelRotate":0},{"id":"television","name":"电视","zone":"red","scheme":"A","x":30,"z":2550,"w":65,"d":1700,"h":1600,"detail":"电视面向沙发与办公座位；屏幕大小为方案示意。","label":false,"labelRotate":0,"facing":"positive-x"},{"id":"sofa-modular","name":"模块沙发","zone":"blue","scheme":"B","x":2850,"z":2300,"w":950,"d":2400,"h":850,"detail":"蓝 B：2400×950 模块沙发，面向电视；脚凳可单独移动。","label":true,"labelRotate":0,"facing":"negative-x"},{"id":"ottoman","name":"可移脚凳","zone":"blue","scheme":"B","x":2000,"z":4050,"w":850,"d":650,"h":430,"detail":"蓝 B：850×650 可移脚凳，当前靠沙发前侧摆放。","label":false,"labelRotate":0},{"id":"side-table","name":"小圆边几","zone":"blue","scheme":"B","x":1925,"z":3025,"w":450,"d":450,"h":500,"detail":"蓝 B：直径450 小圆边几；取消原 A 方案的大圆茶几。","label":false,"labelRotate":0},{"id":"double-desk","name":"双人办公桌","zone":"green","scheme":"B","x":4000,"z":2300,"w":650,"d":2400,"h":1300,"detail":"绿 B：2400×650 双人桌；两人朝电视。桌与沙发背留200，座椅活动区1100，椅后另留约1100通道。","label":true,"labelRotate":-90,"facing":"negative-x"},{"id":"office-chair-1","name":"办公椅1","zone":"green","scheme":"B","x":4800,"z":2635,"w":500,"d":530,"h":950,"detail":"办公椅在桌子右侧，靠背在右侧，人面向左侧电视。","label":false,"labelRotate":0,"facing":"negative-x"},{"id":"office-chair-2","name":"办公椅2","zone":"green","scheme":"B","x":4800,"z":3835,"w":500,"d":530,"h":950,"detail":"办公椅在桌子右侧，靠背在右侧，人面向左侧电视。","label":false,"labelRotate":0,"facing":"negative-x"},{"id":"bookcase","name":"书柜与储物","zone":"yellow","scheme":"A","x":6838,"z":1176,"w":350,"d":3600,"h":2400,"detail":"黄 A：3600×350×2400；两端各800高柜，中部2000，上开放书架、下封闭柜。","label":true,"labelRotate":-90,"facing":"negative-x"},{"id":"dining-table","name":"靠墙餐桌","zone":"ink","scheme":"B","x":2332,"z":7300,"w":750,"d":1400,"h":750,"detail":"黑 B 调整：1400×750 餐桌长边直接靠客卫外侧墙，取消卡座，外侧两把活动餐椅。","label":true,"labelRotate":-90},{"id":"dining-chair-1","name":"餐椅1","zone":"ink","scheme":"B","x":1832,"z":7450,"w":450,"d":450,"h":850,"detail":"活动餐椅位于餐桌外侧；原卡座及靠墙侧座位取消。","label":false,"labelRotate":0,"facing":"positive-x"},{"id":"dining-chair-2","name":"餐椅2","zone":"ink","scheme":"B","x":1832,"z":8200,"w":450,"d":450,"h":850,"detail":"活动餐椅位于餐桌外侧；原卡座及靠墙侧座位取消。","label":false,"labelRotate":0,"facing":"positive-x"}],"furnitureMaterials":{"wood":{"name":"oak","color":[0.64,0.47,0.31,1],"roughness":0.75},"cabinet":{"name":"warm-white-cabinet","color":[0.91,0.89,0.83,1],"roughness":0.85},"fabric":{"name":"greige-upholstery","color":[0.69,0.68,0.63,1],"roughness":1},"fabric-dark":{"name":"upholstery-frame","color":[0.55,0.55,0.51,1],"roughness":1},"metal":{"name":"dark-metal","color":[0.18,0.2,0.2,1],"roughness":0.5},"screen":{"name":"display-screen","color":[0.035,0.055,0.065,1],"roughness":0.3},"book":{"name":"muted-book-spines","color":[0.43,0.53,0.5,1],"roughness":1}}}</script>
+  <style>
+    #house-structure-v1{width:100%;color:var(--foreground)}
+    #house-structure-v1 .house-height-control{display:grid;grid-template-columns:minmax(170px,auto) minmax(130px,240px);align-items:center;gap:16px;margin-top:12px}
+    #house-structure-v1 .house-height-control[hidden]{display:none}
+    #house-structure-v1 canvas{display:block;width:100%;height:630px;touch-action:pan-y;cursor:grab}
+    #house-structure-v1 canvas[data-dragging="true"]{cursor:grabbing}
+    #house-structure-v1 .house-legend{gap:14px;justify-content:center;flex-wrap:wrap}
+    #house-structure-v1 .house-legend>span{display:inline-flex;align-items:center;gap:6px}
+    #house-structure-v1 [hidden]{display:none!important}
+    #house-structure-v1 .house-swatch{display:inline-block;width:12px;height:12px}
+    #house-structure-v1 [data-key="wall"]{background:color-mix(in srgb,var(--foreground) 55%,var(--background))}
+    #house-structure-v1 [data-key="glass"]{background:var(--blue)}
+    #house-structure-v1 [data-key="open"]{background:color-mix(in srgb,var(--viz-series-1) 35%,var(--background))}
+    #house-structure-v1 [data-key="furniture"]{background:color-mix(in srgb,var(--orange) 35%,var(--background))}
+    #house-structure-v1 .house-line{width:18px;border-top:2px dashed var(--destructive)}
+    #house-structure-v1 .house-detail{margin-top:12px}
+    #house-structure-v1 .house-assumption{margin-top:6px}
+    #house-structure-v1 .house-editor{margin:8px 0 16px}
+    #house-structure-v1 .house-editor .viz-controls>div{min-width:0}
+    #house-structure-v1 .house-move-buttons{justify-content:flex-start;margin-top:10px}
+    #house-structure-v1 .house-move-status{margin-top:8px;min-height:1.5em}
+    #house-structure-v1 canvas[data-hover="furniture"]{cursor:move}
+    @media(max-width:520px){#house-structure-v1 canvas{height:390px}#house-structure-v1 .house-height-control{grid-template-columns:1fr;gap:0}}
+  </style>
+  <script>
+  (() => {
+    const root=document.getElementById('house-structure-v1');
+    const data=JSON.parse(document.getElementById('house-data-v1').textContent);
+    const canvas=root.querySelector('canvas'), ctx=canvas.getContext('2d');
+    const dimsInput=root.querySelector('[data-dims]'), removedInput=root.querySelector('[data-removed]');
+    const furnitureInput=root.querySelector('[data-furniture]');
+    const heightInput=root.querySelector('#house-cut-v1'), heightOutput=root.querySelector('[data-height-value]');
+    const detail=root.querySelector('[data-detail]'), heightControl=root.querySelector('[data-height-control]');
+    const itemSelect=root.querySelector('#house-item-v1'),offsetXInput=root.querySelector('#house-offset-x-v1'),offsetZInput=root.querySelector('#house-offset-z-v1');
+    const undoButton=root.querySelector('[data-undo]'),moveStatus=root.querySelector('[data-move-status]');
+    const baseObjects=data.furnitureObjects.map(q=>({...q})),baseParts=data.furniture.map(q=>({...q}));
+    const baseById=new Map(baseObjects.map(q=>[q.id,q])),partsByParent=new Map(baseObjects.map(q=>[q.id,baseParts.filter(p=>p.parent===q.id)]));
+    const offsets=Object.fromEntries(baseObjects.map(q=>[q.id,[0,0]])),history=[];
+    const step=100,snap=n=>Math.round(n/step)*step||0;
+    for(const q of baseObjects){const option=document.createElement('option');option.value=q.id;option.textContent=q.name;itemSelect.appendChild(option);}
+    const initial=window.openai?.widgetState || {};
+    const state={view:'3d',cut:1200,dims:false,removed:false,furniture:true,yaw:-.34,pitch:.77,zoom:1,selected:'open',selectedFurniture:null};
+    let width=736,height=630,palette={},project=()=>[0,0,0],projectionInfo=null,labels=[],hitFaces=[],drag=null,dirty=true;
+    const clamp=(n,a,b)=>Math.min(b,Math.max(a,n));
+    function applySaved(saved){
+      const p=saved?.privateContent || {},m=saved?.modelContent || {};
+      if(![3,data.revision].includes(m.revision))return;
+      if(['3d','ortho','plan'].includes(m.view))state.view=m.view;
+      if(data.rooms.some(r=>r.id===m.selectedRoom))state.selected=m.selectedRoom;
+      if(Number.isFinite(p.cut))state.cut=clamp(p.cut,600,2750);
+      if(Number.isFinite(p.yaw))state.yaw=p.yaw;
+      if(Number.isFinite(p.pitch))state.pitch=clamp(p.pitch,.3,1.38);
+      if(Number.isFinite(p.zoom))state.zoom=clamp(p.zoom,.65,1.5);
+      if(typeof p.dims==='boolean')state.dims=p.dims;
+      if(typeof p.removed==='boolean')state.removed=p.removed;
+      if(typeof p.furniture==='boolean')state.furniture=p.furniture;
+      if(data.furnitureObjects.some(q=>q.id===m.selectedFurniture))state.selectedFurniture=m.selectedFurniture;
+      if(Array.isArray(m.furniturePositions)){
+        for(const q of m.furniturePositions){
+          if(!baseById.has(q.id)||!Number.isFinite(q.dx)||!Number.isFinite(q.dz)||Math.abs(q.dx)>20000||Math.abs(q.dz)>20000)continue;
+          const next=[snap(q.dx),snap(q.dz)];if(!placementProblem(q.id,...next))offsets[q.id]=next;
+        }
+        applyOffsets();
+      }
+    }
+    function save(){
+      const table=data.furnitureObjects.find(q=>q.id==='dining-table'),tv=data.furnitureObjects.find(q=>q.id==='television');
+      if(window.openai?.setWidgetState)window.openai.setWidgetState({modelContent:{revision:data.revision,view:state.view,selectedRoom:state.selected,selectedFurniture:state.selectedFurniture,moveStepMm:step,furniturePositions:data.furnitureObjects.map(q=>({id:q.id,x:q.x,z:q.z,dx:offsets[q.id][0],dz:offsets[q.id][1]})),selectedSchemes:data.features.furnishing.selectedSchemes.map(s=>({zone:s.zone,option:s.option})),officeFacesTV:data.furnitureObjects.filter(q=>q.id.startsWith('office-chair')).every(q=>q.x>tv.x+tv.w),diningBanquette:false,diningTableAgainstWall:Math.abs(table.x+table.w-3082)<1&&table.z>=6090&&table.z+table.d<=9635,redCircledWallsDeleted:true,roomFunctionsConfirmed:true,balconyWindow:'floor-to-ceiling',masterWindow:'raised-bay',redBoxWallsAligned:true,provisionalHeightMm:2750,dimensionsRequireVerification:true},privateContent:{cut:state.cut,dims:state.dims,removed:state.removed,furniture:state.furniture,yaw:state.yaw,pitch:state.pitch,zoom:state.zoom}}).catch(()=>{});
+    }
+    function sync(){
+      root.querySelectorAll('[data-view]').forEach(b=>{const active=b.dataset.view===state.view;b.classList.toggle('btn-primary',active);b.setAttribute('aria-pressed',String(active));});
+      dimsInput.checked=state.dims;removedInput.checked=state.removed;furnitureInput.checked=state.furniture;heightInput.value=state.cut;
+      heightOutput.textContent=(state.cut/1000).toFixed(2)+' m';heightControl.hidden=state.view==='plan';
+      root.querySelector('[data-removed-legend]').hidden=!state.removed;
+      root.querySelector('[data-beam-legend]').hidden=state.view!=='plan';
+      canvas.style.touchAction=state.selectedFurniture&&state.furniture?'none':state.view!=='plan'?'pan-y':'auto';
+      canvas.dataset.projection=state.view==='3d'?'perspective':state.view==='ortho'?'orthographic':'plan';
+      updateEditor();refreshDetail();dirty=true;draw();
+    }
+    function applyOffsets(){
+      data.furnitureObjects.forEach((q,i)=>{const b=baseObjects[i],o=offsets[q.id];q.x=b.x+o[0];q.z=b.z+o[1];});
+      data.furniture.forEach((q,i)=>{const b=baseParts[i],o=offsets[q.parent];q.x=b.x+o[0];q.z=b.z+o[1];});
+    }
+    function updateEditor(){
+      const selected=state.furniture&&baseById.has(state.selectedFurniture),o=selected?offsets[state.selectedFurniture]:[0,0];
+      itemSelect.value=selected?state.selectedFurniture:'';
+      offsetXInput.disabled=offsetZInput.disabled=!selected;offsetXInput.value=o[0];offsetZInput.value=o[1];
+      root.querySelectorAll('[data-move]').forEach(b=>b.disabled=!selected);undoButton.disabled=!history.length;
+    }
+    function insideFloor(x,z){
+      let inside=false;const p=data.floor;
+      for(let i=0,j=p.length-1;i<p.length;j=i++){
+        const [ax,az]=p[j],[bx,bz]=p[i],cross=(x-ax)*(bz-az)-(z-az)*(bx-ax);
+        if(Math.abs(cross)<.01&&x>=Math.min(ax,bx)-.01&&x<=Math.max(ax,bx)+.01&&z>=Math.min(az,bz)-.01&&z<=Math.max(az,bz)+.01)return true;
+        if((az>z)!==(bz>z)&&x<(bx-ax)*(z-az)/(bz-az)+ax)inside=!inside;
+      }
+      return inside;
+    }
+    function placementProblem(id,dx,dz){
+      for(const b of partsByParent.get(id)||[]){
+        const q={...b,x:b.x+dx,z:b.z+dz};
+        if(![[q.x,q.z],[q.x+q.w,q.z],[q.x+q.w,q.z+q.d],[q.x,q.z+q.d]].every(p=>insideFloor(...p)))return '已到房屋边界，未继续移动。';
+        if(data.walls.some(w=>q.x<w.x+w.w-.01&&q.x+q.w>w.x+.01&&q.z<w.z+w.d-.01&&q.z+q.d>w.z+.01&&q.y<w.y+w.h-.01&&q.y+q.h>w.y+.01))return '已到墙边，未继续移动。';
+      }
+      return '';
+    }
+    function moveTo(id,dx,dz){
+      if(!Number.isFinite(dx)||!Number.isFinite(dz))return false;
+      const target=[snap(clamp(dx,-20000,20000)),snap(clamp(dz,-20000,20000))],start=offsets[id],steps=Math.max(Math.abs(target[0]-start[0]),Math.abs(target[1]-start[1]))/step;
+      if(!steps)return false;
+      let last=start.slice(),blocked='';
+      for(let i=1;i<=steps;i++){
+        const next=[snap(start[0]+(target[0]-start[0])*i/steps),snap(start[1]+(target[1]-start[1])*i/steps)];
+        blocked=placementProblem(id,...next);if(blocked)break;last=next;
+      }
+      if(blocked)moveStatus.textContent=blocked;
+      const changed=last[0]!==start[0]||last[1]!==start[1];
+      if(changed){offsets[id]=last;applyOffsets();updateEditor();refreshDetail();dirty=true;draw();}
+      return changed;
+    }
+    function commitMove(id,before){
+      const after=offsets[id];if(after[0]===before[0]&&after[1]===before[1])return false;
+      history.push({id,before:before.slice(),after:after.slice()});if(history.length>60)history.shift();
+      undoButton.disabled=false;moveStatus.textContent=baseById.get(id).name+' · 左右偏移 '+after[0]+' mm · 上下偏移 '+after[1]+' mm';save();return true;
+    }
+    function nudge(dx,dz){
+      const id=state.selectedFurniture;if(!id||!state.furniture)return;
+      const before=offsets[id].slice();moveTo(id,before[0]+dx,before[1]+dz);commitMove(id,before);
+    }
+    function undoMove(){
+      const entry=history.pop();if(!entry)return;
+      offsets[entry.id]=entry.before.slice();state.selectedFurniture=entry.id;state.furniture=true;applyOffsets();sync();
+      moveStatus.textContent='已撤销 '+baseById.get(entry.id).name+' 的上次移动。';save();
+    }
+    function color(value){const e=document.createElement('span');e.style.color=value;e.style.display='none';root.appendChild(e);const c=getComputedStyle(e).color;e.remove();return c;}
+    function updatePalette(){
+      palette={fg:color('var(--foreground)'),bg:color('var(--background)'),muted:color('var(--muted-foreground)'),
+        floor:color('color-mix(in srgb,var(--muted) 55%,var(--background))'),
+        slab:color('color-mix(in srgb,var(--foreground) 22%,var(--background))'),
+        top:color('color-mix(in srgb,var(--foreground) 30%,var(--background))'),
+        sideA:color('color-mix(in srgb,var(--foreground) 42%,var(--background))'),
+        sideB:color('color-mix(in srgb,var(--foreground) 19%,var(--background))'),
+        edge:color('color-mix(in srgb,var(--foreground) 55%,var(--background))'),
+        line:color('var(--border)'),glass:color('var(--blue)'),open:color('var(--viz-series-1)'),
+        removed:color('var(--destructive)'),beam:color('var(--muted-foreground)')};
+      const bases={wood:'color-mix(in srgb,var(--orange) 26%,var(--background))',cabinet:'color-mix(in srgb,var(--foreground) 8%,var(--background))',fabric:'color-mix(in srgb,var(--foreground) 20%,var(--background))','fabric-dark':'color-mix(in srgb,var(--foreground) 30%,var(--background))',metal:'color-mix(in srgb,var(--foreground) 68%,var(--background))',screen:'color-mix(in srgb,var(--foreground) 86%,var(--background))',book:'color-mix(in srgb,var(--green) 30%,var(--background))'};
+      palette.furniture={};for(const [key,base] of Object.entries(bases))palette.furniture[key]={top:color(base),a:color('color-mix(in srgb,var(--foreground) 18%,'+base+')'),b:color('color-mix(in srgb,var(--foreground) 7%,'+base+')')};
+    }
+    const mmPoint=(x,z,y=0)=>[x,y,z];
+    function rawPoint(p){
+      if(state.view==='plan')return [p[0],p[2],p[1]];
+      const c=Math.cos(state.yaw),s=Math.sin(state.yaw),pitch=state.pitch;
+      const x=p[0]-5400,z=p[2]-6200,y=p[1]-600,d=x*s+z*c;
+      const u=x*c-z*s,v=d*Math.sin(pitch)-y*Math.cos(pitch),towardCamera=d*Math.cos(pitch)+y*Math.sin(pitch);
+      // Positive camera depth points toward the viewer. Nearer points use a
+      // SMALLER denominator, so equal lengths become larger near the camera.
+      const distance=22000,perspective=state.view==='3d'?distance/(distance-towardCamera):1;
+      return [u*perspective,v*perspective,towardCamera];
+    }
+    function setupProjection(){
+      if(drag?.kind==='move'&&drag.projection){projectionInfo=drag.projection;const {ox,oy,scale}=projectionInfo;project=p=>{const r=rawPoint(p);return [ox+r[0]*scale,oy+r[1]*scale,r[2]];};return;}
+      const points=[];
+      data.floor.forEach(p=>points.push(mmPoint(...p,-100)));
+      data.walls.forEach(q=>{const top=Math.min(q.y+q.h,state.cut);if(top<=q.y)return;for(const x of [q.x,q.x+q.w])for(const z of [q.z,q.z+q.d])for(const y of [q.y,top])points.push(mmPoint(x,z,y));});
+      data.glass.forEach(q=>{for(const x of [q.x,q.x+q.w])for(const z of [q.z,q.z+q.d])points.push(mmPoint(x,z,Math.min(q.y+q.h,state.cut)));});
+      if(state.furniture)data.furniture.forEach(q=>{for(const x of [q.x,q.x+q.w])for(const z of [q.z,q.z+q.d])for(const y of [q.y,q.y+q.h])points.push(mmPoint(x,z,y));});
+      if(state.dims)data.dimensions.forEach(d=>{points.push(mmPoint(...d.a,0),mmPoint(...d.b,0));});
+      const projected=points.map(rawPoint),xs=projected.map(p=>p[0]),ys=projected.map(p=>p[1]);
+      const minX=Math.min(...xs),maxX=Math.max(...xs),minY=Math.min(...ys),maxY=Math.max(...ys);
+      const scale=Math.min((width-56)/(maxX-minX),(height-58)/(maxY-minY))*(state.view!=='plan'?state.zoom:1);
+      const ox=width/2-(minX+maxX)/2*scale,oy=height/2-(minY+maxY)/2*scale;
+      projectionInfo={ox,oy,scale};
+      project=p=>{const r=rawPoint(p);return [ox+r[0]*scale,oy+r[1]*scale,r[2]];};
+    }
+    function unproject(x,y,level=0,info=projectionInfo){
+      const u=(x-info.ox)/info.scale,v=(y-info.oy)/info.scale;
+      if(state.view==='plan')return [u,v];
+      const cp=Math.cos(state.pitch),sp=Math.sin(state.pitch),cy=level-600,D=22000;
+      const d=state.view==='3d'?(v*(D-sp*cy)+D*cp*cy)/(D*sp+v*cp):(v+cp*cy)/sp;
+      const rawU=state.view==='3d'?u*(D-cp*d-sp*cy)/D:u;
+      const c=Math.cos(state.yaw),s=Math.sin(state.yaw);return [5400+c*rawU+s*d,6200-s*rawU+c*d];
+    }
+    function polygon(points,fill,stroke=null,alpha=1){
+      if(points.length<3)return;
+      ctx.save();ctx.globalAlpha=alpha;ctx.beginPath();points.forEach((p,i)=>{const a=project(p);i?ctx.lineTo(a[0],a[1]):ctx.moveTo(a[0],a[1]);});ctx.closePath();
+      if(fill){ctx.fillStyle=fill;ctx.fill();}if(stroke){ctx.strokeStyle=stroke;ctx.lineWidth=.65;ctx.stroke();}ctx.restore();
+    }
+    function polyLine(points,col,dash=[],lineWidth=1.2){
+      ctx.save();ctx.strokeStyle=col;ctx.lineWidth=lineWidth;ctx.setLineDash(dash);ctx.beginPath();points.forEach((p,i)=>{const a=project(p);i?ctx.lineTo(a[0],a[1]):ctx.moveTo(a[0],a[1]);});ctx.stroke();ctx.restore();
+    }
+    function face(points,col,alpha=1){return {points,col,alpha,depth:points.reduce((s,p)=>s+rawPoint(p)[2],0)/points.length};}
+    function cylinderFaces(q){
+      const n=16,cx=q.x+q.w/2,cz=q.z+q.d/2,mat=palette.furniture[q.material],rings=[[],[]];
+      for(let i=0;i<n;i++){const a=i*Math.PI*2/n;for(let r=0;r<2;r++)rings[r].push([cx+Math.cos(a)*q.w/2,q.y+r*q.h,cz+Math.sin(a)*q.d/2]);}
+      const faces=[face(rings[1],mat.top)];
+      if(state.view!=='plan')for(let i=0;i<n;i++){const j=(i+1)%n;faces.push(face([rings[0][i],rings[0][j],rings[1][j],rings[1][i]],i<n/2?mat.a:mat.b));}
+      return faces;
+    }
+    function boxFaces(q){
+      const furniture=q.kind==='furniture';
+      if(furniture&&q.shape==='cylinder')return cylinderFaces(q);
+      const h=furniture?q.h:Math.min(q.h,Math.max(0,(state.view==='plan'?1200:state.cut)-q.y));if(h<=0)return [];
+      const x=q.x,z=q.z,y=q.y,w=q.w,d=q.d,t=y+h;
+      const v=[[x,y,z],[x+w,y,z],[x+w,y,z+d],[x,y,z+d],[x,t,z],[x+w,t,z],[x+w,t,z+d],[x,t,z+d]];
+      if(state.view==='plan'){
+        if(furniture)return [face([v[4],v[5],v[6],v[7]],palette.furniture[q.material].top)];
+        if(q.y>1200 || q.y+q.h<=1200)return [];
+        return [face([v[4],v[5],v[6],v[7]],q.kind==='glass'?palette.glass:palette.edge,q.kind==='glass'?.65:1)];
+      }
+      if(q.kind==='glass')return [face(q.w>q.d?[v[0],v[1],v[5],v[4]]:[v[0],v[3],v[7],v[4]],palette.glass,.35)];
+      if(furniture){const mat=palette.furniture[q.material];return [face([v[4],v[5],v[6],v[7]],mat.top),face([v[0],v[1],v[5],v[4]],mat.b),face([v[1],v[2],v[6],v[5]],mat.a),face([v[2],v[3],v[7],v[6]],mat.b),face([v[3],v[0],v[4],v[7]],mat.a)];}
+      return [face([v[4],v[5],v[6],v[7]],q.kind==='bay-seat'?palette.floor:palette.top),
+        face([v[0],v[1],v[5],v[4]],palette.sideB),face([v[1],v[2],v[6],v[5]],palette.sideA),
+        face([v[2],v[3],v[7],v[6]],palette.sideB),face([v[3],v[0],v[4],v[7]],palette.sideA)];
+    }
+    function drawFloor(){
+      const top=data.floor.map(p=>mmPoint(...p,0));
+      if(state.view!=='plan')for(let i=0;i<top.length;i++){const j=(i+1)%top.length;polygon([top[i],top[j],[top[j][0],-100,top[j][2]],[top[i][0],-100,top[i][2]]],palette.slab);}
+      polygon(top,palette.floor,palette.line);
+      if(state.view==='plan')data.walls.filter(q=>q.kind==='bay-seat').forEach(q=>polygon([[q.x,0,q.z],[q.x+q.w,0,q.z],[q.x+q.w,0,q.z+q.d],[q.x,0,q.z+q.d]],palette.slab));
+      const open=[[0,0],[7188,0],[7188,4896],[9203,4896],[9203,6145],[4759,6145],[4759,6090],[3082,6090],[3082,9635],[0,9635]];
+      polygon(open.map(p=>mmPoint(...p,2)),palette.open,null,.10);
+      if(state.selected!=='open'){
+        const rects={'balcony':[0,0,7188,1072],'bay':[7849,572,2475,500,505],
+          'upper-right':[7328,1072,3467,3704],'small-right':[9323,4896,1472,2014],
+          'narrow-top':[3202,6090,1557,1365],'narrow-bottom':[3202,7575,1557,2060],
+          'centre':[4879,6265,2577,3370],'lower-right':[7624,7030,3171,2605],
+          'projection':[438,9635,3062,2775],'hall':[4214,4896,3100,1000]};
+        const r=rects[state.selected];if(r){const [x,z,w,d,level=4]=r;polygon([[x,level,z],[x+w,level,z],[x+w,level,z+d],[x,level,z+d]],palette.open,null,.16);}
+      }
+      if(state.removed){
+        data.removed.forEach(q=>{const x=q.x,z=q.z,w=q.w,d=q.d;
+          polyLine([[x,12,z],[x+w,12,z],[x+w,12,z+d],[x,12,z+d],[x,12,z]],palette.removed,[5,4],1.5);
+        });
+      }
+      if(state.view==='plan')data.beams.forEach(b=>polyLine([mmPoint(...b.a,8),mmPoint(...b.b,8)],palette.beam,[5,5],1));
+      if(state.furniture&&state.selectedFurniture){
+        const q=data.furnitureObjects.find(o=>o.id===state.selectedFurniture);
+        if(q)polyLine([[q.x,4,q.z],[q.x+q.w,4,q.z],[q.x+q.w,4,q.z+q.d],[q.x,4,q.z+q.d],[q.x,4,q.z]],palette.open,[4,3],1.5);
+      }
+    }
+    function textAt(str,x,y,align='center',col=palette.fg,weight='400',rotate=0,small=false){
+      const size=parseFloat(getComputedStyle(small?detail:root).fontSize)||14;
+      ctx.save();ctx.translate(x,y);ctx.rotate(rotate*Math.PI/180);ctx.font=weight+' '+size+'px '+getComputedStyle(root).fontFamily;ctx.textAlign=align;ctx.textBaseline='middle';
+      const tw=ctx.measureText(str).width;
+      ctx.lineWidth=4;ctx.strokeStyle=palette.bg;ctx.lineJoin='round';ctx.strokeText(str,0,0);ctx.fillStyle=col;ctx.fillText(str,0,0);ctx.restore();
+      return {x:x-(rotate?size:tw)/2,y:y-(rotate?tw:size)/2,w:rotate?size:tw,h:rotate?tw:size};
+    }
+    function drawLabels(){
+      labels=[];const abbreviate=width<520;
+      const used=[];
+      if(state.furniture)for(const q of data.furnitureObjects.filter(o=>o.label)){
+        const names={'tv-low':'电视柜','sofa-modular':'沙发','double-desk':'双人桌','bookcase':'书柜','dining-table':'餐桌'};
+        const p=project(mmPoint(q.x+q.w/2,q.z+q.d/2,state.view==='plan'?20:q.h+90));
+        const name=names[q.id]||q.name,rotate=state.view==='plan'?q.labelRotate:0;
+        const fs=parseFloat(getComputedStyle(detail).fontSize)||12;ctx.font='400 '+fs+'px '+getComputedStyle(root).fontFamily;
+        const tw=ctx.measureText(name).width,b={x:p[0]-(rotate?fs:tw)/2-3,y:p[1]-(rotate?tw:fs)/2-3,w:(rotate?fs:tw)+6,h:(rotate?tw:fs)+6};
+        if(b.x<2||b.y<2||b.x+b.w>width-2||b.y+b.h>height-2||used.some(v=>b.x<v.x+v.w&&b.x+b.w>v.x&&b.y<v.y+v.h&&b.y+b.h>v.y))continue;
+        textAt(name,p[0],p[1],'center',palette.fg,q.id===state.selectedFurniture?'500':'400',rotate,true);used.push(b);labels.push({...b,id:q.id});
+      }
+      for(const r of data.rooms){
+        const [rx,rz]=state.furniture&&r.id==='open'?[1600,5400]:[r.x,r.z];
+        const p=project(mmPoint(rx,rz,r.id==='bay'&&state.view!=='plan'?540:15));
+        let name=r.name;
+        if(abbreviate && r.shortName)name=r.shortName;
+        if(r.id==='hall'&&width<430)continue;
+        if(state.selected===r.id && !abbreviate)name=r.name;
+        const fs=parseFloat(getComputedStyle(root).fontSize)||14;
+        ctx.font='400 '+fs+'px '+getComputedStyle(root).fontFamily;
+        const tw=ctx.measureText(name).width,b={x:p[0]-tw/2-4,y:p[1]-fs/2-3,w:tw+8,h:fs+6};
+        if(p[0]<15||p[0]>width-15||p[1]<15||p[1]>height-15)continue;
+        if(used.some(v=>b.x<v.x+v.w&&b.x+b.w>v.x&&b.y<v.y+v.h&&b.y+b.h>v.y)&&r.id!==state.selected)continue;
+        textAt(name,p[0],p[1],'center',palette.fg,r.id===state.selected?'500':'400');
+        used.push(b);labels.push({...b,id:r.id,cx:p[0],cy:p[1]});
+      }
+    }
+    function drawDimensions(){
+      if(!state.dims)return;
+      for(const d of data.dimensions){
+        if(width<520&&state.view!=='plan'&&!['7188','3062'].includes(d.label))continue;
+        if(width<520&&['3467*','3370'].includes(d.label))continue;
+        const a=project(mmPoint(...d.a,20)),b=project(mmPoint(...d.b,20));
+        const dx=b[0]-a[0],dy=b[1]-a[1],length=Math.hypot(dx,dy);
+        if(length<54)continue;
+        const nx=-dy/length,ny=dx/length;
+        ctx.save();ctx.strokeStyle=palette.muted;ctx.lineWidth=.8;ctx.beginPath();ctx.moveTo(a[0],a[1]);ctx.lineTo(b[0],b[1]);
+        for(const p of [a,b]){ctx.moveTo(p[0]-nx*4,p[1]-ny*4);ctx.lineTo(p[0]+nx*4,p[1]+ny*4);}ctx.stroke();ctx.restore();
+        const vertical=Math.abs(dy)>Math.abs(dx)*2;
+        textAt(d.label,(a[0]+b[0])/2+(vertical?18:0),(a[1]+b[1])/2-(vertical?0:10),'center',palette.fg);
+      }
+      textAt('mm · * 待核',width-10,height-12,'right',palette.muted);
+    }
+    function draw(){
+      if(!dirty)return;dirty=false;
+      const r=canvas.getBoundingClientRect(),dpr=Math.min(window.devicePixelRatio||1,2);
+      width=r.width;height=r.height;canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);
+      ctx.setTransform(dpr,0,0,dpr,0,0);ctx.clearRect(0,0,width,height);updatePalette();setupProjection();
+      drawFloor();
+      const faces=data.walls.concat(data.glass,state.furniture?data.furniture:[]).flatMap(q=>boxFaces(q).map(f=>({...f,owner:q.parent||null,glass:q.kind==='glass'}))).sort((a,b)=>a.depth-b.depth);
+      hitFaces=faces.map(f=>({id:f.owner,glass:f.glass,points:f.points.map(p=>project(p)),level:f.points.reduce((n,p)=>n+p[1],0)/f.points.length}));
+      faces.forEach(f=>polygon(f.points,f.col,state.view==='plan'?null:palette.edge,f.alpha));
+      if(state.removed && state.view==='plan')data.removed.forEach(q=>polyLine([[q.x,16,q.z],[q.x+q.w,16,q.z],[q.x+q.w,16,q.z+q.d],[q.x,16,q.z+q.d],[q.x,16,q.z]],palette.removed,[5,4],1.5));
+      if(state.furniture&&state.selectedFurniture){const q=data.furnitureObjects.find(q=>q.id===state.selectedFurniture);if(q)polyLine([[q.x,8,q.z],[q.x+q.w,8,q.z],[q.x+q.w,8,q.z+q.d],[q.x,8,q.z+q.d],[q.x,8,q.z]],palette.open,[4,3],1.5);}
+      drawDimensions();drawLabels();
+    }
+    function refreshDetail(){
+      const item=state.furniture&&data.furnitureObjects.find(q=>q.id===state.selectedFurniture);
+      const room=data.rooms.find(r=>r.id===state.selected);
+      detail.textContent=item?item.name+' · 平面尺寸 '+Math.max(item.w,item.d)+' × '+Math.min(item.w,item.d)+' mm · 位置 '+item.x+' / '+item.z+' mm':state.selected!=='open'&&room?room.name+' · '+room.detail:'红 A · 蓝 B · 绿 B · 黄 A · 黑 B（取消卡座，餐桌靠墙）';
+    }
+    function setSelected(id,persist=true){const item=data.furnitureObjects.find(q=>q.id===id);if(item){state.selectedFurniture=id;state.selected='open';state.furniture=true;}else{const room=data.rooms.find(r=>r.id===id);if(!room)return;state.selected=id;state.selectedFurniture=null;}sync();if(persist)save();}
+    function inPolygon(x,y,points){let hit=false;for(let i=0,j=points.length-1;i<points.length;j=i++){const a=points[i],b=points[j];if((a[1]>y)!==(b[1]>y)&&x<(b[0]-a[0])*(y-a[1])/(b[1]-a[1])+a[0])hit=!hit;}return hit;}
+    function furnitureHit(x,y){
+      if(!state.furniture)return null;
+      const label=labels.find(l=>baseById.has(l.id)&&x>=l.x-4&&x<=l.x+l.w+4&&y>=l.y-4&&y<=l.y+l.h+4);
+      const labelHit=label?{id:label.id,level:state.view==='plan'?0:baseById.get(label.id).h}:null;
+      for(let i=hitFaces.length-1;i>=0;i--){const f=hitFaces[i];if(inPolygon(x,y,f.points)){if(f.id)return {id:f.id,level:f.level};if(!f.glass)return labelHit;}}
+      return labelHit;
+    }
+    itemSelect.addEventListener('change',()=>{if(itemSelect.value)setSelected(itemSelect.value);else{state.selectedFurniture=null;sync();save();}});
+    const moves={left:[-step,0],right:[step,0],up:[0,-step],down:[0,step]};
+    root.querySelectorAll('[data-move]').forEach(b=>b.addEventListener('click',()=>nudge(...moves[b.dataset.move])));
+    for(const [input,axis] of [[offsetXInput,0],[offsetZInput,1]])input.addEventListener('change',()=>{
+      const id=state.selectedFurniture;if(!id)return;const before=offsets[id].slice(),next=before.slice();
+      if(!Number.isFinite(input.valueAsNumber)){updateEditor();return;}next[axis]=snap(input.valueAsNumber);
+      moveTo(id,...next);updateEditor();commitMove(id,before);
+    });
+    undoButton.addEventListener('click',undoMove);
+    root.addEventListener('keydown',e=>{if(['INPUT','SELECT','TEXTAREA'].includes(e.target.tagName))return;const keys={ArrowLeft:'left',ArrowRight:'right',ArrowUp:'up',ArrowDown:'down'};if(state.selectedFurniture&&keys[e.key]){e.preventDefault();nudge(...moves[keys[e.key]]);}else if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='z'&&history.length){e.preventDefault();undoMove();}});
+    root.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{state.view=b.dataset.view;if(state.view==='plan')state.dims=true;sync();save();}));
+    dimsInput.addEventListener('change',()=>{state.dims=dimsInput.checked;sync();save();});
+    removedInput.addEventListener('change',()=>{state.removed=removedInput.checked;sync();save();});
+    furnitureInput.addEventListener('change',()=>{state.furniture=furnitureInput.checked;sync();save();});
+    heightInput.addEventListener('input',()=>{state.cut=Number(heightInput.value);heightOutput.textContent=(state.cut/1000).toFixed(2)+' m';dirty=true;draw();});
+    heightInput.addEventListener('change',save);
+    canvas.addEventListener('pointerdown',e=>{
+      if(e.button!==0||drag)return;
+      const r=canvas.getBoundingClientRect(),x=e.clientX-r.left,y=e.clientY-r.top,hit=furnitureHit(x,y);
+      if(hit){setSelected(hit.id,false);drag={id:e.pointerId,kind:'move',item:hit.id,x:e.clientX,y:e.clientY,moved:false,before:offsets[hit.id].slice(),level:hit.level,projection:{...projectionInfo},start:unproject(x,y,hit.level)};}
+      else drag={id:e.pointerId,kind:'rotate',x:e.clientX,y:e.clientY,yaw:state.yaw,pitch:state.pitch,moved:false};
+      if(hit||state.view!=='plan'){canvas.setPointerCapture(e.pointerId);canvas.dataset.dragging='true';}
+    });
+    canvas.addEventListener('pointermove',e=>{
+      if(!drag){const r=canvas.getBoundingClientRect();canvas.dataset.hover=furnitureHit(e.clientX-r.left,e.clientY-r.top)?'furniture':'';return;}
+      const dx=e.clientX-drag.x,dy=e.clientY-drag.y;if(Math.hypot(dx,dy)>(drag.kind==='move'?2:5))drag.moved=true;
+      if(drag.kind==='move'&&drag.moved){e.preventDefault();const r=canvas.getBoundingClientRect(),p=unproject(e.clientX-r.left,e.clientY-r.top,drag.level,drag.projection);moveTo(drag.item,drag.before[0]+p[0]-drag.start[0],drag.before[1]+p[1]-drag.start[1]);}
+      else if(state.view!=='plan'&&drag.moved){state.yaw=drag.yaw+dx*.006;state.pitch=clamp(drag.pitch+dy*.004,.3,1.38);dirty=true;draw();}
+    });
+    canvas.addEventListener('pointerup',e=>{
+      if(!drag||drag.id!==e.pointerId)return;const ended=drag;drag=null;delete canvas.dataset.dragging;
+      if(canvas.hasPointerCapture(e.pointerId))canvas.releasePointerCapture(e.pointerId);
+      if(ended.kind==='move'){dirty=true;draw();if(!commitMove(ended.item,ended.before))save();}
+      else if(!ended.moved){const r=canvas.getBoundingClientRect(),x=e.clientX-r.left,y=e.clientY-r.top,hit=labels.find(l=>x>=l.x-6&&x<=l.x+l.w+6&&y>=l.y-6&&y<=l.y+l.h+6);if(hit)setSelected(hit.id);else{state.selectedFurniture=null;sync();save();}}
+      else save();
+    });
+    canvas.addEventListener('pointercancel',()=>{const ended=drag;drag=null;delete canvas.dataset.dragging;if(ended?.kind==='move'){offsets[ended.item]=ended.before.slice();applyOffsets();sync();}});
+    canvas.addEventListener('wheel',e=>{if(!e.ctrlKey||state.view==='plan')return;e.preventDefault();state.zoom=clamp(state.zoom*Math.exp(-e.deltaY*.001),.65,1.5);dirty=true;draw();save();},{passive:false});
+    window.addEventListener('openai:set_globals',e=>{const s=e.detail?.globals?.widgetState;if(s){applySaved(s);sync();}});
+    new ResizeObserver(()=>{dirty=true;draw();}).observe(canvas);
+    new MutationObserver(()=>{dirty=true;draw();}).observe(document.documentElement,{attributes:true,attributeFilter:['class','style','data-theme']});
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{dirty=true;draw();});
+    applySaved(initial);sync();
+  })();
+  </script>
+</div>

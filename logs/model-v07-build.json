@@ -1,0 +1,304 @@
+{
+  "model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v07.blend",
+  "geometry_sha256": "0ccc097db63ca0b4732518708e3f2e01c78e31049a9a5eb364fca4d581bd28bd",
+  "furniture": [
+    {
+      "id": "tv-low",
+      "position_mm": [
+        0,
+        1800
+      ],
+      "mesh_bounds_error_mm": 4.8e-05,
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "tv-high",
+      "position_mm": [
+        0,
+        5000
+      ],
+      "mesh_bounds_error_mm": 9.5e-05,
+      "dimensions_mm": [
+        4500,
+        400,
+        2400
+      ]
+    },
+    {
+      "id": "television",
+      "position_mm": [
+        30,
+        2450
+      ],
+      "mesh_bounds_error_mm": 0.000191,
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "position_mm": [
+        2900,
+        1800
+      ],
+      "mesh_bounds_error_mm": 0.000191,
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "position_mm": [
+        3000,
+        4850
+      ],
+      "mesh_bounds_error_mm": 9.5e-05,
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "position_mm": [
+        2650,
+        3250
+      ],
+      "mesh_bounds_error_mm": 0.000143,
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "double-desk",
+      "position_mm": [
+        5300,
+        2000
+      ],
+      "mesh_bounds_error_mm": 0.000191,
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "position_mm": [
+        5900,
+        2335
+      ],
+      "mesh_bounds_error_mm": 0.000172,
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "position_mm": [
+        6838,
+        1176
+      ],
+      "mesh_bounds_error_mm": 0.000202,
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "position_mm": [
+        2282,
+        7300
+      ],
+      "mesh_bounds_error_mm": 0.000381,
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "position_mm": [
+        1832,
+        7550
+      ],
+      "mesh_bounds_error_mm": 0.000191,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "position_mm": [
+        1832,
+        8200
+      ],
+      "mesh_bounds_error_mm": 0.000381,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "position_mm": [
+        2457,
+        6850
+      ],
+      "mesh_bounds_error_mm": 0.000381,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "position_mm": [
+        2457,
+        8900
+      ],
+      "mesh_bounds_error_mm": 0.000572,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "position_mm": [
+        921,
+        9635
+      ],
+      "mesh_bounds_error_mm": 0.000229,
+      "dimensions_mm": [
+        1533,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "entry-return-cabinet",
+      "position_mm": [
+        0,
+        10818
+      ],
+      "mesh_bounds_error_mm": 0.000221,
+      "dimensions_mm": [
+        921,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "position_mm": [
+        150,
+        120
+      ],
+      "mesh_bounds_error_mm": 5.1e-05,
+      "dimensions_mm": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "position_mm": [
+        100,
+        1030
+      ],
+      "mesh_bounds_error_mm": 0.000137,
+      "dimensions_mm": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "position_mm": [
+        1100,
+        200
+      ],
+      "mesh_bounds_error_mm": 5.8e-05,
+      "dimensions_mm": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "position_mm": [
+        6488,
+        170
+      ],
+      "mesh_bounds_error_mm": 8.4e-05,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "position_mm": [
+        6488,
+        170
+      ],
+      "mesh_bounds_error_mm": 8.4e-05,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    }
+  ],
+  "movement_100mm": [
+    "tv-low",
+    "tv-high",
+    "television",
+    "sofa-modular",
+    "ottoman",
+    "side-table",
+    "office-chair-1",
+    "bookcase",
+    "dining-table",
+    "dining-chair-1",
+    "dining-chair-2",
+    "dining-chair-3",
+    "dining-chair-4",
+    "double-desk",
+    "entry-shoe-cabinet",
+    "entry-return-cabinet",
+    "plant-balcony-tall",
+    "plant-tv-medium",
+    "plant-balcony-low",
+    "washer",
+    "dryer"
+  ],
+  "linked_laundry_movement": true,
+  "architecture_preserved": true
+}

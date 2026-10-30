@@ -1,0 +1,1108 @@
+[
+  {
+    "name": "interior-design-expert",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\interior-design-expert",
+    "commit": "f49825290077e5fb46bb3e867dfa8a5b0161152b",
+    "file_count": 10,
+    "python_files": [],
+    "files": [
+      {
+        "path": "CHANGELOG.md",
+        "sha256": "9c99bb391777b51145a6923b2e9240a2b02588bd125b9c473cea42b1c52cc1b0"
+      },
+      {
+        "path": "SKILL.md",
+        "sha256": "a2aa8c63e60c78e709b6d97672789a8d7bd2624556e4c664c6f0780037cd5102"
+      },
+      {
+        "path": "UPSTREAM-LICENSE",
+        "sha256": "e63fc1f714ed1365777e2479f4618a5be27d63a246f4b73f4deec0d3292ad33c"
+      },
+      {
+        "path": "agents\\openai.yaml",
+        "sha256": "37eda536f7ddb1acb321901c36bbfd71d1ae6db42b82667ac7b29f2c79038d9e"
+      },
+      {
+        "path": "references\\color-science.md",
+        "sha256": "a5f5445bf5cf59d16573732e3eb6ad6200fc3304f847b210e933fb5fff5b768b"
+      },
+      {
+        "path": "references\\lighting-design.md",
+        "sha256": "d78b1cf50dff3dc53e1f1a367731559f93242f54d085b60854a76705f140af8f"
+      },
+      {
+        "path": "references\\space-planning.md",
+        "sha256": "aacde039f1c692ea7b635d760f9372a7357112d3f7a746c5050e57484aa15464"
+      },
+      {
+        "path": "references\\style-guide.md",
+        "sha256": "6f3614631979d9e5a56e6811958dd985f7412475d1ffd116f258d59deffb74c9"
+      },
+      {
+        "path": "references\\upstream-provenance.json",
+        "sha256": "4e5b17d89feeab7aaa9f9cf10ead99c20d2bc5ff0e850a3084c42b4e94abd476"
+      },
+      {
+        "path": "references\\upstream-SKILL.md",
+        "sha256": "d97d2014e971bb85cf7e511e068ae20dd73324c2dde20c88c3c561c7bbf88e45"
+      }
+    ],
+    "manifest_updated_at": "2026-10-30T11:20:25.554132+00:00"
+  },
+  {
+    "name": "moodboard-aesthetic-iteration",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\moodboard-aesthetic-iteration",
+    "commit": "478d5ae32806e5a95dfcbeb70ba5a68126c22e9e",
+    "file_count": 10,
+    "python_files": [
+      {
+        "path": "scripts\\md_to_pdf.py",
+        "sha256": "e360353943739aaafc4c971dd347d9de20b208f62102f1a3a95c83f812cec5ba",
+        "imports": [
+          "PIL",
+          "argparse",
+          "fpdf",
+          "os",
+          "re",
+          "sys"
+        ]
+      }
+    ],
+    "files": [
+      {
+        "path": "LICENSE",
+        "sha256": "08ea4be70cc5763b4e8be567cb5ebebaa512b5ca606821cf3aadbe510d1aee95"
+      },
+      {
+        "path": "README.md",
+        "sha256": "5631786fe6fc918c6d18659205bf3b3f2f3bc8fb003b97533fe9da3495809a73"
+      },
+      {
+        "path": "SKILL.md",
+        "sha256": "d63245c92b2f4179fc2ad08d7523a01b2fbf154544efb887dd0c1d9b45a52c28"
+      },
+      {
+        "path": "UPSTREAM-LICENSE",
+        "sha256": "08ea4be70cc5763b4e8be567cb5ebebaa512b5ca606821cf3aadbe510d1aee95"
+      },
+      {
+        "path": "agents\\openai.yaml",
+        "sha256": "667d41e5bb03fa6b39c7bb18c6c304bb7b3854e81419a063d66d1f7d64cd3cd5"
+      },
+      {
+        "path": "references\\report-structure.md",
+        "sha256": "01a6ce9e19780e167880335d2dd434bdc648c691e159d1192ddc226b19ed2076"
+      },
+      {
+        "path": "references\\scoring-frameworks.md",
+        "sha256": "c7f78061621013013c74973a6d19bc8e29ba8e659973a46f59ef76edf04baa2d"
+      },
+      {
+        "path": "references\\upstream-provenance.json",
+        "sha256": "1da37d2e397abe022aa51284064c615fae1aded9cebaa8458b569fc845344778"
+      },
+      {
+        "path": "references\\upstream-SKILL.md",
+        "sha256": "1a5900ecc21d1669bf3f2afb5d91442dcede5dae11268d4f5fa5f64b3cc906bf"
+      },
+      {
+        "path": "scripts\\md_to_pdf.py",
+        "sha256": "e360353943739aaafc4c971dd347d9de20b208f62102f1a3a95c83f812cec5ba"
+      }
+    ],
+    "manifest_updated_at": "2026-10-30T11:20:25.554132+00:00"
+  },
+  {
+    "name": "interior-designer",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\interior-designer",
+    "commit": "9554f15f4c20bfa121d1dc85db24cf4389c5b737",
+    "file_count": 8,
+    "python_files": [],
+    "files": [
+      {
+        "path": "SKILL.md",
+        "sha256": "f12b751a39d49a183c495bedd63d839fe9c3a948cd74fe6fdc4fa0b5a8c3651e"
+      },
+      {
+        "path": "UPSTREAM-LICENSE",
+        "sha256": "f7cb14446ec035b188d38be0c2c0ef7b2c990a17e2e4e9426f7e43b2469acae3"
+      },
+      {
+        "path": "agents\\openai.yaml",
+        "sha256": "7ca5e9938819d97556afff82cb166c5325d7950125af1a512c344b00823deccc"
+      },
+      {
+        "path": "references\\artifacts.md",
+        "sha256": "49f8b14cba6760ba7f8a70a1a20f7091c98c660674d2f76048895029d2c4873e"
+      },
+      {
+        "path": "references\\red-flags.md",
+        "sha256": "e2c094937ccecfe5e2906cf70c789091cbde4ab3c0dd63ffaba91631d4f74c37"
+      },
+      {
+        "path": "references\\upstream-provenance.json",
+        "sha256": "a346449f969c2a9d5cfdc6305899a2be0039225384375c92b8087775caafb4c7"
+      },
+      {
+        "path": "references\\upstream-SKILL.md",
+        "sha256": "7e02703cad40b9a42e2276c30c2ff8a54126d467dbcd0c465d82500bd0991306"
+      },
+      {
+        "path": "references\\vocabulary.md",
+        "sha256": "faa8e3756ec1774ab467e8541fa697fb52e7027be5743fc067a5455ef7e2535d"
+      }
+    ],
+    "manifest_updated_at": "2026-10-30T11:20:25.554132+00:00"
+  },
+  {
+    "name": "xiong-interior-design",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\xiong-interior-design",
+    "commit": "8d5deb487cdc1370022f5b95ec15212ef69ba70a",
+    "file_count": 70,
+    "python_files": [
+      {
+        "path": "scripts\\atomic_output_bundle.py",
+        "sha256": "591f865546a1a665ff5bf67d992f4540c7573f11eccdb0c8998d69d3504c1994",
+        "imports": [
+          "os",
+          "pathlib"
+        ]
+      },
+      {
+        "path": "scripts\\audit_dxf_blender_overlay.py",
+        "sha256": "62601a65778052112cc382df4ea346c84a2a92c9d8ce3f3431aa9597cf5195f3",
+        "imports": [
+          "PIL",
+          "argparse",
+          "ezdxf",
+          "json",
+          "os",
+          "pathlib",
+          "subprocess",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\audit_geometry_sources.py",
+        "sha256": "5278e15f194c9b5eaded0ccf8231d0a3ce44a380e7571a98d4f0d28c0b48050d",
+        "imports": [
+          "__future__",
+          "argparse",
+          "hashlib",
+          "json",
+          "pathlib"
+        ]
+      },
+      {
+        "path": "scripts\\build_blender_scene.py",
+        "sha256": "d7f1fd9dd28f152e89099f0edf991bf0b2cd02069ef12819535a62a459d42a32",
+        "imports": [
+          "argparse",
+          "atomic_output_bundle",
+          "bpy",
+          "geometry_approval",
+          "geometry_utils",
+          "hashlib",
+          "html",
+          "json",
+          "math",
+          "os",
+          "pathlib",
+          "sys",
+          "tempfile",
+          "viewer_assets"
+        ]
+      },
+      {
+        "path": "scripts\\build_floorplan_annotator.py",
+        "sha256": "1d6248eca83d9a61a657a5e4c5e2c24a2127f78d23ad87d8489e394760d75e16",
+        "imports": [
+          "PIL",
+          "__future__",
+          "argparse",
+          "base64",
+          "hashlib",
+          "html",
+          "json",
+          "mimetypes",
+          "pathlib",
+          "re"
+        ]
+      },
+      {
+        "path": "scripts\\build_render_prompt.py",
+        "sha256": "feacf02bc354e03db117bc41ca8c020f5c3decac3fe9e7c43f8cbc1f626c494e",
+        "imports": [
+          "argparse",
+          "atomic_output_bundle",
+          "geometry_approval",
+          "geometry_utils",
+          "hashlib",
+          "json",
+          "math",
+          "pathlib",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\calibrate_drawing_coordinates.py",
+        "sha256": "2ef96ed1cad765d5ee030fe37c008064f2c6c34d1844be490d528fcf3b86954e",
+        "imports": [
+          "PIL",
+          "__future__",
+          "argparse",
+          "hashlib",
+          "json",
+          "math",
+          "pathlib",
+          "re"
+        ]
+      },
+      {
+        "path": "scripts\\compare_existing_state_images.py",
+        "sha256": "dd3f8d33a37983318788c88dc55dcd826f4abb276a88507cd9c9f9c89cef7a1b",
+        "imports": [
+          "PIL",
+          "__future__",
+          "argparse",
+          "atomic_output_bundle",
+          "hashlib",
+          "io",
+          "json",
+          "pathlib",
+          "sys",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\export_reference_dxf.py",
+        "sha256": "2c3184ba665d3168b59be937b281034ab31283ec9cfe859ccf07b9b309e5f457",
+        "imports": [
+          "argparse",
+          "atomic_output_bundle",
+          "ezdxf",
+          "geometry_approval",
+          "geometry_utils",
+          "hashlib",
+          "json",
+          "math",
+          "os",
+          "pathlib",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\geometry_approval.py",
+        "sha256": "ef4624a523c7a72d06c322653ff31074043e363bf21009c965b54f1a3592582f",
+        "imports": [
+          "audit_geometry_sources",
+          "datetime",
+          "hashlib",
+          "json",
+          "pathlib"
+        ]
+      },
+      {
+        "path": "scripts\\geometry_utils.py",
+        "sha256": "fa1e8ad0fa29cb81eef97cc198e91e9b9696ec6554d5d6ae06c9266ab4d67aa6",
+        "imports": [
+          "__future__",
+          "math"
+        ]
+      },
+      {
+        "path": "scripts\\prepare_existing_state.py",
+        "sha256": "740d2372834b15df7c79131b00e474caba3ea54c62d293c5be30c0f52866115b",
+        "imports": [
+          "PIL",
+          "__future__",
+          "argparse",
+          "hashlib",
+          "json",
+          "pathlib",
+          "sys"
+        ]
+      },
+      {
+        "path": "scripts\\record_cleaned_state_acceptance.py",
+        "sha256": "6f1e83dfa99a72256d42b7adcdef90e606973c27ae968a6b4dfcb5c8d4e64b8b",
+        "imports": [
+          "PIL",
+          "__future__",
+          "argparse",
+          "atomic_output_bundle",
+          "hashlib",
+          "json",
+          "pathlib",
+          "sys",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\record_geometry_approval.py",
+        "sha256": "86f325a4125b0743f0b3ad80435e4a0981bc5bcdc2aed9e726e2524b5698e512",
+        "imports": [
+          "argparse",
+          "geometry_approval",
+          "geometry_utils",
+          "json",
+          "pathlib"
+        ]
+      },
+      {
+        "path": "scripts\\render_blender_global_reference.py",
+        "sha256": "17b4864d67dba7be76386b93b14d553d2d932f0c069902f99aec67e75dd3fcec",
+        "imports": [
+          "argparse",
+          "atexit",
+          "bpy",
+          "bpy_extras.object_utils",
+          "geometry_approval",
+          "geometry_utils",
+          "hashlib",
+          "json",
+          "math",
+          "mathutils",
+          "os",
+          "render_blender_room_reference",
+          "shutil",
+          "sys",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\render_blender_room_reference.py",
+        "sha256": "a10b94c42db13d64097d21802e27c19b8434f662379641a68ab96148af7fe06d",
+        "imports": [
+          "argparse",
+          "bpy",
+          "bpy_extras.object_utils",
+          "geometry_approval",
+          "geometry_utils",
+          "hashlib",
+          "json",
+          "math",
+          "mathutils",
+          "os",
+          "shutil",
+          "sys",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\run_skill_tests.py",
+        "sha256": "a65604d6a04d8a89e79dbbede9533fd6555ac7f20cf9a8068df4daee71f3d837",
+        "imports": [
+          "__future__",
+          "argparse",
+          "importlib",
+          "os",
+          "pathlib",
+          "pkgutil",
+          "shutil",
+          "subprocess",
+          "sys",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\summarize_floorplan_annotations.py",
+        "sha256": "8ff2ada51002f06309612b5a025ccec46e80c9e67dba02a90e5f366f739bc0b6",
+        "imports": [
+          "__future__",
+          "argparse",
+          "hashlib",
+          "json",
+          "pathlib",
+          "typing"
+        ]
+      },
+      {
+        "path": "scripts\\test_atomic_output_bundle.py",
+        "sha256": "6b387678600fda15ccaf81febd80022d3c689c4adaca46ddfbce39b063f2034b",
+        "imports": [
+          "atomic_output_bundle",
+          "pathlib",
+          "tempfile",
+          "unittest",
+          "unittest.mock"
+        ]
+      },
+      {
+        "path": "scripts\\test_audit_dxf_blender_overlay.py",
+        "sha256": "570997214c45d5ad50e12bab73b79459d1ac95c7e7bc73234d7e3ae4b302d7a0",
+        "imports": [
+          "audit_dxf_blender_overlay",
+          "ezdxf",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_audit_geometry_sources.py",
+        "sha256": "73f5540fe276e502bf58b7ddf78c4fcb7a16324d7ed463e2ddf8dde7e7388991",
+        "imports": [
+          "__future__",
+          "audit_geometry_sources",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_blender_scene_geometry.py",
+        "sha256": "505364046eac2b2a0271074e4abf8e916cf45b2a09758932394aef218d67f0af",
+        "imports": [
+          "bpy",
+          "importlib.util",
+          "json",
+          "math",
+          "mathutils",
+          "pathlib",
+          "struct",
+          "sys",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\test_build_blender_scene_cli.py",
+        "sha256": "05299b46d73486b7462fff5c9274a5aa151aa6279b8e7f211fe364a06c0d04f7",
+        "imports": [
+          "geometry_approval",
+          "json",
+          "pathlib",
+          "subprocess",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_build_floorplan_annotator.py",
+        "sha256": "8187ffdbd9e2123bed402e344e1946c4fe43f55d1bcf609468cb057e92b947a8",
+        "imports": [
+          "PIL",
+          "base64",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_build_render_prompt.py",
+        "sha256": "97857a3430f99bb607fd08b8871ca61c5a0543f72457f719e92794a2ca3906ef",
+        "imports": [
+          "build_render_prompt",
+          "geometry_approval",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_calibrate_drawing_coordinates.py",
+        "sha256": "974c132ac0f776e6f1a678148f4d2291c5bdfd7a4f0d42c7550680c1a6a21257",
+        "imports": [
+          "PIL",
+          "calibrate_drawing_coordinates",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_camera_framing.py",
+        "sha256": "94190f14a4a8076a8c21a6f564d1af5d4811c12d32aa81c17a9ac68c4e6fde12",
+        "imports": [
+          "bpy",
+          "bpy_extras.object_utils",
+          "geometry_utils",
+          "importlib.util",
+          "mathutils",
+          "pathlib",
+          "render_blender_room_reference",
+          "sys"
+        ]
+      },
+      {
+        "path": "scripts\\test_compare_existing_state_images.py",
+        "sha256": "7a058d6fea902f26922d99497294289047e11e3f5fe58fe908781793ad0d4115",
+        "imports": [
+          "PIL",
+          "__future__",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_export_reference_dxf.py",
+        "sha256": "99559243831a60d36dc23ce89b83d86e0e4d03479dfb620aa40237f3b6edb4fd",
+        "imports": [
+          "export_reference_dxf",
+          "ezdxf",
+          "geometry_approval",
+          "geometry_utils",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_floorplan_annotator_browser.py",
+        "sha256": "ea2741612e9a69b120e8656577d0e511b4d5238af295572e34b87bf27832a3a6",
+        "imports": [
+          "__future__",
+          "argparse",
+          "base64",
+          "hashlib",
+          "http.server",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "test_model_viewer_browser",
+          "threading",
+          "time",
+          "urllib.request"
+        ]
+      },
+      {
+        "path": "scripts\\test_geometry_approval.py",
+        "sha256": "747d8da2696ed004124325e692a56a3687e33d3ca2ed13e2e7ae59eba28ab3c6",
+        "imports": [
+          "geometry_approval",
+          "hashlib",
+          "json",
+          "pathlib",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_geometry_utils.py",
+        "sha256": "7e350a662807380cc139a144346170423c7a02a62df6776a3ead0d4ca83500bf",
+        "imports": [
+          "geometry_utils",
+          "math",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_global_reference_camera.py",
+        "sha256": "b368703f538551a56178001ca62eb9fcee1323f586f51beddfd7d92b55f819fc",
+        "imports": [
+          "argparse",
+          "bpy",
+          "bpy_extras.object_utils",
+          "geometry_utils",
+          "json",
+          "mathutils",
+          "pathlib",
+          "render_blender_global_reference",
+          "render_blender_room_reference",
+          "sys",
+          "tempfile"
+        ]
+      },
+      {
+        "path": "scripts\\test_model_viewer_browser.py",
+        "sha256": "b539636f08ea68c6ff65da706f33311a59ddba5324a30b0a932694430af5e57f",
+        "imports": [
+          "PIL",
+          "__future__",
+          "argparse",
+          "base64",
+          "http.server",
+          "io",
+          "json",
+          "os",
+          "pathlib",
+          "shutil",
+          "socket",
+          "subprocess",
+          "tempfile",
+          "threading",
+          "time",
+          "urllib.parse",
+          "urllib.request",
+          "websocket"
+        ]
+      },
+      {
+        "path": "scripts\\test_model_viewer_failure_state.py",
+        "sha256": "320311f763a72c5fab35e4e3769186da647010f75982862e14158b2d70a364f7",
+        "imports": [
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest",
+          "viewer_assets"
+        ]
+      },
+      {
+        "path": "scripts\\test_model_viewer_template_browser.py",
+        "sha256": "69194aeb267bf0fbf45133c83edd2c4ee9c7fecb3bca5620f2116b6b3a888eaa",
+        "imports": [
+          "argparse",
+          "pathlib",
+          "shutil",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "viewer_assets"
+        ]
+      },
+      {
+        "path": "scripts\\test_prepare_existing_state.py",
+        "sha256": "f9d2c1ec09546063224a0121ec718d69c927e27ea2565a85d0ff99e0c96c7e89",
+        "imports": [
+          "PIL",
+          "__future__",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_record_cleaned_state_acceptance.py",
+        "sha256": "2fb15bea6ec6749905712d85ab77d1baa0d878a9dd05ca807847edb7e984fa5e",
+        "imports": [
+          "PIL",
+          "__future__",
+          "json",
+          "pathlib",
+          "re",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_run_skill_tests.py",
+        "sha256": "eb03a8c4c5c832026b54dfbc6455011cee7b50ec027693110f0fbf864316c34e",
+        "imports": [
+          "run_skill_tests",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_summarize_floorplan_annotations.py",
+        "sha256": "7f0446b245cf0da67f1c0613c61a5b3fcbd05d595b994eb0b9d12b0b2a433fee",
+        "imports": [
+          "audit_geometry_sources",
+          "hashlib",
+          "json",
+          "pathlib",
+          "subprocess",
+          "sys",
+          "tempfile",
+          "unittest"
+        ]
+      },
+      {
+        "path": "scripts\\test_viewer_assets.py",
+        "sha256": "5a6fb84cd50245deae4e8b5a6b9f70501d53f3d03d89f99a4720e39a685b46e8",
+        "imports": [
+          "hashlib",
+          "pathlib",
+          "sys",
+          "tempfile",
+          "unittest",
+          "viewer_assets"
+        ]
+      },
+      {
+        "path": "scripts\\viewer_assets.py",
+        "sha256": "07628084881b025ba90c7074fb8f359a3c822063ebc2333eb012ceedd19a4b96",
+        "imports": [
+          "html",
+          "json",
+          "pathlib",
+          "shutil"
+        ]
+      }
+    ],
+    "files": [
+      {
+        "path": ".gitignore",
+        "sha256": "611cd1ae069a3cb376e71ea010198b040277fe8899709f410b90fd1525e85858"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "949e0ab41ab650ec65a24dc1f10a720c1f05a32473baebb8de7a59bd3c8baa8e"
+      },
+      {
+        "path": "README.md",
+        "sha256": "37eb86347765fb029939dc25d6be8a05f313b72e9e7553ee433d114a981584bf"
+      },
+      {
+        "path": "requirements-test.txt",
+        "sha256": "e1873cfb64396d25a770a4444ed8fdb7652c8e1d552e5a7b6997c36787c8fc88"
+      },
+      {
+        "path": "requirements.txt",
+        "sha256": "af4b6bf90327f9654e32e12580c567e64904eae868709866119a6652fb1ec11f"
+      },
+      {
+        "path": "SKILL.md",
+        "sha256": "73b84ae1985016b8fae25c1648c3ae509ef1a2ede14f26cf2a2dce883bd9d728"
+      },
+      {
+        "path": "UPSTREAM-LICENSE",
+        "sha256": "949e0ab41ab650ec65a24dc1f10a720c1f05a32473baebb8de7a59bd3c8baa8e"
+      },
+      {
+        "path": "agents\\openai.yaml",
+        "sha256": "9819d9f492f7395a7976e582d74026c90233747052804479f3a8457a59a618cd"
+      },
+      {
+        "path": "assets\\annotation-review-template.md",
+        "sha256": "f8bbc97e20e6e19a102fb1dea1418e42e75a7e6466c3cd9c59fa07418952c845"
+      },
+      {
+        "path": "assets\\model-viewer-template.html",
+        "sha256": "59906c114cdde6a3b230fb52672a7b5a3db076a88f8265d3b79b13afe4144f50"
+      },
+      {
+        "path": "references\\annotation-to-geometry-workflow.md",
+        "sha256": "ff92f5fcd9c3a828f70ccb536f36a3314de49fdc6dd6b3939d6fabb961c466b2"
+      },
+      {
+        "path": "references\\blender-codex-setup.md",
+        "sha256": "b61d6652148fcb248cd5d360adb0aa222320f31aa47cf57e12adb043bb251d8e"
+      },
+      {
+        "path": "references\\current-state-image-workflow.md",
+        "sha256": "cf2ce04fe36e00d37114635de5d88af5af0728ecc0867408ca457ffc1d653df1"
+      },
+      {
+        "path": "references\\dialogue-playbook.md",
+        "sha256": "d0a6f3f47c0d84aabee362a3b20e3e5b251fa2c08c5dbb41f86fecaed3160560"
+      },
+      {
+        "path": "references\\drawing-viewer.md",
+        "sha256": "8355b675c54cc28d92adf77e3e9b681bb764a5f07880050cc0b13c5fb1cdd943"
+      },
+      {
+        "path": "references\\model-input-format.md",
+        "sha256": "34d8d8d462f99bbdef9fa07d45630078052783201e0b960b89d8e7afedbc3bb1"
+      },
+      {
+        "path": "references\\render-prompt-workflow.md",
+        "sha256": "91d2dadb0154ae55f036effea9d7a80a74049e49a043a76e2761f11d63f3cd3c"
+      },
+      {
+        "path": "references\\upstream-provenance.json",
+        "sha256": "1dc9c50640ab222d905837470627605ddc1584dead6fe876c1362162123d02bd"
+      },
+      {
+        "path": "references\\upstream-SKILL.md",
+        "sha256": "d57b5e66ea5b59d95f5a4c12bf30223498cd79867660b889ab0abc5de42f9bab"
+      },
+      {
+        "path": "references\\usage-guide.md",
+        "sha256": "8cd1d5650eb3216ba003895b0a13942c9156004163a5d704f7f8589a0c0ce0e9"
+      },
+      {
+        "path": "scripts\\atomic_output_bundle.py",
+        "sha256": "591f865546a1a665ff5bf67d992f4540c7573f11eccdb0c8998d69d3504c1994"
+      },
+      {
+        "path": "scripts\\audit_dxf_blender_overlay.py",
+        "sha256": "62601a65778052112cc382df4ea346c84a2a92c9d8ce3f3431aa9597cf5195f3"
+      },
+      {
+        "path": "scripts\\audit_geometry_sources.py",
+        "sha256": "5278e15f194c9b5eaded0ccf8231d0a3ce44a380e7571a98d4f0d28c0b48050d"
+      },
+      {
+        "path": "scripts\\build_blender_scene.py",
+        "sha256": "d7f1fd9dd28f152e89099f0edf991bf0b2cd02069ef12819535a62a459d42a32"
+      },
+      {
+        "path": "scripts\\build_floorplan_annotator.py",
+        "sha256": "1d6248eca83d9a61a657a5e4c5e2c24a2127f78d23ad87d8489e394760d75e16"
+      },
+      {
+        "path": "scripts\\build_render_prompt.py",
+        "sha256": "feacf02bc354e03db117bc41ca8c020f5c3decac3fe9e7c43f8cbc1f626c494e"
+      },
+      {
+        "path": "scripts\\calibrate_drawing_coordinates.py",
+        "sha256": "2ef96ed1cad765d5ee030fe37c008064f2c6c34d1844be490d528fcf3b86954e"
+      },
+      {
+        "path": "scripts\\compare_existing_state_images.py",
+        "sha256": "dd3f8d33a37983318788c88dc55dcd826f4abb276a88507cd9c9f9c89cef7a1b"
+      },
+      {
+        "path": "scripts\\export_reference_dxf.py",
+        "sha256": "2c3184ba665d3168b59be937b281034ab31283ec9cfe859ccf07b9b309e5f457"
+      },
+      {
+        "path": "scripts\\geometry_approval.py",
+        "sha256": "ef4624a523c7a72d06c322653ff31074043e363bf21009c965b54f1a3592582f"
+      },
+      {
+        "path": "scripts\\geometry_utils.py",
+        "sha256": "fa1e8ad0fa29cb81eef97cc198e91e9b9696ec6554d5d6ae06c9266ab4d67aa6"
+      },
+      {
+        "path": "scripts\\prepare_existing_state.py",
+        "sha256": "740d2372834b15df7c79131b00e474caba3ea54c62d293c5be30c0f52866115b"
+      },
+      {
+        "path": "scripts\\record_cleaned_state_acceptance.py",
+        "sha256": "6f1e83dfa99a72256d42b7adcdef90e606973c27ae968a6b4dfcb5c8d4e64b8b"
+      },
+      {
+        "path": "scripts\\record_geometry_approval.py",
+        "sha256": "86f325a4125b0743f0b3ad80435e4a0981bc5bcdc2aed9e726e2524b5698e512"
+      },
+      {
+        "path": "scripts\\render_blender_global_reference.py",
+        "sha256": "17b4864d67dba7be76386b93b14d553d2d932f0c069902f99aec67e75dd3fcec"
+      },
+      {
+        "path": "scripts\\render_blender_room_reference.py",
+        "sha256": "a10b94c42db13d64097d21802e27c19b8434f662379641a68ab96148af7fe06d"
+      },
+      {
+        "path": "scripts\\run_skill_tests.py",
+        "sha256": "a65604d6a04d8a89e79dbbede9533fd6555ac7f20cf9a8068df4daee71f3d837"
+      },
+      {
+        "path": "scripts\\summarize_floorplan_annotations.py",
+        "sha256": "8ff2ada51002f06309612b5a025ccec46e80c9e67dba02a90e5f366f739bc0b6"
+      },
+      {
+        "path": "scripts\\test_atomic_output_bundle.py",
+        "sha256": "6b387678600fda15ccaf81febd80022d3c689c4adaca46ddfbce39b063f2034b"
+      },
+      {
+        "path": "scripts\\test_audit_dxf_blender_overlay.py",
+        "sha256": "570997214c45d5ad50e12bab73b79459d1ac95c7e7bc73234d7e3ae4b302d7a0"
+      },
+      {
+        "path": "scripts\\test_audit_geometry_sources.py",
+        "sha256": "73f5540fe276e502bf58b7ddf78c4fcb7a16324d7ed463e2ddf8dde7e7388991"
+      },
+      {
+        "path": "scripts\\test_blender_scene_geometry.py",
+        "sha256": "505364046eac2b2a0271074e4abf8e916cf45b2a09758932394aef218d67f0af"
+      },
+      {
+        "path": "scripts\\test_build_blender_scene_cli.py",
+        "sha256": "05299b46d73486b7462fff5c9274a5aa151aa6279b8e7f211fe364a06c0d04f7"
+      },
+      {
+        "path": "scripts\\test_build_floorplan_annotator.py",
+        "sha256": "8187ffdbd9e2123bed402e344e1946c4fe43f55d1bcf609468cb057e92b947a8"
+      },
+      {
+        "path": "scripts\\test_build_render_prompt.py",
+        "sha256": "97857a3430f99bb607fd08b8871ca61c5a0543f72457f719e92794a2ca3906ef"
+      },
+      {
+        "path": "scripts\\test_calibrate_drawing_coordinates.py",
+        "sha256": "974c132ac0f776e6f1a678148f4d2291c5bdfd7a4f0d42c7550680c1a6a21257"
+      },
+      {
+        "path": "scripts\\test_camera_framing.py",
+        "sha256": "94190f14a4a8076a8c21a6f564d1af5d4811c12d32aa81c17a9ac68c4e6fde12"
+      },
+      {
+        "path": "scripts\\test_compare_existing_state_images.py",
+        "sha256": "7a058d6fea902f26922d99497294289047e11e3f5fe58fe908781793ad0d4115"
+      },
+      {
+        "path": "scripts\\test_export_reference_dxf.py",
+        "sha256": "99559243831a60d36dc23ce89b83d86e0e4d03479dfb620aa40237f3b6edb4fd"
+      },
+      {
+        "path": "scripts\\test_floorplan_annotator_browser.py",
+        "sha256": "ea2741612e9a69b120e8656577d0e511b4d5238af295572e34b87bf27832a3a6"
+      },
+      {
+        "path": "scripts\\test_geometry_approval.py",
+        "sha256": "747d8da2696ed004124325e692a56a3687e33d3ca2ed13e2e7ae59eba28ab3c6"
+      },
+      {
+        "path": "scripts\\test_geometry_utils.py",
+        "sha256": "7e350a662807380cc139a144346170423c7a02a62df6776a3ead0d4ca83500bf"
+      },
+      {
+        "path": "scripts\\test_global_reference_camera.py",
+        "sha256": "b368703f538551a56178001ca62eb9fcee1323f586f51beddfd7d92b55f819fc"
+      },
+      {
+        "path": "scripts\\test_model_viewer_browser.py",
+        "sha256": "b539636f08ea68c6ff65da706f33311a59ddba5324a30b0a932694430af5e57f"
+      },
+      {
+        "path": "scripts\\test_model_viewer_failure_state.py",
+        "sha256": "320311f763a72c5fab35e4e3769186da647010f75982862e14158b2d70a364f7"
+      },
+      {
+        "path": "scripts\\test_model_viewer_template_browser.py",
+        "sha256": "69194aeb267bf0fbf45133c83edd2c4ee9c7fecb3bca5620f2116b6b3a888eaa"
+      },
+      {
+        "path": "scripts\\test_prepare_existing_state.py",
+        "sha256": "f9d2c1ec09546063224a0121ec718d69c927e27ea2565a85d0ff99e0c96c7e89"
+      },
+      {
+        "path": "scripts\\test_record_cleaned_state_acceptance.py",
+        "sha256": "2fb15bea6ec6749905712d85ab77d1baa0d878a9dd05ca807847edb7e984fa5e"
+      },
+      {
+        "path": "scripts\\test_run_skill_tests.py",
+        "sha256": "eb03a8c4c5c832026b54dfbc6455011cee7b50ec027693110f0fbf864316c34e"
+      },
+      {
+        "path": "scripts\\test_summarize_floorplan_annotations.py",
+        "sha256": "7f0446b245cf0da67f1c0613c61a5b3fcbd05d595b994eb0b9d12b0b2a433fee"
+      },
+      {
+        "path": "scripts\\test_viewer_assets.py",
+        "sha256": "5a6fb84cd50245deae4e8b5a6b9f70501d53f3d03d89f99a4720e39a685b46e8"
+      },
+      {
+        "path": "scripts\\viewer_assets.py",
+        "sha256": "07628084881b025ba90c7074fb8f359a3c822063ebc2333eb012ceedd19a4b96"
+      },
+      {
+        "path": "assets\\drawing-viewer\\blank-template.css",
+        "sha256": "149c2eaa034a980601a53b663e35e958af8d7edd407735f8231331d6b5672e47"
+      },
+      {
+        "path": "assets\\drawing-viewer\\blank-template.html",
+        "sha256": "982d539ce71df4f41ec4307ac4e13255de4494697dc2dd941692023b6976a11a"
+      },
+      {
+        "path": "assets\\drawing-viewer\\blank-template.js",
+        "sha256": "496bba0750bcad1b017a02b68bc70191016b53bb9d6a26ad0675a52bc2817747"
+      },
+      {
+        "path": "assets\\vendor\\lit-BSD-3-Clause-LICENSE.txt",
+        "sha256": "c94b94b40b85a5083dea825ae844b1cedb40dd425685362c135e143265dd6cd4"
+      },
+      {
+        "path": "assets\\vendor\\model-viewer-4.3.1-LICENSE.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "path": "assets\\vendor\\model-viewer-4.3.1.min.js",
+        "sha256": "283b0672384614b4847636c306fc93fe4b1fcadc76d668b4e47f0ca76bcf033b"
+      },
+      {
+        "path": "assets\\vendor\\README.md",
+        "sha256": "1346d99cc86b33678073b537a46cdb339f94501f0dfc09fbd25631c891411f44"
+      },
+      {
+        "path": "assets\\vendor\\threejs-MIT-LICENSE.txt",
+        "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+      }
+    ],
+    "manifest_updated_at": "2026-10-30T11:20:25.554132+00:00"
+  },
+  {
+    "name": "interior-design-visualizer",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\interior-design-visualizer",
+    "commit": "45a2c52be71624e44b1dc7d4bc07c37682474d9a",
+    "file_count": 7,
+    "python_files": [],
+    "files": [
+      {
+        "path": "SKILL.md",
+        "sha256": "e53352f29d0ce60e16820b9bc921fde9f7d28699da92405a15381f319762f524"
+      },
+      {
+        "path": "agents\\openai.yaml",
+        "sha256": "5401576ded808cac3815ebe84ddd5d086ef7319393c755a0a05535e16eb08b0f"
+      },
+      {
+        "path": "references\\design-reasoning.md",
+        "sha256": "82f7cf9ecbda9dcdc3fbfc49bca6406dcacc0dd0ac08f59df6e49f2296915cb2"
+      },
+      {
+        "path": "references\\prompt-template.md",
+        "sha256": "0a674e4a2680ccba0d5fcc51149ab73d9b445415cfd3747f06e8c68e9792ba6c"
+      },
+      {
+        "path": "references\\qa-checklist.md",
+        "sha256": "4c2408a087a94cf5fbe9043975d252fcaabc16e193988c9780fa2537f7baaa5a"
+      },
+      {
+        "path": "references\\upstream-provenance.json",
+        "sha256": "93a9c97d87a5f998265754896e169ae1e132c04b199247fca3df42050d305da0"
+      },
+      {
+        "path": "references\\upstream-SKILL.md",
+        "sha256": "b3ae393a213cfa3329b2afbd19f1983f643e3124e6892da34eb123b60ab762a0"
+      }
+    ],
+    "manifest_updated_at": "2026-10-30T11:20:25.554132+00:00"
+  },
+  {
+    "name": "home-design-director",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\home-design-director",
+    "commit": null,
+    "origin": "local skill-creator",
+    "python_files": [],
+    "files": [
+      {
+        "path": "SKILL.md",
+        "sha256": "2255adf63dd5f4265ae4757920986bc83d502a888dd23bbb1845aaac39868618"
+      },
+      {
+        "path": "agents\\openai.yaml",
+        "sha256": "22330427f5093d36ce263423a6b3841a25af104df1d4c2f644bf9e7a3d9637f5"
+      },
+      {
+        "path": "references\\project-workflow.md",
+        "sha256": "f258591585873669d214786e5d81a559cd499c6400798d09402f724666f258f5"
+      },
+      {
+        "path": "references\\tool-workflow.md",
+        "sha256": "a29e35ed63f6825875edc14b4a179cd3102cf2c52b83940b67b42e38541b8245"
+      }
+    ],
+    "file_count": 4,
+    "manifest_updated_at": "2026-10-30T11:20:25.554132+00:00"
+  }
+]

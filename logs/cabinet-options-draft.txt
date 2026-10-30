@@ -1,0 +1,263 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v07.blend"
+Fra:1 Mem:48.82M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:48.82M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | outer-right-glass-0.001
+Fra:1 Mem:48.83M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | front-facade-glass-0.001
+Fra:1 Mem:48.83M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:48.83M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | front-facade-glass-2.001
+Fra:1 Mem:48.84M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | tv-low | 电视低柜.001
+Fra:1 Mem:48.84M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | television | 85英寸电视.001
+Fra:1 Mem:48.84M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发.001
+Fra:1 Mem:50.85M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | side-table | 长方茶几.001
+Fra:1 Mem:50.88M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1.001
+Fra:1 Mem:50.89M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | bookcase | 书柜与储物.001
+Fra:1 Mem:50.89M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1.001
+Fra:1 Mem:50.92M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:51.02M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:51.03M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2.001
+Fra:1 Mem:51.06M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4.001
+Fra:1 Mem:51.06M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:51.07M (Peak 51.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | entry-return-cabinet | 入户转角储物柜
+Fra:1 Mem:52.99M (Peak 52.99M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | plant-balcony-low | 阳台矮绿植
+Fra:1 Mem:53.10M (Peak 53.10M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:53.06M (Peak 53.10M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:53.31M (Peak 53.31M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:53.43M (Peak 53.43M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:53.46M (Peak 53.46M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:53.50M (Peak 53.50M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:53.52M (Peak 53.52M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:53.53M (Peak 53.53M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:53.61M (Peak 53.61M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:53.69M (Peak 53.69M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:53.65M (Peak 53.69M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:53.73M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:53.71M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:53.67M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:53.67M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:53.70M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:53.70M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:53.70M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:53.70M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:53.71M (Peak 53.73M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:53.96M (Peak 53.96M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:53.88M (Peak 53.96M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:53.83M (Peak 53.96M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:53.89M (Peak 54.06M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:54.45M (Peak 54.45M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:55.16M (Peak 55.16M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | tv-high | 候选B · 灰橄榄绿＋浅橡木
+Fra:1 Mem:54.85M (Peak 55.16M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0
+Fra:1 Mem:55.44M (Peak 55.44M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.001
+Fra:1 Mem:55.45M (Peak 55.45M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.002
+Fra:1 Mem:55.56M (Peak 55.56M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.003
+Fra:1 Mem:55.57M (Peak 55.57M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 阳台细窗梃
+Fra:1 Mem:56.17M (Peak 56.17M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 阳台细窗梃.001
+Fra:1 Mem:56.24M (Peak 56.24M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:56.25M (Peak 56.25M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:56.29M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:55.76M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:55.83M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:56.06M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:56.03M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:56.04M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:56.10M (Peak 56.29M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:56.40M (Peak 56.40M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:56.48M (Peak 56.48M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:56.46M (Peak 56.48M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:56.50M (Peak 56.50M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:56.51M (Peak 56.51M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:56.53M (Peak 56.53M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:56.61M (Peak 56.61M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:56.61M (Peak 56.61M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:56.67M (Peak 56.67M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:56.66M (Peak 56.67M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:56.69M (Peak 56.69M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:56.72M (Peak 56.72M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:56.75M (Peak 56.75M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:58.91M (Peak 60.46M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Initializing
+Fra:1 Mem:53.63M (Peak 60.46M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.63M (Peak 60.46M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Scene
+Fra:1 Mem:53.63M (Peak 60.46M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Shaders
+Fra:1 Mem:53.63M (Peak 60.46M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:53.74M (Peak 80.80M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Procedurals
+Fra:1 Mem:53.74M (Peak 80.80M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Background
+Fra:1 Mem:53.74M (Peak 80.80M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Camera
+Fra:1 Mem:53.74M (Peak 80.80M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:53.74M (Peak 80.80M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Objects
+Fra:1 Mem:53.74M (Peak 80.80M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:53.77M (Peak 80.80M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Particle Systems
+Fra:1 Mem:53.77M (Peak 80.80M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:53.77M (Peak 80.80M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Meshes
+Fra:1 Mem:53.77M (Peak 80.80M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:53.77M (Peak 80.80M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:55.00M (Peak 80.80M) | Time:00:00.25 | Mem:0.06M, Peak:0.06M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:54.99M (Peak 80.80M) | Time:00:00.25 | Mem:1.28M, Peak:1.28M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH light 90/89 | Building BVH
+Fra:1 Mem:54.99M (Peak 80.80M) | Time:00:00.25 | Mem:1.28M, Peak:1.28M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 20/89 | Building OptiX acceleration structure
+Fra:1 Mem:54.99M (Peak 80.80M) | Time:00:00.25 | Mem:1.28M, Peak:1.28M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 17/89 | Building BVH
+Fra:1 Mem:54.99M (Peak 80.80M) | Time:00:00.25 | Mem:1.28M, Peak:1.28M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 17/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.45M (Peak 80.80M) | Time:00:00.25 | Mem:2.74M, Peak:2.74M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 21/89 | Building BVH
+Fra:1 Mem:56.45M (Peak 80.80M) | Time:00:00.25 | Mem:2.75M, Peak:2.75M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 21/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.50M (Peak 80.80M) | Time:00:00.25 | Mem:2.79M, Peak:2.80M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 22/89 | Building BVH
+Fra:1 Mem:56.50M (Peak 80.80M) | Time:00:00.25 | Mem:2.79M, Peak:2.80M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 22/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.48M (Peak 80.80M) | Time:00:00.25 | Mem:2.83M, Peak:3.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 23/89 | Building BVH
+Fra:1 Mem:56.48M (Peak 80.80M) | Time:00:00.25 | Mem:2.86M, Peak:3.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 23/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.71M (Peak 80.80M) | Time:00:00.25 | Mem:3.06M, Peak:3.11M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 24/89 | Building BVH
+Fra:1 Mem:56.71M (Peak 80.80M) | Time:00:00.25 | Mem:3.06M, Peak:3.11M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH entry-shoe-cabinet-body · 弧形轮廓 24/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 80.80M) | Time:00:00.25 | Mem:3.10M, Peak:3.11M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 25/89 | Building BVH
+Fra:1 Mem:56.75M (Peak 80.80M) | Time:00:00.25 | Mem:3.10M, Peak:3.11M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH entry-return-cabinet-body · 弧形轮廓 25/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 80.80M) | Time:00:00.25 | Mem:3.12M, Peak:3.12M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 26/89 | Building BVH
+Fra:1 Mem:56.77M (Peak 80.80M) | Time:00:00.25 | Mem:3.13M, Peak:3.13M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 26/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.82M (Peak 80.80M) | Time:00:00.25 | Mem:3.58M, Peak:3.58M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 27/89 | Building BVH
+Fra:1 Mem:56.82M (Peak 80.80M) | Time:00:00.25 | Mem:3.58M, Peak:3.58M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 27/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 80.80M) | Time:00:00.25 | Mem:3.23M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 28/89 | Building BVH
+Fra:1 Mem:56.67M (Peak 80.80M) | Time:00:00.25 | Mem:3.23M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 28/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.72M (Peak 80.80M) | Time:00:00.25 | Mem:3.28M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 29/89 | Building BVH
+Fra:1 Mem:56.72M (Peak 80.80M) | Time:00:00.25 | Mem:3.44M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 29/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.74M (Peak 80.80M) | Time:00:00.25 | Mem:3.55M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 30/89 | Building BVH
+Fra:1 Mem:56.74M (Peak 80.80M) | Time:00:00.25 | Mem:3.55M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 30/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.72M (Peak 80.80M) | Time:00:00.25 | Mem:3.37M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH tv-high-rounded-end · 弧形轮廓 31/89 | Building BVH
+Fra:1 Mem:56.72M (Peak 80.80M) | Time:00:00.25 | Mem:3.43M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH tv-high-rounded-end · 弧形轮廓 31/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.79M (Peak 80.80M) | Time:00:00.25 | Mem:3.46M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 88/89 | Building BVH
+Fra:1 Mem:56.79M (Peak 80.80M) | Time:00:00.25 | Mem:3.46M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 88/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 80.80M) | Time:00:00.25 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 32/89 | Building BVH
+Fra:1 Mem:56.81M (Peak 80.80M) | Time:00:00.25 | Mem:3.63M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 32/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 80.80M) | Time:00:00.25 | Mem:3.46M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 33/89 | Building BVH
+Fra:1 Mem:56.75M (Peak 80.80M) | Time:00:00.25 | Mem:3.46M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 33/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 80.80M) | Time:00:00.26 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 34/89 | Building BVH
+Fra:1 Mem:56.76M (Peak 80.80M) | Time:00:00.26 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 34/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 80.80M) | Time:00:00.26 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 35/89 | Building BVH
+Fra:1 Mem:56.76M (Peak 80.80M) | Time:00:00.26 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 35/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.71M (Peak 80.80M) | Time:00:00.26 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 36/89 | Building BVH
+Fra:1 Mem:56.71M (Peak 80.80M) | Time:00:00.26 | Mem:3.47M, Peak:4.15M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 36/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.15M (Peak 80.80M) | Time:00:00.26 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 37/89 | Building BVH
+Fra:1 Mem:56.15M (Peak 80.80M) | Time:00:00.26 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 37/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.16M (Peak 80.80M) | Time:00:00.26 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 38/89 | Building BVH
+Fra:1 Mem:56.16M (Peak 80.80M) | Time:00:00.26 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 38/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.05M (Peak 80.80M) | Time:00:00.26 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 39/89 | Building BVH
+Fra:1 Mem:56.05M (Peak 80.80M) | Time:00:00.26 | Mem:3.35M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 39/89 | Building OptiX acceleration structure
+Fra:1 Mem:56.01M (Peak 80.80M) | Time:00:00.26 | Mem:3.19M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 40/89 | Building BVH
+Fra:1 Mem:56.01M (Peak 80.80M) | Time:00:00.26 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 40/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.97M (Peak 80.80M) | Time:00:00.26 | Mem:4.04M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 41/89 | Building BVH
+Fra:1 Mem:55.97M (Peak 80.80M) | Time:00:00.26 | Mem:4.04M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 41/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.73M (Peak 80.80M) | Time:00:00.26 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 42/89 | Building BVH
+Fra:1 Mem:55.73M (Peak 80.80M) | Time:00:00.26 | Mem:3.33M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 42/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.69M (Peak 80.80M) | Time:00:00.26 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 43/89 | Building BVH
+Fra:1 Mem:55.69M (Peak 80.80M) | Time:00:00.26 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 43/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.68M (Peak 80.80M) | Time:00:00.26 | Mem:3.43M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 44/89 | Building BVH
+Fra:1 Mem:55.68M (Peak 80.80M) | Time:00:00.26 | Mem:3.43M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 44/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.63M (Peak 80.80M) | Time:00:00.26 | Mem:3.19M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 45/89 | Building BVH
+Fra:1 Mem:55.63M (Peak 80.80M) | Time:00:00.26 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 45/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.63M (Peak 80.80M) | Time:00:00.26 | Mem:3.19M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 46/89 | Building BVH
+Fra:1 Mem:55.63M (Peak 80.80M) | Time:00:00.26 | Mem:3.30M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 46/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.59M (Peak 80.80M) | Time:00:00.26 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 47/89 | Building BVH
+Fra:1 Mem:55.59M (Peak 80.80M) | Time:00:00.26 | Mem:3.31M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 47/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.52M (Peak 80.80M) | Time:00:00.26 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 48/89 | Building BVH
+Fra:1 Mem:55.52M (Peak 80.80M) | Time:00:00.26 | Mem:3.43M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 48/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.46M (Peak 80.80M) | Time:00:00.26 | Mem:3.60M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 49/89 | Building BVH
+Fra:1 Mem:55.46M (Peak 80.80M) | Time:00:00.26 | Mem:3.60M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 49/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 50/89 | Building BVH
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 50/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 87/89 | Building BVH
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 87/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 51/89 | Building BVH
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 51/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.24M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 52/89 | Building BVH
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.24M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 52/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 53/89 | Building BVH
+Fra:1 Mem:55.37M (Peak 80.80M) | Time:00:00.26 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 53/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.17M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 54/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.19M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 54/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.18M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 55/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 55/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.19M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 56/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.21M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 56/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.20M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 57/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.21M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 57/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 58/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 58/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 59/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 59/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 60/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 60/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.22M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 61/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.24M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 61/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.34M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 62/89 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.80M) | Time:00:00.27 | Mem:3.48M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 62/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 63/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.23M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 63/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 64/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 64/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 65/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.27M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 65/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 66/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 66/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 阳台柔和日光 67/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.27M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 阳台柔和日光 67/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 入户侧开口日光 68/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 入户侧开口日光 68/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 69/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 69/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 70/89 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 70/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 71/89 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 71/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 72/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.31M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 72/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.31M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 73/89 | Building BVH
+Fra:1 Mem:55.14M (Peak 80.80M) | Time:00:00.27 | Mem:3.31M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 73/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 86/89 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 86/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 74/89 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 74/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.29M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 75/89 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.80M) | Time:00:00.27 | Mem:3.29M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 75/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 76/89 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.80M) | Time:00:00.27 | Mem:3.27M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 76/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.80M) | Time:00:00.27 | Mem:3.29M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 77/89 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.80M) | Time:00:00.27 | Mem:3.29M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 77/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.11M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 78/89 | Building BVH
+Fra:1 Mem:55.11M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 78/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.11M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 79/89 | Building BVH
+Fra:1 Mem:55.11M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 79/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 80/89 | Building BVH
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 80/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 81/89 | Building BVH
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 81/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 82/89 | Building BVH
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 82/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 83/89 | Building BVH
+Fra:1 Mem:55.10M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 83/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.09M (Peak 80.80M) | Time:00:00.27 | Mem:3.26M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 置物格内部照明 84/89 | Building BVH
+Fra:1 Mem:55.09M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 置物格内部照明 84/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.09M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 85/89 | Building BVH
+Fra:1 Mem:55.09M (Peak 80.80M) | Time:00:00.27 | Mem:3.28M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 85/89 | Building OptiX acceleration structure
+Fra:1 Mem:55.00M (Peak 80.80M) | Time:00:00.28 | Mem:3.24M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:55.00M (Peak 80.80M) | Time:00:00.28 | Mem:3.24M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:55.00M (Peak 80.80M) | Time:00:00.28 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:55.00M (Peak 80.80M) | Time:00:00.28 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:3.25M, Peak:4.77M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:6.97M, Peak:6.97M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Objects Flags
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:6.97M, Peak:6.97M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:6.97M, Peak:6.97M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Images
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:6.97M, Peak:6.97M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Camera Volume
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:6.97M, Peak:6.97M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:7.05M, Peak:7.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Lights
+Fra:1 Mem:58.71M (Peak 80.80M) | Time:00:00.28 | Mem:7.05M, Peak:7.05M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:58.73M (Peak 80.80M) | Time:00:00.28 | Mem:7.07M, Peak:7.07M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Integrator
+Fra:1 Mem:58.73M (Peak 80.80M) | Time:00:00.28 | Mem:7.07M, Peak:7.07M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Film
+Fra:1 Mem:58.73M (Peak 80.80M) | Time:00:00.28 | Mem:6.99M, Peak:7.07M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.73M (Peak 80.80M) | Time:00:00.28 | Mem:7.07M, Peak:7.07M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Baking
+Fra:1 Mem:58.73M (Peak 80.80M) | Time:00:00.28 | Mem:7.07M, Peak:7.07M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:58.74M (Peak 80.80M) | Time:00:00.28 | Mem:7.07M, Peak:7.07M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:64.37M (Peak 80.80M) | Time:00:00.30 | Mem:558.33M, Peak:558.33M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Sample 0/48
+Fra:1 Mem:220.93M (Peak 220.93M) | Time:00:00.37 | Remaining:00:03.35 | Mem:714.88M, Peak:714.88M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Sample 1/48
+Fra:1 Mem:286.86M (Peak 385.74M) | Time:00:06.48 | Mem:714.89M, Peak:714.89M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Sample 48/48
+Fra:1 Mem:286.86M (Peak 385.74M) | Time:00:06.48 | Mem:714.89M, Peak:714.89M | v07 · 现代日式 · 绿植角与单屏办公, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v08-cabinet-options\option-b-cycles.png'
+Time: 00:06.78 (Saving: 00:00.24)
+
+BlenderMCP addon registered
+CABINET_OPTIONS_DONE {"options": ["B"], "main_unchanged": true}
+BlenderMCP addon unregistered
+
+Blender quit

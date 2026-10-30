@@ -1,0 +1,56 @@
+[
+  {
+    "name": "interior-design-expert",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\interior-design-expert",
+    "validation": "Skill is valid!",
+    "references_resolved": true,
+    "ui_prompt_valid": true,
+    "skill_sha256": "a2aa8c63e60c78e709b6d97672789a8d7bd2624556e4c664c6f0780037cd5102",
+    "session_discovery": "pending next normal Codex turn; not hot-loaded in this turn"
+  },
+  {
+    "name": "moodboard-aesthetic-iteration",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\moodboard-aesthetic-iteration",
+    "validation": "Skill is valid!",
+    "references_resolved": true,
+    "ui_prompt_valid": true,
+    "skill_sha256": "d63245c92b2f4179fc2ad08d7523a01b2fbf154544efb887dd0c1d9b45a52c28",
+    "session_discovery": "pending next normal Codex turn; not hot-loaded in this turn"
+  },
+  {
+    "name": "interior-designer",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\interior-designer",
+    "validation": "Skill is valid!",
+    "references_resolved": true,
+    "ui_prompt_valid": true,
+    "skill_sha256": "f12b751a39d49a183c495bedd63d839fe9c3a948cd74fe6fdc4fa0b5a8c3651e",
+    "session_discovery": "pending next normal Codex turn; not hot-loaded in this turn"
+  },
+  {
+    "name": "xiong-interior-design",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\xiong-interior-design",
+    "validation": "Skill is valid!",
+    "references_resolved": true,
+    "ui_prompt_valid": true,
+    "skill_sha256": "73b84ae1985016b8fae25c1648c3ae509ef1a2ede14f26cf2a2dce883bd9d728",
+    "session_discovery": "pending next normal Codex turn; not hot-loaded in this turn"
+  },
+  {
+    "name": "interior-design-visualizer",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\interior-design-visualizer",
+    "validation": "Skill is valid!",
+    "references_resolved": true,
+    "ui_prompt_valid": true,
+    "skill_sha256": "e53352f29d0ce60e16820b9bc921fde9f7d28699da92405a15381f319762f524",
+    "session_discovery": "pending next normal Codex turn; not hot-loaded in this turn"
+  },
+  {
+    "name": "home-design-director",
+    "path": "C:\\Users\\Administrator\\.codex\\skills\\home-design-director",
+    "validation": "Skill is valid!",
+    "references_resolved": true,
+    "ui_prompt_valid": true,
+    "skill_sha256": "2255adf63dd5f4265ae4757920986bc83d502a888dd23bbb1845aaac39868618",
+    "session_discovery": "pending next normal Codex turn; not hot-loaded in this turn"
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "geometry_sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8",
+  "interview": "01_brief/detail-interview-v10.json",
+  "public_details": {
+    "palette": {
+      "wall": "#F3F1EA",
+      "ceiling": "#F6F4EF",
+      "oak": "#D6C6AC",
+      "fabric": "#D8D5CC",
+      "sage": "#71816A",
+      "navy": "#243C55",
+      "graphite": "#424743",
+      "milk": "#F1DDAE"
+    },
+    "publicFloorPolygon": [
+      [
+        0,
+        0
+      ],
+      [
+        7188,
+        0
+      ],
+      [
+        7188,
+        4896
+      ],
+      [
+        9203,
+        4896
+      ],
+      [
+        9203,
+        6145
+      ],
+      [
+        4759,
+        6145
+      ],
+      [
+        4759,
+        6090
+      ],
+      [
+        3082,
+        6090
+      ],
+      [
+        3082,
+        9635
+      ],
+      [
+        0,
+        9635
+      ]
+    ],
+    "floorStatus": "Existing pale-wood appearance retained as a concept and desaturated; actual flooring product unselected",
+    "wall": "flat matte warm white, no feature wall or heavy texture",
+    "wood": "one pale oak family on main timber furniture; walnut retained only as existing cabinet accent",
+    "fabric": "fine woven linen-look greige, no new upholstery product selected",
+    "doors": [
+      {
+        "id": "master-public",
+        "start": 7370,
+        "end": 8236,
+        "publicFaceZ": 4896,
+        "top": 2180,
+        "visualRevealMm": 4,
+        "leafDepthMm": 40,
+        "finish": "same matte warm white as public wall",
+        "swing": "not inferred; closed visual finish proposal only",
+        "hardware": "slim graphite lever with softened touch edges"
+      },
+      {
+        "id": "guest-bath-public",
+        "start": 3812,
+        "end": 4759,
+        "publicFaceZ": 5970,
+        "top": 2100,
+        "visualRevealMm": 4,
+        "leafDepthMm": 40,
+        "finish": "same matte warm white as public wall",
+        "swing": "not inferred; closed visual finish proposal only",
+        "hardware": "slim graphite lever with softened touch edges"
+      },
+      {
+        "id": "guest-room-public",
+        "start": 4943,
+        "end": 5811,
+        "publicFaceZ": 6145,
+        "top": 2100,
+        "visualRevealMm": 4,
+        "leafDepthMm": 40,
+        "finish": "same matte warm white as public wall",
+        "swing": "not inferred; closed visual finish proposal only",
+        "hardware": "slim graphite lever with softened touch edges"
+      }
+    ],
+    "skirting": {
+      "visualHeightMm": 58,
+      "visualTopJointMm": 4,
+      "intent": "flush warm-white skirting, coordinated with concealed door frame",
+      "construction": "reserve within finish build-up before floor and paint; no assumption of structural wall cutting; final profile/depth and movement joints by selected system"
+    },
+    "joints": {
+      "doorVisualRevealMm": 4,
+      "cabinetCeiling": "matching scribe retained; no open top gap",
+      "status": "concept geometry, not order dimensions"
+    },
+    "curves": "existing table R100/R70 and wall R50–80 retained; straight lines remain the main structure; handle touch edges softened",
+    "storage": {
+      "status": "inventory deferred by homeowner",
+      "intent": "retain closed storage plus limited display, use adjustable shelves; no fixed counts or final internal dividers"
+    },
+    "lighting": {
+      "preference": "indirect atmosphere plus existing desk lamp; retained usable general/task circuits",
+      "conceptCCT": {
+        "indirect": 3000,
+        "task": 3500,
+        "night": 2700
+      },
+      "circuits": [
+        "living ceiling bounce",
+        "hall ceiling bounce",
+        "TV background",
+        "bookcase shelf light",
+        "entry niche/low guide",
+        "desk task",
+        "dining task",
+        "general clean-up"
+      ],
+      "sceneNames": [
+        "day",
+        "evening",
+        "cleaning"
+      ],
+      "renderEnergyStatus": "relative rendering controls, not luminaire wattage or verified illumination calculations"
+    },
+    "budget": {
+      "totalRMB": 100000,
+      "scope": "public hard finishes and built-in cabinets only",
+      "excludes": [
+        "loose furniture",
+        "light fixtures"
+      ],
+      "controlTargetsRMB": {
+        "cabinetry": 33000,
+        "flooring": 15000,
+        "wallCeiling": 16000,
+        "doorsWindowsHardware": 21000,
+        "electricalPreparation": 7000,
+        "contingency": 8000
+      },
+      "status": "allocation targets, not quotations; region, quantities and product systems unconfirmed; balcony glazing included in doors/windows allowance"
+    }
+  },
+  "bedroom_reference": "00_sources/v10-master-suite-reference.png",
+  "bedroom_status": "feasibility study only, no boundary or drain edits",
+  "sources": [
+    "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2023/art_17339_775528.html",
+    "https://www.eclisse.com/en/support/product/syntesis-baseboard/",
+    "https://www.erco.com/en_us/living/"
+  ]
+}

@@ -1,0 +1,678 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v13.blend"
+Fra:1 Mem:65.60M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:65.60M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:65.62M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:65.61M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | front-facade-glass-2.001
+Fra:1 Mem:65.61M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | lower-projection-right-glass-0.001
+Fra:1 Mem:65.61M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | side-table | 长方茶几.001
+Fra:1 Mem:65.62M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1.001
+Fra:1 Mem:65.62M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4.001
+Fra:1 Mem:65.62M (Peak 66.39M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | plant-balcony-low | 阳台矮绿植
+Fra:1 Mem:67.74M (Peak 67.74M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | washer | 阳台洗衣机
+Fra:1 Mem:67.81M (Peak 67.81M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | dryer | 阳台烘干机
+Fra:1 Mem:67.87M (Peak 67.87M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | tv-high | 奶黄与奶油白通顶长柜
+Fra:1 Mem:67.88M (Peak 67.88M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-tea-table | 阳台矮圆茶桌
+Fra:1 Mem:68.35M (Peak 68.35M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-tea-chair-1 | 阳台矮茶椅1
+Fra:1 Mem:68.37M (Peak 68.37M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-tea-chair-2 | 阳台矮茶椅2
+Fra:1 Mem:68.43M (Peak 68.43M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | tv-low | 悬空电视柜与设备端柜
+Fra:1 Mem:70.24M (Peak 70.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12 入户一般照明
+Fra:1 Mem:70.23M (Peak 70.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12 随手格柔光
+Fra:1 Mem:70.23M (Peak 70.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12 入户挂衣柔光
+Fra:1 Mem:70.24M (Peak 70.24M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12 入户柜底导向光
+Fra:1 Mem:70.29M (Peak 70.29M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12 梦幻帘帘头柔光
+Fra:1 Mem:70.29M (Peak 70.29M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12 弧槽顶面反射光
+Fra:1 Mem:70.29M (Peak 70.29M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-45
+Fra:1 Mem:70.31M (Peak 70.31M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-44
+Fra:1 Mem:70.31M (Peak 70.31M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-43
+Fra:1 Mem:70.40M (Peak 70.40M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-42
+Fra:1 Mem:70.50M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-41
+Fra:1 Mem:70.35M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-40
+Fra:1 Mem:70.35M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | entry-shoe-cabinet | 入户一字鞋柜与换鞋位
+Fra:1 Mem:70.07M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-39
+Fra:1 Mem:70.06M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-38
+Fra:1 Mem:70.17M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-37
+Fra:1 Mem:70.20M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-36
+Fra:1 Mem:70.25M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-35
+Fra:1 Mem:70.25M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-34
+Fra:1 Mem:70.27M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-33
+Fra:1 Mem:70.28M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-32
+Fra:1 Mem:70.32M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-31
+Fra:1 Mem:70.39M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-30
+Fra:1 Mem:70.36M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-29
+Fra:1 Mem:70.07M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-28
+Fra:1 Mem:70.14M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-27
+Fra:1 Mem:70.23M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-26
+Fra:1 Mem:70.35M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-25
+Fra:1 Mem:70.36M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-24
+Fra:1 Mem:70.37M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-23
+Fra:1 Mem:70.46M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-22
+Fra:1 Mem:70.49M (Peak 70.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-21
+Fra:1 Mem:70.52M (Peak 70.52M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-20
+Fra:1 Mem:70.54M (Peak 70.54M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-19
+Fra:1 Mem:70.55M (Peak 70.55M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-18
+Fra:1 Mem:70.55M (Peak 70.55M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-17
+Fra:1 Mem:70.56M (Peak 70.56M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-16
+Fra:1 Mem:70.54M (Peak 70.56M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-15
+Fra:1 Mem:70.55M (Peak 70.56M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-14
+Fra:1 Mem:70.59M (Peak 70.59M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-13
+Fra:1 Mem:70.60M (Peak 70.60M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-12
+Fra:1 Mem:70.58M (Peak 70.60M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-11
+Fra:1 Mem:70.59M (Peak 70.60M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-10
+Fra:1 Mem:70.59M (Peak 70.60M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-9
+Fra:1 Mem:70.71M (Peak 70.71M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-8
+Fra:1 Mem:70.78M (Peak 70.78M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-7
+Fra:1 Mem:70.85M (Peak 70.85M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-6
+Fra:1 Mem:70.97M (Peak 70.97M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-5
+Fra:1 Mem:70.98M (Peak 70.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-4
+Fra:1 Mem:70.90M (Peak 70.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-3
+Fra:1 Mem:70.84M (Peak 70.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-2
+Fra:1 Mem:70.81M (Peak 70.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-1
+Fra:1 Mem:70.78M (Peak 70.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-cove-light-lip
+Fra:1 Mem:70.86M (Peak 70.98M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:71.09M (Peak 71.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curved-cove
+Fra:1 Mem:71.15M (Peak 71.15M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-track
+Fra:1 Mem:71.50M (Peak 71.50M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-curtain-pelmet
+Fra:1 Mem:72.31M (Peak 72.31M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-tv-fine-line-1
+Fra:1 Mem:72.47M (Peak 72.47M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-tv-fine-line-0
+Fra:1 Mem:72.39M (Peak 72.47M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-tv-frame-top
+Fra:1 Mem:72.62M (Peak 72.62M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:72.64M (Peak 72.64M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-tv-frame-right
+Fra:1 Mem:73.09M (Peak 73.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:72.73M (Peak 73.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:72.76M (Peak 73.09M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:73.33M (Peak 73.33M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-tv-frame-left
+Fra:1 Mem:73.45M (Peak 73.45M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:74.03M (Peak 74.03M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:74.45M (Peak 74.68M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-tv-background
+Fra:1 Mem:74.70M (Peak 74.70M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v12-entry-mirror
+Fra:1 Mem:74.31M (Peak 74.70M) | Time:00:00.18 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:74.43M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:74.01M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:73.67M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:73.85M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:73.96M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:74.02M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 餐桌任务光位待选灯具
+Fra:1 Mem:74.17M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 桌灯工作光
+Fra:1 Mem:74.18M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 书柜层板光 2.37
+Fra:1 Mem:74.26M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 书柜层板光 1.59
+Fra:1 Mem:74.17M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 书柜层板光 0.79
+Fra:1 Mem:74.08M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 通道顶面反射光
+Fra:1 Mem:74.08M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:74.12M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 客厅顶面反射光
+Fra:1 Mem:74.14M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-hall-cove-lip
+Fra:1 Mem:74.13M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-living-cove-lip
+Fra:1 Mem:73.97M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-living-short-end
+Fra:1 Mem:73.79M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-living-short-end
+Fra:1 Mem:73.79M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:73.80M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-main-bath-side
+Fra:1 Mem:73.82M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:73.91M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-main-bath-side
+Fra:1 Mem:73.91M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-master-public-right
+Fra:1 Mem:73.92M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-master-public-right
+Fra:1 Mem:73.94M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-master-public-left
+Fra:1 Mem:73.97M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-master-public-left
+Fra:1 Mem:73.96M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-guest-front-right
+Fra:1 Mem:73.97M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:73.98M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-guest-front-right
+Fra:1 Mem:74.01M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-guest-front-left
+Fra:1 Mem:74.01M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:74.02M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-guest-front-left
+Fra:1 Mem:74.06M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-bath-front-right
+Fra:1 Mem:74.09M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-bath-front-right
+Fra:1 Mem:74.07M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-bath-front-left
+Fra:1 Mem:74.38M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-bath-front-left
+Fra:1 Mem:74.39M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-joint-dining-wall
+Fra:1 Mem:74.42M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-skirting-dining-wall
+Fra:1 Mem:74.40M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-guest-room-public-handle
+Fra:1 Mem:74.38M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:74.41M (Peak 74.70M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:74.78M (Peak 74.78M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-guest-room-public-leaf
+Fra:1 Mem:74.83M (Peak 74.83M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-guest-room-public-reveal
+Fra:1 Mem:74.83M (Peak 74.83M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-guest-bath-public-handle
+Fra:1 Mem:74.84M (Peak 74.84M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:74.78M (Peak 74.84M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:74.75M (Peak 74.84M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:74.75M (Peak 74.84M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:74.81M (Peak 74.84M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-guest-bath-public-leaf
+Fra:1 Mem:74.84M (Peak 74.84M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:74.85M (Peak 74.85M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-guest-bath-public-reveal
+Fra:1 Mem:74.83M (Peak 74.85M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:74.84M (Peak 74.85M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-master-public-handle
+Fra:1 Mem:75.00M (Peak 75.00M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:75.07M (Peak 75.07M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:75.03M (Peak 75.07M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10-master-public-leaf
+Fra:1 Mem:75.05M (Peak 75.07M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:75.06M (Peak 75.07M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:75.11M (Peak 75.10M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:75.10M (Peak 75.10M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | v10 入户地面外观
+Fra:1 Mem:75.08M (Peak 75.10M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:75.15M (Peak 75.15M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:75.18M (Peak 75.18M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:75.23M (Peak 75.23M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:75.29M (Peak 75.29M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:75.28M (Peak 75.29M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-small-guide-right
+Fra:1 Mem:75.29M (Peak 75.29M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:75.31M (Peak 75.31M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:75.31M (Peak 75.31M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:75.32M (Peak 75.32M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:75.30M (Peak 75.32M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:75.39M (Peak 75.39M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:75.37M (Peak 75.39M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-small-guide-left
+Fra:1 Mem:75.42M (Peak 75.42M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:75.63M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:75.48M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-glass-central
+Fra:1 Mem:75.37M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-glass-left-bottom
+Fra:1 Mem:75.47M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-glass-left-upper
+Fra:1 Mem:75.47M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-right-glass
+Fra:1 Mem:75.48M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-right-rail-top
+Fra:1 Mem:75.54M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-glass-right-upper
+Fra:1 Mem:75.56M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-outer-left
+Fra:1 Mem:75.61M (Peak 75.63M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-outer-right
+Fra:1 Mem:75.88M (Peak 75.88M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-outer-bottom
+Fra:1 Mem:75.87M (Peak 75.88M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-right-rail-bottom
+Fra:1 Mem:76.01M (Peak 76.01M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-right-stile-right
+Fra:1 Mem:76.38M (Peak 76.38M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-mullion-left
+Fra:1 Mem:76.38M (Peak 76.38M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-mullion-right
+Fra:1 Mem:76.46M (Peak 76.46M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-right-stile-left
+Fra:1 Mem:76.45M (Peak 76.46M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-transom-left
+Fra:1 Mem:76.36M (Peak 76.46M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-left-pull
+Fra:1 Mem:76.59M (Peak 76.59M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-sash-left-right
+Fra:1 Mem:76.61M (Peak 76.61M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-sash-left-bottom
+Fra:1 Mem:76.67M (Peak 76.67M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-left-glass
+Fra:1 Mem:76.66M (Peak 76.67M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-left-rail-top
+Fra:1 Mem:76.68M (Peak 76.68M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-sash-left-top
+Fra:1 Mem:76.69M (Peak 76.69M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-left-rail-bottom
+Fra:1 Mem:77.03M (Peak 77.03M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-handle-left-lever
+Fra:1 Mem:77.05M (Peak 77.05M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-transom-right
+Fra:1 Mem:77.15M (Peak 77.15M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-sash-right-left
+Fra:1 Mem:77.18M (Peak 77.18M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-left-stile-right
+Fra:1 Mem:77.37M (Peak 77.37M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-left-stile-left
+Fra:1 Mem:77.51M (Peak 77.51M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-screen-right
+Fra:1 Mem:77.78M (Peak 77.78M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-upper-fixed-glass
+Fra:1 Mem:77.77M (Peak 77.78M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-handle-right-base
+Fra:1 Mem:77.77M (Peak 77.78M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-transom-top
+Fra:1 Mem:77.78M (Peak 77.79M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | balcony-handle-right-lever
+Fra:1 Mem:78.62M (Peak 78.75M) | Time:00:00.19 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Synchronizing object | kitchen-slider-jamb-right
+Fra:1 Mem:80.89M (Peak 83.24M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Initializing
+Fra:1 Mem:68.76M (Peak 83.24M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Waiting for render to start
+Fra:1 Mem:68.76M (Peak 83.24M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Scene
+Fra:1 Mem:68.76M (Peak 83.24M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Shaders
+Fra:1 Mem:68.76M (Peak 83.24M) | Time:00:00.20 | Mem:0.00M, Peak:0.00M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:68.89M (Peak 95.93M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Procedurals
+Fra:1 Mem:68.89M (Peak 95.93M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Background
+Fra:1 Mem:68.89M (Peak 95.93M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Camera
+Fra:1 Mem:68.89M (Peak 95.93M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:68.89M (Peak 95.93M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Objects
+Fra:1 Mem:68.89M (Peak 95.93M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:68.94M (Peak 95.93M) | Time:00:00.27 | Mem:0.11M, Peak:0.11M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Particle Systems
+Fra:1 Mem:68.94M (Peak 95.93M) | Time:00:00.27 | Mem:0.11M, Peak:0.11M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:68.94M (Peak 95.93M) | Time:00:00.27 | Mem:0.11M, Peak:0.11M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Meshes
+Fra:1 Mem:68.94M (Peak 95.93M) | Time:00:00.27 | Mem:0.11M, Peak:0.11M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:68.94M (Peak 95.93M) | Time:00:00.27 | Mem:0.11M, Peak:0.11M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.27 | Mem:0.12M, Peak:0.12M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH front-facade-glass-0 mesh.001 6/186 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH front-facade-glass-2 mesh.001 8/186 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 原户型轮廓 · 总长未闭合 mesh.001 2/111 | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH television-body mesh 10/186 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH sofa-modular-back mesh 11/186 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH sofa-modular-back mesh 11/186 | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 13/186 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 13/186 | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 16/186 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 17/186 | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 15/186 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 15/186 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 入户一般照明 231/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 入户一般照明 231/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 随手格柔光 230/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 随手格柔光 230/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 入户挂衣柔光 229/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 入户挂衣柔光 229/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.16M, Peak:2.16M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 入户柜底导向光 228/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 入户柜底导向光 228/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 梦幻帘帘头柔光 227/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 梦幻帘帘头柔光 227/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 弧槽顶面反射光 226/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12 弧槽顶面反射光 226/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-45 225/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:2.18M, Peak:2.18M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-45 225/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:3.61M, Peak:3.61M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 21/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.27 | Mem:3.61M, Peak:3.61M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓.001 21/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.69M (Peak 95.93M) | Time:00:00.27 | Mem:3.86M, Peak:3.86M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 22/231 | Building BVH
+Fra:1 Mem:72.69M (Peak 95.93M) | Time:00:00.27 | Mem:3.86M, Peak:3.86M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH plant-balcony-tall-pot 22/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.75M (Peak 95.93M) | Time:00:00.27 | Mem:3.91M, Peak:3.92M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 23/231 | Building BVH
+Fra:1 Mem:72.75M (Peak 95.93M) | Time:00:00.27 | Mem:3.91M, Peak:3.92M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH plant-tv-medium-pot 23/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.23M (Peak 95.93M) | Time:00:00.27 | Mem:3.70M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 24/231 | Building BVH
+Fra:1 Mem:72.23M (Peak 95.93M) | Time:00:00.27 | Mem:3.70M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH plant-balcony-low-pot 24/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.29M (Peak 95.93M) | Time:00:00.28 | Mem:3.76M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 25/231 | Building BVH
+Fra:1 Mem:72.29M (Peak 95.93M) | Time:00:00.28 | Mem:3.76M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH washer-body · 弧形轮廓 25/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.31M (Peak 95.93M) | Time:00:00.28 | Mem:3.97M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 26/231 | Building BVH
+Fra:1 Mem:72.31M (Peak 95.93M) | Time:00:00.28 | Mem:4.15M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH dryer-body · 弧形轮廓 26/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.26M (Peak 95.93M) | Time:00:00.28 | Mem:3.94M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 27/231 | Building BVH
+Fra:1 Mem:72.26M (Peak 95.93M) | Time:00:00.28 | Mem:4.06M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH tv-high-main-carcass · 弧形轮廓 27/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.32M (Peak 95.93M) | Time:00:00.28 | Mem:3.95M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-tea-table-top 28/231 | Building BVH
+Fra:1 Mem:72.32M (Peak 95.93M) | Time:00:00.28 | Mem:4.55M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-tea-table-top 28/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.20M (Peak 95.93M) | Time:00:00.28 | Mem:4.90M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-tea-chair-1-seat · 弧形轮廓 29/231 | Building BVH
+Fra:1 Mem:72.20M (Peak 95.93M) | Time:00:00.28 | Mem:4.90M, Peak:5.26M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-tea-chair-1-seat · 弧形轮廓 29/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.28 | Mem:4.43M, Peak:5.35M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-tea-chair-2-seat · 弧形轮廓 30/231 | Building BVH
+Fra:1 Mem:72.44M (Peak 95.93M) | Time:00:00.28 | Mem:4.43M, Peak:5.35M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-tea-chair-2-seat · 弧形轮廓 30/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.89M (Peak 95.93M) | Time:00:00.28 | Mem:4.94M, Peak:5.35M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-low-floating-body · 弧形轮廓 31/231 | Building BVH
+Fra:1 Mem:72.89M (Peak 95.93M) | Time:00:00.28 | Mem:5.03M, Peak:5.35M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-low-floating-body · 弧形轮廓 31/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.97M (Peak 95.93M) | Time:00:00.28 | Mem:5.18M, Peak:5.35M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-entry-shoe-cabinet-upper · 弧形轮廓 32/231 | Building BVH
+Fra:1 Mem:72.97M (Peak 95.93M) | Time:00:00.28 | Mem:5.18M, Peak:5.35M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-entry-shoe-cabinet-upper · 弧形轮廓 32/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.21M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.44M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 33/231 | Building BVH
+Fra:1 Mem:73.21M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.44M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 33/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.21M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.44M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 34/231 | Building BVH
+Fra:1 Mem:73.21M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.44M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 34/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.22M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.44M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 35/231 | Building BVH
+Fra:1 Mem:73.22M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.44M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 35/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.17M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 36/231 | Building BVH
+Fra:1 Mem:73.17M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 36/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.16M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 37/231 | Building BVH
+Fra:1 Mem:73.16M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 37/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.17M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-44 224/231 | Building BVH
+Fra:1 Mem:73.17M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-44 224/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.12M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 38/231 | Building BVH
+Fra:1 Mem:73.12M (Peak 95.93M) | Time:00:00.28 | Mem:5.28M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 38/231 | Building OptiX acceleration structure
+Fra:1 Mem:73.13M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 39/231 | Building BVH
+Fra:1 Mem:73.13M (Peak 95.93M) | Time:00:00.28 | Mem:5.29M, Peak:5.45M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 39/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.89M (Peak 95.93M) | Time:00:00.28 | Mem:5.24M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 40/231 | Building BVH
+Fra:1 Mem:72.89M (Peak 95.93M) | Time:00:00.28 | Mem:5.51M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 40/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.84M (Peak 95.93M) | Time:00:00.29 | Mem:5.26M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 41/231 | Building BVH
+Fra:1 Mem:72.84M (Peak 95.93M) | Time:00:00.29 | Mem:5.26M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 41/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.79M (Peak 95.93M) | Time:00:00.29 | Mem:5.28M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 42/231 | Building BVH
+Fra:1 Mem:72.79M (Peak 95.93M) | Time:00:00.29 | Mem:5.39M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 42/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.75M (Peak 95.93M) | Time:00:00.29 | Mem:5.29M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 43/231 | Building BVH
+Fra:1 Mem:72.75M (Peak 95.93M) | Time:00:00.29 | Mem:5.29M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 43/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.68M (Peak 95.93M) | Time:00:00.29 | Mem:5.29M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 44/231 | Building BVH
+Fra:1 Mem:72.68M (Peak 95.93M) | Time:00:00.29 | Mem:5.29M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 44/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.62M (Peak 95.93M) | Time:00:00.29 | Mem:5.28M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 45/231 | Building BVH
+Fra:1 Mem:72.62M (Peak 95.93M) | Time:00:00.29 | Mem:5.59M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 45/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.50M (Peak 95.93M) | Time:00:00.29 | Mem:5.23M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 46/231 | Building BVH
+Fra:1 Mem:72.50M (Peak 95.93M) | Time:00:00.29 | Mem:5.52M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 46/231 | Building OptiX acceleration structure
+Fra:1 Mem:72.43M (Peak 95.93M) | Time:00:00.29 | Mem:5.23M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 47/231 | Building BVH
+Fra:1 Mem:72.43M (Peak 95.93M) | Time:00:00.29 | Mem:5.23M, Peak:6.15M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 47/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.99M (Peak 95.93M) | Time:00:00.29 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 48/231 | Building BVH
+Fra:1 Mem:71.99M (Peak 95.93M) | Time:00:00.29 | Mem:6.51M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 48/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.55M (Peak 95.93M) | Time:00:00.29 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 49/231 | Building BVH
+Fra:1 Mem:71.55M (Peak 95.93M) | Time:00:00.29 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 49/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.43M (Peak 95.93M) | Time:00:00.29 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 50/231 | Building BVH
+Fra:1 Mem:71.43M (Peak 95.93M) | Time:00:00.29 | Mem:5.92M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 50/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.88M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 51/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.88M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 51/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.88M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 52/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.90M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 52/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.88M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 53/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.89M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 53/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.89M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 54/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 54/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.89M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 55/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.89M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 55/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.90M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 56/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 56/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.15M (Peak 95.93M) | Time:00:00.29 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-43 223/231 | Building BVH
+Fra:1 Mem:71.15M (Peak 95.93M) | Time:00:00.29 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-43 223/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 57/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 57/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 58/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 58/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.92M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 59/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 59/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.92M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 60/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 60/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 61/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.29 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 61/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 阳台柔和日光 62/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 阳台柔和日光 62/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 入户侧开口日光 63/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 入户侧开口日光 63/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 64/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 64/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 65/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 65/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 66/231 | Building BVH
+Fra:1 Mem:71.14M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 66/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 67/231 | Building BVH
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 67/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 68/231 | Building BVH
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 68/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.12M (Peak 95.93M) | Time:00:00.30 | Mem:4.92M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 69/231 | Building BVH
+Fra:1 Mem:71.12M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 69/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.12M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 70/231 | Building BVH
+Fra:1 Mem:71.12M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 70/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 71/231 | Building BVH
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 71/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 72/231 | Building BVH
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 72/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 73/231 | Building BVH
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 73/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 74/231 | Building BVH
+Fra:1 Mem:71.11M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 74/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 75/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 75/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 76/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 76/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 77/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 77/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 78/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 78/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 置物格内部照明 79/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.92M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 置物格内部照明 79/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 80/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 80/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 81/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.91M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 81/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 82/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 82/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 83/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.93M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 83/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 84/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.94M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 84/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 85/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-central · 弧形轮廓 85/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-42 222/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.97M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-42 222/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 86/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.97M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-left-bottom · 弧形轮廓 86/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 87/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-left-upper · 弧形轮廓 87/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 88/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-right-bottom · 弧形轮廓 88/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 89/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-glass-right-upper · 弧形轮廓 89/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 90/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-left · 弧形轮廓 90/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.95M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 91/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-right · 弧形轮廓 91/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 92/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.30 | Mem:4.96M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-bottom · 弧形轮廓 92/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.97M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 93/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.97M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-outer-top · 弧形轮廓 93/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.98M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 94/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.30 | Mem:4.98M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-mullion-left · 弧形轮廓 94/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.98M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 95/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.98M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-mullion-right · 弧形轮廓 95/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.99M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 96/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.30 | Mem:4.99M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-transom-left · 弧形轮廓 96/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.98M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 97/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:4.99M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-left · 弧形轮廓 97/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:5.01M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 98/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:5.03M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-right · 弧形轮廓 98/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:5.02M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 99/231 | Building BVH
+Fra:1 Mem:71.10M (Peak 95.93M) | Time:00:00.30 | Mem:5.06M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-bottom · 弧形轮廓 99/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.31 | Mem:5.00M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 100/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-left-top · 弧形轮廓 100/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.31 | Mem:5.01M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 101/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-screen-left · 弧形轮廓 101/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.31 | Mem:5.04M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 102/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.31 | Mem:5.08M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-left-base · 弧形轮廓 102/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.02M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 103/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.02M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-left-lever · 弧形轮廓 103/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.02M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 104/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.03M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-transom-right · 弧形轮廓 104/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.02M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-41 221/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.03M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-41 221/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.03M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 105/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.31 | Mem:5.03M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-left · 弧形轮廓 105/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.03M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 106/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.04M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-right · 弧形轮廓 106/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.04M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 107/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.04M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-bottom · 弧形轮廓 107/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.31 | Mem:5.04M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 108/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.31 | Mem:5.05M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-sash-right-top · 弧形轮廓 108/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.31 | Mem:5.05M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 109/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.31 | Mem:5.06M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-screen-right · 弧形轮廓 109/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.06M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 110/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.06M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-right-base · 弧形轮廓 110/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 111/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH balcony-handle-right-lever · 弧形轮廓 111/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.06M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 112/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-left · 弧形轮廓 112/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.08M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 113/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.08M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-jamb-right · 弧形轮廓 113/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.06M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 114/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.08M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-overhead-track · 弧形轮廓 114/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 115/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.07M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-transom-top · 弧形轮廓 115/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 116/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-upper-fixed-glass · 弧形轮廓 116/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 117/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-left · 弧形轮廓 117/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 118/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-stile-right · 弧形轮廓 118/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.08M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 119/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.08M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-bottom · 弧形轮廓 119/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 120/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-rail-top · 弧形轮廓 120/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 121/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-glass · 弧形轮廓 121/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 122/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-left-pull · 弧形轮廓 122/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 123/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-left · 弧形轮廓 123/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.09M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-40 220/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-40 220/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 124/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-stile-right · 弧形轮廓 124/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 125/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-bottom · 弧形轮廓 125/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.10M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 126/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.31 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-rail-top · 弧形轮廓 126/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 127/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-glass · 弧形轮廓 127/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 128/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-right-pull · 弧形轮廓 128/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.11M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 129/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-left · 弧形轮廓 129/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-right · 弧形轮廓 130/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH kitchen-slider-small-guide-right · 弧形轮廓 130/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 公共区浅木外观 · 地面产品待选 131/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 公共区浅木外观 · 地面产品待选 131/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 公共区暖白顶面 132/231 | Building BVH
+Fra:1 Mem:71.07M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 公共区暖白顶面 132/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 入户地面外观 133/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 入户地面外观 133/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-master-public-reveal · 弧形轮廓 134/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-master-public-reveal · 弧形轮廓 134/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-master-public-leaf · 弧形轮廓 135/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-master-public-leaf · 弧形轮廓 135/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-master-public-handle · 弧形轮廓 136/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-master-public-handle · 弧形轮廓 136/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-bath-public-reveal · 弧形轮廓 137/231 | Building BVH
+Fra:1 Mem:71.06M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-bath-public-reveal · 弧形轮廓 137/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-bath-public-leaf · 弧形轮廓 138/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-bath-public-leaf · 弧形轮廓 138/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.12M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-bath-public-handle · 弧形轮廓 139/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-bath-public-handle · 弧形轮廓 139/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-room-public-reveal · 弧形轮廓 140/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-room-public-reveal · 弧形轮廓 140/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-room-public-leaf · 弧形轮廓 141/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-room-public-leaf · 弧形轮廓 141/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.13M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-room-public-handle · 弧形轮廓 142/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-guest-room-public-handle · 弧形轮廓 142/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-39 219/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-39 219/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-dining-wall · 弧形轮廓 143/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-dining-wall · 弧形轮廓 143/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-dining-wall · 弧形轮廓 144/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-dining-wall · 弧形轮廓 144/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-left · 弧形轮廓 145/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-left · 弧形轮廓 145/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-left · 弧形轮廓 146/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-left · 弧形轮廓 146/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-right · 弧形轮廓 147/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-bath-front-right · 弧形轮廓 147/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-right · 弧形轮廓 148/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.16M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-bath-front-right · 弧形轮廓 148/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-left · 弧形轮廓 149/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-left · 弧形轮廓 149/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-left · 弧形轮廓 150/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-left · 弧形轮廓 150/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-right · 弧形轮廓 151/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-guest-front-right · 弧形轮廓 151/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-right · 弧形轮廓 152/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-guest-front-right · 弧形轮廓 152/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-master-public-left · 弧形轮廓 153/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.32 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-master-public-left · 弧形轮廓 153/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-master-public-left · 弧形轮廓 154/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-master-public-left · 弧形轮廓 154/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-master-public-right · 弧形轮廓 155/231 | Building BVH
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-master-public-right · 弧形轮廓 155/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-master-public-right · 弧形轮廓 156/231 | Building BVH
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-master-public-right · 弧形轮廓 156/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.33 | Mem:5.17M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-main-bath-side · 弧形轮廓 157/231 | Building BVH
+Fra:1 Mem:71.02M (Peak 95.93M) | Time:00:00.33 | Mem:5.17M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-main-bath-side · 弧形轮廓 157/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-main-bath-side · 弧形轮廓 158/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-main-bath-side · 弧形轮廓 158/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-living-short-end · 弧形轮廓 159/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-living-short-end · 弧形轮廓 159/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-living-short-end · 弧形轮廓 160/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.17M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-skirting-joint-living-short-end · 弧形轮廓 160/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-living-cove-lip · 弧形轮廓 161/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-living-cove-lip · 弧形轮廓 161/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-38 218/231 | Building BVH
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-38 218/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-hall-cove-lip · 弧形轮廓 162/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10-hall-cove-lip · 弧形轮廓 162/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.14M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 客厅顶面反射光 163/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 客厅顶面反射光 163/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 通道顶面反射光 164/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 通道顶面反射光 164/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 书柜层板光 0.79 165/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 书柜层板光 0.79 165/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 书柜层板光 1.59 166/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 书柜层板光 1.59 166/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 书柜层板光 2.37 167/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 书柜层板光 2.37 167/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 桌灯工作光 168/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 桌灯工作光 168/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 餐桌任务光位待选灯具 169/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v10 餐桌任务光位待选灯具 169/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-entry-mirror · 弧形轮廓 170/231 | Building BVH
+Fra:1 Mem:71.01M (Peak 95.93M) | Time:00:00.33 | Mem:5.15M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-entry-mirror · 弧形轮廓 170/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.33 | Mem:5.19M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-background · 弧形轮廓 171/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.33 | Mem:5.19M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-background · 弧形轮廓 171/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.33 | Mem:5.19M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-frame-left · 弧形轮廓 172/231 | Building BVH
+Fra:1 Mem:71.05M (Peak 95.93M) | Time:00:00.33 | Mem:5.20M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-frame-left · 弧形轮廓 172/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.33 | Mem:5.24M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-frame-right · 弧形轮廓 173/231 | Building BVH
+Fra:1 Mem:71.09M (Peak 95.93M) | Time:00:00.33 | Mem:5.24M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-frame-right · 弧形轮廓 173/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.33 | Mem:5.28M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-frame-top · 弧形轮廓 174/231 | Building BVH
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.33 | Mem:5.28M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-frame-top · 弧形轮廓 174/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.18M (Peak 95.93M) | Time:00:00.33 | Mem:5.33M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-fine-line-0 · 弧形轮廓 175/231 | Building BVH
+Fra:1 Mem:71.18M (Peak 95.93M) | Time:00:00.33 | Mem:5.33M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-fine-line-0 · 弧形轮廓 175/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.18M (Peak 95.93M) | Time:00:00.33 | Mem:5.33M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-fine-line-1 · 弧形轮廓 176/231 | Building BVH
+Fra:1 Mem:71.18M (Peak 95.93M) | Time:00:00.33 | Mem:5.33M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-tv-fine-line-1 · 弧形轮廓 176/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.18M (Peak 95.93M) | Time:00:00.33 | Mem:5.33M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-pelmet · 弧形轮廓 177/231 | Building BVH
+Fra:1 Mem:71.18M (Peak 95.93M) | Time:00:00.33 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-pelmet · 弧形轮廓 177/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.19M (Peak 95.93M) | Time:00:00.33 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-track · 弧形轮廓 178/231 | Building BVH
+Fra:1 Mem:71.19M (Peak 95.93M) | Time:00:00.33 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-track · 弧形轮廓 178/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.19M (Peak 95.93M) | Time:00:00.33 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curved-cove 179/231 | Building BVH
+Fra:1 Mem:71.19M (Peak 95.93M) | Time:00:00.33 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curved-cove 179/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-cove-light-lip · 弧形轮廓 180/231 | Building BVH
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-cove-light-lip · 弧形轮廓 180/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-1 181/231 | Building BVH
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-1 181/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-2 182/231 | Building BVH
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-2 182/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-3 183/231 | Building BVH
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-3 183/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-4 184/231 | Building BVH
+Fra:1 Mem:71.20M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-4 184/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.33 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-5 185/231 | Building BVH
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.33 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-5 185/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.33 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-6 186/231 | Building BVH
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.33 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-6 186/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-7 187/231 | Building BVH
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-7 187/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-37 217/231 | Building BVH
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-37 217/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.34 | Mem:5.43M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-8 188/231 | Building BVH
+Fra:1 Mem:71.21M (Peak 95.93M) | Time:00:00.34 | Mem:5.50M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-8 188/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.17M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-9 189/231 | Building BVH
+Fra:1 Mem:71.17M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-9 189/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.17M (Peak 95.93M) | Time:00:00.34 | Mem:5.42M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-10 190/231 | Building BVH
+Fra:1 Mem:71.17M (Peak 95.93M) | Time:00:00.34 | Mem:5.50M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-10 190/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-11 191/231 | Building BVH
+Fra:1 Mem:71.13M (Peak 95.93M) | Time:00:00.34 | Mem:5.49M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-11 191/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.34 | Mem:5.40M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-12 192/231 | Building BVH
+Fra:1 Mem:71.08M (Peak 95.93M) | Time:00:00.34 | Mem:5.48M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-12 192/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.33M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-13 193/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-13 193/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-14 194/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-14 194/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-15 195/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-15 195/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-16 196/231 | Building BVH
+Fra:1 Mem:71.04M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-16 196/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-17 197/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-17 197/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.34M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-18 198/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-18 198/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-19 199/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-19 199/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-20 200/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-20 200/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-21 201/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-21 201/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.35M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-22 202/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-22 202/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-23 203/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-23 203/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-24 204/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-24 204/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-25 205/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-25 205/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-26 206/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-26 206/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-36 216/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-36 216/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-27 207/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-27 207/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.36M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-28 208/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-28 208/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-29 209/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-29 209/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-30 210/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-30 210/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-31 211/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-31 211/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-32 212/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-32 212/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.37M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-33 213/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.34 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-33 213/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.35 | Mem:5.39M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-34 214/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.35 | Mem:5.39M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-34 214/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.35 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-35 215/231 | Building BVH
+Fra:1 Mem:71.03M (Peak 95.93M) | Time:00:00.35 | Mem:5.38M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Geometry BVH v12-curtain-35 215/231 | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.35 | Mem:5.39M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.35 | Mem:5.39M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.35 | Mem:5.42M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:71.00M (Peak 95.93M) | Time:00:00.35 | Mem:5.42M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:5.42M, Peak:6.64M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.58M, Peak:11.58M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Objects Flags
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.58M, Peak:11.58M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.58M, Peak:11.58M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Images
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.58M, Peak:11.58M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Camera Volume
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.58M, Peak:11.58M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.66M, Peak:11.66M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Lights
+Fra:1 Mem:77.16M (Peak 95.93M) | Time:00:00.35 | Mem:11.66M, Peak:11.66M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:77.18M (Peak 95.93M) | Time:00:00.36 | Mem:11.68M, Peak:11.68M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Integrator
+Fra:1 Mem:77.18M (Peak 95.93M) | Time:00:00.36 | Mem:11.68M, Peak:11.68M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Film
+Fra:1 Mem:77.19M (Peak 95.93M) | Time:00:00.36 | Mem:11.60M, Peak:11.68M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:77.19M (Peak 95.93M) | Time:00:00.36 | Mem:11.69M, Peak:11.69M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Baking
+Fra:1 Mem:77.19M (Peak 95.93M) | Time:00:00.36 | Mem:11.69M, Peak:11.69M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:77.19M (Peak 95.93M) | Time:00:00.36 | Mem:11.69M, Peak:11.69M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:82.83M (Peak 95.93M) | Time:00:00.37 | Mem:562.95M, Peak:562.95M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Sample 0/32
+Fra:1 Mem:234.83M (Peak 234.83M) | Time:00:00.49 | Remaining:00:03.56 | Mem:714.95M, Peak:714.95M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Sample 1/32
+Fra:1 Mem:298.84M (Peak 394.84M) | Time:00:06.56 | Mem:714.95M, Peak:714.95M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Sample 32/32
+Fra:1 Mem:298.84M (Peak 394.84M) | Time:00:06.56 | Mem:714.95M, Peak:714.95M | v12 · 轻门厅、悬空电视柜与弧光梦幻帘, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\vr-tour-v01\living-draft.png'
+Time: 00:06.87 (Saving: 00:00.25)
+
+BlenderMCP addon registered
+V13_PANORAMAS_RENDERED 1 draft
+BlenderMCP addon unregistered
+
+Blender quit

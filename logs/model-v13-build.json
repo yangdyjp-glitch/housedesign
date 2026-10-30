@@ -1,0 +1,72 @@
+{
+  "revision": 13,
+  "base_model_sha256": "3261e403c61b15f4fa47e20776c68abe7fd3c5d04d94888abdbfe1e15598dc67",
+  "geometry_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+  "style_sha256": "5bf6107877d0647f356201cddd13074a91dc5dc42dffd572987f061d32aace59",
+  "furniture_count": 23,
+  "furniture_meshes_preserved": 23,
+  "changes": [
+    {
+      "id": "sofa-modular",
+      "dx": 0,
+      "dz": 100
+    },
+    {
+      "id": "ottoman",
+      "dx": 0,
+      "dz": 100
+    },
+    {
+      "id": "side-table",
+      "dx": 0,
+      "dz": 200
+    }
+  ],
+  "source_walls": 60,
+  "window_glass": 12,
+  "curtain_blades": 45,
+  "panorama_cameras": [
+    {
+      "id": "living",
+      "label": "客厅",
+      "plan_position_mm": [
+        1800,
+        4500
+      ],
+      "eye_height_mm": 1600,
+      "heading_at_image_center_deg": 0
+    },
+    {
+      "id": "dining",
+      "label": "餐厅",
+      "plan_position_mm": [
+        1100,
+        8000
+      ],
+      "eye_height_mm": 1600,
+      "heading_at_image_center_deg": 0
+    },
+    {
+      "id": "balcony",
+      "label": "阳台",
+      "plan_position_mm": [
+        2050,
+        850
+      ],
+      "eye_height_mm": 1600,
+      "heading_at_image_center_deg": 0
+    },
+    {
+      "id": "entry",
+      "label": "门厅",
+      "plan_position_mm": [
+        635,
+        10100
+      ],
+      "eye_height_mm": 1600,
+      "heading_at_image_center_deg": 0
+    }
+  ],
+  "projection": "Cycles equirectangular 360 by 180, monoscopic; native no AI repaint",
+  "private_boundaries_changed": false
+}

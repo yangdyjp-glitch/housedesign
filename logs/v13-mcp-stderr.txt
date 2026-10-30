@@ -1,0 +1,45 @@
+2026-10-31 03:40:42,677 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-31 03:40:42,679 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-31 03:40:42,679 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-31 03:40:42,680 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-31 03:40:42,680 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-31 03:40:42,680 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-31 03:40:42,680 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:40:42,723 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-31 03:40:42,723 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-31 03:40:42,723 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:40:42,723 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-31 03:40:42,723 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-31 03:40:42,726 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-31 03:40:42,726 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-31 03:40:42,728 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 03:40:42,730 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\ns=bpy.context.scene\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,dirty=bpy.data.is_dirty,managed=bool(s.get('HomeDesign_ManagedSession')),revision=s.get('home_design_revision'),geometry_sha256=s.get('home_design_geometry_sha256'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,7),dimensions=list(o['dimensions_mm'])) for o in s.objects if o.get('home_design_role')=='furniture'],panorama_cameras=[dict(name=o.name,type=o.data.type,projection=o.data.panorama_type,position=list(o.location)) for o in s.objects if o.get('home_design_role')=='panorama_camera'])))"}
+2026-10-31 03:40:42,730 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:40:42,786 - BlenderMCPServer - INFO - Received complete response (2887 bytes)
+2026-10-31 03:40:42,786 - BlenderMCPServer - INFO - Received 2887 bytes of data
+2026-10-31 03:40:42,786 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:40:42,787 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-31 03:40:42,787 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:40:42,848 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-31 03:40:42,848 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-31 03:40:42,848 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:40:42,854 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 03:40:42,854 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy\nbpy.ops.wm.open_mainfile(filepath='D:/AI-Yang.cn/HomeDesign/06_blender/home-main-v13.blend',load_ui=False,use_scripts=False)\nprint('V13_ACTIVE')"}
+2026-10-31 03:40:42,854 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:40:42,969 - BlenderMCPServer - INFO - Received complete response (77 bytes)
+2026-10-31 03:40:42,969 - BlenderMCPServer - INFO - Received 77 bytes of data
+2026-10-31 03:40:42,969 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:40:42,971 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 03:40:42,972 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy\ns=bpy.context.scene\nff={o['source_id']:o for o in s.objects if o.get('home_design_role')=='furniture'}\nstarts={k:o.location.copy() for k,o in ff.items()}\nfor gid in ['sofa-modular','ottoman','side-table']:\n    bpy.ops.object.select_all(action='DESELECT');ob=ff[gid];ob.select_set(True);bpy.context.view_layer.objects.active=ob\n    bpy.ops.home_design.move(axis='X',direction=1);assert abs(ob.location.x-starts[gid].x-.1)<1e-6\n    bpy.ops.home_design.move(axis='X',direction=-1);assert all((o.location-starts[k]).length<1e-6 for k,o in ff.items())\nassert len([o for o in s.objects if o.get('home_design_role')=='panorama_camera'])==4\nassert s.camera.data.type=='PANO' and s.camera.data.panorama_type=='EQUIRECTANGULAR'\nprint('V13_LATEST_POSITIONS_MOVEMENT_AND_PANORAMA_VERIFIED')"}
+2026-10-31 03:40:42,972 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:40:42,982 - BlenderMCPServer - INFO - Received complete response (118 bytes)
+2026-10-31 03:40:42,982 - BlenderMCPServer - INFO - Received 118 bytes of data
+2026-10-31 03:40:42,982 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:40:42,985 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 03:40:42,987 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\ns=bpy.context.scene\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,dirty=bpy.data.is_dirty,managed=bool(s.get('HomeDesign_ManagedSession')),revision=s.get('home_design_revision'),geometry_sha256=s.get('home_design_geometry_sha256'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,7),dimensions=list(o['dimensions_mm'])) for o in s.objects if o.get('home_design_role')=='furniture'],panorama_cameras=[dict(name=o.name,type=o.data.type,projection=o.data.panorama_type,position=list(o.location)) for o in s.objects if o.get('home_design_role')=='panorama_camera'])))"}
+2026-10-31 03:40:42,987 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:40:43,039 - BlenderMCPServer - INFO - Received complete response (3577 bytes)
+2026-10-31 03:40:43,039 - BlenderMCPServer - INFO - Received 3577 bytes of data
+2026-10-31 03:40:43,039 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:40:43,045 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-31 03:40:43,045 - BlenderMCPServer - INFO - BlenderMCP server shut down

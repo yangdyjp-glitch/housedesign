@@ -1,0 +1,151 @@
+{
+  "live": {
+    "file": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v13.blend",
+    "dirty": false,
+    "revision": 13,
+    "geometry_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+    "positions": [
+      {
+        "id": "television",
+        "x": 30.0,
+        "z": 2450.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "sofa-modular",
+        "x": 3100.0,
+        "z": 1300.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "ottoman",
+        "x": 3200.0,
+        "z": 4350.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "side-table",
+        "x": 2550.0,
+        "z": 2650.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "office-chair-1",
+        "x": 5900.0,
+        "z": 2335.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "bookcase",
+        "x": 6838.0,
+        "z": 1176.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-table",
+        "x": 2282.0,
+        "z": 7300.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-1",
+        "x": 1832.0,
+        "z": 7550.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-2",
+        "x": 1832.0,
+        "z": 8200.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-3",
+        "x": 2457.0,
+        "z": 6850.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-4",
+        "x": 2457.0,
+        "z": 8900.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "double-desk",
+        "x": 5300.0,
+        "z": 2000.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "plant-balcony-tall",
+        "x": 150.0,
+        "z": 120.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "plant-tv-medium",
+        "x": 100.0,
+        "z": 1030.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "plant-balcony-low",
+        "x": 1100.0,
+        "z": 200.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "washer",
+        "x": 6488.0,
+        "z": 170.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dryer",
+        "x": 6488.0,
+        "z": 170.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "tv-high",
+        "x": 0.0,
+        "z": 5000.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "balcony-tea-table",
+        "x": 3300.0,
+        "z": 270.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "balcony-tea-chair-1",
+        "x": 2580.0,
+        "z": 320.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "balcony-tea-chair-2",
+        "x": 4160.0,
+        "z": 320.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "tv-low",
+        "x": 0.0,
+        "z": 1800.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "entry-shoe-cabinet",
+        "x": 0.0,
+        "z": 10818.0,
+        "rotation": 0.0
+      }
+    ]
+  },
+  "differences": [],
+  "matched": true,
+  "read_only": true
+}

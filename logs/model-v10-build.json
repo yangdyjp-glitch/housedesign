@@ -1,0 +1,197 @@
+{
+  "revision": 10,
+  "geometry_sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8",
+  "style_sha256": "105e9cb2612ffa439fe55879120cd8aba7670536dd179abf877b074d5c765ccd",
+  "all_21_furniture_meshes_and_transforms_unchanged": true,
+  "furniture_count": 21,
+  "wall_sources": 60,
+  "window_glass": 12,
+  "kitchen_door_glass": 3,
+  "detail_parts": 29,
+  "lighting": [
+    {
+      "name": "v10 客厅顶面反射光",
+      "position": [
+        7.045,
+        -2.975,
+        2.715
+      ],
+      "target": [
+        7.045,
+        -2.975,
+        2.75
+      ],
+      "relative_energies": [
+        12,
+        90,
+        100
+      ],
+      "cct_intent": 3000,
+      "parent_furniture": null
+    },
+    {
+      "name": "v10 通道顶面反射光",
+      "position": [
+        6.15,
+        -5.275,
+        2.715
+      ],
+      "target": [
+        6.15,
+        -5.275,
+        2.75
+      ],
+      "relative_energies": [
+        12,
+        100,
+        120
+      ],
+      "cct_intent": 3000,
+      "parent_furniture": null
+    },
+    {
+      "name": "v10 书柜层板光 0.79",
+      "position": [
+        6.89,
+        -2.976,
+        0.79
+      ],
+      "target": [
+        7.13,
+        -2.976,
+        0.67
+      ],
+      "relative_energies": [
+        0.5,
+        3,
+        4
+      ],
+      "cct_intent": 3000,
+      "parent_furniture": "bookcase"
+    },
+    {
+      "name": "v10 书柜层板光 1.59",
+      "position": [
+        6.89,
+        -2.976,
+        1.59
+      ],
+      "target": [
+        7.13,
+        -2.976,
+        1.4700000000000002
+      ],
+      "relative_energies": [
+        0.5,
+        3,
+        4
+      ],
+      "cct_intent": 3000,
+      "parent_furniture": "bookcase"
+    },
+    {
+      "name": "v10 书柜层板光 2.37",
+      "position": [
+        6.89,
+        -2.976,
+        2.37
+      ],
+      "target": [
+        7.13,
+        -2.976,
+        2.25
+      ],
+      "relative_energies": [
+        0.5,
+        3,
+        4
+      ],
+      "cct_intent": 3000,
+      "parent_furniture": "bookcase"
+    },
+    {
+      "name": "v10 电视背景柔光",
+      "position": [
+        0.022,
+        -3.4,
+        1.1
+      ],
+      "target": [
+        -0.03,
+        -3.4,
+        1.1
+      ],
+      "relative_energies": [
+        0.2,
+        0.7,
+        0.7
+      ],
+      "cct_intent": 3000,
+      "parent_furniture": "television"
+    },
+    {
+      "name": "v10 桌灯工作光",
+      "position": [
+        5.47,
+        -3.27,
+        1.077
+      ],
+      "target": [
+        5.65,
+        -3.25,
+        0.75
+      ],
+      "relative_energies": [
+        1.5,
+        7,
+        8
+      ],
+      "cct_intent": 3500,
+      "parent_furniture": "double-desk"
+    },
+    {
+      "name": "v10 餐桌任务光位待选灯具",
+      "position": [
+        2.682,
+        -8.1,
+        2.68
+      ],
+      "target": [
+        2.682,
+        -8.1,
+        0.75
+      ],
+      "relative_energies": [
+        4,
+        24,
+        35
+      ],
+      "cct_intent": 3500,
+      "parent_furniture": null
+    },
+    {
+      "name": "v10 入户低位导向光",
+      "position": [
+        0.91,
+        -10.0,
+        0.12
+      ],
+      "target": [
+        0.35,
+        -10.0,
+        0.0
+      ],
+      "relative_energies": [
+        0.1,
+        0.7,
+        0.8
+      ],
+      "cct_intent": 2700,
+      "parent_furniture": "entry-shoe-cabinet"
+    }
+  ],
+  "lighting_scenes": 3,
+  "private_room_boundaries_unchanged": true,
+  "base_model_sha256": "e0f9533041dfb15c02cec9a50de62c299387304c8e94a49db72c81b44cd7a25e",
+  "default_lighting_scene": "evening"
+}

@@ -1,0 +1,132 @@
+{
+  "created_utc": "2026-10-30T13:24:50.169374+00:00",
+  "revision": "v06 material study v01",
+  "skills": [
+    "home-design-director",
+    "interior-design-visualizer",
+    "imagegen"
+  ],
+  "actual_generation_mode": "four local Cycles physical renders, then three built-in imagegen reference edits",
+  "source_geometry_sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+  "current_main_model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v06.blend",
+  "presentation_copy": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-v06-presentation-v01.blend",
+  "canonical_model_and_interactive_layout_unchanged": true,
+  "images": [
+    {
+      "view": "living",
+      "kind": "cycles",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\living-cycles.png",
+      "width": 1800,
+      "height": 1200,
+      "color_mode": "RGB",
+      "sha256": "06c6fff5374152e91bdcac5b64cf4d56d4843cb622431918369069d1ea3debae",
+      "visually_inspected": true,
+      "mode": "Blender 4.5.15 LTS Cycles; OptiX; 128 samples; 1800x1200",
+      "geometry_anchor": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b"
+    },
+    {
+      "view": "living",
+      "kind": "photoreal-v01",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\living-photoreal-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "color_mode": "RGB",
+      "sha256": "9af582c72f558f7e97ab5796a7c0cd58c84fadf1932f8071e9d3a97bf33264ac",
+      "visually_inspected": true,
+      "mode": "built-in imagegen; local reference image edit",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-501e6a21-2fa2-4917-a15f-9e47aed08d4c.png",
+      "reference": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\living-cycles.png",
+      "prompt_file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\living-imagegen-prompt.txt",
+      "reference_role": "actual v06 Cycles render: architecture, placement, camera and composition anchor"
+    },
+    {
+      "view": "office",
+      "kind": "cycles",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\office-cycles.png",
+      "width": 1800,
+      "height": 1200,
+      "color_mode": "RGB",
+      "sha256": "02d77b147c449bf7f2d47c4d4b0779798af3352651ef66e657289fadee56f15d",
+      "visually_inspected": true,
+      "mode": "Blender 4.5.15 LTS Cycles; OptiX; 128 samples; 1800x1200",
+      "geometry_anchor": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b"
+    },
+    {
+      "view": "office",
+      "kind": "photoreal-v01",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\office-photoreal-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "color_mode": "RGB",
+      "sha256": "1dcf37cffd3ed0e67624769505bcdb0cf926159451a905c66d4b837285a797eb",
+      "visually_inspected": true,
+      "mode": "built-in imagegen; local reference image edit",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-21415363-4c10-470f-846e-5dcad66c8322.png",
+      "reference": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\office-cycles.png",
+      "prompt_file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\office-imagegen-prompt.txt",
+      "reference_role": "actual v06 Cycles render: architecture, placement, camera and composition anchor"
+    },
+    {
+      "view": "dining",
+      "kind": "cycles",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\dining-cycles.png",
+      "width": 1800,
+      "height": 1200,
+      "color_mode": "RGB",
+      "sha256": "24bcf9445fb962b82de75ccce34fda3431f63e03a7970d4b4fd6b7c79c18836a",
+      "visually_inspected": true,
+      "mode": "Blender 4.5.15 LTS Cycles; OptiX; 128 samples; 1800x1200",
+      "geometry_anchor": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b"
+    },
+    {
+      "view": "dining",
+      "kind": "photoreal-v01",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\dining-photoreal-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "color_mode": "RGB",
+      "sha256": "c173a2213a1a5f5570d49eb622254c0d252c8fd9df6c7694a35f0cd670ef9c81",
+      "visually_inspected": true,
+      "mode": "built-in imagegen; local reference image edit",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-09784dbb-22f9-4332-a1a7-d943551b3559.png",
+      "reference": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\dining-cycles.png",
+      "prompt_file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\dining-imagegen-prompt.txt",
+      "reference_role": "actual v06 Cycles render: architecture, placement, camera and composition anchor"
+    },
+    {
+      "view": "office-detail",
+      "kind": "cycles",
+      "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v06-realistic-v01\\office-detail-cycles.png",
+      "width": 1800,
+      "height": 1200,
+      "color_mode": "RGB",
+      "sha256": "c8c34ea41cf59d64b5092372246cd1c49dfb9f975c431cc039d56323c5549f2f",
+      "visually_inspected": true,
+      "mode": "Blender 4.5.15 LTS Cycles; OptiX; 128 samples; 1800x1200",
+      "geometry_anchor": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b"
+    }
+  ],
+  "qa": {
+    "physical_furniture_count": 14,
+    "physical_parts": 206,
+    "max_native_bounds_error_mm": 0.000572,
+    "photographed_critical_relations": "visually compared against the corresponding saved Cycles view",
+    "checks": [
+      "L chaise at balcony end",
+      "desk behind sofa; single office chair",
+      "two workstations face TV",
+      "85-inch TV wall composition",
+      "continuous tall-to-low cabinet connection",
+      "four dining chairs, table long edge against wall; no bench",
+      "entry-end narrow niche"
+    ],
+    "targeted_imagegen_corrections": 0,
+    "limits": [
+      "AI material/atmosphere images do not certify exact dimensions",
+      "AI fine seams, small styling objects and the blurred exterior are illustrative",
+      "use geometry and Cycles images for exact dimensions and furniture positions",
+      "net height, entrance opening and unclosed sketch dimensions remain provisional",
+      "408 mm office-chair/bookcase gap retained; no layout relocation for rendering"
+    ]
+  }
+}

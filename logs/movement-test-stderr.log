@@ -1,0 +1,27 @@
+2026-10-30 19:09:48,713 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-30 19:09:48,714 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-30 19:09:48,715 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-30 19:09:48,716 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-30 19:09:48,716 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-30 19:09:48,716 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-30 19:09:48,716 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 19:09:48,747 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-30 19:09:48,747 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-30 19:09:48,747 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 19:09:48,747 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-30 19:09:48,747 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-30 19:09:48,750 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 19:09:48,750 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-30 19:09:48,753 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy, json\nobjects=[o for o in bpy.context.scene.objects if o.get('home_design_role')=='furniture']\nassert len(objects)==13\nreport=[]\nfor obj in objects:\n    bpy.ops.object.select_all(action='DESELECT')\n    assert not obj.hide_select\n    obj.select_set(True);bpy.context.view_layer.objects.active=obj\n    start=list(obj.location)\n    for axis,index in [('X',0),('Y',1)]:\n        before=list(obj.location)\n        bpy.ops.home_design.move(axis=axis,direction=1)\n        assert abs(obj.location[index]-before[index]-0.1)<0.000001\n        bpy.ops.home_design.move(axis=axis,direction=-1)\n        assert all(abs(obj.location[i]-before[i])<0.000001 for i in range(3))\n    report.append(dict(id=obj['source_id'],step_mm=100,whole_mesh=True,selectable=True,axes=['X','Y']))\nbpy.ops.object.select_all(action='DESELECT')\nsofa=next(o for o in objects if o['source_id']=='sofa-modular')\nsofa.select_set(True);bpy.context.view_layer.objects.active=sofa\nbaseline=list(sofa.location)\nbpy.ops.ed.undo_push(message='HomeDesign 100mm test baseline')\nbpy.ops.home_design.move(axis='X',direction=1)\nbpy.ops.ed.undo()\nsofa=next(o for o in bpy.context.scene.objects if o.get('source_id')=='sofa-modular')\nassert all(abs(sofa.location[i]-baseline[i])<0.000001 for i in range(3))\nbpy.ops.home_design.export_layout()\nprint('MOVEMENT_OK '+json.dumps(dict(objects=report,positions_restored=True,native_undo=True,source_model_saved=False)))\n"}
+2026-10-30 19:09:48,753 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 19:09:48,828 - BlenderMCPServer - INFO - Received complete response (1737 bytes)
+2026-10-30 19:09:48,828 - BlenderMCPServer - INFO - Received 1737 bytes of data
+2026-10-30 19:09:48,828 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 19:09:48,828 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-30 19:09:48,828 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 19:09:48,871 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-30 19:09:48,871 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-30 19:09:48,871 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 19:09:48,873 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-30 19:09:48,876 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-30 19:09:48,877 - BlenderMCPServer - INFO - BlenderMCP server shut down

@@ -1,0 +1,11 @@
+{
+  "status": "unselected",
+  "option": "A",
+  "name": "沙灰＋浅橡木",
+  "base_style": "05_style/modern-japanese-v03.json",
+  "geometry_sha256": "778b6ea70f92e7f95d768fce1e7d8222f66f2f994c324f6ce7d9d533117c2b05",
+  "front_srgb_hex": "#B8AA96",
+  "description": "暖沙灰平板门，隐藏式开启；木色仅用于置物格和细节，平静柔和。",
+  "cabinet_height_mm": 2750,
+  "ceiling_gap_mm": 0
+}

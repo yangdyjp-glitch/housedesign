@@ -1,0 +1,52 @@
+{
+  "mode": "built-in image_gen",
+  "revision": 11,
+  "geometry": "02_geometry/geometry-master-v11.json",
+  "geometry_sha256": "dc76ff10da16ed6c8927c5381f280864ea996dafba7ad6f6a9a1b4234c14f672",
+  "tea_table_mm": {
+    "diameter": 700,
+    "height": 380
+  },
+  "tea_chair_mm": {
+    "seat_height": 230,
+    "total_height": 580
+  },
+  "views": [
+    {
+      "name": "living-low-v02",
+      "reference": "D:/AI-Yang.cn/HomeDesign/07_renders/v11-public/living-day-reference.png",
+      "prompt": "Use case: sketch-to-render / precise-object-edit.\nInput image 1 is the sole geometric and camera anchor, a verified Blender rendering of this particular home. Transform it into ONE highly realistic architectural interior photograph, landscape 3:2. Preserve the exact camera, crop, perspective, walls, window positions and divisions, object counts, furniture footprints, heights, orientation and overlap. Improve surface and lighting realism only. No collage, inset, diagrams, words, watermark, people, UI or dimension text.\nDesign: understated modern Japanese; clean warm-white flat matte walls and ceiling, desaturated pale oak grain, greige fine-weave upholstery, sage-green and deep-navy accents. Avoid a yellow color cast. Natural believable contact shadows, soft window daylight and subtle existing indirect lighting. Detailed real linen-like weave, precise joinery, restrained satin ceramic and dark graphite frames. No new rugs, curtains, artwork, extra lighting fixtures, wall decoration or decorative clutter. No new furniture. Window background can be softly blurred neutral distant foliage/sky, only an illustrative backdrop; no added terrace, railing or room. Do not add any window mullions or divisions.\nThe tea set is LOW Japanese lounge furniture, not dining-height: one round pale-oak pedestal tea table diameter 700 mm and top height only 380 mm; two matching low armchairs with seat top 230 mm and total height 580 mm. Do not lift their tops, lengthen legs, create raised flooring or convert to normal dining furniture. Keep table footprint and two chairs facing left-right parallel to the glass as modeled. Sage seat cushions, rounded greige back pads, pale timber arms. Table only has one walnut tray with one ceramic pot and two small cups. Tiny tabletop props remain at real scale. Preserve the floor at one level.\nThis is the full living-room view toward the balcony. Keep the 85-inch TV on the LEFT wall and the long low cream TV cabinet with pale oak top. The greige L sofa is on the RIGHT, its chaise nearest the window, one sage and one deep navy cushion; separate greige ottoman at foreground right. The rounded rectangular pale-oak coffee tabletop in the center is completely EMPTY, lower shelf also empty. No books, vase or tray on this coffee table. Behind the sofa keep exactly one long double-person desk, ONE 34-inch monitor, ONE navy lamp, ONE tiny potted plant, ONE pencil holder and ONE mug, exactly ONE office chair. Bookcase remains in place with books only; no hanging plants, extra pots or vases in the bookcase. Washer and dryer remain stacked at window right.\nPreserve the low tea chairs and table in their existing balcony locations even though the sofa hides most of them in this particular camera view; do not move or enlarge the tea set to reveal it. The near chair's low back and green seat are visible at the window, the other chair is mostly occluded by the chaise. Keep those overlaps. Three floor plants remain clustered to the left of the window at the TV end, in their original pots and relative positions. Main window has one very wide uninterrupted central fixed pane and two narrower side bays, each side bay divided upper/lower, five panes total. Soft realistic daytime, light clean warmth."
+    },
+    {
+      "name": "balcony-low-v02",
+      "reference": "D:/AI-Yang.cn/HomeDesign/07_renders/v11-public/balcony-day-reference.png",
+      "prompt": "Use case: sketch-to-render / precise-object-edit.\nInput image 1 is the sole geometric and camera anchor, a verified Blender rendering of this particular home. Transform it into ONE highly realistic architectural interior photograph, landscape 3:2. Preserve the exact camera, crop, perspective, walls, window positions and divisions, object counts, furniture footprints, heights, orientation and overlap. Improve surface and lighting realism only. No collage, inset, diagrams, words, watermark, people, UI or dimension text.\nDesign: understated modern Japanese; clean warm-white flat matte walls and ceiling, desaturated pale oak grain, greige fine-weave upholstery, sage-green and deep-navy accents. Avoid a yellow color cast. Natural believable contact shadows, soft window daylight and subtle existing indirect lighting. Detailed real linen-like weave, precise joinery, restrained satin ceramic and dark graphite frames. No new rugs, curtains, artwork, extra lighting fixtures, wall decoration or decorative clutter. No new furniture. Window background can be softly blurred neutral distant foliage/sky, only an illustrative backdrop; no added terrace, railing or room. Do not add any window mullions or divisions.\nThe tea set is LOW Japanese lounge furniture, not dining-height: one round pale-oak pedestal tea table diameter 700 mm and top height only 380 mm; two matching low armchairs with seat top 230 mm and total height 580 mm. Do not lift their tops, lengthen legs, create raised flooring or convert to normal dining furniture. Keep table footprint and two chairs facing left-right parallel to the glass as modeled. Sage seat cushions, rounded greige back pads, pale timber arms. Table only has one walnut tray with one ceramic pot and two small cups. Tiny tabletop props remain at real scale. Preserve the floor at one level.\nThis is the closer view of the low tea corner, shot from the right side of the room looking diagonally down toward the glazing. Preserve this slightly elevated camera so the LOW round tabletop and both LOW seats can be read clearly. Sofa chaise and rounded greige sofa back remain large in foreground left and bottom, naturally partly hiding chair legs; do not shift or shrink the sofa. Exactly two low armchairs face each other across the round table. The far-left chair is left of the table and faces to image right/down; the near-right chair faces toward image left/up. Clearly low compact wood lounge chair proportions, seats only 230 mm above the common floor, total back height 580 mm, small table top at 380 mm.\nThree floor plants remain on the far left, tall behind, medium left, small nearest window, at the same relative pot locations as the anchor. Tiny visible end of the TV low cabinet stays at far left. Replace crude proxy leaves with plausible living foliage while retaining plant size envelopes and pots; no additional plants. Keep the broad central floor-to-ceiling glass uninterrupted, graphite frame and left upper/lower side bay exactly as the reference, window right edge extends beyond crop. No new transom across central pane, no central vertical post, no fake short sill. Soft pale daylight, subtle outdoor foliage/sky blurred enough to keep focus on pale oak, sage low chairs and low round tea table. No extra cushions or tabletop objects."
+    }
+  ],
+  "correction": {
+    "view": "balcony-low-v02",
+    "input": "C:/Users/Administrator/.codex/generated_images/01a187d1-69cc-73a1-805e-834e8e8bb476/exec-40a25bd3-fcd4-400c-b38a-dc978b254e85.png",
+    "prompt": "Use case: precise-object-edit. Edit ONLY the tea tray in this image: there are currently three small drinking cups clustered in front/left of the teapot. Remove the small BACK/MIDDLE extra cup so that exactly TWO small cups remain, alongside the ONE teapot on the ONE walnut tray. Retain the near/front cup and left cup. Keep their scale and natural contact shadows. Preserve everything else pixel-faithfully: camera, crop, low table 380 mm tall, two low chairs with 230 mm seats, sofa, plants, window, materials, outdoor view, daylight and all geometry. No new objects, no words or watermark.",
+    "reason": "Remove one unmodeled extra cup; retain exactly two."
+  },
+  "outputs": [
+    {
+      "name": "living",
+      "original": "C:/Users/Administrator/.codex/generated_images/01a187d1-69cc-73a1-805e-834e8e8bb476/exec-8fd0b832-62d8-4ae0-942a-907ebbe52510.png",
+      "project": "07_renders/v11-public/living-realistic-low-v02.png"
+    },
+    {
+      "name": "balcony",
+      "original": "C:/Users/Administrator/.codex/generated_images/01a187d1-69cc-73a1-805e-834e8e8bb476/exec-39ffb136-b6d7-47f2-8319-6f15b866c7ed.png",
+      "project": "07_renders/v11-public/balcony-realistic-low-v02.png"
+    },
+    {
+      "name": "dining",
+      "original": "C:/Users/Administrator/.codex/generated_images/01a187d1-69cc-73a1-805e-834e8e8bb476/exec-69618c4a-2490-49c7-b19d-add8d106cd28.png",
+      "project": "07_renders/v11-public/dining-realistic-v01.png",
+      "prompt_file": "07_renders/v11-public/imagegen-prompts.json",
+      "prompt_view": "dining",
+      "reused_reason": "Dining geometry and camera unchanged; lowered balcony tea furniture outside this view."
+    }
+  ]
+}

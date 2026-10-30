@@ -1,0 +1,56 @@
+{
+  "reference": "D:\\AI-Yang.cn\\HomeDesign\\00_sources\\v09-dining-kitchen-door-markup.png",
+  "source_sha256": "f8925e0c42bbb16cd71f99a0e466beb4ee2e624eebb97f1496b7c9cb2f68cae1",
+  "geometry_sha256": "c3806b73ad37549d6329159fb1178d8fd2d79804e0584f6eb219e98d7b91ec0c",
+  "furniture_positions": "logs/v09-input-live-state.json",
+  "door": {
+    "id": "kitchen-slider",
+    "name": "餐厨玻璃推拉门",
+    "type": "two-leaf-bypass-overhead-slider",
+    "location": "red-marked junction between dining and kitchen",
+    "x": 1391,
+    "z": 9635,
+    "widthMm": 1691,
+    "depthMm": 120,
+    "totalHeightMm": 2750,
+    "slidingLeafTopMm": 2350,
+    "upperFixedGlass": true,
+    "openingSide": "left opens, both leaves stack right",
+    "openTravelMm": 800.5,
+    "clearOpeningProvisionalMm": 800.5,
+    "leafWidthMm": 840.5,
+    "overlapMm": 40,
+    "jambWidthMm": 25,
+    "track": "overhead double track, local floor guides only",
+    "finish": "existing warm dark-grey thin frame and clear glass",
+    "defaultOpen": false,
+    "frameSystemIsConcept": true,
+    "sourceReference": "00_sources/v09-dining-kitchen-door-markup.png",
+    "sourceSHA256": "f8925e0c42bbb16cd71f99a0e466beb4ee2e624eebb97f1496b7c9cb2f68cae1",
+    "modelOpeningSource": [
+      "left-short-partition-end interior edge x1391",
+      "front-facade-0 left edge x3082",
+      "z9635 existing kitchen boundary"
+    ],
+    "dimensionStatus": "Existing model fit, unmeasured on site; two-leaf configuration, height, top light, tracks and finish are designer proposals"
+  },
+  "source_ledger": [
+    {
+      "id": "v09-user-door-intent",
+      "type": "user_instruction",
+      "locator": "current user request and red-marked image",
+      "artifact": "D:\\AI-Yang.cn\\HomeDesign\\00_sources\\v09-dining-kitchen-door-markup.png"
+    },
+    {
+      "id": "v08-existing-opening",
+      "type": "prior_provisional_geometry",
+      "artifact": "02_geometry/geometry-master-v08.json",
+      "sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca"
+    },
+    {
+      "id": "v09-proposed-door-system",
+      "type": "designer_proposal",
+      "locator": "double bypass slider in existing gap; not product engineering"
+    }
+  ]
+}

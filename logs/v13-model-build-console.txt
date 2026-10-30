@@ -1,0 +1,8 @@
+BlenderMCP addon registered
+Info: Saved as "home-main-v13.blend"
+V13_MODEL_SAVED 50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f
+BlenderMCP addon unregistered
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v12.blend"
+
+Blender quit

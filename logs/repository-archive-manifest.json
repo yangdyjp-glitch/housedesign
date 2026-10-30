@@ -1,0 +1,4058 @@
+{
+  "date": "2026-10-31",
+  "repository": "https://github.com/yangdyjp-glitch/housedesign",
+  "repository_visibility_at_upload": "public",
+  "active_model_revision": 13,
+  "scope": "All current project sources, references, historical models, renders, panoramas, deliveries, scripts and design/review records selected by .gitignore",
+  "new_advice_status": "proposal only; no model or furniture placements changed",
+  "excluded": [
+    "Local tools/runtime software and Python environments",
+    "Downloaded third-party software installers",
+    "Interpreter/browser/tool caches and machine credentials"
+  ],
+  "manifest_self_excluded_from_entries": true,
+  "files": 796,
+  "bytes": 627400362,
+  "largest": {
+    "path": "07_renders/vr-tour-v01/balcony-day.png",
+    "bytes": 29026629,
+    "sha256": "96b572b75848dbcd5afe2e00452a2031d049bd9a46a16461ccf16e7eff10e675"
+  },
+  "exact_bytes_preserved": true,
+  "current_model_sha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3",
+  "interactive_source_matches_durable": true,
+  "archives": [
+    {
+      "path": "09_delivery/v06-实体渲染与写实效果-v01.zip",
+      "entries": 16,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v06-现代日式暖色圆角-v02.zip",
+      "entries": 18,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v07-绿植入户洗烘与单屏办公.zip",
+      "entries": 19,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v08-奶黄通顶柜与阳台窗.zip",
+      "entries": 17,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v09-餐厨玻璃推拉门.zip",
+      "entries": 17,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v10-公共区深化与主卫研究.zip",
+      "entries": 23,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v11-矮茶席与公共区效果.zip",
+      "entries": 28,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v12-门厅电视墙灯光窗帘与矮茶席.zip",
+      "entries": 43,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v13-餐厅门厅客厅阳台360全景漫游.zip",
+      "entries": 41,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/走廊通顶柜-三套候选方案.zip",
+      "entries": 22,
+      "credential_filenames": []
+    }
+  ],
+  "entries": [
+    {
+      "path": ".gitattributes",
+      "bytes": 258,
+      "sha256": "69ccf244d871f5e151cea6823662f258ae8e2cacd068410cca1978fdd1633651"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 575,
+      "sha256": "f063eab3aaba4b9092e576cad5055ec3c6b4c79dd899c2932090320b16cccb95"
+    },
+    {
+      "path": "00_source/original/codex-clipboard-9cd2d453-b333-4021-b37e-41631362d66d.png",
+      "bytes": 2520213,
+      "sha256": "1e6e19bb597d3417b8c46238fdb65aaa7661529c208985b069de9aa7e572b598"
+    },
+    {
+      "path": "00_source/original/codex-clipboard-dd3840b3-08e9-4dcc-bd35-cda470532299.png",
+      "bytes": 48449,
+      "sha256": "bc4bb7b10d7b56314057f92055a8bd8bf7121be9f13816aa62089949f378da2f"
+    },
+    {
+      "path": "00_source/original/codex-clipboard-df1537cd-add6-4258-8426-21e02c517ef3.png",
+      "bytes": 1157468,
+      "sha256": "a493849a59235dc425b8494735b60659fdca3f4ec2c0cf75962fe373f35622af"
+    },
+    {
+      "path": "00_source/original/房型.jpg",
+      "bytes": 2776802,
+      "sha256": "9cf0c9de748de5df23dc29122c5e714f26dd2abfa0dbc8fe8f4e46361dbe8925"
+    },
+    {
+      "path": "00_source/references/build_model.py",
+      "bytes": 25680,
+      "sha256": "4bc168a27b5b3e133b0748b759dd72bd78f9a17343e8b71f927f3fe5c27dea68"
+    },
+    {
+      "path": "00_source/references/furnish_model.py",
+      "bytes": 8506,
+      "sha256": "9b335e04b58571246601d31be612686f256cc548aca5f6788a855d831a0f41c0"
+    },
+    {
+      "path": "00_source/references/home_design_move_v1-before-v06.py",
+      "bytes": 3432,
+      "sha256": "9c72089ab9f14fab9dbd8f67f86af93757b8d3f3b64cfc5305271e92418b49a3"
+    },
+    {
+      "path": "00_source/references/house-structure-v04-before-v06.html",
+      "bytes": 82557,
+      "sha256": "8a2d2569aa8f7064bd30481c7058e3c45eaf92b01a30162ce43c88688aba7346"
+    },
+    {
+      "path": "00_source/references/house-view.template.html",
+      "bytes": 34366,
+      "sha256": "72098e15c5ef4516755fc5ae1be22a585bfda9cad6b837f66565f209da9b31df"
+    },
+    {
+      "path": "00_source/references/source-manifest.json",
+      "bytes": 1341,
+      "sha256": "19587de24ff457daca47badcb9dc679e16d1514b2d8955216d3743b1400804b0"
+    },
+    {
+      "path": "00_sources/entry-tv-lighting-curtain-reference.pdf",
+      "bytes": 2111109,
+      "sha256": "de71bd0cd48096238a054e92e8d2d07f288df31dabb9918177cde025e84b5970"
+    },
+    {
+      "path": "00_sources/master-bath-expansion-markup-01.png",
+      "bytes": 28338,
+      "sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36"
+    },
+    {
+      "path": "00_sources/reference-pages-v12/page-10.png",
+      "bytes": 310557,
+      "sha256": "3ef0e487bcb5f09ec9a387a717c31b5abbfd7a7b380a10232e792257881eaf0e"
+    },
+    {
+      "path": "00_sources/reference-pages-v12/page-11.png",
+      "bytes": 413447,
+      "sha256": "1ddce7b9aabf39bd76c1b42fb1c01fef561bcc791d1faed2f0fb4b7583519162"
+    },
+    {
+      "path": "00_sources/reference-pages-v12/page-2.png",
+      "bytes": 420691,
+      "sha256": "419379187c595166c9c89af3361fb31125c381e771615c1bff7bb838bd61f16e"
+    },
+    {
+      "path": "00_sources/reference-pages-v12/page-5.png",
+      "bytes": 308732,
+      "sha256": "9229bfc63a3297c5978984ff92c6155e822b71bb38a804f710fe257ae7695838"
+    },
+    {
+      "path": "00_sources/v07-placement-annotation.png",
+      "bytes": 72301,
+      "sha256": "3e48ae1f322df2c1b8b059e7cd2468643d2b018a23554544a1a880a858fcf449"
+    },
+    {
+      "path": "00_sources/v07-user-compass.png",
+      "bytes": 93564,
+      "sha256": "40f0289a50fdc5213c1023390777d9a3439ac9f9a620b70fe591ce27c34eb2a1"
+    },
+    {
+      "path": "00_sources/v08-balcony-window-reference.png",
+      "bytes": 224488,
+      "sha256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8"
+    },
+    {
+      "path": "00_sources/v09-dining-kitchen-door-markup.png",
+      "bytes": 33873,
+      "sha256": "f8925e0c42bbb16cd71f99a0e466beb4ee2e624eebb97f1496b7c9cb2f68cae1"
+    },
+    {
+      "path": "00_sources/v10-master-suite-reference.png",
+      "bytes": 785756,
+      "sha256": "80c4e614e0bf363c014470d9c70b88c259c59dc3ad36e99ba562f25317fa60a9"
+    },
+    {
+      "path": "01_brief/assumptions.md",
+      "bytes": 8256,
+      "sha256": "4fc24aa40817babecb0c26985d2b6f058a74ae1ea4855b0c086937f71b446236"
+    },
+    {
+      "path": "01_brief/current-design-constraints.json",
+      "bytes": 2392,
+      "sha256": "616f39efe4c6a43be9d52b11d9bbb89a0792a150178c399ba3beec11dc25d81d"
+    },
+    {
+      "path": "01_brief/decisions.md",
+      "bytes": 13490,
+      "sha256": "d5f9e90570f8b7efb607696d6a9a6d086366e37ebbb38c2aeea89c3d0e310fb6"
+    },
+    {
+      "path": "01_brief/detail-interview-v10.json",
+      "bytes": 5323,
+      "sha256": "a1ca758174d8daef34ab6b79483bcd9bc845e0cb240574ff2f80d45fb99571fe"
+    },
+    {
+      "path": "01_brief/master-bath-feasibility-v10.json",
+      "bytes": 1553,
+      "sha256": "307a020a51a52d4b588e46444358f9db888b1256da181b8442b4655caf611eb6"
+    },
+    {
+      "path": "01_brief/project-brief.md",
+      "bytes": 6750,
+      "sha256": "b782293982b1c1aa062a6059ec3c933dfa80ac25c4d669ef65c83ed5f50095aa"
+    },
+    {
+      "path": "02_geometry/existing-plan/house-plan.dxf",
+      "bytes": 21699,
+      "sha256": "9591a820fc45a9fdae8a6c404fbeafb618d4bfd194fd87e75460fe9b32c35460"
+    },
+    {
+      "path": "02_geometry/existing-plan/house-plan.svg",
+      "bytes": 24181,
+      "sha256": "839020bb559c06d5c1e86cec803f644c29cb5ef4ba664971318d7a64a5367f6f"
+    },
+    {
+      "path": "02_geometry/existing-plan/模型说明.txt",
+      "bytes": 3623,
+      "sha256": "d7df25508edace70247b4e1e772b5761fc1cd965555528a9ce4c5e0d40e97101"
+    },
+    {
+      "path": "02_geometry/geometry-baseline-v04.json",
+      "bytes": 81174,
+      "sha256": "8cdd3524cd57109a45f47b06e6c54f2d648e104e7ee1afce0f2aa60e4e191ae8"
+    },
+    {
+      "path": "02_geometry/geometry-master-v05.json",
+      "bytes": 79070,
+      "sha256": "3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43"
+    },
+    {
+      "path": "02_geometry/geometry-master-v06.json",
+      "bytes": 94825,
+      "sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b"
+    },
+    {
+      "path": "02_geometry/geometry-master-v07.json",
+      "bytes": 165207,
+      "sha256": "0ccc097db63ca0b4732518708e3f2e01c78e31049a9a5eb364fca4d581bd28bd"
+    },
+    {
+      "path": "02_geometry/geometry-master-v08.json",
+      "bytes": 178388,
+      "sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca"
+    },
+    {
+      "path": "02_geometry/geometry-master-v09.json",
+      "bytes": 190476,
+      "sha256": "c3806b73ad37549d6329159fb1178d8fd2d79804e0584f6eb219e98d7b91ec0c"
+    },
+    {
+      "path": "02_geometry/geometry-master-v10.json",
+      "bytes": 207701,
+      "sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8"
+    },
+    {
+      "path": "02_geometry/geometry-master-v11.json",
+      "bytes": 225369,
+      "sha256": "dc76ff10da16ed6c8927c5381f280864ea996dafba7ad6f6a9a1b4234c14f672"
+    },
+    {
+      "path": "02_geometry/geometry-master-v12.json",
+      "bytes": 260921,
+      "sha256": "d794e0d7905f630ef8eda6ed66f41d06c3b201f94c3d9e97d82a03573dd001a1"
+    },
+    {
+      "path": "02_geometry/geometry-master-v13.json",
+      "bytes": 263273,
+      "sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f"
+    },
+    {
+      "path": "02_geometry/geometry-master.json",
+      "bytes": 263273,
+      "sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f"
+    },
+    {
+      "path": "02_geometry/source-ledger-v05.json",
+      "bytes": 21671,
+      "sha256": "7b3a7ef424fe689012ddb708b63bf1d00d6ef7808a1ae8e68325fbd19a05ec63"
+    },
+    {
+      "path": "02_geometry/source-ledger-v06.json",
+      "bytes": 22090,
+      "sha256": "e69e1bc61957a250bd48d99d7b7f579bd5ead0ff353cbae973ecc4c75e2b17ab"
+    },
+    {
+      "path": "02_geometry/source-ledger.json",
+      "bytes": 22090,
+      "sha256": "e69e1bc61957a250bd48d99d7b7f579bd5ead0ff353cbae973ecc4c75e2b17ab"
+    },
+    {
+      "path": "03_layout/blender-layout-latest.json",
+      "bytes": 3718,
+      "sha256": "fc30f800030ad36d2461b0c11fee556981702d2d74e8ee1ca01e6f79df337c55"
+    },
+    {
+      "path": "03_layout/blender-layout-v09.json",
+      "bytes": 3401,
+      "sha256": "f4494fbac458e7d8e6a0075ac4306b95819b478675d4ad4ee3b39f3b2602daa2"
+    },
+    {
+      "path": "03_layout/blender-layout-v10.json",
+      "bytes": 3433,
+      "sha256": "35294928b5f26b3d1cd6ad9c75e07b6c769f7c650f1d4128e7aadb283cae706a"
+    },
+    {
+      "path": "03_layout/blender-layout-v11.json",
+      "bytes": 3808,
+      "sha256": "a81b94052b92caef13a52387551017680173e5fdca9a16699461690a31daf667"
+    },
+    {
+      "path": "03_layout/blender-layout-v12.json",
+      "bytes": 3678,
+      "sha256": "f85f48359e6c8da02b2aff3b0aae9f3d44723f2530221641c1644ce0998f274d"
+    },
+    {
+      "path": "03_layout/blender-layout-v13.json",
+      "bytes": 3718,
+      "sha256": "fc30f800030ad36d2461b0c11fee556981702d2d74e8ee1ca01e6f79df337c55"
+    },
+    {
+      "path": "03_layout/widget-layout-v04-latest.json",
+      "bytes": 2237,
+      "sha256": "15e6e57e3bbae82fbcead941b4214a2058e4cbcbd042126a63d6e5774761620d"
+    },
+    {
+      "path": "03_layout/widget-layout-v06-initial.json",
+      "bytes": 1606,
+      "sha256": "53575f5a0de3f496e78691441606f7e8b606f5ab3682c3a33c451f165e4877be"
+    },
+    {
+      "path": "03_layout/widget-layout-v07-initial.json",
+      "bytes": 2387,
+      "sha256": "81f8f004988235d5daee6b1ecc3a8ab51acf6c8dc9be7a3a695d1d5139d12319"
+    },
+    {
+      "path": "03_layout/widget-layout-v08-initial.json",
+      "bytes": 2471,
+      "sha256": "9344fbc1a8a1c2f54aa8cf2bb6404c27b4cdfb72f363f78044052d38409b56e4"
+    },
+    {
+      "path": "03_layout/widget-layout-v09-initial.json",
+      "bytes": 2500,
+      "sha256": "d52f34592de6991727576f4f8bbce5f12df5ae561e0e1c0befb8fc7909b14ef7"
+    },
+    {
+      "path": "03_layout/widget-layout-v10-initial.json",
+      "bytes": 2501,
+      "sha256": "07b6f424206d5da1a411eb09efa203fe1e7cae7ce62cdf191873b82e2b2f80d8"
+    },
+    {
+      "path": "03_layout/widget-layout-v10-user-latest-v13-input.json",
+      "bytes": 1155,
+      "sha256": "1edc42344b055c22889cb41a73b12a87413048eea9d4942c05a66043a8ae96ff"
+    },
+    {
+      "path": "03_layout/widget-layout-v10-user-latest.json",
+      "bytes": 2707,
+      "sha256": "fd216169980032f895a26a74a0f40ce5b300783520b661866aeaaf17d6a5b5e1"
+    },
+    {
+      "path": "03_layout/widget-layout-v11-initial.json",
+      "bytes": 2838,
+      "sha256": "1f617a909565e970b19d844df6f58fe6e7b0d0b9863a9811b02b1f0d1146ea07"
+    },
+    {
+      "path": "03_layout/widget-layout-v12-initial.json",
+      "bytes": 2736,
+      "sha256": "445bbe17286906e012c24a099bddc38b37798bbbaf437eb45b68e996c858697c"
+    },
+    {
+      "path": "03_layout/widget-layout-v13-initial.json",
+      "bytes": 2738,
+      "sha256": "8b6cf2f3b3092ff0744681b8b4b8713409955509e2f89c06ef9b4eb297ab10ab"
+    },
+    {
+      "path": "04_reviews/v07审美与实用性.md",
+      "bytes": 3035,
+      "sha256": "977768f3cfb0ed25383bad46a072a196fa384247ebb0ddd9988af66617404917"
+    },
+    {
+      "path": "04_reviews/v08审美与实用性.md",
+      "bytes": 2775,
+      "sha256": "f5d322434b0283cd578e179e2e1fb5c4846a1e39e1fe680ccf6a3ab55facb58e"
+    },
+    {
+      "path": "04_reviews/v09审美与实用性.md",
+      "bytes": 2495,
+      "sha256": "90561cf2eaad18282583e0b8c2a88c7ce5312b1af3bdad3474c0cb09efb12cef"
+    },
+    {
+      "path": "04_reviews/v10审美与实用性.md",
+      "bytes": 4573,
+      "sha256": "4706c23ea0cda7f92a6a5fd026c5d77002ddfdb1d227de58e2a194c90beff10b"
+    },
+    {
+      "path": "04_reviews/v11审美与实用性.md",
+      "bytes": 3287,
+      "sha256": "99c944aca8f405c0c3a488e8bd7bc95344480706783267719ae196c59c98de38"
+    },
+    {
+      "path": "04_reviews/v12审美与实用性.md",
+      "bytes": 5159,
+      "sha256": "5605e6492e23fccccb22471f4dc6f4ca54829bd52752a0a245feeb393448c66a"
+    },
+    {
+      "path": "04_reviews/v13全景审查.md",
+      "bytes": 9601,
+      "sha256": "09c1532f62806b584c595f69605146432bec822918246788129aeae407a269bd"
+    },
+    {
+      "path": "04_reviews/四区美观与实用性深化建议-待选.md",
+      "bytes": 7583,
+      "sha256": "522034c16c8786ce68399756d2317bd6e4db14d3ddf69a8047822216d7e17440"
+    },
+    {
+      "path": "04_reviews/走廊通顶柜候选复核.md",
+      "bytes": 2131,
+      "sha256": "67cd1e9fd8f062f89be42ea4053ef6d0d69461c4a6ad4102dfd4500ff7064df9"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/option-a-geometry.json",
+      "bytes": 165653,
+      "sha256": "778b6ea70f92e7f95d768fce1e7d8222f66f2f994c324f6ce7d9d533117c2b05"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/option-a-style.json",
+      "bytes": 425,
+      "sha256": "5f07bed5055859d96caadb26be3142640ed7c17893400dd6662a9f5115e3774d"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/option-b-geometry.json",
+      "bytes": 167957,
+      "sha256": "7f254d9fa7c1a0bc195e589aa025344fc3d555b856fedb14f8a75042089e3e0e"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/option-b-style.json",
+      "bytes": 466,
+      "sha256": "2dd63d7a1ad11606e4ac03d23e26b94bbcf4f4432a3880ed6797e8dc8c13415b"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/option-c-geometry.json",
+      "bytes": 165798,
+      "sha256": "726e14222d9ca59deaf44a8eaa7bf6ee62d7e841b613d0a2f8c772fba250960b"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/option-c-style.json",
+      "bytes": 458,
+      "sha256": "d8415a70d7de97219af293fd4db482243e32cece3ccd692d50c9e0e21dcbd2aa"
+    },
+    {
+      "path": "05_style/cabinet-options-v08/pending-selection.json",
+      "bytes": 1949,
+      "sha256": "114eebbd4c38bd32d0858d27af4ee411a25362c124dc2f55a95e39a8eba7c148"
+    },
+    {
+      "path": "05_style/modern-japanese-v02.json",
+      "bytes": 2316,
+      "sha256": "968901055bee32c15e7ff3cea239cdc5fd6c476ff013e95de7dadcd7ca28f579"
+    },
+    {
+      "path": "05_style/modern-japanese-v03.json",
+      "bytes": 2854,
+      "sha256": "624d1c7b0e4c18fc1df2ed3a4e7fb567d6fe704154929f285c67f144570939df"
+    },
+    {
+      "path": "05_style/modern-japanese-v04.json",
+      "bytes": 4700,
+      "sha256": "42759bbd2312d5e03461f6521db082b21890ee0972c70939d564f7ca6b0e33a0"
+    },
+    {
+      "path": "05_style/modern-japanese-v05.json",
+      "bytes": 6073,
+      "sha256": "5062cec31e157faa218ebe173cdd41a618c258d43695ff5b61474c484f33d5ef"
+    },
+    {
+      "path": "05_style/modern-japanese-v06.json",
+      "bytes": 11611,
+      "sha256": "105e9cb2612ffa439fe55879120cd8aba7670536dd179abf877b074d5c765ccd"
+    },
+    {
+      "path": "05_style/modern-japanese-v07.json",
+      "bytes": 12469,
+      "sha256": "b59f6c1fe091dcf30ac9b73fc7d5905d93c30ec919daef917cf67b83a6f9aace"
+    },
+    {
+      "path": "05_style/modern-japanese-v08.json",
+      "bytes": 15274,
+      "sha256": "d5b85a6df0d8656fe93a0725bc35a141c1a92c0e76c1f0082fac71e8341a5d8d"
+    },
+    {
+      "path": "05_style/modern-japanese-v09.json",
+      "bytes": 15274,
+      "sha256": "5bf6107877d0647f356201cddd13074a91dc5dc42dffd572987f061d32aace59"
+    },
+    {
+      "path": "06_blender/active-model.json",
+      "bytes": 2662,
+      "sha256": "83e32990cd0fe4978d41bd7b91b91bdba87b7c7d6298f777e26a42c399832e78"
+    },
+    {
+      "path": "06_blender/baseline-v04-house-structure.glb",
+      "bytes": 184644,
+      "sha256": "3ffb9aebab6cf9c63ac33ead3680c89530d7d55ade31248f51e44ac927856e4b"
+    },
+    {
+      "path": "06_blender/baseline-v04-house-structure.mtl",
+      "bytes": 440,
+      "sha256": "09bed9467b6baaa30b03f322dc5c40441f9a12636f655ede39e46597b9428678"
+    },
+    {
+      "path": "06_blender/baseline-v04-house-structure.obj",
+      "bytes": 134986,
+      "sha256": "9cd4e5db16d0dd1155ae8e0af68366b323bd683c5b37ff420aa349682c0ef820"
+    },
+    {
+      "path": "06_blender/cabinet-option-a-sand-oak.blend",
+      "bytes": 6089392,
+      "sha256": "326163b5ed36142b2b6db92f26e7fea29e93e6e62781b62cb218c67939f27ac1"
+    },
+    {
+      "path": "06_blender/cabinet-option-b-sage-oak.blend",
+      "bytes": 6143606,
+      "sha256": "2fee8600a2db64b088a64f530bf7f981395bf7715999f865ccecad141d115006"
+    },
+    {
+      "path": "06_blender/cabinet-option-c-navy-walnut.blend",
+      "bytes": 6132989,
+      "sha256": "2a65cd709462366afa95b516c13a086da3f05a1ebfcf09b3779be65cd69ed424"
+    },
+    {
+      "path": "06_blender/home-main-v05.blend",
+      "bytes": 1723722,
+      "sha256": "65048ec01647b55fd65789a5e1df3d613b4e5f87901a4f0a78dd022b0cb9e008"
+    },
+    {
+      "path": "06_blender/home-main-v06.blend",
+      "bytes": 1806941,
+      "sha256": "7b7680e5b52f821f03493bb5dee38f50fe02f6c98d39bd09a8b29382c2f3b5c4"
+    },
+    {
+      "path": "06_blender/home-main-v06.blend1",
+      "bytes": 2227232,
+      "sha256": "5b0f5f8e54e015908e1724f15391e99bf8e6164e74defa30f646f3c26d7f4795"
+    },
+    {
+      "path": "06_blender/home-main-v07.blend",
+      "bytes": 6207019,
+      "sha256": "f432ed4ed8da8eba33d1574087cb6d0fa0d9387d5c2890c2ba9b6e58e9094fbb"
+    },
+    {
+      "path": "06_blender/home-main-v08.blend",
+      "bytes": 6368425,
+      "sha256": "be82fe4e17cc3a291b8a4be7e54a22b03591e0e4d280ed0eacc784c85e42f35c"
+    },
+    {
+      "path": "06_blender/home-main-v09.blend",
+      "bytes": 6518569,
+      "sha256": "e0f9533041dfb15c02cec9a50de62c299387304c8e94a49db72c81b44cd7a25e"
+    },
+    {
+      "path": "06_blender/home-main-v10.blend",
+      "bytes": 6940252,
+      "sha256": "e0cf9b40f2bbe494e549b6dab411713866c84f26043c61295081a491327efa00"
+    },
+    {
+      "path": "06_blender/home-main-v11.blend",
+      "bytes": 8365994,
+      "sha256": "a9d2568f7679ba85ab23d4fb4076ceaff22825bb82db35ff8523edaaaa6ed522"
+    },
+    {
+      "path": "06_blender/home-main-v12.blend",
+      "bytes": 9612516,
+      "sha256": "3261e403c61b15f4fa47e20776c68abe7fd3c5d04d94888abdbfe1e15598dc67"
+    },
+    {
+      "path": "06_blender/home-main-v13.blend",
+      "bytes": 10967475,
+      "sha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3"
+    },
+    {
+      "path": "06_blender/home-v06-japanese-v02.blend",
+      "bytes": 5270757,
+      "sha256": "713bbe67aa779c133b2aadfd3c71e75674a1fdf44bdb39c13252804c2370c91d"
+    },
+    {
+      "path": "06_blender/home-v06-live-before-v07-20261030T225536404927.blend",
+      "bytes": 1715613,
+      "sha256": "7a615a783b55da1e291315b5be80896aaa60b56b1521d0e45064488940bbb9e7"
+    },
+    {
+      "path": "06_blender/home-v06-presentation-v01.blend",
+      "bytes": 3806984,
+      "sha256": "6ee010b1b257732899b439098c1f473c11f2e86f380a243c8272f9da9b5b27c8"
+    },
+    {
+      "path": "06_blender/validation/2m-cube-roundtrip.blend",
+      "bytes": 492047,
+      "sha256": "d6e68232b71c4d5478413d521f734df8d41b5b235e271deada0d11fe9c68afb0"
+    },
+    {
+      "path": "07_renders/environment-test-fictional.png",
+      "bytes": 2706785,
+      "sha256": "cbf3731d4b340582cce8b56583cb0235de867ca81f5a9c7e78a542a63eb6813c"
+    },
+    {
+      "path": "07_renders/model-v05-axonometric.png",
+      "bytes": 2175420,
+      "sha256": "f90dda347ee40993d7d3827f563cd57416ff14c8d05355e5a0d30bb04a7cbd9d"
+    },
+    {
+      "path": "07_renders/model-v05-top.png",
+      "bytes": 2084270,
+      "sha256": "17fc6cf322b5ab4f72a12196bf44d331e343e3e89003415ab9557e9b7966ed9d"
+    },
+    {
+      "path": "07_renders/model-v06-axonometric.png",
+      "bytes": 2076421,
+      "sha256": "8381097d8a6e62edef7fee74edeb3ff5a8451c6b70da2b35e54b5aed23f6d372"
+    },
+    {
+      "path": "07_renders/model-v06-top.png",
+      "bytes": 2085010,
+      "sha256": "2b6cb27801706f2749b5f127d4d251b236da3bc5f47f00801b6e56eec118373d"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/dining-cycles.png",
+      "bytes": 1969635,
+      "sha256": "a869d8e95f16136d3cd117537eb86c178a59bde50810acc3c24553c1592cf901"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/dining-draft.png",
+      "bytes": 915776,
+      "sha256": "c142b395c99fbbfc0cb2ba5413c3b5035801eedfc6e84fff975b07325b562ee9"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/dining-imagegen-prompt.txt",
+      "bytes": 5547,
+      "sha256": "f514ea7ef43b21c9bcf2cb162dfeb202b5cf946dccd54be0b5c98b3ca554baf3"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/dining-photoreal-v02.png",
+      "bytes": 1929892,
+      "sha256": "8e784ed9e1bbc7504fdeb05be3ef87f8509915b11d0d72dcc42293cfcc15a658"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/living-cycles.png",
+      "bytes": 1989285,
+      "sha256": "80f3b0e918198d5384aa3557fe3fb5d285dacbc8b73724e6bc2a7d04768f7840"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/living-draft.png",
+      "bytes": 937583,
+      "sha256": "25c8dc04e7bbc3c8ac73694f8c4a1a9b4aa25267d1e25117d7d289481bad7597"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/living-imagegen-prompt.txt",
+      "bytes": 5571,
+      "sha256": "9c7eb365916e920b2fd2809b5646758a28a2665df2d58d44c62a5380a3a35819"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/living-photoreal-v02.png",
+      "bytes": 2090353,
+      "sha256": "c22d6438f60c20f2a9ef75b0e49b26b6ab468ab8ba56476b3ae3a3e1763d90d4"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/office-cycles.png",
+      "bytes": 2060144,
+      "sha256": "1af7c4edd0263df8dcd3bf7d0d0092673e7593f737ecce7cfd0254e17a4485a9"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/office-detail-cycles.png",
+      "bytes": 2118342,
+      "sha256": "a6ac33dd49200bca2006f32769dea710daf08e779c05883b356d1b4953ba5ec4"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/office-detail-draft.png",
+      "bytes": 996727,
+      "sha256": "70f82f60dd5f7e16da4d8dde99258d544eb0d75cc4cadda98fe35c9c163d8a80"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/office-draft.png",
+      "bytes": 967415,
+      "sha256": "2c72c00763f93c0f3defafe41b1478576cf7dd937836180b424c79f6b2ccbf64"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/office-imagegen-prompt.txt",
+      "bytes": 5255,
+      "sha256": "82e907ee3ca16e9299d4d6e43f5ede14109fd47b317f7f187c9a5ad82424e314"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/office-photoreal-v02.png",
+      "bytes": 2104241,
+      "sha256": "a24bbfba42ad873b6fc53e80ade83bde4a9a8b7ce53c76ed9f629c3c9aaf3913"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/render-manifest.json",
+      "bytes": 9060,
+      "sha256": "b4615f9d828a6dcffeb1e944a682ca5e213e58432172ff78bf66a7be1c9806e6"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/查看效果.html",
+      "bytes": 2504,
+      "sha256": "ddb76a4985786729a4216c16b7aa562026b2f958e9865ed1feb170711217ba76"
+    },
+    {
+      "path": "07_renders/v06-japanese-v02/设计与渲染说明.txt",
+      "bytes": 2271,
+      "sha256": "993fa8b427a7200de1601bd01f4a76c5f45ae413493daadc81ac963380e84bc2"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/dining-cycles.png",
+      "bytes": 1964807,
+      "sha256": "24bcf9445fb962b82de75ccce34fda3431f63e03a7970d4b4fd6b7c79c18836a"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/dining-draft.png",
+      "bytes": 889720,
+      "sha256": "2afb2bda40015703d9378c80b63df1d85f325f1ef4c548da2592a937b8342f51"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/dining-imagegen-prompt.txt",
+      "bytes": 4332,
+      "sha256": "2c73fe17a8042946e0fcc87da75df14a00ad966dd8ae717fca83eb63a25585e5"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/dining-photoreal-v01.png",
+      "bytes": 1978944,
+      "sha256": "c173a2213a1a5f5570d49eb622254c0d252c8fd9df6c7694a35f0cd670ef9c81"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/living-cycles.png",
+      "bytes": 1988896,
+      "sha256": "06c6fff5374152e91bdcac5b64cf4d56d4843cb622431918369069d1ea3debae"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/living-draft.png",
+      "bytes": 904492,
+      "sha256": "e771044a57dd4f87e32e821504c3414a57adb1b68c325bf9d340c6d7128aa5e8"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/living-imagegen-prompt.txt",
+      "bytes": 4253,
+      "sha256": "25c7985202ed3fc8abd8094d7f645f391e1a66e0759f90dcddbcc9e1df252455"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/living-photoreal-v01.png",
+      "bytes": 2236319,
+      "sha256": "9af582c72f558f7e97ab5796a7c0cd58c84fadf1932f8071e9d3a97bf33264ac"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/office-cycles.png",
+      "bytes": 2050775,
+      "sha256": "02d77b147c449bf7f2d47c4d4b0779798af3352651ef66e657289fadee56f15d"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/office-detail-cycles.png",
+      "bytes": 2097716,
+      "sha256": "c8c34ea41cf59d64b5092372246cd1c49dfb9f975c431cc039d56323c5549f2f"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/office-detail-draft.png",
+      "bytes": 996094,
+      "sha256": "60da4d0a0af073285dd40021f660a19473d0af0ee99b4094062178ec7398922a"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/office-draft.png",
+      "bytes": 905018,
+      "sha256": "c6f8aae26440187b1978a374e39f6bc8909358b8bdac52cb1dc41949f363df9f"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/office-imagegen-prompt.txt",
+      "bytes": 3919,
+      "sha256": "adc657699a3d37b96bc55c95815e7558782ff65f5126d3200eac38b6f18cae6e"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/office-photoreal-v01.png",
+      "bytes": 2160693,
+      "sha256": "1dcf37cffd3ed0e67624769505bcdb0cf926159451a905c66d4b837285a797eb"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/render-manifest.json",
+      "bytes": 6552,
+      "sha256": "ddf6c4e25894da9156b2db7d0eca4391aa01d9813e2418b741020c62e75bc0a4"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/查看效果.html",
+      "bytes": 3926,
+      "sha256": "94d88fcdac639ee5fcba4f9c9c47b4e191bf2f6ebd1eeb3b0b3d5ccc2a7bd90e"
+    },
+    {
+      "path": "07_renders/v06-realistic-v01/渲染说明.txt",
+      "bytes": 2054,
+      "sha256": "27af9716c4353defe46b83258f766d587ee8a8a0f604cbdd10f5b73cbcf02229"
+    },
+    {
+      "path": "07_renders/v07-layout/balcony-laundry.png",
+      "bytes": 2052246,
+      "sha256": "d699b42f00eb7a575634f9c4bd61598eee8042ce12747090e84a669237dfd6dc"
+    },
+    {
+      "path": "07_renders/v07-layout/desk-single-34.png",
+      "bytes": 2166018,
+      "sha256": "3d5fbc41a9728c458e1c9b0e0fce226fac3ded539856628d1d692ea2afb7de7d"
+    },
+    {
+      "path": "07_renders/v07-layout/entry-cabinets-cutaway.png",
+      "bytes": 1764696,
+      "sha256": "600369c1322a804849eb5d355eae1e8e6aaeae93a706174dd982ca1a2286773f"
+    },
+    {
+      "path": "07_renders/v07-layout/green-corner.png",
+      "bytes": 1979530,
+      "sha256": "2c0df809cf82218869def80a965d3d30e26aa0ef0f49398889b1d03bc85dfcfe"
+    },
+    {
+      "path": "07_renders/v07-layout/overview-cutaway.png",
+      "bytes": 2520496,
+      "sha256": "c3f8e396dfec209e8226a2ea458c55d43352467630ad1261945e54d506dfd814"
+    },
+    {
+      "path": "07_renders/v07-layout/render-manifest.json",
+      "bytes": 2357,
+      "sha256": "f01f153afcefe11020f15d0e3247932567ca57743fc442e930d3298e740f7606"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/cycles-manifest.json",
+      "bytes": 3340,
+      "sha256": "7675a953e202418c8da3b13b5c72903311143a9df50e8ed6ad73aca1f21d865f"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/draft-manifest.json",
+      "bytes": 1258,
+      "sha256": "a2b4f1e11b53d3a89b582d9365ab81d1531aa1170cb1e952d1a832ef797c2104"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/imagegen-prompts.json",
+      "bytes": 8730,
+      "sha256": "7cb415471bd6037745a7bcdc7d1ebe5ec4f5f42f7dc1aad547ebbf0d2cb98dfb"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/option-a-cycles.png",
+      "bytes": 1838221,
+      "sha256": "6d8f27e1b43a85ccbc512e4c321ee9cf067504976b3b8ac866b028ac831e0cf8"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/option-a-photoreal.png",
+      "bytes": 1556064,
+      "sha256": "2bd3b74ee173b2640e98be4f730c4f2a87d4a78707e13727da48cfa04c146a1b"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/option-b-cycles.png",
+      "bytes": 1875985,
+      "sha256": "b0fa7d7f62c0e710bd9b55b5f4d06f7e29b153362d3811fe4cfb8d1cadc60816"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/option-b-photoreal.png",
+      "bytes": 1671352,
+      "sha256": "21e384fb5b360db7884d1074ea7ecd8c5367359b63a7b2311c143968d92c2737"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/option-c-cycles.png",
+      "bytes": 1823072,
+      "sha256": "d00521bf3aed5cf321526a639756b5d5a769e67daec8685d9a934f7a7a9f9eeb"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/option-c-photoreal.png",
+      "bytes": 1563026,
+      "sha256": "483cca247349f739c5f0e280b1a73d27f0d1e0d04e36c8bdd3c176fa58e79319"
+    },
+    {
+      "path": "07_renders/v08-cabinet-options/render-manifest.json",
+      "bytes": 6714,
+      "sha256": "1c9828f6606bdc6cbce04e3f0da8e303ba8a8cfe6996159d2f09aec50f7f3c48"
+    },
+    {
+      "path": "07_renders/v08-selected/balcony-window.png",
+      "bytes": 2035878,
+      "sha256": "6c26e598c29a46eaaf3ad1ea905f7438314a78234ad0cdc9114214c25d7e667b"
+    },
+    {
+      "path": "07_renders/v08-selected/cabinet-milk-yellow.png",
+      "bytes": 1827821,
+      "sha256": "d2f0e73758166c699ceada04648ced485cfe7f9a9b2eb1933a992f0c613a8455"
+    },
+    {
+      "path": "07_renders/v08-selected/render-manifest.json",
+      "bytes": 3014,
+      "sha256": "bcb0b59c1781a80ef2f53c8138b6635b10292de22955063e03d9cf633055a1ce"
+    },
+    {
+      "path": "07_renders/v09-sliding-door/door-closed.png",
+      "bytes": 1923173,
+      "sha256": "cb41cff3c746e6d7ec8fc0dfe0da30de5126b854639ab13bd5c063729a3ccc70"
+    },
+    {
+      "path": "07_renders/v09-sliding-door/door-open.png",
+      "bytes": 1944849,
+      "sha256": "06b655244e0c90cd025f08864c5fe869c9fb6f58c62f72b118064b8f97303b85"
+    },
+    {
+      "path": "07_renders/v09-sliding-door/render-manifest.json",
+      "bytes": 2894,
+      "sha256": "f710bf2e6d3869bbad5c73525bf3a148191079306d65e0c5c3705430d3e5ee20"
+    },
+    {
+      "path": "07_renders/v10-detail/desk-evening.png",
+      "bytes": 2088463,
+      "sha256": "660012e69562c8914d8510d3c3b689abe11c0a5855977c894d1b7da260bb598c"
+    },
+    {
+      "path": "07_renders/v10-detail/door-wall-detail.png",
+      "bytes": 1841128,
+      "sha256": "b7590343be6eeb035949ee4755c0d790f8abd003626ae0796fb1a23d6654f51e"
+    },
+    {
+      "path": "07_renders/v10-detail/living-day.png",
+      "bytes": 1972382,
+      "sha256": "730ff3e7d1a2f00364994c0b24d9f1701605d38875935ec72fd5c2c2e30e65ca"
+    },
+    {
+      "path": "07_renders/v10-detail/living-evening.png",
+      "bytes": 1908233,
+      "sha256": "25813393742b20381b9e6bf2a67b274b261d4ff50b1251fd949221687c068da1"
+    },
+    {
+      "path": "07_renders/v10-detail/render-manifest.json",
+      "bytes": 2291,
+      "sha256": "b8bcc7619d05d4b4a6c93790768e380d8b0e118b56858ee934c4f7862ead2411"
+    },
+    {
+      "path": "07_renders/v11-public/balcony-day-draft.png",
+      "bytes": 946573,
+      "sha256": "7ce4835b1cb075a4030df30ac0c01c0fe54d3679d59555e71f954463c9b2a855"
+    },
+    {
+      "path": "07_renders/v11-public/balcony-day-reference.png",
+      "bytes": 2016395,
+      "sha256": "0983fa0cd780d541f6390d2e9b79cf99824e11d6f0e5de5f7b5fb7f6571c0936"
+    },
+    {
+      "path": "07_renders/v11-public/balcony-realistic-low-v02.png",
+      "bytes": 2155369,
+      "sha256": "dd5c2b01a0076254831d589f82f7d816276f85a6ef070ac23eb7219aa4defd36"
+    },
+    {
+      "path": "07_renders/v11-public/balcony-realistic-v01.png",
+      "bytes": 2243811,
+      "sha256": "0af2845ebece7cb90bd9d33175395ed7547e450fc9713e25a2b532c0234aaf1e"
+    },
+    {
+      "path": "07_renders/v11-public/dining-evening-draft.png",
+      "bytes": 924438,
+      "sha256": "22cd852f8d2985963bf239f948e5c091f340203f5aa6b2669458dfab6e6fd4a7"
+    },
+    {
+      "path": "07_renders/v11-public/dining-evening-reference.png",
+      "bytes": 1994963,
+      "sha256": "d732b541ad40c97a0a71b1f3159be783b67a1d8519e599c16d4ecedb208234ad"
+    },
+    {
+      "path": "07_renders/v11-public/dining-realistic-v01.png",
+      "bytes": 2085238,
+      "sha256": "8bead0579eeee57417124ca1e46b25082a3ca16447e507228f1518c448e72adc"
+    },
+    {
+      "path": "07_renders/v11-public/imagegen-prompts-low-v02.json",
+      "bytes": 9110,
+      "sha256": "226d1f7b4463e6708522db953ffdffe7dc5ea5064af160f31c9d6f03421ac2f8"
+    },
+    {
+      "path": "07_renders/v11-public/imagegen-prompts.json",
+      "bytes": 9913,
+      "sha256": "9e5db6a9fdaa583df28563d8bfb44e7511008e27b5c074ab5455c6c40c515c1f"
+    },
+    {
+      "path": "07_renders/v11-public/living-day-draft.png",
+      "bytes": 1005867,
+      "sha256": "9040a7ecf524074343ac9bf192ba85041307988843d9bfa6bd6a5877e9cb96a9"
+    },
+    {
+      "path": "07_renders/v11-public/living-day-reference.png",
+      "bytes": 2114984,
+      "sha256": "0a8b3a3d3d7f2b2c0ea2304438e958b9061d5927b8ff4c36c3b574d5d936b8b0"
+    },
+    {
+      "path": "07_renders/v11-public/living-realistic-low-v02.png",
+      "bytes": 2249589,
+      "sha256": "bd2ed35fd6ae6aa077cf2076bad15ba8889fedf2f4fe6476db2abec332ab1209"
+    },
+    {
+      "path": "07_renders/v11-public/living-realistic-v01.png",
+      "bytes": 2207112,
+      "sha256": "04ef6c00874079c8505488987c9ba5cfd5f2a94e315efde55187cc3f07082c51"
+    },
+    {
+      "path": "07_renders/v11-public/render-manifest.json",
+      "bytes": 5179,
+      "sha256": "fd8c823e06ea602ff90d2ea517cbfaef93ca82ef2248e65a350df9804b3bfee2"
+    },
+    {
+      "path": "07_renders/v11-public/查看效果.html",
+      "bytes": 1986,
+      "sha256": "5c6a6de0d10eb99becc05ebdfbbee1ecde5d33029614d88f019db13836f819e2"
+    },
+    {
+      "path": "07_renders/v12-reference/balcony-day-draft.png",
+      "bytes": 936253,
+      "sha256": "898d8e10225771cbec67fc000891e43150375e2f81f65c792c0e356d95ff79a9"
+    },
+    {
+      "path": "07_renders/v12-reference/balcony-day-realistic-v01.png",
+      "bytes": 2461964,
+      "sha256": "a0febc558411aaaa5ea6fbc877db1da03eb37d30567f6800136c02b1b1ae85ab"
+    },
+    {
+      "path": "07_renders/v12-reference/balcony-day-reference.png",
+      "bytes": 2008870,
+      "sha256": "50f90039d873317a030cc48e904d82b01bf0e886d773223923923d5937b801c9"
+    },
+    {
+      "path": "07_renders/v12-reference/curtain-evening-realistic-v01.png",
+      "bytes": 1998805,
+      "sha256": "ed2c0f51b794efae29b330acab045f7ceed235e3de865b95397426e48ed91409"
+    },
+    {
+      "path": "07_renders/v12-reference/curtain-evening-reference.png",
+      "bytes": 2153178,
+      "sha256": "93372355c26a7328734a1f4170fde4ab3ef61ebc2a2eb18d2f45c4aac181847b"
+    },
+    {
+      "path": "07_renders/v12-reference/curtain-viewing-draft.png",
+      "bytes": 834938,
+      "sha256": "7dc0803ed2d73744f69e1a81baf247a101db6252128a3e4e10991e6c704130ba"
+    },
+    {
+      "path": "07_renders/v12-reference/dining-evening-draft.png",
+      "bytes": 933655,
+      "sha256": "d4ca2d8856059ff9d4110ef9b9d225b67f85188920db8c4bf4656f17482a2ac0"
+    },
+    {
+      "path": "07_renders/v12-reference/dining-evening-realistic-v01.png",
+      "bytes": 2106529,
+      "sha256": "2ec58452d6ae03b2fb39155fbad51802ff790d25d036f1719c1eeaac1c7b9920"
+    },
+    {
+      "path": "07_renders/v12-reference/dining-evening-reference.png",
+      "bytes": 2008018,
+      "sha256": "107fb7db62b5d40ece36a04caa936af759e74cd44e76d3f977f367edbe664a0a"
+    },
+    {
+      "path": "07_renders/v12-reference/entry-evening-draft.png",
+      "bytes": 868789,
+      "sha256": "81558acfe5386d937206acc51b68b95a3f161511a69521163c3206af724121ac"
+    },
+    {
+      "path": "07_renders/v12-reference/entry-evening-realistic-v01.png",
+      "bytes": 1838271,
+      "sha256": "bc6dcdfbe09520c083469c8719f18a6149b3bfb5b5d7542672fb2241ffd03a40"
+    },
+    {
+      "path": "07_renders/v12-reference/entry-evening-reference.png",
+      "bytes": 1827902,
+      "sha256": "53cf56161fe7972153c6fc9e998ba608ee5d7e485390c1bc5170ea0ee3b76155"
+    },
+    {
+      "path": "07_renders/v12-reference/imagegen-prompts.json",
+      "bytes": 19467,
+      "sha256": "625ccca82685e5430674144c613fc8653c233dd31c4e822a1b1ef5237d14356b"
+    },
+    {
+      "path": "07_renders/v12-reference/living-day-draft.png",
+      "bytes": 998785,
+      "sha256": "9b411785b81ae7a65174bee6a6ba596f8468cf772f41e17654b2e8cdb52631af"
+    },
+    {
+      "path": "07_renders/v12-reference/living-day-realistic-v01.png",
+      "bytes": 2160042,
+      "sha256": "cb97cbfbf95eb2e0dd40620830acceef3c76f1df3818dbb0474cc1b5d30b6089"
+    },
+    {
+      "path": "07_renders/v12-reference/living-day-reference.png",
+      "bytes": 2118537,
+      "sha256": "d52cef7a9270b6b9e8c9a899f110f839bf871a775160ee25d843c3c824305e13"
+    },
+    {
+      "path": "07_renders/v12-reference/render-manifest.json",
+      "bytes": 9588,
+      "sha256": "ec60584ed67dfc41afd14cc66761d972a679ac3ce148c5080d2eba6cbe409df5"
+    },
+    {
+      "path": "07_renders/v12-reference/tv-evening-draft.png",
+      "bytes": 876743,
+      "sha256": "6e63516ec4ffefd229637fee12ea569433000c7bba5e1b43d12241484dd69451"
+    },
+    {
+      "path": "07_renders/v12-reference/tv-evening-realistic-v01.png",
+      "bytes": 1779203,
+      "sha256": "8ecc546bf95c6a8d5b7f34ff0d1f5d1b8572a379040042670d714a1cf1cb389a"
+    },
+    {
+      "path": "07_renders/v12-reference/tv-evening-reference.png",
+      "bytes": 1873228,
+      "sha256": "c43083396f1ace618f47d829b44bf855d59c313829d594e71d54429a55be16ca"
+    },
+    {
+      "path": "07_renders/v12-reference/查看效果.html",
+      "bytes": 3245,
+      "sha256": "cc564ad07fb920ca2fc2663b8f7ef447516362d6996e009ab9db468d69add940"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/axis-calibration.png",
+      "bytes": 172584,
+      "sha256": "aea7c558abfb963ec37925cb024c52785da776c26b636de32c7e453b6093a3c0"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/balcony-day.jpg",
+      "bytes": 2032551,
+      "sha256": "75fb571907332f154612b41968411225c875869f3ee25fa76029127d60b95d8d"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/balcony-day.png",
+      "bytes": 29026629,
+      "sha256": "96b572b75848dbcd5afe2e00452a2031d049bd9a46a16461ccf16e7eff10e675"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/balcony-draft.png",
+      "bytes": 2080082,
+      "sha256": "0ec013e7634c17135205ee2e83c3ef9dc008107d68c60d86d4e374a0a3a0e9fc"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/dining-day.jpg",
+      "bytes": 1663937,
+      "sha256": "f9c9cbc9e6aa8e3130ac460c35168b344213718b07ffdba2138cff767e6d5bbb"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/dining-day.png",
+      "bytes": 28407096,
+      "sha256": "ceac348ffd47bf40486e0f9af0a81bfd033c985c38373f9cab2eb6ec0bd9e63c"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/dining-draft.png",
+      "bytes": 1959629,
+      "sha256": "58733b51b8c0f207c397f436e69bd37c7c02a42410ec52a1de678a8564c742ce"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/entry-day.jpg",
+      "bytes": 1559925,
+      "sha256": "5b465ea5c9a90975921583e2c6b831547fd6c9efb963192606172732f51aa9a1"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/entry-day.png",
+      "bytes": 27740242,
+      "sha256": "9f79bf5adb7dcae7d234d930b76313d36b16974a75764db22d22fec02ad8dc03"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/entry-draft.png",
+      "bytes": 1925530,
+      "sha256": "057dbaa7beab3301d3216dd9bd19856fb73924f9a510898ca824b43f2d4ac4ea"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/living-day.jpg",
+      "bytes": 1881566,
+      "sha256": "5269560e9571e2e936f6d89526af2af05eb7e09e5398a80351f7a7e8801fd53d"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/living-day.png",
+      "bytes": 28578485,
+      "sha256": "36ac7a28bce693a59784753c5c01aab375e5418dec105b0c03555bf0dafe0d2c"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/living-draft.png",
+      "bytes": 2000674,
+      "sha256": "f938725a56f741e8a4de5ab4399d1fc98ed5f57cf507b11c37c0811642b5c3b3"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/panorama-export-manifest.json",
+      "bytes": 2675,
+      "sha256": "ea5bdcb34f299ebf973f333e93a715bab5bd3a75e4203e9c8ef6deacf80ff42a"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/tour-config-draft.json",
+      "bytes": 1983,
+      "sha256": "1408ffafc138227230b52237936ad21e8d25f9cfe8fab486a4189c661b4c2b9e"
+    },
+    {
+      "path": "07_renders/vr-tour-v01/tour-config.json",
+      "bytes": 1986,
+      "sha256": "c49f1510f4f656051f73382caa7df9d80d29c634bd7ba5820ad0392c148c62da"
+    },
+    {
+      "path": "07_renders/widget-v06-3d-hover.png",
+      "bytes": 166057,
+      "sha256": "01d7c3872fc99dfd92e018294e9bcea79fc9ce33290ffde9f756a1324af9b7a4"
+    },
+    {
+      "path": "07_renders/widget-v06-dark-hover.png",
+      "bytes": 63456,
+      "sha256": "f9b553379499cac0b99258a827aa2450c622e09dafb30c496fb39e0ab988f917"
+    },
+    {
+      "path": "07_renders/widget-v06-mobile-hover.png",
+      "bytes": 50440,
+      "sha256": "4f9b906e8ae654b2dcab604f27edded8dd0c9a0de066febd02005a5df4f78665"
+    },
+    {
+      "path": "07_renders/widget-v06-plan-hover.png",
+      "bytes": 65348,
+      "sha256": "6c1feac7584903fa25134d8b48fdab1195b9d86ed0a0d536b24a4c85c910290e"
+    },
+    {
+      "path": "07_renders/widget-v07-3d-hover.png",
+      "bytes": 177542,
+      "sha256": "43edcb982f4fd972ed132568a84faa409e337a66e6503b01726cea2c655171c6"
+    },
+    {
+      "path": "07_renders/widget-v07-dark-hover.png",
+      "bytes": 71216,
+      "sha256": "20187bb76512547091efdcd0e9e1768465f82c66c11301044e5cc601a1ed627a"
+    },
+    {
+      "path": "07_renders/widget-v07-mobile-hover.png",
+      "bytes": 52783,
+      "sha256": "6d6cecb5d62b46fd47b529ee3d0b074cab9d35e514e00e113e33c7ed89290f68"
+    },
+    {
+      "path": "07_renders/widget-v07-plan-hover.png",
+      "bytes": 73365,
+      "sha256": "0e41e54b32ed4bd991f3d803b57242ef109794132545938e176ec72edbe1d862"
+    },
+    {
+      "path": "07_renders/widget-v08-3d-hover.png",
+      "bytes": 180731,
+      "sha256": "544546cd7f2cb9bb8685cfc578474f206e708770f51a11a8b20667618e1c51e5"
+    },
+    {
+      "path": "07_renders/widget-v08-dark-hover.png",
+      "bytes": 70224,
+      "sha256": "b2fbde1b680346d7f2d96202853e0f24f7d4ea45157e03d49d739e13006ff06f"
+    },
+    {
+      "path": "07_renders/widget-v08-mobile-hover.png",
+      "bytes": 52029,
+      "sha256": "8c13fec2117077f5bf99d695557abcf434b43fc4d8c7e8fae8a83a79e608223e"
+    },
+    {
+      "path": "07_renders/widget-v08-plan-hover.png",
+      "bytes": 72102,
+      "sha256": "9e13af5d5699ee2e639241747ea95ca5fa08235d1b631229b4be02f1ae00cd1a"
+    },
+    {
+      "path": "07_renders/widget-v09-3d-hover.png",
+      "bytes": 184732,
+      "sha256": "5f62219f620cd49befadc3570177a5306dd0c888d27eff94b46c518bfe2ffd84"
+    },
+    {
+      "path": "07_renders/widget-v09-dark-hover.png",
+      "bytes": 74125,
+      "sha256": "ddc29e92c011ca337a3605b15b0c60cb256ddaae989483dc3da881e9e4781bb4"
+    },
+    {
+      "path": "07_renders/widget-v09-door-open.png",
+      "bytes": 74278,
+      "sha256": "03d612f0c0547c457322466e7177fadb4f0c99e9cbe1eeda62f12ea5023e46c4"
+    },
+    {
+      "path": "07_renders/widget-v09-mobile-hover.png",
+      "bytes": 55499,
+      "sha256": "7326b86bdde851728e46b43829500c8a248ba6d69e26c43bbcad25b2205055ce"
+    },
+    {
+      "path": "07_renders/widget-v09-plan-hover.png",
+      "bytes": 76143,
+      "sha256": "ae9038f8c22d865f2c78e45c8c5ee38865c2514bee98d9e6344548cb7323465c"
+    },
+    {
+      "path": "07_renders/widget-v10-3d-hover.png",
+      "bytes": 184756,
+      "sha256": "a4acdb27f29dc39e5ecb1233fda4e74f2026435198a7031a96516d5726ea3e3e"
+    },
+    {
+      "path": "07_renders/widget-v10-dark-hover.png",
+      "bytes": 74125,
+      "sha256": "ad3ca6cd4a99e21d16b377937ccbf015c52374d8e322f61aa58fbc46fd31f641"
+    },
+    {
+      "path": "07_renders/widget-v10-door-open.png",
+      "bytes": 74304,
+      "sha256": "a990c885e2830056480140d61aa286a98189d199d317f0c8e41630332d4f1dbb"
+    },
+    {
+      "path": "07_renders/widget-v10-mobile-hover.png",
+      "bytes": 55499,
+      "sha256": "7326b86bdde851728e46b43829500c8a248ba6d69e26c43bbcad25b2205055ce"
+    },
+    {
+      "path": "07_renders/widget-v10-plan-hover.png",
+      "bytes": 73293,
+      "sha256": "a950ec191447bdf75c98a65e740d85bca7622e6dcfbab5e5e5a2acb755f5b893"
+    },
+    {
+      "path": "07_renders/widget-v11-3d-hover.png",
+      "bytes": 186174,
+      "sha256": "68f74bef39d2ca9c4907663a51f3c1e54efecbcdbd6440b77e2003eb3a554d9f"
+    },
+    {
+      "path": "07_renders/widget-v11-dark-hover.png",
+      "bytes": 76436,
+      "sha256": "6b8f22a3970fbaa00d3f1ce1bc5bcf35f008aa16d17046ca8c317ce855ebee9c"
+    },
+    {
+      "path": "07_renders/widget-v11-door-open.png",
+      "bytes": 76192,
+      "sha256": "36e36c602eb391f2c283a3edaa7a08e0836db23c560f63cd8ad70af1c12550df"
+    },
+    {
+      "path": "07_renders/widget-v11-mobile-hover.png",
+      "bytes": 56688,
+      "sha256": "32a519aadc84ede83d046365147e6808604380761054ba8450301138864bf41a"
+    },
+    {
+      "path": "07_renders/widget-v11-plan-hover.png",
+      "bytes": 77680,
+      "sha256": "cb4d7bc4e3f178c15a8203932b9680eb7c4ab879ed4e5ebd127df643b7412c6e"
+    },
+    {
+      "path": "07_renders/widget-v12-3d-hover.png",
+      "bytes": 187255,
+      "sha256": "b570ab5318b99104df1b101dfb1bd67d40b5306a29f340f89d77a14d7e6798fe"
+    },
+    {
+      "path": "07_renders/widget-v12-dark-hover.png",
+      "bytes": 77673,
+      "sha256": "6fb7316142ae509f59077c465cb5c47c881ec035f913358ae38b2e11b7f54028"
+    },
+    {
+      "path": "07_renders/widget-v12-door-open.png",
+      "bytes": 77572,
+      "sha256": "720ad4f89620fee18a2b52587c04f70405f35d6eae8f64e59d11035f80a4f470"
+    },
+    {
+      "path": "07_renders/widget-v12-mobile-hover.png",
+      "bytes": 58820,
+      "sha256": "a02de6b454a369b3949ef8db00675ab3994347ec684db50fc429c2a2f281feaf"
+    },
+    {
+      "path": "07_renders/widget-v12-plan-hover.png",
+      "bytes": 79361,
+      "sha256": "ef3822873169de1e285321d66a7d024ede921f8f0b15932555dbaaf6e04b2fb1"
+    },
+    {
+      "path": "07_renders/widget-v13-3d-hover.png",
+      "bytes": 188119,
+      "sha256": "1e3bdd59f752cfc8c277b745e3b3101fba723eb102e6d5aed6a1aa84ad73faf5"
+    },
+    {
+      "path": "07_renders/widget-v13-dark-hover.png",
+      "bytes": 77599,
+      "sha256": "79308248baa74840faacc9671566360246d49515e96434e581a75dcc39d2fa69"
+    },
+    {
+      "path": "07_renders/widget-v13-door-open.png",
+      "bytes": 77286,
+      "sha256": "93e4c9ddc896ab8af639e45e38dac35102c2954bd31f3859a735270c7ecaa695"
+    },
+    {
+      "path": "07_renders/widget-v13-mobile-hover.png",
+      "bytes": 58555,
+      "sha256": "36de167a4db73c001e1b8be488450329e2414f468314a0476291d8b9ac55eb0f"
+    },
+    {
+      "path": "07_renders/widget-v13-plan-hover.png",
+      "bytes": 79328,
+      "sha256": "bac45739632b2599081a9d3e16d8de5c9d8e9dc93c5b956526fe079c5ffdd6b8"
+    },
+    {
+      "path": "09_delivery/delivery-manifest-v06.json",
+      "bytes": 1007,
+      "sha256": "c71c81ee93136a094e91e5e8bcfbcc1def2264cd01c6437317e7c10b08b39e3b"
+    },
+    {
+      "path": "09_delivery/delivery-manifest.json",
+      "bytes": 1085,
+      "sha256": "ad9487e57ee575a204fc7b8f88aae611eb578b43ecaa1101c7478b53114affc5"
+    },
+    {
+      "path": "09_delivery/house-v06-fragment.html",
+      "bytes": 137239,
+      "sha256": "10ced6cf8cc7c0ace9e3e168222650a926fcc16ac92c24f61b53d3dec0abe138"
+    },
+    {
+      "path": "09_delivery/house-v06-preview.html",
+      "bytes": 270712,
+      "sha256": "b38738fbb5eca473eaeba6e1f7c677dfaefa68e4f1a0630924094b84e9b0de64"
+    },
+    {
+      "path": "09_delivery/house-v07-fragment.html",
+      "bytes": 207577,
+      "sha256": "acee589454108e53147ae9c39e5f3a77f142637cbb58a525db9d49188ab56392"
+    },
+    {
+      "path": "09_delivery/house-v07-preview.html",
+      "bytes": 367535,
+      "sha256": "6be5e0e46d29144e6358f7c42e5d5a733f7eaddc8480f2b194fb7e370bba4125"
+    },
+    {
+      "path": "09_delivery/house-v08-fragment.html",
+      "bytes": 221750,
+      "sha256": "b06a40caaab6244904e8b42938299f5b96397c33514b08711f3626b204138bf7"
+    },
+    {
+      "path": "09_delivery/house-v08-preview.html",
+      "bytes": 386548,
+      "sha256": "c346cb6bb4171283dd7739e79d5059da56b2687643988226085f279b8f1c654b"
+    },
+    {
+      "path": "09_delivery/house-v09-fragment.html",
+      "bytes": 236446,
+      "sha256": "a15d5c397a8e33efc8cb2c2d975a5a9cf6b7a04fb06fd30ef4956ed73e764654"
+    },
+    {
+      "path": "09_delivery/house-v09-preview.html",
+      "bytes": 406266,
+      "sha256": "80aa7c0255e7cf782d235361775b7158b9ffc0f712900042bbcc38d3f13d8cde"
+    },
+    {
+      "path": "09_delivery/house-v10-fragment.html",
+      "bytes": 254336,
+      "sha256": "6cbf1a64a0f32e5cde90ccc8c38a7a4aa628f1e1b3a5a8aa3c5d8822d7603da2"
+    },
+    {
+      "path": "09_delivery/house-v10-preview.html",
+      "bytes": 430635,
+      "sha256": "9fcd708097263400cda33afe014e38fb126d4758140a02dba0cb8a60136a928a"
+    },
+    {
+      "path": "09_delivery/house-v11-fragment.html",
+      "bytes": 272557,
+      "sha256": "b900014528aba9222d906727290c48020c22e862704ce097f88eaf0c0f107bbb"
+    },
+    {
+      "path": "09_delivery/house-v11-preview.html",
+      "bytes": 457034,
+      "sha256": "bf85bee0866622cf2efbf40ba6d0be9dcf40c1044eabfb71d3301a8965a516ad"
+    },
+    {
+      "path": "09_delivery/house-v12-fragment.html",
+      "bytes": 309803,
+      "sha256": "198f7bba645817e9a287c3f5d247f3e2ef138d641b398617a3b1733ae2dc9296"
+    },
+    {
+      "path": "09_delivery/house-v12-preview.html",
+      "bytes": 508195,
+      "sha256": "8d17986164edc132e7b8a2cc7eb9c0c8b34e64868887adf5a725d80095a606d9"
+    },
+    {
+      "path": "09_delivery/house-v13-fragment.html",
+      "bytes": 312180,
+      "sha256": "415bb54037249434f7a7a3c82810d05f915d79d07ab390a93c9406407973ecfb"
+    },
+    {
+      "path": "09_delivery/house-v13-preview.html",
+      "bytes": 511276,
+      "sha256": "723cc835b4f2bb2dc66dcf239e9bd6d980f53725c26b115b38622aa94eaf687b"
+    },
+    {
+      "path": "09_delivery/master-suite-study-01/study-data.json",
+      "bytes": 4289,
+      "sha256": "bb494de6a16a67eb6277e78d4faa173c61eb66638bd0859c9a57d9f09a166b51"
+    },
+    {
+      "path": "09_delivery/master-suite-study-01/主卧主卫-布局核对.png",
+      "bytes": 195807,
+      "sha256": "9d335571a0b3a4e82bb5378ed63b500ba8f08ee7927cf501ed10c5054e0f0c56"
+    },
+    {
+      "path": "09_delivery/master-suite-study-01/主卧主卫-布局核对.svg",
+      "bytes": 11093,
+      "sha256": "69842ced3225582455ff295d08650bc617eb085ba075c44a5b6b4d219b60f260"
+    },
+    {
+      "path": "09_delivery/master-suite-study-01/主卧主卫-斜角入口备选.png",
+      "bytes": 200423,
+      "sha256": "16d49915a957f95da13ea08af4a703faa4d804ee3b678cba66c205afbd05218e"
+    },
+    {
+      "path": "09_delivery/master-suite-study-01/主卧主卫-斜角入口备选.svg",
+      "bytes": 11101,
+      "sha256": "46341332bdd32793e2cde878b6fdd1ebe8c6ec9812fcddc3de153eedf6a0afa8"
+    },
+    {
+      "path": "09_delivery/master-suite-study-01/方案说明.md",
+      "bytes": 5793,
+      "sha256": "166445283cfe15233d21864841bff9a97c9ed8e5c37a4ad330f5ba6fee92c1b4"
+    },
+    {
+      "path": "09_delivery/v06-实体渲染与写实效果-v01.zip",
+      "bytes": 14388477,
+      "sha256": "e058d0564b4bba559ee9f2a89f4d8e3d75e24b1f0e6d828abf52af81df22434f"
+    },
+    {
+      "path": "09_delivery/v06-现代日式暖色圆角-v02.zip",
+      "bytes": 14773760,
+      "sha256": "9555569fd5adeb4bfe0221f4b543d759630a29cf7bda392c8b0263bfb37fd1db"
+    },
+    {
+      "path": "09_delivery/v06修改说明.md",
+      "bytes": 3377,
+      "sha256": "348a4ac51ec1c9952dda993cac1f623081b6f52fcc59952a2003b8d891c5b9b5"
+    },
+    {
+      "path": "09_delivery/v07-绿植入户洗烘与单屏办公.zip",
+      "bytes": 11754456,
+      "sha256": "d1f303d8f20a862e9e6160643b9f4b85950b7dcfe1c0bb1d6d561e6d262d92e6"
+    },
+    {
+      "path": "09_delivery/v07修改说明.md",
+      "bytes": 4667,
+      "sha256": "ae1c385a4edc750273bbe94302c01a09783664a71b5b8868b7d29438f116ceb8"
+    },
+    {
+      "path": "09_delivery/v08-奶黄通顶柜与阳台窗.zip",
+      "bytes": 5347203,
+      "sha256": "07eb0d181405d59c250a2a73d59489addf1ec299b6724f2adfd6c0233959eddd"
+    },
+    {
+      "path": "09_delivery/v08修改说明.md",
+      "bytes": 1147,
+      "sha256": "a74b0427103be9e36b0d1d8f00754ad5269d50cde00ade777d86917c39c2096c"
+    },
+    {
+      "path": "09_delivery/v09-餐厨玻璃推拉门.zip",
+      "bytes": 5175734,
+      "sha256": "61293df157971c45a1b356525923e9a46d1753218196dc4847291a4fec8554fd"
+    },
+    {
+      "path": "09_delivery/v09修改说明.md",
+      "bytes": 1218,
+      "sha256": "a39d26dab170c6add40a299d2dd16c2b732f95f2689b5a3b247f5225e56c1239"
+    },
+    {
+      "path": "09_delivery/v10-公共区深化与主卫研究.zip",
+      "bytes": 10025041,
+      "sha256": "e9bcd66276aacdd8cc0e3d2e432433f6c140d14b67e9adfbcbf5ed89eba31c9c"
+    },
+    {
+      "path": "09_delivery/v10主卫门位研究.png",
+      "bytes": 113977,
+      "sha256": "f8694500eabf688830af54b7754704d585b57a00bfa86d09c967240f97535243"
+    },
+    {
+      "path": "09_delivery/v10主卫门位研究.svg",
+      "bytes": 8752,
+      "sha256": "1f749c981dc744f3e9b3b8f4ff793bca1ac5bb526015d648582ca06c16b8f530"
+    },
+    {
+      "path": "09_delivery/v10深化说明.md",
+      "bytes": 7877,
+      "sha256": "65f57220e4b2e82fa69421f718c6981fd762e6672ad8be79cff3a8246739b1c3"
+    },
+    {
+      "path": "09_delivery/v11-矮茶席与公共区效果.zip",
+      "bytes": 13984988,
+      "sha256": "95ad00f6e9da460b6ac203ec7d64a64f2aeafca933902d9c63547936e194a093"
+    },
+    {
+      "path": "09_delivery/v11矮茶席与公共区效果说明.md",
+      "bytes": 1896,
+      "sha256": "7b4e04358afa50146d19f26a697605d9ad384b4e71aa872d27f875ec9a2b59bc"
+    },
+    {
+      "path": "09_delivery/v12-门厅电视墙灯光窗帘与矮茶席.zip",
+      "bytes": 28842317,
+      "sha256": "5fba626a44a1b23cea7b4542af252a4fcf736f251ae580a841020de185d3fbb0"
+    },
+    {
+      "path": "09_delivery/v12门厅电视墙灯光窗帘说明.md",
+      "bytes": 4489,
+      "sha256": "16c6575abedbf4c554992ae3c5c190fd56e6f9bee38bb43638cd71027d6b480d"
+    },
+    {
+      "path": "09_delivery/v13-餐厅门厅客厅阳台360全景漫游.zip",
+      "bytes": 21479737,
+      "sha256": "59f199bbdcb7b65b5e589b970a5d41460d5e2fe7bea958611154208e32523e9b"
+    },
+    {
+      "path": "09_delivery/v13全景漫游说明.md",
+      "bytes": 1841,
+      "sha256": "ae680622e8200805de1c48cce830baff513cc2e01d8d82ee2067eda85e1056ee"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/viewer-manifest.json",
+      "bytes": 2545,
+      "sha256": "098b764b7a2b8370212d67c9395679f3afb37f625176e2fbaa71e98a06b4c577"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/使用说明.txt",
+      "bytes": 785,
+      "sha256": "ec46b2e34d443e10c25deea7504645a4af22e4022f1fd7d6a21fa31a56052b26"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/全景原图/balcony-day.png",
+      "bytes": 2080082,
+      "sha256": "0ec013e7634c17135205ee2e83c3ef9dc008107d68c60d86d4e374a0a3a0e9fc"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/全景原图/dining-day.png",
+      "bytes": 1959629,
+      "sha256": "58733b51b8c0f207c397f436e69bd37c7c02a42410ec52a1de678a8564c742ce"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/全景原图/entry-day.png",
+      "bytes": 1925530,
+      "sha256": "057dbaa7beab3301d3216dd9bd19856fb73924f9a510898ca824b43f2d4ac4ea"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/全景原图/living-day.png",
+      "bytes": 2000674,
+      "sha256": "f938725a56f741e8a4de5ab4399d1fc98ed5f57cf507b11c37c0811642b5c3b3"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/打开360全景漫游.html",
+      "bytes": 10646858,
+      "sha256": "59129e5aa487be0bc911ec8cef489dfd6510dcf781ed45804de379b134db3277"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-draft/漫游机位与来源.json",
+      "bytes": 6882,
+      "sha256": "64447d511e7abcf7ec32f3308784a17381938a626cc2bd9450a569a600919e94"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/viewer-manifest.json",
+      "bytes": 2708,
+      "sha256": "eab16c300ad46dd642314f38a2fa7fbb9910e3593614fd4f8ecf059af9105358"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/使用说明.txt",
+      "bytes": 785,
+      "sha256": "ec46b2e34d443e10c25deea7504645a4af22e4022f1fd7d6a21fa31a56052b26"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/全景原图/balcony-day.png",
+      "bytes": 2080082,
+      "sha256": "0ec013e7634c17135205ee2e83c3ef9dc008107d68c60d86d4e374a0a3a0e9fc"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/全景原图/dining-day.png",
+      "bytes": 1959629,
+      "sha256": "58733b51b8c0f207c397f436e69bd37c7c02a42410ec52a1de678a8564c742ce"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/全景原图/entry-day.png",
+      "bytes": 1925530,
+      "sha256": "057dbaa7beab3301d3216dd9bd19856fb73924f9a510898ca824b43f2d4ac4ea"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/全景原图/living-day.jpg",
+      "bytes": 1881566,
+      "sha256": "5269560e9571e2e936f6d89526af2af05eb7e09e5398a80351f7a7e8801fd53d"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/打开360全景漫游.html",
+      "bytes": 10488520,
+      "sha256": "561d493fae46e2b354655d9f385c0b8f98d85d10cdcc6dc574afdcc550978c16"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-partial/漫游机位与来源.json",
+      "bytes": 6892,
+      "sha256": "c984fea156366186ea460cc44db8a3d132ec7ad1d9c07e82cfc28debdb80d150"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-预览/balcony.png",
+      "bytes": 1037496,
+      "sha256": "12d74d8d50ab7b8b6d4d6f7afeba003cba9d3337a465835464a064365d3d4db3"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-预览/dining.png",
+      "bytes": 862651,
+      "sha256": "ef9c33c94aa58de1aa97994863ef6afcb117643145ff66c61d149062effff142"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-预览/entry.png",
+      "bytes": 829034,
+      "sha256": "08a6af38cd3e126958d274f8ce0b09a2faaed7b05b82b601358caef2353b992f"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01-预览/living.png",
+      "bytes": 1301371,
+      "sha256": "bd491a54034636953b334fcb824759dc1a3bfd3d42330fff3cbc96cf368d5297"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/viewer-manifest.json",
+      "bytes": 2696,
+      "sha256": "cc10b63c4299a82881766d124fcc7c7c30a4fc90a642630fb7176b01251cdf17"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/viewer.template.html",
+      "bytes": 22203,
+      "sha256": "fa139fe4ab208d61ba9218a9489cd67c76483587bd04c2cd6db886b78552b658"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/使用说明.txt",
+      "bytes": 785,
+      "sha256": "ec46b2e34d443e10c25deea7504645a4af22e4022f1fd7d6a21fa31a56052b26"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/全景原图/balcony-day.jpg",
+      "bytes": 2032551,
+      "sha256": "75fb571907332f154612b41968411225c875869f3ee25fa76029127d60b95d8d"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/全景原图/dining-day.jpg",
+      "bytes": 1663937,
+      "sha256": "f9c9cbc9e6aa8e3130ac460c35168b344213718b07ffdba2138cff767e6d5bbb"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/全景原图/entry-day.jpg",
+      "bytes": 1559925,
+      "sha256": "5b465ea5c9a90975921583e2c6b831547fd6c9efb963192606172732f51aa9a1"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/全景原图/living-day.jpg",
+      "bytes": 1881566,
+      "sha256": "5269560e9571e2e936f6d89526af2af05eb7e09e5398a80351f7a7e8801fd53d"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/打开360全景漫游.html",
+      "bytes": 9543408,
+      "sha256": "301b8f46d15f252d19cd21f3acb2bd8de9bf27570b18d66c0588f7f5144d7ff9"
+    },
+    {
+      "path": "09_delivery/vr-tour-v01/漫游机位与来源.json",
+      "bytes": 6885,
+      "sha256": "b46dd0dfa10701a30a5fb3a70d0f9a2e58a75b27c1bbde8e06389dc47093dc08"
+    },
+    {
+      "path": "09_delivery/使用说明.md",
+      "bytes": 3360,
+      "sha256": "5f92936921d146b1b748296a46b613829f28e2934f2e14ae8cffb92c2cf39be5"
+    },
+    {
+      "path": "09_delivery/打开房屋模型.cmd",
+      "bytes": 162,
+      "sha256": "d5de863435b7a857760b001cc12d59152fe51de3f9a72b51225036632bbfe5cb"
+    },
+    {
+      "path": "09_delivery/走廊通顶柜-三套候选方案.zip",
+      "bytes": 13262259,
+      "sha256": "a00774c577313740ae995b8af1b1c2d1c1b1c23f60f097ff51fb8f3574d6fb5a"
+    },
+    {
+      "path": "09_delivery/走廊通顶柜三套方案.md",
+      "bytes": 2664,
+      "sha256": "880cdc7c8ec6d2c7675906b6ecafb4728faedd49f724af92b54c652a8304691a"
+    },
+    {
+      "path": "Home_Design_Codex_HANDOFF.md",
+      "bytes": 24885,
+      "sha256": "2de855541489277261bb6ab0ec754de1315f718a0513140338043a50f85b2354"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5530,
+      "sha256": "222be017505ae642b7cd35a70813e984210b8f8464670f7c2a996cadc18e67c9"
+    },
+    {
+      "path": "logs/blender-bridge-process.json",
+      "bytes": 167,
+      "sha256": "7f3a8e11db118ae6c415476dd9205157301d34e2cf2bb88e5224fa7bc855dbf1"
+    },
+    {
+      "path": "logs/blender-bridge.log",
+      "bytes": 31641,
+      "sha256": "22ff2b36c709cdadca77a411b921fa925635bdcb0a85fa899a9b8137601c7cfb"
+    },
+    {
+      "path": "logs/blender-userpref-before-20261030-190013.blend",
+      "bytes": 177959,
+      "sha256": "01cdeea4db14a01509f81ddb3b631d8da597f279795692af1195a3f8a9ab4f25"
+    },
+    {
+      "path": "logs/build-v07-console.txt",
+      "bytes": 380,
+      "sha256": "320970a5920cd8426574a3da99f5dd3240e37bdf2c103c96fb935f2a69270ffa"
+    },
+    {
+      "path": "logs/cabinet-options-draft.txt",
+      "bytes": 52330,
+      "sha256": "1cc1f23bbdbe5e504f384ca215f403e8311a852f17b5d57c524aca84b4135ef5"
+    },
+    {
+      "path": "logs/cabinet-options-final.txt",
+      "bytes": 158582,
+      "sha256": "52e42497e176eed1313868a1842c8aa7dde118b142bf505cf0ea29065917c346"
+    },
+    {
+      "path": "logs/cabinet-options-v08-readback.json",
+      "bytes": 1464,
+      "sha256": "dc07a65a5940ee6aa87374a224fbb1f0a18730042ee38d576578ab836395643b"
+    },
+    {
+      "path": "logs/cabinet-options-verify.txt",
+      "bytes": 901,
+      "sha256": "5d6972a614e7d6138b7b850d78a05660b65974d85f6f4da14ed8cf6ababa184f"
+    },
+    {
+      "path": "logs/dependency-versions.json",
+      "bytes": 3593,
+      "sha256": "54a947ab6a1e56ad029a4562f7faa7fab24f96f4ccc7cddefd8749c3790e9a9b"
+    },
+    {
+      "path": "logs/downloads/blender-4.5.15-windows-x64.zip.official-sha256.txt",
+      "bytes": 889,
+      "sha256": "f2037f679fa125272a95fa7eb7e280fa752f62509dcb3b7924c2610dda243347"
+    },
+    {
+      "path": "logs/downloads/uv-x86_64-pc-windows-msvc.zip.official-sha256.txt",
+      "bytes": 97,
+      "sha256": "0b6c658b3586553a59fcbbc504100552e868c5e2decf2d841fb56d03c3d65a31"
+    },
+    {
+      "path": "logs/furniture-movement-test.json",
+      "bytes": 3593,
+      "sha256": "2666bf8eb04d6dc18541e89f20669db17449c1c409df2644e879f5ec7956adf1"
+    },
+    {
+      "path": "logs/furniture-v06-collision-check.json",
+      "bytes": 114,
+      "sha256": "8bea7b592c3eba1e78280171735a9c2e1ce1ee364649459a944bddeeda0151fe"
+    },
+    {
+      "path": "logs/furniture-v06-revision.json",
+      "bytes": 2965,
+      "sha256": "d97ccff648f243175cbea8631662e76ff95f23b7890dd38daec8816bcda40226"
+    },
+    {
+      "path": "logs/geometry-audit-initial-logical-id-check.json",
+      "bytes": 1099,
+      "sha256": "464bd02b9d0b5dfa322d8cbd766f105283077be0f078af8e64db929ceeb1b9a4"
+    },
+    {
+      "path": "logs/geometry-audit-stderr.log",
+      "bytes": 63961,
+      "sha256": "8cf1af858f56e328b14186e90784a348c56c23d168ba92d1059df44c8deeed44"
+    },
+    {
+      "path": "logs/geometry-audit.json",
+      "bytes": 809,
+      "sha256": "457277645982b136aa435f8950a93d96c739be089de62fbaa1cf015d7a4f948a"
+    },
+    {
+      "path": "logs/imagegen-test.json",
+      "bytes": 1248,
+      "sha256": "0f77526198a8bd10a9c3c1a69bd5dcafa64edce287a9bcc007c01bc1b62c135e"
+    },
+    {
+      "path": "logs/installation-report.md",
+      "bytes": 10888,
+      "sha256": "31676a49eab74b212928d23cd83b202e264bb30ea2fc822113a9d9213bf17b0d"
+    },
+    {
+      "path": "logs/japanese-v02-diagnose-console.txt",
+      "bytes": 225,
+      "sha256": "5cf7c3d3cb6ba53116504f46c73951b567cb922e5548cb6f9eb8769767d58220"
+    },
+    {
+      "path": "logs/japanese-v02-draft-console.txt",
+      "bytes": 17847,
+      "sha256": "5d78451396114519069aca5ba0c0d1d253104444a296c5713761557fb6205a2d"
+    },
+    {
+      "path": "logs/japanese-v02-draft.json",
+      "bytes": 6326,
+      "sha256": "8d89d9ee74824eef59578a403ace772c77f7636971515554f067923b6ef4b944"
+    },
+    {
+      "path": "logs/japanese-v02-ray-diagnosis.json",
+      "bytes": 2523,
+      "sha256": "d0fe95aef8c5a87b802f56c88df9798cd8bb19754af27579ce21b5e6af157bce"
+    },
+    {
+      "path": "logs/japanese-v02-readback-console.txt",
+      "bytes": 317,
+      "sha256": "383cd2556cf4e1724146b8b7bf4e21901669db40ca864cfb5378de1890ce91c3"
+    },
+    {
+      "path": "logs/japanese-v02-readback.json",
+      "bytes": 4758,
+      "sha256": "831f78d705eac8fc7de6def5a4ef869dbf4b9802d19d284c23db5791e1eb1265"
+    },
+    {
+      "path": "logs/japanese-v02-render-console.txt",
+      "bytes": 18630,
+      "sha256": "2526c6f7fa56512fcbb889b498f62ca61cb448cfe97a41909e13a029fa7b98ee"
+    },
+    {
+      "path": "logs/japanese-v02-render-gpu-console.txt",
+      "bytes": 203667,
+      "sha256": "e5cb9284b7d91d26da1fe30dc03d3a168124a3bac86f3d0ff7538055aa120a87"
+    },
+    {
+      "path": "logs/japanese-v02-render.json",
+      "bytes": 7173,
+      "sha256": "308d663e814602cb557a33d4357d8b0d687affd7941e5b2f1fb085b5f0ba7bc6"
+    },
+    {
+      "path": "logs/mcp-addon-status.json",
+      "bytes": 2601,
+      "sha256": "8a6975f6a6f6fd1884e82d6167ad773a58969fc45d5f2fbf4e1a2f011893c897"
+    },
+    {
+      "path": "logs/mcp-probe-stderr.log",
+      "bytes": 9805,
+      "sha256": "6b68abbbe8bbb992db64c0e044bbda435cc34005667e684cdbf35f6eebc8dc6a"
+    },
+    {
+      "path": "logs/mcp-registration.json",
+      "bytes": 1499,
+      "sha256": "287bc2cc578064aa13cbf193cedfc38a2c9702553a9198de1c89800f88812ca1"
+    },
+    {
+      "path": "logs/mcp-roundtrip-stderr.log",
+      "bytes": 4668,
+      "sha256": "a689bcc9c9888311f4d58a054a3d6383ced11f0d9884d9439384b9d7e75f082b"
+    },
+    {
+      "path": "logs/mcp-roundtrip.json",
+      "bytes": 1795,
+      "sha256": "5181083b4b63fc2cc161631057b01392a4710c7b111f61b73fed9552d3397414"
+    },
+    {
+      "path": "logs/mcp-scene-probe.json",
+      "bytes": 795,
+      "sha256": "8c253ff8dd1ddcf2065ef710f0ec708d4bea5b453348a3ffc64a5030159b5633"
+    },
+    {
+      "path": "logs/mcp-tool-catalog.json",
+      "bytes": 29408,
+      "sha256": "e929897b7e4c9cd7a7480892d15d98a4ab9c5ba87b4ba2bcb1cf016b5e000be7"
+    },
+    {
+      "path": "logs/model-import-code.py",
+      "bytes": 65829,
+      "sha256": "8142106b5252a949ccdc9f29d15921cda3b969bcf9ab94aab645428dd90ca50e"
+    },
+    {
+      "path": "logs/model-import-readback.json",
+      "bytes": 3818,
+      "sha256": "2fd0c40bfc035a713c01b8262dc5bb73cb481a1d0b274ae41e420a4779525a47"
+    },
+    {
+      "path": "logs/model-import-stderr.log",
+      "bytes": 74833,
+      "sha256": "feba7889dd3d04396184b140df3512258e2bee9ccfd8352f90caf9b0e0dbc073"
+    },
+    {
+      "path": "logs/model-launcher-check.json",
+      "bytes": 174,
+      "sha256": "70d401940624c062c022c2c40d6c7f20ffe4905cb05c84c8648fb77b6775f9c2"
+    },
+    {
+      "path": "logs/model-preview-render.json",
+      "bytes": 568,
+      "sha256": "d013f01f4171b22294655c0df06cedf40647fe0601644f684b7ffefffef469df"
+    },
+    {
+      "path": "logs/model-v06-mcp-first-poll-failure.json",
+      "bytes": 6599,
+      "sha256": "db145d151cefa2484e7aeafacc6dd0d5531ceb7e5ea82b9eb7b54e7bfeb5febd"
+    },
+    {
+      "path": "logs/model-v06-mcp-readback.json",
+      "bytes": 7261,
+      "sha256": "79bb3ecefe47c444eab1efa22b6a80a9973ae307c4e8ba68266a80e66163c83c"
+    },
+    {
+      "path": "logs/model-v06-mcp-stderr.log",
+      "bytes": 80588,
+      "sha256": "6d05466346728dada8e585c8a4c9162be603c29e50ea8cb5fda948f733bca04e"
+    },
+    {
+      "path": "logs/model-v06-preview-render.json",
+      "bytes": 568,
+      "sha256": "8adca4817d06416dd49ce6ef3428b99a580202d4e7ac91a73d3468ffcca7dcdb"
+    },
+    {
+      "path": "logs/model-v06-render-console.log",
+      "bytes": 95655,
+      "sha256": "111cce1277c976026b230fe82c01737be47e7fa970513c970a6a439e60ac13c3"
+    },
+    {
+      "path": "logs/model-v07-build.json",
+      "bytes": 5429,
+      "sha256": "d2b521b9a850b835def283927eedfcee03565570309b73d23f42130725b785ec"
+    },
+    {
+      "path": "logs/model-v07-readback.json",
+      "bytes": 3513,
+      "sha256": "edcb6777dc2343f53351b3e7c151bafcfc3aa4a478d3f3bcc496749840ef8a42"
+    },
+    {
+      "path": "logs/model-v08-build.json",
+      "bytes": 7521,
+      "sha256": "ead96bb0d57155eeefb70f94131e02f4df67a3d158d2987b177c3eb144a6888a"
+    },
+    {
+      "path": "logs/model-v08-readback.json",
+      "bytes": 5318,
+      "sha256": "03871b8e87435e832754a6fb3971c95c692f44ce04db5f7af90ee8176c392e8a"
+    },
+    {
+      "path": "logs/model-v09-build.json",
+      "bytes": 3937,
+      "sha256": "e3500f050c29e0048834ac34fcb0e5bf782cfedf8fa9b65db7b06d41270d041c"
+    },
+    {
+      "path": "logs/model-v09-readback.json",
+      "bytes": 4984,
+      "sha256": "e0e191360406450674157b33141789fb1c5d59d52e82e445e8e3aafeac4b44c6"
+    },
+    {
+      "path": "logs/model-v10-build.json",
+      "bytes": 3802,
+      "sha256": "6310b7dbb64df69cea46afff51943295efc5e147932b6d8e6ba72bf39859ea40"
+    },
+    {
+      "path": "logs/model-v10-readback.json",
+      "bytes": 3984,
+      "sha256": "a3a724cce964120074ad2d40a4aeef3cb3c4d2c4dad6b991356012227d1ad593"
+    },
+    {
+      "path": "logs/model-v11-build.json",
+      "bytes": 5869,
+      "sha256": "38feff9b2ad350e03c3505298930a76136087ca3ad35bec7c3f331c4d211a846"
+    },
+    {
+      "path": "logs/model-v11-readback.json",
+      "bytes": 4234,
+      "sha256": "cd450582d8efdfa3c25a4a7a484b18c6659faae06c058568ed8bfcfb5001c1cb"
+    },
+    {
+      "path": "logs/model-v12-build.json",
+      "bytes": 5594,
+      "sha256": "beebcfd5f147eaf9f7ff406ff3817d8b8c5cd123ca773a83246197c0152e461c"
+    },
+    {
+      "path": "logs/model-v12-readback.json",
+      "bytes": 4039,
+      "sha256": "3960d5dd52c9d878b3af9cc6c204c1c39634072ffe3e09035756c4987eadc806"
+    },
+    {
+      "path": "logs/model-v13-build.json",
+      "bytes": 1637,
+      "sha256": "1980e06bc9e5dc527b7411a7e74028e21d2919ffe80c40cf8509daab33f94426"
+    },
+    {
+      "path": "logs/model-v13-readback.json",
+      "bytes": 2314,
+      "sha256": "952e2453162d6a79f57fa85e3baadeb19913b2666a26236e3e41828b5f9c1017"
+    },
+    {
+      "path": "logs/movement-test-stderr.log",
+      "bytes": 4026,
+      "sha256": "60118858d6cdadeedaf7cc3e6935a37570a09a1ed4f03a391ac01525f90ba094"
+    },
+    {
+      "path": "logs/preservation-checks.json",
+      "bytes": 238,
+      "sha256": "50f546991c140bf3fe4b8078f4c3de5d03f5b46f8029137617697f6b542d252d"
+    },
+    {
+      "path": "logs/preview-inspection.json",
+      "bytes": 621,
+      "sha256": "2a303685b127cb2cfd582d95d84f5e26c315647d74b6c534a68553cbea75c0cd"
+    },
+    {
+      "path": "logs/project-status.md",
+      "bytes": 19865,
+      "sha256": "dad130e5bf4bbe575ae5ae5328e6483d5bbd1467cdf42a79c51c904128b7ad41"
+    },
+    {
+      "path": "logs/render-v07-console.txt",
+      "bytes": 273855,
+      "sha256": "b0a0e2b9d691b942531e6e1df3cb2b8fb66355623de4cf2054d8564005538467"
+    },
+    {
+      "path": "logs/requirements-design-env-locked.txt",
+      "bytes": 162,
+      "sha256": "80bb0c96341c0f123a77844ad9305dd5e59866db9fb1d9052bf9bb6c175326be"
+    },
+    {
+      "path": "logs/requirements-mcp-env-locked.txt",
+      "bytes": 606,
+      "sha256": "62b62625a43347fc164eb0aacd7f6e97ba4d0b447a6190c7bee85299b7b91a88"
+    },
+    {
+      "path": "logs/runtime-install.json",
+      "bytes": 1154,
+      "sha256": "788e27555648360927325e2d541a4b6125ecc047ea3c1dbaaa3005c7e5341d24"
+    },
+    {
+      "path": "logs/skill-functional-tests.json",
+      "bytes": 786,
+      "sha256": "423ccf41048c9a0dc7c9b821e5c9620f97d6e18683626d6d4926b44977a6ec6e"
+    },
+    {
+      "path": "logs/skill-install-manifest-before-functional-tests.json",
+      "bytes": 34254,
+      "sha256": "4a1866f499fffed535f3189e8484c870945c0a0f05e1cc4d0bdeaaddf4d48073"
+    },
+    {
+      "path": "logs/skill-install-manifest.json",
+      "bytes": 35485,
+      "sha256": "680111271f808b468f80f7fdd7d11dd370ff92896671192457eba499f9be5446"
+    },
+    {
+      "path": "logs/skill-validation.json",
+      "bytes": 2469,
+      "sha256": "ea93645be836351e429b4736796140fca41a35296a351de01b1e2b8be35b0fe9"
+    },
+    {
+      "path": "logs/v06-material-draft-console.txt",
+      "bytes": 577150,
+      "sha256": "8e9c9044258b68cb657517709e32f3c408dea83428e66fb8544a16df918ca63c"
+    },
+    {
+      "path": "logs/v06-material-draft.json",
+      "bytes": 2141,
+      "sha256": "3b0efce8277d0a5d530cf137d196041d16e178b5f7341e7e06935585255956cf"
+    },
+    {
+      "path": "logs/v06-material-office-detail-console.txt",
+      "bytes": 192541,
+      "sha256": "67063e984e6ec874b14ad06158bdf3625bd86bfba9f4adfeb77f7814aa89c6ab"
+    },
+    {
+      "path": "logs/v06-material-render-console.txt",
+      "bytes": 802728,
+      "sha256": "6e3ab2a415070f1b350d18e32c002a5919f518babf98371a7d3b40dbe2f00c37"
+    },
+    {
+      "path": "logs/v06-material-render.json",
+      "bytes": 2977,
+      "sha256": "da5852f3ddb9dcdacc1be1a1083f4ac2dbd6abef1b10d88a8fdd2841787cb277"
+    },
+    {
+      "path": "logs/v06-presentation-finalize-console.txt",
+      "bytes": 367,
+      "sha256": "fdf05a9277a1cb2293f22e0e1ed979af57958d572cb8aca3d5095c7461b0f3f4"
+    },
+    {
+      "path": "logs/v06-visual-and-launcher-check.json",
+      "bytes": 818,
+      "sha256": "62a29d076470d4c708f5a82d16ab3d3fa55823c3ac5e69f1ce01a434bc67058c"
+    },
+    {
+      "path": "logs/v07-delivery-verification.json",
+      "bytes": 414,
+      "sha256": "631cb0a837fb54ad1cfed95976842acc6bc3b2041836e412f4372d55582e6da1"
+    },
+    {
+      "path": "logs/v07-draft01/geometry-master-v07.json",
+      "bytes": 142259,
+      "sha256": "32139a79f040a07b9882514832f60a005ae4243cbe620b16e3c84e4be8fad3dd"
+    },
+    {
+      "path": "logs/v07-draft01/home-main-v07.blend",
+      "bytes": 7297195,
+      "sha256": "a4b80e3638d1188c481d79e8f0d6691d80f5e90028bb6d4b3ecb6ce947e4113d"
+    },
+    {
+      "path": "logs/v07-draft01/renders/balcony-laundry.png",
+      "bytes": 2054293,
+      "sha256": "e12ef1f58f6e9e04f670d2c8e516e209177f9779f66fd84b8b894346a3ea94d5"
+    },
+    {
+      "path": "logs/v07-draft01/renders/desk-single-34.png",
+      "bytes": 2164590,
+      "sha256": "97710f3b5b937eaf79cfe0fa432c3fba88e41800c991c8d1893bd6a9125439f0"
+    },
+    {
+      "path": "logs/v07-draft01/renders/entry-cabinets-cutaway.png",
+      "bytes": 1764674,
+      "sha256": "41b43aeb162cd23f8cf4071b537182652913bda7b5fc982ae60d28b9eb1b5864"
+    },
+    {
+      "path": "logs/v07-draft01/renders/green-corner.png",
+      "bytes": 1981301,
+      "sha256": "f34f8536a8d5d1715e0ffea6d803e18013011241ea7e2a169b05703c8bd233b0"
+    },
+    {
+      "path": "logs/v07-draft01/renders/overview-cutaway.png",
+      "bytes": 2528061,
+      "sha256": "5866906804a8b77f5f780154388de55f16968911ebb9e72e63927f74b181258e"
+    },
+    {
+      "path": "logs/v07-live-operator.json",
+      "bytes": 321,
+      "sha256": "9f22bbd8392f0c7cf0fcad48831f776018275f295a068cff976cd94bf33676df"
+    },
+    {
+      "path": "logs/v07-live-state.json",
+      "bytes": 6191,
+      "sha256": "15cad999442b9d439715bb40bdb31c64e3571c0f56e8652ebaa857f53d60e976"
+    },
+    {
+      "path": "logs/v07-mcp-stderr.txt",
+      "bytes": 2973,
+      "sha256": "6845ddb7e21a016e4d93cf74adf9d910fb0a8314c9e690555314fcdf03e806cf"
+    },
+    {
+      "path": "logs/v07-render-verification.json",
+      "bytes": 4470,
+      "sha256": "f15e6f943aefebbd2393f9bf56b9bd5eb5d34bca3656525664f9c8118115de35"
+    },
+    {
+      "path": "logs/v07-source-ledger.json",
+      "bytes": 1312,
+      "sha256": "75eeff775a287ccf9bceac4a58410d7a6d8853ba108b7cbda049525f340e6978"
+    },
+    {
+      "path": "logs/v08-build-console.txt",
+      "bytes": 428,
+      "sha256": "73bec0e47597f2dca71798b9c8743aa37abf87daf0b3dcfb8d414f00ca39d3e9"
+    },
+    {
+      "path": "logs/v08-delivery-verification.json",
+      "bytes": 697,
+      "sha256": "0438088ece4daf570bb07f64ec6b488005a7d22ea5fbbc2525070e1316ca800b"
+    },
+    {
+      "path": "logs/v08-input-live-state.json",
+      "bytes": 2904,
+      "sha256": "b46c39ea639c90d91c3853c105287cfab73bc01f8629c064dac9c76f1d3b0b93"
+    },
+    {
+      "path": "logs/v08-input-mcp-stderr.txt",
+      "bytes": 3010,
+      "sha256": "5c1cb971a908e53e791e663571fbe636830b6c66ed0e594eef21fadc277d0d5d"
+    },
+    {
+      "path": "logs/v08-live-operator.json",
+      "bytes": 329,
+      "sha256": "a4680dc04fc24f1455a4391b899ac087b5ea13f1075705869d013d6d57026f42"
+    },
+    {
+      "path": "logs/v08-live-state.json",
+      "bytes": 10368,
+      "sha256": "34cf949d1164204371aef21f259233ba08675169ccbd19218857bf40de490634"
+    },
+    {
+      "path": "logs/v08-mcp-stderr.txt",
+      "bytes": 6017,
+      "sha256": "93c0cb89c32f365f1103d4b18dd24d8305667deefca88c8d7abd1dffa10d843c"
+    },
+    {
+      "path": "logs/v08-render-console.txt",
+      "bytes": 127818,
+      "sha256": "e37ab7d171ed85b2a474c7fc3eedf0a93806910a241a5672b8e8799414e0daf0"
+    },
+    {
+      "path": "logs/v08-render-verification.json",
+      "bytes": 5767,
+      "sha256": "9991c9318b8c505bf9db96cc8b6d6dda21fa9f69b385dad0d127c78179794897"
+    },
+    {
+      "path": "logs/v08-source-ledger.json",
+      "bytes": 1956,
+      "sha256": "940502c650cae4ad30846319f6a3b217cf30ada42fa60bca2f070c1db51792b6"
+    },
+    {
+      "path": "logs/v09-build-console.txt",
+      "bytes": 334,
+      "sha256": "144f0cb32989475627fdb866410bfbdc0ba35f6c3f698a429267e536bb163b0c"
+    },
+    {
+      "path": "logs/v09-delivery-verification.json",
+      "bytes": 694,
+      "sha256": "34576c6c0673090a863e326409095f1e32db8605d7f3f9285f54a0c4f263298e"
+    },
+    {
+      "path": "logs/v09-input-live-state.json",
+      "bytes": 2904,
+      "sha256": "d41311a35429bb6eae1f50363b63b8f696f98767365118b5b844e2af56da0fc2"
+    },
+    {
+      "path": "logs/v09-input-mcp-stderr.txt",
+      "bytes": 3010,
+      "sha256": "8db1cd9f4c7568090953c4ec6903be595b47ca4f73f2cc76483009de6274ccab"
+    },
+    {
+      "path": "logs/v09-live-operator.json",
+      "bytes": 321,
+      "sha256": "7d504296c2d69b94003175fc0cc2df2b70d9b737c174ad048048b73c5d5fa6f7"
+    },
+    {
+      "path": "logs/v09-live-state.json",
+      "bytes": 10368,
+      "sha256": "068008b05d8c5768154611b7cf6484338910f99851f8d441ae048086de199cc3"
+    },
+    {
+      "path": "logs/v09-mcp-stderr.txt",
+      "bytes": 6241,
+      "sha256": "423c5befcad25a9673524a801aadc74f341cc08845091ace4cab936e1d8c849d"
+    },
+    {
+      "path": "logs/v09-render-console.txt",
+      "bytes": 141812,
+      "sha256": "69a3b32e81385e747ee1d341e258e6450b355f6a0a9ee49d85d935e1091c9830"
+    },
+    {
+      "path": "logs/v09-render-verification.json",
+      "bytes": 5432,
+      "sha256": "fe261cdd82d4b745c7b8377737574b7f10df590686062fed071b0a824c4980d0"
+    },
+    {
+      "path": "logs/v09-source-ledger.json",
+      "bytes": 2271,
+      "sha256": "54826a4f256e80cbfc9c3206a26ee600d858cfa64b6757ee5109be59d916bc00"
+    },
+    {
+      "path": "logs/v10-build-console.txt",
+      "bytes": 325,
+      "sha256": "b47c298410233078e1554058ed4c85d55cdb09a644ae4248ec4a6c47c798358d"
+    },
+    {
+      "path": "logs/v10-delivery-verification.json",
+      "bytes": 788,
+      "sha256": "055f7c52f98b095ebaf4d7e5f5534f534ebf06d26e2c0f55c19c86693054e722"
+    },
+    {
+      "path": "logs/v10-input-live-state.json",
+      "bytes": 25908,
+      "sha256": "3cdd1795ca9380a86235e5e4f7da5ad15802bc684099747fdf34f216fb5824e2"
+    },
+    {
+      "path": "logs/v10-input-mcp-stderr.txt",
+      "bytes": 3671,
+      "sha256": "dba0c60dbd226b37fd7d6065bd5eb44cca0dce5a21dd291f905726a5b639773f"
+    },
+    {
+      "path": "logs/v10-live-operator.json",
+      "bytes": 343,
+      "sha256": "d2ba75648eb01e916da3b59ecd6599cd9a291ed5924c78adc19e5f8a03090947"
+    },
+    {
+      "path": "logs/v10-live-state.json",
+      "bytes": 10369,
+      "sha256": "6e238bc30fb83ed91e75c1367eb3f7ded04d92b7768ccd1ab6e22a4663247eb7"
+    },
+    {
+      "path": "logs/v10-mcp-stderr.txt",
+      "bytes": 6801,
+      "sha256": "8f3c2c446455fe517f9e1772fb4986280584b30a81a8641c0875cd806526ebc3"
+    },
+    {
+      "path": "logs/v10-render-console.txt",
+      "bytes": 393151,
+      "sha256": "8deb8dae8b24520c3885b01a940479ff32f9db76cd91575090f3d488171e5fa0"
+    },
+    {
+      "path": "logs/v10-render-verification.json",
+      "bytes": 4784,
+      "sha256": "886c4acb71725e52a7d5ac0fa67d13d5d91c7a1102d516124c4f075183fb536c"
+    },
+    {
+      "path": "logs/v10-source-ledger.json",
+      "bytes": 5117,
+      "sha256": "d44e839428d20a25ae25a040ddff5936c2c3a7eaf04f1eb316746d97913163cd"
+    },
+    {
+      "path": "logs/v11-build-console.txt",
+      "bytes": 271,
+      "sha256": "cd8a737976543360760ce0dc7509b0f193c9ca5134c7d35f24e25470aab75fba"
+    },
+    {
+      "path": "logs/v11-delivery-verification.json",
+      "bytes": 835,
+      "sha256": "bc1c41f83be39b50b41cbb62147f51b42a2d26d1cb0a3fcbb2d1c1d570f0f275"
+    },
+    {
+      "path": "logs/v11-input-live-state.json",
+      "bytes": 5285,
+      "sha256": "93d6e7e3c0596cfd580b02d1637d432378ea48bec4e32727b3bd525f6b22b37d"
+    },
+    {
+      "path": "logs/v11-input-mcp-stderr.txt",
+      "bytes": 3192,
+      "sha256": "a1c90feaf720ef91222b6769f36bcbe75a92390cddc257e6491c9ec78bf7ee3d"
+    },
+    {
+      "path": "logs/v11-live-operator.json",
+      "bytes": 361,
+      "sha256": "2e3e4ecd5d67dfb4d9b5b5b4eaa690577474c5388a79955df3ca86cd67b606c0"
+    },
+    {
+      "path": "logs/v11-live-state.json",
+      "bytes": 11061,
+      "sha256": "fdd147c582ca868efc8d74946837f0032bf2276eb44d18fa9898df4c8063c4d5"
+    },
+    {
+      "path": "logs/v11-mcp-stderr.txt",
+      "bytes": 7510,
+      "sha256": "c4b62878f5e468e694e575c01713f3ca61048d84357df3a6402df523881f624d"
+    },
+    {
+      "path": "logs/v11-render-draft-console.txt",
+      "bytes": 311784,
+      "sha256": "df7efa0e536d902b473afb2c12207c66f0109b0c32f04002e712548c7f5cfead"
+    },
+    {
+      "path": "logs/v11-render-drafts.json",
+      "bytes": 5608,
+      "sha256": "67336df7321645ceb35026a96a1f3e25e61bf6c894a911305ed63341232877df"
+    },
+    {
+      "path": "logs/v11-render-final-console.txt",
+      "bytes": 299651,
+      "sha256": "5ab6be5c2fd1881e80abfe40a74e8e74564db30494b5ae1ceea48a5bba676979"
+    },
+    {
+      "path": "logs/v11-render-verification.json",
+      "bytes": 5648,
+      "sha256": "5578710420b27cd7d5f03c790386b3a6c9388cde06308d71a1ced670ef46e009"
+    },
+    {
+      "path": "logs/v11-source-ledger.json",
+      "bytes": 4400,
+      "sha256": "0ac093bba6a4dd933b72093d93dc2597750ecef51ac3c479b2d3a35e75427c49"
+    },
+    {
+      "path": "logs/v12-build-console.txt",
+      "bytes": 271,
+      "sha256": "350eaf6c7683ae580bb67bb9294dded3e656ead6b9a2ed2ee2b7e13157c1adae"
+    },
+    {
+      "path": "logs/v12-delivery-verification.json",
+      "bytes": 929,
+      "sha256": "824ef1776849392e99d551c88649913001685528d3a2a62463f0b009d39995a3"
+    },
+    {
+      "path": "logs/v12-live-operator.json",
+      "bytes": 361,
+      "sha256": "ebaf0de3fa2eaec7cd1d98fca0ea33b57e777ae71f5d362967876b88625deb15"
+    },
+    {
+      "path": "logs/v12-live-state.json",
+      "bytes": 11286,
+      "sha256": "984fa4d42c4f790e91a9f71c7f811bb09edcaee91acafa40c87097b435beaa10"
+    },
+    {
+      "path": "logs/v12-mcp-stderr.txt",
+      "bytes": 8115,
+      "sha256": "f911f920e1793e8f323ef6717c487864ff27de93d94ea16943bfb1c8fdb25d0d"
+    },
+    {
+      "path": "logs/v12-render-draft-console.txt",
+      "bytes": 880287,
+      "sha256": "738aa3f561a4f6d9781f8bd3f9c925a36f23964e9e8617df79b2bc9445e8e50d"
+    },
+    {
+      "path": "logs/v12-render-drafts.json",
+      "bytes": 6369,
+      "sha256": "3581a08c7b055c0640ef41b9e3f32ca79f41275dfa01945a05124fd0bc73b8cc"
+    },
+    {
+      "path": "logs/v12-render-final-console.txt",
+      "bytes": 889841,
+      "sha256": "498e1fbde28fb49b562612c634c6c30ca9805ed9be19f8b2fd17104b0f55cb2a"
+    },
+    {
+      "path": "logs/v12-render-verification.json",
+      "bytes": 6379,
+      "sha256": "e261d36ee8a412653c1ba14c667a8f515de99f0cef8aad7e4f8e48d25f3534ca"
+    },
+    {
+      "path": "logs/v12-source-ledger.json",
+      "bytes": 2932,
+      "sha256": "11ec9bf31a0896caeab0c4dad6c12b48cfd564974ddca57bd1bfb78882d170e0"
+    },
+    {
+      "path": "logs/v13-delivery-verification.json",
+      "bytes": 967,
+      "sha256": "e4019822e8875c16aa1b29e2e7078c1b5e7f39a4a08f64750eec3adbcb1441d3"
+    },
+    {
+      "path": "logs/v13-final-live-readback.json",
+      "bytes": 3053,
+      "sha256": "2261a1c82b5afd1b087623c83f85f5f5602afaf151813e5c9e8853ed83485968"
+    },
+    {
+      "path": "logs/v13-final-readback-mcp-stderr.txt",
+      "bytes": 2987,
+      "sha256": "71b0417e52899b085b561e2bb11c632c4239f5e6534e5d0bc845db3116e55208"
+    },
+    {
+      "path": "logs/v13-input-live-state.json",
+      "bytes": 5511,
+      "sha256": "8ff87db79ab0b9b71ea9059cb0eb1770f5635787531ba0f01786031ff74289d7"
+    },
+    {
+      "path": "logs/v13-input-mcp-raw.json",
+      "bytes": 6405,
+      "sha256": "c10b488fe9fcbd016e80420fd1d1d7725c1a34b3a3f55f747ac4df28f34ebcdf"
+    },
+    {
+      "path": "logs/v13-input-mcp-stderr.txt",
+      "bytes": 3429,
+      "sha256": "009d6059005651e1663f180bc0d505c08624fa9596a614fdd51afad57774d93f"
+    },
+    {
+      "path": "logs/v13-live-operator.json",
+      "bytes": 379,
+      "sha256": "a171775aa55d49a53d0ad9d6d6aa1513f468650e6cfc46316d9eba639e84b16f"
+    },
+    {
+      "path": "logs/v13-live-state.json",
+      "bytes": 12403,
+      "sha256": "b3d1a913bbc0db67be3d05f6c82d97869adc8c06f0773498ff649f86699fa526"
+    },
+    {
+      "path": "logs/v13-log-maintenance-note.md",
+      "bytes": 701,
+      "sha256": "67e98fb6a9e9de34eb84b0d42321f48369f90bbfaa7d13bac556eb6ddd9724b1"
+    },
+    {
+      "path": "logs/v13-mcp-stderr.txt",
+      "bytes": 6571,
+      "sha256": "23b5f41081f9fefe0f2cb325bf3ca7b8f0f6281ba9f193bece23df94ed02c12e"
+    },
+    {
+      "path": "logs/v13-model-build-console.txt",
+      "bytes": 333,
+      "sha256": "bc6e225463f7da9d8fd8cbd4e8ebe972e6f393126b15e4510022bb7a9dcf51a6"
+    },
+    {
+      "path": "logs/v13-panorama-calibration-console.txt",
+      "bytes": 5701,
+      "sha256": "c9ff17b81340280b6e2d7ae4bc814bdf0381d5f4aa62d4e90cf8bdb0448ccd64"
+    },
+    {
+      "path": "logs/v13-panorama-calibration.json",
+      "bytes": 895,
+      "sha256": "54232225b6e42bfa54d54be7dd43581543190aa94098d8a46f4adb845a772a34"
+    },
+    {
+      "path": "logs/v13-panorama-draft-all-console.txt",
+      "bytes": 579398,
+      "sha256": "40af75807ed63c6dafce5e060dbfc0cd7d7c134d9f02345a3438387921ee9e73"
+    },
+    {
+      "path": "logs/v13-panorama-draft-all.json",
+      "bytes": 4127,
+      "sha256": "8a32adfd05786fa217505d8aa151c9095d104f086edf1e4eec60e84fc7d34dff"
+    },
+    {
+      "path": "logs/v13-panorama-draft-console.txt",
+      "bytes": 143550,
+      "sha256": "dba82d3b3c2d45a1c96d8f7230f2b01eeb97250cef62ad0baaf14f3e75b25194"
+    },
+    {
+      "path": "logs/v13-panorama-draft-living.json",
+      "bytes": 2871,
+      "sha256": "43778b28ebc7834a4d7fba548b4de14326803b43f7625160d2a0c21f44c5f49c"
+    },
+    {
+      "path": "logs/v13-panorama-final-all.json",
+      "bytes": 4126,
+      "sha256": "6b9dc8c07b71e187ae63a547f59b0f949967377227d7fcc95f832d6b3d7c223c"
+    },
+    {
+      "path": "logs/v13-panorama-final-console.txt",
+      "bytes": 648385,
+      "sha256": "e8057ac158e927a6e0f51bd6976833753717874cf6f7bcc24aacabb14b531750"
+    },
+    {
+      "path": "logs/v13-panorama-visual-review.json",
+      "bytes": 1942,
+      "sha256": "98cfabdd2c177e0513265f9575690bf939b613628247677699a4c4f67350cf63"
+    },
+    {
+      "path": "logs/v13-source-ledger.json",
+      "bytes": 9671,
+      "sha256": "476086e42de19f23717643c2ece3a6e7720f576deecb5d1e212001a62bc1c3c2"
+    },
+    {
+      "path": "logs/vendor-audit/blender45-index.html",
+      "bytes": 23781,
+      "sha256": "ed8c5c314ab73648450fdf58a44d776b7ee12485cef65a3118d04c394b7d0cad"
+    },
+    {
+      "path": "logs/vendor-audit/licenses/interior-design-expert/LICENSE",
+      "bytes": 1068,
+      "sha256": "e63fc1f714ed1365777e2479f4618a5be27d63a246f4b73f4deec0d3292ad33c"
+    },
+    {
+      "path": "logs/vendor-audit/licenses/interior-designer/LICENSE",
+      "bytes": 1100,
+      "sha256": "f7cb14446ec035b188d38be0c2c0ef7b2c990a17e2e4e9426f7e43b2469acae3"
+    },
+    {
+      "path": "logs/vendor-audit/licenses/moodboard-aesthetic-iteration/LICENSE",
+      "bytes": 1288,
+      "sha256": "08ea4be70cc5763b4e8be567cb5ebebaa512b5ca606821cf3aadbe510d1aee95"
+    },
+    {
+      "path": "logs/vendor-audit/licenses/xiong-interior-design/LICENSE",
+      "bytes": 1066,
+      "sha256": "949e0ab41ab650ec65a24dc1f10a720c1f05a32473baebb8de7a59bd3c8baa8e"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/__init__.py",
+      "bytes": 632,
+      "sha256": "e5c184d2696d3383ffe6b653b0f448a26c2a3cc6b2ce9d8bd460c53c14c9fce8"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/addon_manager.py",
+      "bytes": 22113,
+      "sha256": "2c832b0aee17664a4c60ecef6844a11f276e8b4d17300883beb48d149227dd77"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/apps/viewport.html",
+      "bytes": 17298,
+      "sha256": "a69acee1fbd8b85fb873fa965e92cc4e508f4cec631a3a51e7ce068d83738374"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/blender_scripts.py",
+      "bytes": 21521,
+      "sha256": "b2fb96d6e95d6f18d0024d84117299e73458169e1744c204ab2f4f3108d60124"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/bundled/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/bundled/addon.py",
+      "bytes": 301352,
+      "sha256": "6c2917c157c26d7549adcbd480243db2154a9b06bc580664f090530c8ef3801f"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/config.py",
+      "bytes": 917,
+      "sha256": "a70c8e3d707e78fb8fc7cba75425c63cae39f0b03c661c88bdb83d0e93e65907"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/consent_prompt.py",
+      "bytes": 8051,
+      "sha256": "413ee3e627b4be74c7f9e96226a2a1a58e5b0ce84b9cb1d10ff1021236977659"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/context_log.py",
+      "bytes": 5865,
+      "sha256": "a8e2f180a850388e03d137f98d5f7a061d5487cb23dd7a4c8de585bbd2adac84"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/generation.py",
+      "bytes": 23739,
+      "sha256": "f774dcd93757ab620bb4f3611d099e637c0d57dcecca3c3d650cc8eba94488e0"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides.py",
+      "bytes": 1640,
+      "sha256": "17b23a8cba8a335392cb0c23211fddb04a6f98bfe4ef044fc4b31621adb5aa1c"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/animation.md",
+      "bytes": 2791,
+      "sha256": "c65ee11aa9a35dbbab1717385d24932da63ddc389eea6e81313a50f2b3e03447"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/bpy.md",
+      "bytes": 3964,
+      "sha256": "f2e7d1ced7fe2fcc3b323bcd102c7064ccdea05a85ab8c2181b41999006cf165"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/level-design.md",
+      "bytes": 2441,
+      "sha256": "4932d7b06be3b9fb9a837adf851b97d4413a0b0b3d16ec606438ad0e126f799f"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/materials.md",
+      "bytes": 2474,
+      "sha256": "462db0a42e1718078db50d690b5678b162eea6e42063466dd9811fd34ac075c3"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/retopology.md",
+      "bytes": 3301,
+      "sha256": "1100988d01389ed3786d805ff512022697b505ef2fdb40cfadb6355a3f6e63bd"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/rigging.md",
+      "bytes": 3051,
+      "sha256": "a70cbe9894f8f58b648e1ed1cc4c42055ee216547084d96317a73adb7a718755"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/guides/scene.md",
+      "bytes": 3203,
+      "sha256": "c3dd5897ad2f5390ca68912b621eb61057dd98cab7ba7986fe93f8f0f0812dcc"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/openai_apps.py",
+      "bytes": 12829,
+      "sha256": "7fac0e23a19786a300ce1647a2c897137ef79abab2cff16249a685a44a1f61d9"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/premium_hint.py",
+      "bytes": 2360,
+      "sha256": "e5b86255a8cb605062cbc1159b8cf8ee7f33bf93bc758571b039b8829632fa0b"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/safe_mode.py",
+      "bytes": 45052,
+      "sha256": "b16e7cac74fc4f6b48901a7976a0a81e6c3f6325dbb6030d941b2e7a8006a1fa"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/server.py",
+      "bytes": 100097,
+      "sha256": "fc179f59aa31abe943364ce959ea18a5ce3e11a473b939a34fe7912275ff910b"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/setup_cli.py",
+      "bytes": 31913,
+      "sha256": "006e062ea5a7c1ea0ecb0ceb2815c37de498bcb4df52b84c8ad8187069b59596"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/telemetry.py",
+      "bytes": 13866,
+      "sha256": "04f45448a91fd623f56ff193d54cbdd25767ccd896056dd67c34dd34a0164c86"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/telemetry_decorator.py",
+      "bytes": 17565,
+      "sha256": "4f0da2619bddd1c5f5d0202b324326fb8473acb2e8a124ea7e06f6e2b066f270"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/trajectory.py",
+      "bytes": 57987,
+      "sha256": "8cf5f8039417a81fc4703ab8c05c8b087d81bb9e04cf740047784ee335ab4f72"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/blender_mcp/update_cli.py",
+      "bytes": 7449,
+      "sha256": "3446e291fd48260b52befc9e6c4cced3e23b68e07384f14129c213103509f07d"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/mcp_for_blender-2.2.6.dist-info/METADATA",
+      "bytes": 37698,
+      "sha256": "ab1818006cf9cd6dc66060c2ad7b9fdf5ae200cea0f24cd99eee2066cba7e698"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/mcp_for_blender-2.2.6.dist-info/RECORD",
+      "bytes": 2818,
+      "sha256": "5c000d6a6506c20fa88f9431740bc511a0c3b8e13aac845785dbdee17fb729c8"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/mcp_for_blender-2.2.6.dist-info/WHEEL",
+      "bytes": 91,
+      "sha256": "98e75747d0b7c0c568bfb71263c3d8f970b3a374a6996087bc642be5cb09a1aa"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/mcp_for_blender-2.2.6.dist-info/entry_points.txt",
+      "bytes": 60,
+      "sha256": "e3756a7ec69f95d46376e52a0ab1da0640697ff3c62977e44f1fb266a9c47217"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/mcp_for_blender-2.2.6.dist-info/licenses/LICENSE",
+      "bytes": 1071,
+      "sha256": "049501fd54d27852507853a5b88094ca1c6ff97404418a5032f3310eecc9cde6"
+    },
+    {
+      "path": "logs/vendor-audit/mcp-package/mcp_for_blender-2.2.6.dist-info/top_level.txt",
+      "bytes": 12,
+      "sha256": "7fe60c0a788957865a3959861f552764ab2aeebee28b6fb45914fffe6b118935"
+    },
+    {
+      "path": "logs/vendor-audit/skill-sources-api-attempt.json",
+      "bytes": 518,
+      "sha256": "a8ec007308236ff91a179b0aae21dcbcfff8ec2cfa5b74d57cb9328c9622d007"
+    },
+    {
+      "path": "logs/vendor-audit/skill-sources.json",
+      "bytes": 3143,
+      "sha256": "3c70dc49ec27266f1ac2eb9c85d03d71cc4a28f409d2a0141e90fb38d55a19a2"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/.claude-plugin/plugin.json",
+      "bytes": 699,
+      "sha256": "6e9773ed99828b41332e975e68d639f6e18e63556357140acf0b34df94ad7d7a"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/CHANGELOG.md",
+      "bytes": 1742,
+      "sha256": "9c99bb391777b51145a6923b2e9240a2b02588bd125b9c473cea42b1c52cc1b0"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/SKILL.md",
+      "bytes": 7834,
+      "sha256": "d97d2014e971bb85cf7e511e068ae20dd73324c2dde20c88c3c561c7bbf88e45"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/references/color-science.md",
+      "bytes": 3415,
+      "sha256": "a5f5445bf5cf59d16573732e3eb6ad6200fc3304f847b210e933fb5fff5b768b"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/references/lighting-design.md",
+      "bytes": 3084,
+      "sha256": "d78b1cf50dff3dc53e1f1a367731559f93242f54d085b60854a76705f140af8f"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/references/space-planning.md",
+      "bytes": 7004,
+      "sha256": "aacde039f1c692ea7b635d760f9372a7357112d3f7a746c5050e57484aa15464"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-expert/references/style-guide.md",
+      "bytes": 6680,
+      "sha256": "6f3614631979d9e5a56e6811958dd985f7412475d1ffd116f258d59deffb74c9"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-visualizer/SKILL.md",
+      "bytes": 5691,
+      "sha256": "b3ae393a213cfa3329b2afbd19f1983f643e3124e6892da34eb123b60ab762a0"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-visualizer/agents/openai.yaml",
+      "bytes": 307,
+      "sha256": "778f5f3ece04eeb7f9089bd1542c6b74f4013de7981d600ddb98ae49015593a7"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-visualizer/references/design-reasoning.md",
+      "bytes": 6345,
+      "sha256": "82f7cf9ecbda9dcdc3fbfc49bca6406dcacc0dd0ac08f59df6e49f2296915cb2"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-visualizer/references/prompt-template.md",
+      "bytes": 3837,
+      "sha256": "0a674e4a2680ccba0d5fcc51149ab73d9b445415cfd3747f06e8c68e9792ba6c"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-design-visualizer/references/qa-checklist.md",
+      "bytes": 3385,
+      "sha256": "4c2408a087a94cf5fbe9043975d252fcaabc16e193988c9780fa2537f7baaa5a"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-designer/SKILL.md",
+      "bytes": 13290,
+      "sha256": "7e02703cad40b9a42e2276c30c2ff8a54126d467dbcd0c465d82500bd0991306"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-designer/references/artifacts.md",
+      "bytes": 2823,
+      "sha256": "49f8b14cba6760ba7f8a70a1a20f7091c98c660674d2f76048895029d2c4873e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-designer/references/red-flags.md",
+      "bytes": 4537,
+      "sha256": "e2c094937ccecfe5e2906cf70c789091cbde4ab3c0dd63ffaba91631d4f74c37"
+    },
+    {
+      "path": "logs/vendor-audit/skills/interior-designer/references/vocabulary.md",
+      "bytes": 6925,
+      "sha256": "faa8e3756ec1774ab467e8541fa697fb52e7027be5743fc067a5455ef7e2535d"
+    },
+    {
+      "path": "logs/vendor-audit/skills/moodboard-aesthetic-iteration/LICENSE",
+      "bytes": 1288,
+      "sha256": "08ea4be70cc5763b4e8be567cb5ebebaa512b5ca606821cf3aadbe510d1aee95"
+    },
+    {
+      "path": "logs/vendor-audit/skills/moodboard-aesthetic-iteration/README.md",
+      "bytes": 5905,
+      "sha256": "5631786fe6fc918c6d18659205bf3b3f2f3bc8fb003b97533fe9da3495809a73"
+    },
+    {
+      "path": "logs/vendor-audit/skills/moodboard-aesthetic-iteration/SKILL.md",
+      "bytes": 6415,
+      "sha256": "1a5900ecc21d1669bf3f2afb5d91442dcede5dae11268d4f5fa5f64b3cc906bf"
+    },
+    {
+      "path": "logs/vendor-audit/skills/moodboard-aesthetic-iteration/references/report-structure.md",
+      "bytes": 4458,
+      "sha256": "01a6ce9e19780e167880335d2dd434bdc648c691e159d1192ddc226b19ed2076"
+    },
+    {
+      "path": "logs/vendor-audit/skills/moodboard-aesthetic-iteration/references/scoring-frameworks.md",
+      "bytes": 6762,
+      "sha256": "c7f78061621013013c74973a6d19bc8e29ba8e659973a46f59ef76edf04baa2d"
+    },
+    {
+      "path": "logs/vendor-audit/skills/moodboard-aesthetic-iteration/scripts/md_to_pdf.py",
+      "bytes": 12719,
+      "sha256": "e360353943739aaafc4c971dd347d9de20b208f62102f1a3a95c83f812cec5ba"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/.gitignore",
+      "bytes": 137,
+      "sha256": "611cd1ae069a3cb376e71ea010198b040277fe8899709f410b90fd1525e85858"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/LICENSE",
+      "bytes": 1066,
+      "sha256": "949e0ab41ab650ec65a24dc1f10a720c1f05a32473baebb8de7a59bd3c8baa8e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/README.md",
+      "bytes": 3371,
+      "sha256": "37eb86347765fb029939dc25d6be8a05f313b72e9e7553ee433d114a981584bf"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/SKILL.md",
+      "bytes": 19149,
+      "sha256": "d57b5e66ea5b59d95f5a4c12bf30223498cd79867660b889ab0abc5de42f9bab"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/agents/openai.yaml",
+      "bytes": 273,
+      "sha256": "5e04a1890dea62267b2e964066024b0106dd2be1046e5299f2c9109ac6aa6eee"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/annotation-review-template.md",
+      "bytes": 1198,
+      "sha256": "f8bbc97e20e6e19a102fb1dea1418e42e75a7e6466c3cd9c59fa07418952c845"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/drawing-viewer/blank-template.css",
+      "bytes": 3059,
+      "sha256": "149c2eaa034a980601a53b663e35e958af8d7edd407735f8231331d6b5672e47"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/drawing-viewer/blank-template.html",
+      "bytes": 1900,
+      "sha256": "982d539ce71df4f41ec4307ac4e13255de4494697dc2dd941692023b6976a11a"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/drawing-viewer/blank-template.js",
+      "bytes": 13496,
+      "sha256": "496bba0750bcad1b017a02b68bc70191016b53bb9d6a26ad0675a52bc2817747"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/model-viewer-template.html",
+      "bytes": 7295,
+      "sha256": "59906c114cdde6a3b230fb52672a7b5a3db076a88f8265d3b79b13afe4144f50"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/vendor/README.md",
+      "bytes": 1198,
+      "sha256": "1346d99cc86b33678073b537a46cdb339f94501f0dfc09fbd25631c891411f44"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/vendor/lit-BSD-3-Clause-LICENSE.txt",
+      "bytes": 1561,
+      "sha256": "c94b94b40b85a5083dea825ae844b1cedb40dd425685362c135e143265dd6cd4"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/vendor/model-viewer-4.3.1-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/vendor/model-viewer-4.3.1.min.js",
+      "bytes": 1068903,
+      "sha256": "283b0672384614b4847636c306fc93fe4b1fcadc76d668b4e47f0ca76bcf033b"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/assets/vendor/threejs-MIT-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/annotation-to-geometry-workflow.md",
+      "bytes": 8123,
+      "sha256": "ff92f5fcd9c3a828f70ccb536f36a3314de49fdc6dd6b3939d6fabb961c466b2"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/blender-codex-setup.md",
+      "bytes": 6870,
+      "sha256": "b61d6652148fcb248cd5d360adb0aa222320f31aa47cf57e12adb043bb251d8e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/current-state-image-workflow.md",
+      "bytes": 6707,
+      "sha256": "cf2ce04fe36e00d37114635de5d88af5af0728ecc0867408ca457ffc1d653df1"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/dialogue-playbook.md",
+      "bytes": 6399,
+      "sha256": "d0a6f3f47c0d84aabee362a3b20e3e5b251fa2c08c5dbb41f86fecaed3160560"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/drawing-viewer.md",
+      "bytes": 4872,
+      "sha256": "8355b675c54cc28d92adf77e3e9b681bb764a5f07880050cc0b13c5fb1cdd943"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/model-input-format.md",
+      "bytes": 7718,
+      "sha256": "34d8d8d462f99bbdef9fa07d45630078052783201e0b960b89d8e7afedbc3bb1"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/render-prompt-workflow.md",
+      "bytes": 12437,
+      "sha256": "91d2dadb0154ae55f036effea9d7a80a74049e49a043a76e2761f11d63f3cd3c"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/references/usage-guide.md",
+      "bytes": 5986,
+      "sha256": "8cd1d5650eb3216ba003895b0a13942c9156004163a5d704f7f8589a0c0ce0e9"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/requirements-test.txt",
+      "bytes": 45,
+      "sha256": "e1873cfb64396d25a770a4444ed8fdb7652c8e1d552e5a7b6997c36787c8fc88"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/requirements.txt",
+      "bytes": 29,
+      "sha256": "af4b6bf90327f9654e32e12580c567e64904eae868709866119a6652fb1ec11f"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/atomic_output_bundle.py",
+      "bytes": 2645,
+      "sha256": "591f865546a1a665ff5bf67d992f4540c7573f11eccdb0c8998d69d3504c1994"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/audit_dxf_blender_overlay.py",
+      "bytes": 6919,
+      "sha256": "62601a65778052112cc382df4ea346c84a2a92c9d8ce3f3431aa9597cf5195f3"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/audit_geometry_sources.py",
+      "bytes": 6970,
+      "sha256": "5278e15f194c9b5eaded0ccf8231d0a3ce44a380e7571a98d4f0d28c0b48050d"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/build_blender_scene.py",
+      "bytes": 28661,
+      "sha256": "d7f1fd9dd28f152e89099f0edf991bf0b2cd02069ef12819535a62a459d42a32"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/build_floorplan_annotator.py",
+      "bytes": 10439,
+      "sha256": "1d6248eca83d9a61a657a5e4c5e2c24a2127f78d23ad87d8489e394760d75e16"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/build_render_prompt.py",
+      "bytes": 27010,
+      "sha256": "feacf02bc354e03db117bc41ca8c020f5c3decac3fe9e7c43f8cbc1f626c494e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/calibrate_drawing_coordinates.py",
+      "bytes": 13764,
+      "sha256": "2ef96ed1cad765d5ee030fe37c008064f2c6c34d1844be490d528fcf3b86954e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/compare_existing_state_images.py",
+      "bytes": 8920,
+      "sha256": "dd3f8d33a37983318788c88dc55dcd826f4abb276a88507cd9c9f9c89cef7a1b"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/export_reference_dxf.py",
+      "bytes": 12344,
+      "sha256": "2c3184ba665d3168b59be937b281034ab31283ec9cfe859ccf07b9b309e5f457"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/geometry_approval.py",
+      "bytes": 3985,
+      "sha256": "ef4624a523c7a72d06c322653ff31074043e363bf21009c965b54f1a3592582f"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/geometry_utils.py",
+      "bytes": 23233,
+      "sha256": "fa1e8ad0fa29cb81eef97cc198e91e9b9696ec6554d5d6ae06c9266ab4d67aa6"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/prepare_existing_state.py",
+      "bytes": 5818,
+      "sha256": "740d2372834b15df7c79131b00e474caba3ea54c62d293c5be30c0f52866115b"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/record_cleaned_state_acceptance.py",
+      "bytes": 7802,
+      "sha256": "6f1e83dfa99a72256d42b7adcdef90e606973c27ae968a6b4dfcb5c8d4e64b8b"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/record_geometry_approval.py",
+      "bytes": 1785,
+      "sha256": "86f325a4125b0743f0b3ad80435e4a0981bc5bcdc2aed9e726e2524b5698e512"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/render_blender_global_reference.py",
+      "bytes": 11931,
+      "sha256": "17b4864d67dba7be76386b93b14d553d2d932f0c069902f99aec67e75dd3fcec"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/render_blender_room_reference.py",
+      "bytes": 29532,
+      "sha256": "a10b94c42db13d64097d21802e27c19b8434f662379641a68ab96148af7fe06d"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/run_skill_tests.py",
+      "bytes": 4669,
+      "sha256": "a65604d6a04d8a89e79dbbede9533fd6555ac7f20cf9a8068df4daee71f3d837"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/summarize_floorplan_annotations.py",
+      "bytes": 7010,
+      "sha256": "8ff2ada51002f06309612b5a025ccec46e80c9e67dba02a90e5f366f739bc0b6"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_atomic_output_bundle.py",
+      "bytes": 4254,
+      "sha256": "6b387678600fda15ccaf81febd80022d3c689c4adaca46ddfbce39b063f2034b"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_audit_dxf_blender_overlay.py",
+      "bytes": 2965,
+      "sha256": "570997214c45d5ad50e12bab73b79459d1ac95c7e7bc73234d7e3ae4b302d7a0"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_audit_geometry_sources.py",
+      "bytes": 5905,
+      "sha256": "73f5540fe276e502bf58b7ddf78c4fcb7a16324d7ed463e2ddf8dde7e7388991"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_blender_scene_geometry.py",
+      "bytes": 13958,
+      "sha256": "505364046eac2b2a0271074e4abf8e916cf45b2a09758932394aef218d67f0af"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_build_blender_scene_cli.py",
+      "bytes": 3446,
+      "sha256": "05299b46d73486b7462fff5c9274a5aa151aa6279b8e7f211fe364a06c0d04f7"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_build_floorplan_annotator.py",
+      "bytes": 7365,
+      "sha256": "8187ffdbd9e2123bed402e344e1946c4fe43f55d1bcf609468cb057e92b947a8"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_build_render_prompt.py",
+      "bytes": 18399,
+      "sha256": "97857a3430f99bb607fd08b8871ca61c5a0543f72457f719e92794a2ca3906ef"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_calibrate_drawing_coordinates.py",
+      "bytes": 7738,
+      "sha256": "974c132ac0f776e6f1a678148f4d2291c5bdfd7a4f0d42c7550680c1a6a21257"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_camera_framing.py",
+      "bytes": 6115,
+      "sha256": "94190f14a4a8076a8c21a6f564d1af5d4811c12d32aa81c17a9ac68c4e6fde12"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_compare_existing_state_images.py",
+      "bytes": 5891,
+      "sha256": "7a058d6fea902f26922d99497294289047e11e3f5fe58fe908781793ad0d4115"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_export_reference_dxf.py",
+      "bytes": 12830,
+      "sha256": "99559243831a60d36dc23ce89b83d86e0e4d03479dfb620aa40237f3b6edb4fd"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_floorplan_annotator_browser.py",
+      "bytes": 10318,
+      "sha256": "ea2741612e9a69b120e8656577d0e511b4d5238af295572e34b87bf27832a3a6"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_geometry_approval.py",
+      "bytes": 5305,
+      "sha256": "747d8da2696ed004124325e692a56a3687e33d3ca2ed13e2e7ae59eba28ab3c6"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_geometry_utils.py",
+      "bytes": 13501,
+      "sha256": "7e350a662807380cc139a144346170423c7a02a62df6776a3ead0d4ca83500bf"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_global_reference_camera.py",
+      "bytes": 9623,
+      "sha256": "b368703f538551a56178001ca62eb9fcee1323f586f51beddfd7d92b55f819fc"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_model_viewer_browser.py",
+      "bytes": 18181,
+      "sha256": "b539636f08ea68c6ff65da706f33311a59ddba5324a30b0a932694430af5e57f"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_model_viewer_failure_state.py",
+      "bytes": 1577,
+      "sha256": "320311f763a72c5fab35e4e3769186da647010f75982862e14158b2d70a364f7"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_model_viewer_template_browser.py",
+      "bytes": 2241,
+      "sha256": "69194aeb267bf0fbf45133c83edd2c4ee9c7fecb3bca5620f2116b6b3a888eaa"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_prepare_existing_state.py",
+      "bytes": 6321,
+      "sha256": "f9d2c1ec09546063224a0121ec718d69c927e27ea2565a85d0ff99e0c96c7e89"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_record_cleaned_state_acceptance.py",
+      "bytes": 8240,
+      "sha256": "2fb15bea6ec6749905712d85ab77d1baa0d878a9dd05ca807847edb7e984fa5e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_run_skill_tests.py",
+      "bytes": 722,
+      "sha256": "eb03a8c4c5c832026b54dfbc6455011cee7b50ec027693110f0fbf864316c34e"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_summarize_floorplan_annotations.py",
+      "bytes": 5227,
+      "sha256": "7f0446b245cf0da67f1c0613c61a5b3fcbd05d595b994eb0b9d12b0b2a433fee"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/test_viewer_assets.py",
+      "bytes": 3078,
+      "sha256": "5a6fb84cd50245deae4e8b5a6b9f70501d53f3d03d89f99a4720e39a685b46e8"
+    },
+    {
+      "path": "logs/vendor-audit/skills/xiong-interior-design/scripts/viewer_assets.py",
+      "bytes": 1959,
+      "sha256": "07628084881b025ba90c7074fb8f359a3c822063ebc2333eb012ceedd19a4b96"
+    },
+    {
+      "path": "logs/vendor-audit/tool-sources.json",
+      "bytes": 1743,
+      "sha256": "e66f6004968e5b40630c8bb83e3bc95f1440c2bfbf8491bfe3ea1c0eefb519cb"
+    },
+    {
+      "path": "logs/vr-tour-v01-balcony-perspective.png",
+      "bytes": 1037496,
+      "sha256": "12d74d8d50ab7b8b6d4d6f7afeba003cba9d3337a465835464a064365d3d4db3"
+    },
+    {
+      "path": "logs/vr-tour-v01-desktop.png",
+      "bytes": 791680,
+      "sha256": "62b382c05fd11a49125a9ebfa118156f8e1b2e8234aea2a368161f8460cb06d3"
+    },
+    {
+      "path": "logs/vr-tour-v01-dining-perspective.png",
+      "bytes": 862651,
+      "sha256": "ef9c33c94aa58de1aa97994863ef6afcb117643145ff66c61d149062effff142"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-balcony-perspective.png",
+      "bytes": 1213731,
+      "sha256": "2eb149a426df28e324c77b373b567cb5b298741c01758207e7a0cd0b12de0ce4"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-desktop.png",
+      "bytes": 776097,
+      "sha256": "11220f6dd57b8448a100901678ac3bcb8794c861aace167f3f8bcd0f9ecb0756"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-dining-perspective.png",
+      "bytes": 1021356,
+      "sha256": "39fb108debe605980104a58b3c3db6afbf6003d424cabad775754a582380570b"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-entry-perspective.png",
+      "bytes": 969520,
+      "sha256": "0a6043c4971dc847659d50680f00516bbb415dfbe34a5d6b866f62397e6adab3"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-living-perspective.png",
+      "bytes": 1354260,
+      "sha256": "372201a79017d3d3c12a23c6098bf2685f4ef0ebc95587e0fc30ad0cd063f26a"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-mobile.png",
+      "bytes": 172621,
+      "sha256": "bd5f145b0adb63632acbe4db063e4cec1c73af575ee060b9fbc0e37f5a02de58"
+    },
+    {
+      "path": "logs/vr-tour-v01-draft-viewer-verification.json",
+      "bytes": 3520,
+      "sha256": "f52146a6cd3e6c9b1ea003e89bacd3e831ba42b10ea4e339338210161d867c07"
+    },
+    {
+      "path": "logs/vr-tour-v01-entry-perspective.png",
+      "bytes": 829034,
+      "sha256": "08a6af38cd3e126958d274f8ce0b09a2faaed7b05b82b601358caef2353b992f"
+    },
+    {
+      "path": "logs/vr-tour-v01-final-nadir.png",
+      "bytes": 572284,
+      "sha256": "1b0727bd9058a155876a82487a8c990f1aa20a3d5b89ca28583ca476943a603a"
+    },
+    {
+      "path": "logs/vr-tour-v01-final-seam-left.png",
+      "bytes": 319990,
+      "sha256": "cc74c854945b839ac4b6c970ef9a72dcb8664644be65e05c4ebe80bcb909fb2f"
+    },
+    {
+      "path": "logs/vr-tour-v01-final-seam-right.png",
+      "bytes": 324659,
+      "sha256": "5f64aaf215f14f4f827181fec13f6e360a23d987fe75ebe6db19193326dfd428"
+    },
+    {
+      "path": "logs/vr-tour-v01-final-zenith.png",
+      "bytes": 324754,
+      "sha256": "8dc7d87012a37e1794a79f2f66dff2f65ff4aade8ad88312526bbeb0ce50a992"
+    },
+    {
+      "path": "logs/vr-tour-v01-living-perspective.png",
+      "bytes": 1301371,
+      "sha256": "bd491a54034636953b334fcb824759dc1a3bfd3d42330fff3cbc96cf368d5297"
+    },
+    {
+      "path": "logs/vr-tour-v01-mobile.png",
+      "bytes": 165644,
+      "sha256": "15e2e8d6af6601bd1500d4891c97308d01c47144702ec84b4063317d560d7df1"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-balcony-perspective.png",
+      "bytes": 1213731,
+      "sha256": "2eb149a426df28e324c77b373b567cb5b298741c01758207e7a0cd0b12de0ce4"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-config.json",
+      "bytes": 1991,
+      "sha256": "f8278c8b0beb469eae65457a96f1b51554c12876a06ab5957e4c0d2df2834910"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-desktop.png",
+      "bytes": 790924,
+      "sha256": "7d1d5b575ba01b37b6b9186f3a651008faf20e451636975d3758f4034b6f1fae"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-dining-perspective.png",
+      "bytes": 1021356,
+      "sha256": "39fb108debe605980104a58b3c3db6afbf6003d424cabad775754a582380570b"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-entry-perspective.png",
+      "bytes": 969520,
+      "sha256": "0a6043c4971dc847659d50680f00516bbb415dfbe34a5d6b866f62397e6adab3"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-living-perspective.png",
+      "bytes": 1301371,
+      "sha256": "bd491a54034636953b334fcb824759dc1a3bfd3d42330fff3cbc96cf368d5297"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-mobile.png",
+      "bytes": 172612,
+      "sha256": "1277a9b9a77d585f1610bfff9bca1a801627ef3b79d91a796ae8b4c6dff8c0a7"
+    },
+    {
+      "path": "logs/vr-tour-v01-partial-viewer-verification.json",
+      "bytes": 4242,
+      "sha256": "02b6a2145d38a4ad77910f79b970d85463273053095d5e513a17cffa80cce45f"
+    },
+    {
+      "path": "logs/vr-tour-v01-verification.json",
+      "bytes": 4246,
+      "sha256": "94ce32785be1d2a020034b85c34702263d68960a0367bd2133ad7a9df3d1d12b"
+    },
+    {
+      "path": "logs/vr-viewer-calibration-desktop.png",
+      "bytes": 371620,
+      "sha256": "980fcffbfb798af4c15319a7ecb91be33ca7cb56536f843bc493e0c5e5ac6881"
+    },
+    {
+      "path": "logs/vr-viewer-calibration-mobile.png",
+      "bytes": 94139,
+      "sha256": "d8123c3c22d18f2a76af6483973076333e27a2572a491cc6a1b24e57c350e2fb"
+    },
+    {
+      "path": "logs/vr-viewer-calibration-verification.json",
+      "bytes": 2659,
+      "sha256": "9be4ca59fad77003fab6412281857e47155b91b22d054b6c70af7a382553a7ba"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/balcony.jpg",
+      "bytes": 478853,
+      "sha256": "bbab4ffe1b7ab12eae59adc8b5f44249f34453d4e9e00ad8725c7be455c5085c"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/config.json",
+      "bytes": 903,
+      "sha256": "1e2e623a46812e999f862afb2c6da7dc2aa432b6b2318721646bf92206b0e9ea"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/dining.jpg",
+      "bytes": 464699,
+      "sha256": "77f0176a5129a5868c2024866b1b264c1ba524279ad0081849b70749b2b5cd56"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/entry.jpg",
+      "bytes": 472761,
+      "sha256": "ae7f1fb205bc807705813639b0deed5ae0398315b444905cab3994f6c9ebb913"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/living.jpg",
+      "bytes": 473802,
+      "sha256": "c422b32af5486ef4afe967fcd7dbc4b35deef0a0771d5074d2b2285fd8eed5d0"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/viewer-manifest.json",
+      "bytes": 2548,
+      "sha256": "b90595c66b1a50e433f1b1591df071dbfb55fccc307964a09bb2e548b6c13a5e"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/使用说明.txt",
+      "bytes": 785,
+      "sha256": "ec46b2e34d443e10c25deea7504645a4af22e4022f1fd7d6a21fa31a56052b26"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/全景原图/balcony-day.jpg",
+      "bytes": 478853,
+      "sha256": "bbab4ffe1b7ab12eae59adc8b5f44249f34453d4e9e00ad8725c7be455c5085c"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/全景原图/dining-day.jpg",
+      "bytes": 464699,
+      "sha256": "77f0176a5129a5868c2024866b1b264c1ba524279ad0081849b70749b2b5cd56"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/全景原图/entry-day.jpg",
+      "bytes": 472761,
+      "sha256": "ae7f1fb205bc807705813639b0deed5ae0398315b444905cab3994f6c9ebb913"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/全景原图/living-day.jpg",
+      "bytes": 473802,
+      "sha256": "c422b32af5486ef4afe967fcd7dbc4b35deef0a0771d5074d2b2285fd8eed5d0"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/打开360全景漫游.html",
+      "bytes": 2544575,
+      "sha256": "a67ee1d0962af7748b7583b69503759a14add8570457533a15f84481d24176ab"
+    },
+    {
+      "path": "logs/vr-viewer-calibration/漫游机位与来源.json",
+      "bytes": 6145,
+      "sha256": "7f8455aeb4ef172ea5681b85d19421160036b6ee33b17deac80853fefaee238b"
+    },
+    {
+      "path": "logs/widget-v06-verification.json",
+      "bytes": 1122,
+      "sha256": "d49bd7bf2bdcfbc5fd31eb91f518d3a7f5091313a36a08227319dfae4a737445"
+    },
+    {
+      "path": "logs/widget-v07-verification.json",
+      "bytes": 1643,
+      "sha256": "57a2b05f3909041211c98d332f3e932514e4d143b48060bb6d1892b0f842d256"
+    },
+    {
+      "path": "logs/widget-v08-verification.json",
+      "bytes": 1775,
+      "sha256": "22008ac197acc85a3a686aac322a0812e8c970a0c400b19b43a066f17cccb0a7"
+    },
+    {
+      "path": "logs/widget-v09-verification.json",
+      "bytes": 1895,
+      "sha256": "5cedbd1b724b0bc030711464f8313b2b46a07dc8cf8f9412fb8a79b946d9286f"
+    },
+    {
+      "path": "logs/widget-v10-verification.json",
+      "bytes": 1947,
+      "sha256": "7b4fc455f5ce7515b6b86cd4ec710f4f0698190cd6843c1b25f59057bff58a76"
+    },
+    {
+      "path": "logs/widget-v11-verification.json",
+      "bytes": 2269,
+      "sha256": "93b5105aa23aa3bfe6e0a216c7c67ccb7da8e5746cad56ec235f751006a97abf"
+    },
+    {
+      "path": "logs/widget-v12-verification.json",
+      "bytes": 2276,
+      "sha256": "cf4144dd79d0c939eac7172a284cfdd1053f4e94f9778508bed284c85ecc8090"
+    },
+    {
+      "path": "logs/widget-v13-verification.json",
+      "bytes": 2474,
+      "sha256": "39e8eca040232bc46998a8254334199fef634f5a7b09bc0f69fcdc21ff75d5a5"
+    },
+    {
+      "path": "tools/activate_model_v07.py",
+      "bytes": 6157,
+      "sha256": "be2bba247751caa3ac014e5e124033e220b331a1b9967f9d610b2c2e23a6a4d8"
+    },
+    {
+      "path": "tools/activate_model_v08.py",
+      "bytes": 5699,
+      "sha256": "bb4b06596cc2e3c32b32158f5ba62800676f0cd7ca5e18f521090538fe5425eb"
+    },
+    {
+      "path": "tools/activate_model_v09.py",
+      "bytes": 5889,
+      "sha256": "d8cda8c6c185e0a155225549aeb2eb0acc8f4351a50e90ebc1bec8710de3a211"
+    },
+    {
+      "path": "tools/activate_model_v10.py",
+      "bytes": 6452,
+      "sha256": "56959e11c6b603a460d9cc2230d49af9f3772454e35abc9f93e5600cd54d249f"
+    },
+    {
+      "path": "tools/activate_model_v11.py",
+      "bytes": 7184,
+      "sha256": "98913b1f0ceb74dae32dbddb7198696e4d733edb55f5159910ce9dc3417bc5dc"
+    },
+    {
+      "path": "tools/activate_model_v12.py",
+      "bytes": 7782,
+      "sha256": "72d0e23c14bb3a9e67a0dedaa66ee0a78bb69f5841d57b33c47149971063cf0c"
+    },
+    {
+      "path": "tools/activate_model_v13.py",
+      "bytes": 5636,
+      "sha256": "a0556cd685b4bf238c28d8c90967fb1c802383fe10de140eaae43586e2fb4986"
+    },
+    {
+      "path": "tools/audit_blender_model.py",
+      "bytes": 3328,
+      "sha256": "7150555bdd061cb636c07404a95bbf37d2cd28f92563022e40945032dc42dfaa"
+    },
+    {
+      "path": "tools/blender_bridge_startup.py",
+      "bytes": 895,
+      "sha256": "bac303379c7273b812204db777050f2425d569a74fe865d922152aa8556757dc"
+    },
+    {
+      "path": "tools/bootstrap_project.py",
+      "bytes": 8718,
+      "sha256": "6440de91aca02bf01d9459aee6d1b763d2a9f6bd416aa2f0646b27f3339bbe1d"
+    },
+    {
+      "path": "tools/build_blender_model.py",
+      "bytes": 9786,
+      "sha256": "4b19489d5278372acccffe81142d0f95e0aabcaf44260913a0e8033e67d6f197"
+    },
+    {
+      "path": "tools/build_blender_model_v06.py",
+      "bytes": 10159,
+      "sha256": "a422406f340a2afad7afec40eb943a878f2e7fe00ec7997741b104e32b04ed51"
+    },
+    {
+      "path": "tools/build_vr_tour.py",
+      "bytes": 6223,
+      "sha256": "087d4873f0fdbaeb6531139221a45b1f14bfa0fef95b9c742665b824f572411e"
+    },
+    {
+      "path": "tools/cabinet_options_v08.py",
+      "bytes": 12471,
+      "sha256": "04106f5c0df3ffc75c4d937919989e62be6fa0a50cca0b38d2aebfa5b3ad33ed"
+    },
+    {
+      "path": "tools/calibrate_panorama_v13.py",
+      "bytes": 2313,
+      "sha256": "4954a17c13805c3a0eedbeae697b2a6b22e3a2c5dac1946772eea819df37dac7"
+    },
+    {
+      "path": "tools/check_view_v06.cjs",
+      "bytes": 8926,
+      "sha256": "0f0533d31ed1653c317186db09e54966478f7c9a73ea852ed2e6ab247e6c09cf"
+    },
+    {
+      "path": "tools/check_view_v07.cjs",
+      "bytes": 10229,
+      "sha256": "7362b058c315d91c11d53132e00b9ad24e6f924e557c74a24c6372bdf70da44e"
+    },
+    {
+      "path": "tools/check_view_v08.cjs",
+      "bytes": 11320,
+      "sha256": "3e032f10187f56b2e0823f50524c2822c7a930ee81de5db10165bf172009bc18"
+    },
+    {
+      "path": "tools/check_view_v09.cjs",
+      "bytes": 13190,
+      "sha256": "171fc3294b840e1c2da401acd0e271ae536eaf46962785186fa5e0e0e2d11703"
+    },
+    {
+      "path": "tools/check_view_v10.cjs",
+      "bytes": 14342,
+      "sha256": "fcb514501d21522645e523b94bbd3e883c9a5ed3d7bc873c8bdd04f5810d5f33"
+    },
+    {
+      "path": "tools/check_view_v11.cjs",
+      "bytes": 14792,
+      "sha256": "2105f268f034e3cc8d151700ff5abc5239eb13ce42c9c33d2cc3e5acadf7de04"
+    },
+    {
+      "path": "tools/check_view_v12.cjs",
+      "bytes": 16180,
+      "sha256": "f188000ab00cd84d42b3cb42b7e3853ca15c6269e21ac3af0419143e11f8172a"
+    },
+    {
+      "path": "tools/check_view_v13.cjs",
+      "bytes": 18402,
+      "sha256": "6a532c55bcaa1216a88fed10a3e9b62e98be65505b3bd3f62ddc2fd484926169"
+    },
+    {
+      "path": "tools/configure_panorama_v13.py",
+      "bytes": 1619,
+      "sha256": "a4377db1c64dd59cf661d905a2d9041bfc77ea39f589d01183a2e68426ae8099"
+    },
+    {
+      "path": "tools/draw_master_bath_study_v10.py",
+      "bytes": 5675,
+      "sha256": "c60253f9280fed6ce3f7c19a0c73f8656ccd1d0d1d64c69c7f96bf1fd6a5295a"
+    },
+    {
+      "path": "tools/enable_blender_addon.py",
+      "bytes": 854,
+      "sha256": "7b4b5790ca77020f6d1a2d011bc146d84d302d0e66f9ff1ac61635aaf041dad1"
+    },
+    {
+      "path": "tools/export_panorama_v13.py",
+      "bytes": 2505,
+      "sha256": "c9ce6f0f66d44f5c0e11768842c84c936699e7aae78ed74a5fff4ada6cc29564"
+    },
+    {
+      "path": "tools/fetch_sources.py",
+      "bytes": 5480,
+      "sha256": "6512801ccd3bbccfa4654dac9f422544eaf9ce81ec0f82254adad7330f9aa3c3"
+    },
+    {
+      "path": "tools/finalize_project.py",
+      "bytes": 18679,
+      "sha256": "8e7bd9f54f30a9a3d91a2f73e95a4540c966c7cc9a5cde980b11068d12204eae"
+    },
+    {
+      "path": "tools/finalize_v06_presentation.py",
+      "bytes": 1032,
+      "sha256": "ab951f0d046e34982f2f33880d92d3ae7b39f8ca2b26facc02f84808953d171a"
+    },
+    {
+      "path": "tools/finalize_v07.py",
+      "bytes": 4807,
+      "sha256": "5dc9ca88f13255eb928c72db5732d8745190fe70526f07f3cddc91920a3c90e5"
+    },
+    {
+      "path": "tools/finalize_v08.py",
+      "bytes": 6200,
+      "sha256": "62d8224b323dc420b2f5e8d9f38b494b5784712945a161de1ef62855bac54525"
+    },
+    {
+      "path": "tools/finalize_v09.py",
+      "bytes": 7143,
+      "sha256": "a3020899fe1db8bad8b6d52afc7dc74051d914e9fc3e2d0dfc1ff98f9d981ab0"
+    },
+    {
+      "path": "tools/finalize_v10.py",
+      "bytes": 8044,
+      "sha256": "b488dba8a6c2f9d4d70db5798b1395d1f080f43306ec07eed06951e3590f7a6a"
+    },
+    {
+      "path": "tools/finalize_v11.py",
+      "bytes": 10395,
+      "sha256": "8468cb1760a838e24d6809192c7c7ebbe794076d160f55dabd5c22a3f44bbf24"
+    },
+    {
+      "path": "tools/finalize_v12.py",
+      "bytes": 12787,
+      "sha256": "de4e918ce21ad0048c4aa177c7bc9bde40c7273e8a48af7eae882a197ef20ae1"
+    },
+    {
+      "path": "tools/finalize_v13.py",
+      "bytes": 10296,
+      "sha256": "2139bae68bb6b415eb6a0ee68cbcbc26a9513e43df9494b27c4942db95418a69"
+    },
+    {
+      "path": "tools/finish_refinement_inputs_v10.py",
+      "bytes": 2163,
+      "sha256": "287502c2cfc374a7331fb42ba18c8d75e6b81f9a0c78b4cbb0ef9485cbf5baca"
+    },
+    {
+      "path": "tools/home_design_move.py",
+      "bytes": 4038,
+      "sha256": "07400fb585aad7e35c7c563d092b3610737217b53012c15210de1274774a6d95"
+    },
+    {
+      "path": "tools/house-view-v06.template.html",
+      "bytes": 37314,
+      "sha256": "a1089980e09a8b7d482cb84b53c031ec27246ca16b64d985194c6d1dfcec33fc"
+    },
+    {
+      "path": "tools/house-view-v07.template.html",
+      "bytes": 41925,
+      "sha256": "5095a30eb833ee70e43a7c195736df560cb1e5c843f545c255b4178f8923bfac"
+    },
+    {
+      "path": "tools/house-view-v08.template.html",
+      "bytes": 42913,
+      "sha256": "eeea567cd1e9f5e0accbb5766927eb8783ab6d23ded29600e2ecad51f45cc542"
+    },
+    {
+      "path": "tools/house-view-v09.template.html",
+      "bytes": 45500,
+      "sha256": "806b780c773e4b7240bc9d8a88db98ed1005fdb96435f06f751f4936e86c4f6f"
+    },
+    {
+      "path": "tools/house-view-v10.template.html",
+      "bytes": 46162,
+      "sha256": "f064421046b353a352c844db5bdd3e97186b13e172312e5c628844bea2da1b27"
+    },
+    {
+      "path": "tools/house-view-v11.template.html",
+      "bytes": 46711,
+      "sha256": "0bd57b08a52ef5f610f71b48fbc77038555b65c7f8dbb2f0d489e6cef7a8c7e5"
+    },
+    {
+      "path": "tools/house-view-v12.template.html",
+      "bytes": 48395,
+      "sha256": "42d5fb6202861eb2146b353e5dc41641397096ce0b2dbac752f80a68c6510841"
+    },
+    {
+      "path": "tools/house-view-v13.template.html",
+      "bytes": 48420,
+      "sha256": "8069b02dc896d00701d4650b84a377c5ca71f724cb0161c96b9f4f6df09d4158"
+    },
+    {
+      "path": "tools/import_existing_model.py",
+      "bytes": 4158,
+      "sha256": "706f1c53db368246f310365d244a25b22ca941963b92181767267fb841f88f76"
+    },
+    {
+      "path": "tools/import_model_v06.py",
+      "bytes": 5447,
+      "sha256": "b9644ef15214dfb1bef4d1c6d6312f728069559fc964908812c5b4b896dc8fb7"
+    },
+    {
+      "path": "tools/inspect_live_v08.py",
+      "bytes": 1861,
+      "sha256": "3725b48d3f373930e9b1dd1dbb1a6c3b77a551c0ff57677aeae54d0edbc6139a"
+    },
+    {
+      "path": "tools/inspect_live_v09.py",
+      "bytes": 1839,
+      "sha256": "98e099eab4720e56238df0ca78cebda217c3dbd6530e9f4c45df284888b1f764"
+    },
+    {
+      "path": "tools/inspect_live_v10.py",
+      "bytes": 2665,
+      "sha256": "36232ab998ce4d5d4a61af9e3c249b66f07ab9da401bab7d63f93698aa1d7df0"
+    },
+    {
+      "path": "tools/inspect_live_v11.py",
+      "bytes": 2137,
+      "sha256": "c621f7bbc6c0bc71081e6889c94187c621eebed14bc1e6e9d1227c4cb7f879cb"
+    },
+    {
+      "path": "tools/inspect_live_v13.py",
+      "bytes": 2543,
+      "sha256": "477330d3fe3dc95059a2c21df1f7f4861617c4cc60d1293ebd999ff8bbdd30c2"
+    },
+    {
+      "path": "tools/install_design_skills.py",
+      "bytes": 12673,
+      "sha256": "42a8e5430747cd8821c4f3abb58110fbcb9054de720fedfe0b9be3c34e14b58f"
+    },
+    {
+      "path": "tools/install_runtimes.py",
+      "bytes": 3325,
+      "sha256": "11a905e871ca6463ec0bd20961eb5166315c312f0eb28908c099bfc49f65af9a"
+    },
+    {
+      "path": "tools/mcp_launch.py",
+      "bytes": 2449,
+      "sha256": "5a47dbd7fe88259a08620c11400f023e6f8b52bd08addfc471fffdb83cc0a588"
+    },
+    {
+      "path": "tools/mcp_roundtrip.py",
+      "bytes": 3103,
+      "sha256": "abdaf09a18cd0ff7572b6d166eb193b513ab85c6b3a69c963cf950ee461dc610"
+    },
+    {
+      "path": "tools/open_model.py",
+      "bytes": 1066,
+      "sha256": "4d356b538fe703c4fa713312fb7ed980f8122fcf736f641561c2d8b404d24633"
+    },
+    {
+      "path": "tools/package_cabinet_options_v08.py",
+      "bytes": 4035,
+      "sha256": "0e6c655f1c8c9cf6b9d3cea2ee5f2ac160de7bcd84873ac6742ce6ae9f2d9556"
+    },
+    {
+      "path": "tools/package_japanese_v02.py",
+      "bytes": 11910,
+      "sha256": "92e1d121521b24af7b735a8a26398655225ac7344cbaca50a18d32fddedf384d"
+    },
+    {
+      "path": "tools/package_v06_renders.py",
+      "bytes": 8561,
+      "sha256": "f254178b5da5cc1fe6b9a48ed8c4659a4689e05ac88735784451d3d2ab3499c3"
+    },
+    {
+      "path": "tools/prepare_repository_archive.py",
+      "bytes": 2955,
+      "sha256": "818aefa0b76f864cdca5fa7941bdd9c6117bb5019579ebf9ff8d1759ea6f6075"
+    },
+    {
+      "path": "tools/probe_mcp.py",
+      "bytes": 1574,
+      "sha256": "acc8a66558d8246552669cd5defc1eab0a51f614bcac6256be07bb27c65150c5"
+    },
+    {
+      "path": "tools/publish_view_v06.py",
+      "bytes": 914,
+      "sha256": "b6f2d832b156747ecca7758b7225a3f87164aff8e99f0d10f266a78919cf9be5"
+    },
+    {
+      "path": "tools/publish_view_v07.py",
+      "bytes": 975,
+      "sha256": "47f4f8f13545f0a5364234efcee3d5f4534534e267dc5f31b7dc548c94485183"
+    },
+    {
+      "path": "tools/publish_view_v08.py",
+      "bytes": 974,
+      "sha256": "525084e3a6fac6dbb1f98ebef920c6a3127a227b6b7aa99663de4f3bd5ffbefb"
+    },
+    {
+      "path": "tools/publish_view_v09.py",
+      "bytes": 974,
+      "sha256": "e128ff76bab0c93f36f6993bfd5ea2ffec68bc346c13cef75c83904e3a7c87bd"
+    },
+    {
+      "path": "tools/publish_view_v10.py",
+      "bytes": 974,
+      "sha256": "b9caebe0164e33a197afce1396dcc5ef794aa27a225c26d78ec5dbc18100c799"
+    },
+    {
+      "path": "tools/publish_view_v11.py",
+      "bytes": 974,
+      "sha256": "a4fc4103dacb7b825e0502c839f725fb807e76f6022639a3734a92ca2cef50e7"
+    },
+    {
+      "path": "tools/publish_view_v12.py",
+      "bytes": 974,
+      "sha256": "39e8b315397b11d105fff219c363c922f1a18f2538e7b130bf45ddce1a5b39d8"
+    },
+    {
+      "path": "tools/publish_view_v13.py",
+      "bytes": 974,
+      "sha256": "653c63171fbd9440847075be8f77344a3cace92c28f3bc4fc656ebd22a86c502"
+    },
+    {
+      "path": "tools/readback_live_v13_final.py",
+      "bytes": 2286,
+      "sha256": "564bc97a7f52e03591be5f61ef96eb41dedc919b2b2bc26b979e08139ed97dcf"
+    },
+    {
+      "path": "tools/register_mcp.py",
+      "bytes": 3137,
+      "sha256": "fe49f83298eba2d730a4e18b5f8a35ad6dc2bab6b9d980dc36e265a136626c1d"
+    },
+    {
+      "path": "tools/render_bath_study_v10.cjs",
+      "bytes": 705,
+      "sha256": "7c4bacccc895ad799ea5d4d5e16237cb4657dfa45162506c409bce9dcaf4ab27"
+    },
+    {
+      "path": "tools/render_master_suite_study_01.cjs",
+      "bytes": 809,
+      "sha256": "7160bb2a9334af17fee0a1c8df76c726eadda635f954503dabfdd96b8cb391ac"
+    },
+    {
+      "path": "tools/render_model_previews.py",
+      "bytes": 1834,
+      "sha256": "82522a87798a90abde31ae969fc3cfdc01e92f09aee3c75ef13a48258c719374"
+    },
+    {
+      "path": "tools/render_model_previews_v06.py",
+      "bytes": 1838,
+      "sha256": "551230c861808e0c78fdb090a4300b400f5148133e1a21b86130f8e590756eaf"
+    },
+    {
+      "path": "tools/render_modern_japanese_v02.py",
+      "bytes": 18891,
+      "sha256": "4f09ceba48477e391202994def5d29de3a798e2ed0e6dc6051c4a878182f1bf1"
+    },
+    {
+      "path": "tools/render_panorama_v13.py",
+      "bytes": 3889,
+      "sha256": "3d3947b4c68368c4dee54670cc7b6755e63643c7aa60c35c697bf9741ee0a1ed"
+    },
+    {
+      "path": "tools/render_v06_material_study.py",
+      "bytes": 16266,
+      "sha256": "bb95f6e279716887664073131e08ae1ea4664bc0c87df606d65a8766ddbbf163"
+    },
+    {
+      "path": "tools/render_verify_v07.py",
+      "bytes": 5148,
+      "sha256": "cfe44ff4a3961c0ffece765a8de642462d466e565a4fe8faf07a5c8caf210a7e"
+    },
+    {
+      "path": "tools/render_verify_v08.py",
+      "bytes": 4052,
+      "sha256": "9a881dbf35e924468d9293257fe43cd08bd51e36a9b211fdf2a232e13341463a"
+    },
+    {
+      "path": "tools/render_verify_v09.py",
+      "bytes": 3003,
+      "sha256": "a0f9df1c593e4b16c788dcccd07b6df09161baa3350c7cd66d3e0c81281265b4"
+    },
+    {
+      "path": "tools/render_verify_v10.py",
+      "bytes": 3806,
+      "sha256": "9347716f130e8ce99297ffdd2024de49445ca72e97b5fb139d5941100704cbc1"
+    },
+    {
+      "path": "tools/render_verify_v11.py",
+      "bytes": 3235,
+      "sha256": "847e4408d27f1714fb24cf89b09b868ef1123e9831b52a2b344f55022232ba13"
+    },
+    {
+      "path": "tools/render_verify_v12.py",
+      "bytes": 3783,
+      "sha256": "d5503fbb0f980ab6b344d7042f64cbf24542d3be9c572821e014b91731738af8"
+    },
+    {
+      "path": "tools/requirements-design.txt",
+      "bytes": 222,
+      "sha256": "458f149e7814ac8a696ed27cd47b16e74f494a353763a4d588408cd27d300a12"
+    },
+    {
+      "path": "tools/requirements-mcp.txt",
+      "bytes": 671,
+      "sha256": "1cb8b021523951fd590431db159ad055826e6c3320e9e6dd142340385a88cf22"
+    },
+    {
+      "path": "tools/review_panorama_v13.py",
+      "bytes": 1982,
+      "sha256": "9377ff32f580585e3c06878d6ce79edcc8ed5bdfa6c9c7fe8b5adbe00a1dbc28"
+    },
+    {
+      "path": "tools/revise_furniture_v06.py",
+      "bytes": 10791,
+      "sha256": "a1e1cd2f5c01b5abfa4304012a5daa8bf11033b0b053c16779635a00fd8c8231"
+    },
+    {
+      "path": "tools/revise_home_v07.py",
+      "bytes": 15415,
+      "sha256": "5b94c7062fb4d2f497007906f5b24421d3da9f1f4a258f920730fdb1dce8794e"
+    },
+    {
+      "path": "tools/revise_home_v08.py",
+      "bytes": 9793,
+      "sha256": "cabc0caebc62a42f5c0f62041f9520585f4eb4a39e7308dd1d1c2d0ba2a59aeb"
+    },
+    {
+      "path": "tools/revise_home_v09.py",
+      "bytes": 6976,
+      "sha256": "6ee8286d23ffa73eaea38267e359938ea5802b67437b0e85c5a6395fd785d314"
+    },
+    {
+      "path": "tools/revise_home_v10.py",
+      "bytes": 9893,
+      "sha256": "2a7c71cfa7d4d87cd232d24b593271522d20a38c7879def6c4042013cf15f287"
+    },
+    {
+      "path": "tools/revise_home_v11.py",
+      "bytes": 9010,
+      "sha256": "7dde8ad52e4a58ecdd15b2d5b4d20f3380fcd41affd50b737ad5525558a05e86"
+    },
+    {
+      "path": "tools/revise_home_v12.py",
+      "bytes": 10517,
+      "sha256": "c7d31b2f64effed0ee3fa8538ac89bc85dfe22cca757bf65cd3f624493289dab"
+    },
+    {
+      "path": "tools/revise_home_v13.py",
+      "bytes": 11177,
+      "sha256": "c4e6e9c575bcd527e51af1e58896e862c69e4dc619cfe076b6e28d731b9ce18b"
+    },
+    {
+      "path": "tools/study_master_bath_expansion_01.py",
+      "bytes": 13442,
+      "sha256": "34ce90cc25accddeff02f6a5570bb4cc613c33b7f6215d0f800dc9483b304a74"
+    },
+    {
+      "path": "tools/test_furniture_movement.py",
+      "bytes": 3033,
+      "sha256": "06d32423b2c14f70ec231e15753b26084d06e0ee969c87c564649b4b1baea163"
+    },
+    {
+      "path": "tools/update_blender_v07.py",
+      "bytes": 12491,
+      "sha256": "4010c554ced519a3be5c125ccdb9a0aff6c41bdb7c7c16625bcc482731ccdedf"
+    },
+    {
+      "path": "tools/update_blender_v08.py",
+      "bytes": 13062,
+      "sha256": "b71238d09ce0b40323b89f795a5c78b1dbdb0c3e0060396e0a56b14a1235cd2c"
+    },
+    {
+      "path": "tools/update_blender_v09.py",
+      "bytes": 7012,
+      "sha256": "657356e8dc840111ce30e62b803cd9de7bf720e727b948ff456cde733d020cdc"
+    },
+    {
+      "path": "tools/update_blender_v10.py",
+      "bytes": 11440,
+      "sha256": "ef03b29ecf4910b28a8a15de519901d19e58f9db964021bd0a56661fc14bdf76"
+    },
+    {
+      "path": "tools/update_blender_v11.py",
+      "bytes": 7177,
+      "sha256": "831dab3732b1728970f3e6950edf396659302041c82ecde78a63114d2b1b879c"
+    },
+    {
+      "path": "tools/update_blender_v12.py",
+      "bytes": 14029,
+      "sha256": "4ebf5864cec7c7761987412e44e1f40957de5ac93382e678833fbd7d17d98b5a"
+    },
+    {
+      "path": "tools/update_blender_v13.py",
+      "bytes": 3800,
+      "sha256": "c5dde6043fb27e12d8de73adbf484dc23713b26828d3ab2389980ca654f4c38d"
+    },
+    {
+      "path": "tools/validate_design_skills.py",
+      "bytes": 1673,
+      "sha256": "e7ef03459b8431297ad7934af1ca71a70a57204449965b28e56a3abc07e804ab"
+    },
+    {
+      "path": "tools/verify_cabinet_options_v08.py",
+      "bytes": 3506,
+      "sha256": "154291ac2f7a506d012a6dd18645423f67d93c5a563c4a599a6abc3a97d0eb2e"
+    },
+    {
+      "path": "tools/verify_japanese_v02.py",
+      "bytes": 3039,
+      "sha256": "f453c27bdb1b9a388fb5d047662e4af04a04291b49574e221059e1a5fe66bbaa"
+    },
+    {
+      "path": "tools/verify_vr_tour.cjs",
+      "bytes": 12037,
+      "sha256": "99f961b2dcd3e7e94f451a653f0569cdd6f78101e98fb1d16b253b86fc038698"
+    }
+  ]
+}

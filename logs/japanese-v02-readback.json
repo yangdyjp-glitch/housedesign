@@ -1,0 +1,246 @@
+{
+  "saved_model_reopened": true,
+  "model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-v06-japanese-v02.blend",
+  "geometry_base_sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+  "style_sha256": "968901055bee32c15e7ff3cea239cdc5fd6c476ff013e95de7dadcd7ca28f579",
+  "furniture": [
+    {
+      "id": "tv-low",
+      "location_mm": [
+        0.0,
+        1800.0
+      ],
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ],
+      "selectable": true
+    },
+    {
+      "id": "tv-high",
+      "location_mm": [
+        0.0,
+        5000.0
+      ],
+      "dimensions_mm": [
+        4500,
+        400,
+        2400
+      ],
+      "selectable": true
+    },
+    {
+      "id": "television",
+      "location_mm": [
+        30.0,
+        2450.0
+      ],
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ],
+      "selectable": true
+    },
+    {
+      "id": "sofa-modular",
+      "location_mm": [
+        2900.0,
+        1300.0
+      ],
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ],
+      "selectable": true
+    },
+    {
+      "id": "ottoman",
+      "location_mm": [
+        3000.0,
+        4350.0
+      ],
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ],
+      "selectable": true
+    },
+    {
+      "id": "side-table",
+      "location_mm": [
+        2650.0,
+        2750.0
+      ],
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ],
+      "selectable": true
+    },
+    {
+      "id": "double-desk",
+      "location_mm": [
+        5300.0,
+        2000.0
+      ],
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ],
+      "selectable": true
+    },
+    {
+      "id": "office-chair-1",
+      "location_mm": [
+        5900.0,
+        2335.0
+      ],
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ],
+      "selectable": true
+    },
+    {
+      "id": "bookcase",
+      "location_mm": [
+        6838.0,
+        1176.0
+      ],
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ],
+      "selectable": true
+    },
+    {
+      "id": "dining-table",
+      "location_mm": [
+        2282.0,
+        7300.0
+      ],
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ],
+      "selectable": true
+    },
+    {
+      "id": "dining-chair-1",
+      "location_mm": [
+        1832.0,
+        7550.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "selectable": true
+    },
+    {
+      "id": "dining-chair-2",
+      "location_mm": [
+        1832.0,
+        8200.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "selectable": true
+    },
+    {
+      "id": "dining-chair-3",
+      "location_mm": [
+        2457.0,
+        6850.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "selectable": true
+    },
+    {
+      "id": "dining-chair-4",
+      "location_mm": [
+        2457.0,
+        8900.0
+      ],
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ],
+      "selectable": true
+    }
+  ],
+  "wall_baseline_count": 60,
+  "glass_count": 8,
+  "curved_finish_profiles": 4,
+  "table_leg_checks": [
+    {
+      "id": "side-table-leg-2690-2790",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "side-table-leg-2690-4070",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "side-table-leg-3270-2790",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "side-table-leg-3270-4070",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "dining-table-leg-2332-7350",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "dining-table-leg-2332-8800",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "dining-table-leg-2982-7350",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "dining-table-leg-2982-8800",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "double-desk-leg-5340-2040",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "double-desk-leg-5340-4310",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "double-desk-leg-5910-2040",
+      "inside_rounded_top": true
+    },
+    {
+      "id": "double-desk-leg-5910-4310",
+      "inside_rounded_top": true
+    }
+  ],
+  "major_furniture_count": 14,
+  "movement_tests": "Actual X/Y 100 mm operator test and restoration on all 14 assemblies: see japanese-v02-render.json",
+  "physical_dimensions_note": "source model consistency, not site measurement accuracy"
+}

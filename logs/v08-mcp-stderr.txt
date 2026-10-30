@@ -1,0 +1,45 @@
+2026-10-30 23:50:38,762 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-30 23:50:38,764 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-30 23:50:38,765 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-30 23:50:38,766 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-30 23:50:38,766 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-30 23:50:38,766 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-30 23:50:38,766 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 23:50:38,771 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-30 23:50:38,771 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-30 23:50:38,771 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 23:50:38,771 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-30 23:50:38,771 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-30 23:50:38,774 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-30 23:50:38,774 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-30 23:50:38,775 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 23:50:38,778 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,dirty=bpy.data.is_dirty,managed=bool(bpy.context.scene.get('HomeDesign_ManagedSession')),revision=bpy.context.scene.get('home_design_revision'),geometry_sha256=bpy.context.scene.get('home_design_geometry_sha256'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,7),dimensions=list(o['dimensions_mm'])) for o in bpy.context.scene.objects if o.get('home_design_role')=='furniture'])))"}
+2026-10-30 23:50:38,778 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 23:50:38,832 - BlenderMCPServer - INFO - Received complete response (2632 bytes)
+2026-10-30 23:50:38,832 - BlenderMCPServer - INFO - Received 2632 bytes of data
+2026-10-30 23:50:38,832 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 23:50:38,833 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-30 23:50:38,833 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 23:50:38,895 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-30 23:50:38,895 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-30 23:50:38,895 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 23:50:38,901 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 23:50:38,901 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy\nbpy.ops.wm.open_mainfile(filepath='D:/AI-Yang.cn/HomeDesign/06_blender/home-main-v08.blend',load_ui=False,use_scripts=False)\nprint('V08_ACTIVE')"}
+2026-10-30 23:50:38,901 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 23:50:39,001 - BlenderMCPServer - INFO - Received complete response (77 bytes)
+2026-10-30 23:50:39,001 - BlenderMCPServer - INFO - Received 77 bytes of data
+2026-10-30 23:50:39,001 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 23:50:39,003 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 23:50:39,005 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy\nff={o['source_id']:o for o in bpy.context.scene.objects if o.get('home_design_role')=='furniture'}\nbpy.ops.object.select_all(action='DESELECT');ob=ff['tv-high'];ob.select_set(True);bpy.context.view_layer.objects.active=ob\nstart=ob.location.x\nbpy.ops.home_design.move(axis='X',direction=1)\nassert abs(ob.location.x-start-.1)<1e-6\nbpy.ops.home_design.move(axis='X',direction=-1)\nassert abs(ob.location.x-start)<1e-6\nassert list(ob['dimensions_mm'])==[4500,400,2750]\nprint('V08_LIVE_MOVEMENT_VERIFIED')"}
+2026-10-30 23:50:39,005 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 23:50:39,020 - BlenderMCPServer - INFO - Received complete response (93 bytes)
+2026-10-30 23:50:39,020 - BlenderMCPServer - INFO - Received 93 bytes of data
+2026-10-30 23:50:39,020 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 23:50:39,023 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 23:50:39,024 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,dirty=bpy.data.is_dirty,managed=bool(bpy.context.scene.get('HomeDesign_ManagedSession')),revision=bpy.context.scene.get('home_design_revision'),geometry_sha256=bpy.context.scene.get('home_design_geometry_sha256'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,7),dimensions=list(o['dimensions_mm'])) for o in bpy.context.scene.objects if o.get('home_design_role')=='furniture'])))"}
+2026-10-30 23:50:39,025 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 23:50:39,082 - BlenderMCPServer - INFO - Received complete response (2632 bytes)
+2026-10-30 23:50:39,082 - BlenderMCPServer - INFO - Received 2632 bytes of data
+2026-10-30 23:50:39,082 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 23:50:39,087 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-30 23:50:39,087 - BlenderMCPServer - INFO - BlenderMCP server shut down

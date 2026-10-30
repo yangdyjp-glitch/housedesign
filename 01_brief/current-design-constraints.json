@@ -1,0 +1,50 @@
+{
+  "updated_date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "source": "direct homeowner instruction in current conversation",
+  "instruction": "之后的所有内容不考虑预算，只考虑设计",
+  "scope": "all subsequent home design work",
+  "budget_considered": false,
+  "active_budget_constraint_rmb": null,
+  "supersedes": "previous RMB 100000 public-area hard-finish budget and its allocation targets as constraints on subsequent design",
+  "design_priorities": [
+    "aesthetic quality and visual coherence",
+    "function, circulation and ergonomics",
+    "materials, color and lighting",
+    "storage and everyday use",
+    "flush doors and walls, narrow finishes, lines and local curves"
+  ],
+  "implementation": "Do not select, downgrade, omit or rank design options by cost, and do not proactively produce estimates, budget allocations or value-for-money comparisons. Retain prior confirmed style and function. Preserve measured and provisional dimensional distinctions.",
+  "historical_budget_records": "preserved as version history; no longer active design constraints",
+  "render_delivery": {
+    "source_instruction": "之后整体出餐厅、客厅、阳台、门厅的实景渲染图",
+    "scope_zh": [
+      "餐厅",
+      "客厅",
+      "阳台",
+      "门厅"
+    ],
+    "applies_to": "all subsequent design updates and render deliveries in this project",
+    "delivery": "Provide one coordinated photorealistic concept render set covering all four areas, rather than only the locally edited area.",
+    "consistency": "Use the same current master model and latest user placements; coordinate style, colors, materials and lighting across all views.",
+    "views": "Include an overall view of each area; add detail or day/evening views when useful for the current design change.",
+    "current_instruction_requires_new_geometry": false
+  },
+  "panorama_delivery": {
+    "source_instruction": "把餐厅、门厅、客厅、阳台制作成可以360度全方位观察的VR影像",
+    "scope_zh": [
+      "餐厅",
+      "门厅",
+      "客厅",
+      "阳台"
+    ],
+    "version": 13,
+    "projection": "monoscopic equirectangular 360x180",
+    "nodes": 4,
+    "resolution": [
+      8192,
+      4096
+    ],
+    "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim"
+  }
+}

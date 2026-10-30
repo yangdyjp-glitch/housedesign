@@ -1,0 +1,18 @@
+[
+  {
+    "view": "top",
+    "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\model-v05-top.png",
+    "projection": "ORTHO",
+    "full_walls": true,
+    "source_sha256": "3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43",
+    "scene_saved": false
+  },
+  {
+    "view": "axonometric",
+    "file": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\model-v05-axonometric.png",
+    "projection": "ORTHO",
+    "full_walls": false,
+    "source_sha256": "3245f7e67295ef319ed20df976297279fc298d05e0d3d6fc9e49d9fd1cf56d43",
+    "scene_saved": false
+  }
+]

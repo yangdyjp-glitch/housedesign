@@ -1,0 +1,52 @@
+{
+  "camera_forward_world": [
+    1,
+    0,
+    0
+  ],
+  "camera_matrix": [
+    [
+      -4.371138828673793e-08,
+      -4.371138828673793e-08,
+      -1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      1.910685676922942e-15,
+      4.371138828673793e-08,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      -4.371138828673793e-08,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "camera_panorama": "EQUIRECTANGULAR",
+  "devices": [
+    {
+      "name": "NVIDIA GeForce RTX 4070 Ti",
+      "type": "CUDA",
+      "use": true
+    },
+    {
+      "name": "12th Gen Intel Core i7-12700KF",
+      "type": "CPU",
+      "use": false
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4070 Ti",
+      "type": "OPTIX",
+      "use": true
+    }
+  ],
+  "image": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\vr-tour-v01\\axis-calibration.png"
+}

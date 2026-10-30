@@ -1,0 +1,31 @@
+{
+  "revision": 6,
+  "geometry_sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+  "files": [
+    {
+      "path": "06_blender/home-main-v06.blend",
+      "sha256": "7b7680e5b52f821f03493bb5dee38f50fe02f6c98d39bd09a8b29382c2f3b5c4",
+      "bytes": 1806941
+    },
+    {
+      "path": "02_geometry/geometry-master-v06.json",
+      "sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+      "bytes": 94825
+    },
+    {
+      "path": "09_delivery/house-v06-fragment.html",
+      "sha256": "10ced6cf8cc7c0ace9e3e168222650a926fcc16ac92c24f61b53d3dec0abe138",
+      "bytes": 137239
+    },
+    {
+      "path": "07_renders/model-v06-top.png",
+      "sha256": "2b6cb27801706f2749b5f127d4d251b236da3bc5f47f00801b6e56eec118373d",
+      "bytes": 2085010
+    },
+    {
+      "path": "07_renders/model-v06-axonometric.png",
+      "sha256": "8381097d8a6e62edef7fee74edeb3ff5a8451c6b70da2b35e54b5aed23f6d372",
+      "bytes": 2076421
+    }
+  ]
+}

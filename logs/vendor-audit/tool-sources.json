@@ -1,0 +1,51 @@
+{
+  "uv": {
+    "version": "0.13.6",
+    "assets": [
+      {
+        "name": "uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip"
+      },
+      {
+        "name": "uv-x86_64-pc-windows-msvc.zip.sha256",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip.sha256"
+      }
+    ]
+  },
+  "mcp": {
+    "version": "2.2.6",
+    "wheel": "D:\\AI-Yang.cn\\HomeDesign\\logs\\downloads\\mcp_for_blender-2.2.6-py3-none-any.whl",
+    "sha256": "6f47cef6a5b5e2084269fcdec027fa8c6fb097157f1bf32cd922a711e59d738c",
+    "requires_dist": [
+      "mcp<2,>=1.26.0",
+      "httpx>=0.27.0"
+    ],
+    "project_urls": {
+      "Bug Tracker": "https://github.com/ahujasid/blender-mcp/issues",
+      "Homepage": "https://github.com/ahujasid/blender-mcp"
+    }
+  },
+  "blender": {
+    "channel": "4.5 LTS",
+    "windows_zips": [
+      "blender-4.5.0-windows-x64.zip",
+      "blender-4.5.1-windows-x64.zip",
+      "blender-4.5.2-windows-x64.zip",
+      "blender-4.5.3-windows-x64.zip",
+      "blender-4.5.4-windows-x64.zip",
+      "blender-4.5.5-windows-x64.zip",
+      "blender-4.5.6-windows-x64.zip",
+      "blender-4.5.7-windows-x64.zip",
+      "blender-4.5.8-windows-x64.zip",
+      "blender-4.5.9-windows-x64.zip",
+      "blender-4.5.10-windows-x64.zip",
+      "blender-4.5.11-windows-x64.zip",
+      "blender-4.5.12-windows-x64.zip",
+      "blender-4.5.13-windows-x64.zip",
+      "blender-4.5.14-windows-x64.zip",
+      "blender-4.5.15-windows-x64.zip"
+    ],
+    "latest": "blender-4.5.15-windows-x64.zip",
+    "base_url": "https://download.blender.org/release/Blender4.5/"
+  }
+}

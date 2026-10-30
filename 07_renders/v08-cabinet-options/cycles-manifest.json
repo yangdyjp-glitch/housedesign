@@ -1,0 +1,76 @@
+{
+  "status": "three unselected options",
+  "base_model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v07.blend",
+  "base_sha256": "f432ed4ed8da8eba33d1574087cb6d0fa0d9387d5c2890c2ba9b6e58e9094fbb",
+  "options": [
+    {
+      "id": "A",
+      "name": "沙灰＋浅橡木",
+      "color_hex": "#B8AA96",
+      "description": "暖沙灰平板门，隐藏式开启；木色仅用于置物格和细节，平静柔和。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-a-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-a-sand-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-a-geometry.json",
+      "geometry_sha256": "778b6ea70f92e7f95d768fce1e7d8222f66f2f994c324f6ce7d9d533117c2b05",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 18
+    },
+    {
+      "id": "B",
+      "name": "灰橄榄绿＋浅木端柜",
+      "color_hex": "#7C8974",
+      "description": "灰绿门板搭配约650mm浅木端柜与细木色内嵌拉手；电视端R80弧形端头，呼应绿植与圆角家具。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-b-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-b-sage-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-b-geometry.json",
+      "geometry_sha256": "7f254d9fa7c1a0bc195e589aa025344fc3d555b856fedb14f8a75042089e3e0e",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 18
+    },
+    {
+      "id": "C",
+      "name": "深蓝下柜＋奶油白上柜＋胡桃木",
+      "color_hex": "#344D65",
+      "description": "深蓝集中在下部，奶油白上柜减轻压迫，胡桃木置物格形成更明确的对比。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-c-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-c-navy-walnut.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-c-geometry.json",
+      "geometry_sha256": "726e14222d9ca59deaf44a8eaa7bf6ee62d7e841b613d0a2f8c772fba250960b",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 18
+    }
+  ]
+}

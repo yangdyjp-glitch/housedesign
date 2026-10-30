@@ -1,0 +1,38 @@
+[
+  {
+    "phase": "create_save",
+    "response": {
+      "meta": null,
+      "content": [
+        {
+          "type": "text",
+          "text": "Code executed successfully: Info: Saved as \"2m-cube-roundtrip.blend\"\n{\"saved\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\validation\\\\2m-cube-roundtrip.blend\", \"dimensions\": [2.0, 2.0, 2.0], \"material\": \"MCP_TEST_BLUE\"}\n",
+          "annotations": null,
+          "meta": null
+        }
+      ],
+      "structuredContent": {
+        "result": "Code executed successfully: Info: Saved as \"2m-cube-roundtrip.blend\"\n{\"saved\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\validation\\\\2m-cube-roundtrip.blend\", \"dimensions\": [2.0, 2.0, 2.0], \"material\": \"MCP_TEST_BLUE\"}\n"
+      },
+      "isError": false
+    }
+  },
+  {
+    "phase": "reopen_read",
+    "response": {
+      "meta": null,
+      "content": [
+        {
+          "type": "text",
+          "text": "Code executed successfully: ROUNDTRIP_OK {\"file\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\validation\\\\2m-cube-roundtrip.blend\", \"dimensions_m\": [2.0, 2.0, 2.0], \"material\": \"MCP_TEST_BLUE\", \"baseColor\": [0.2199999988079071, 0.44999998807907104, 0.699999988079071, 1.0], \"blender\": \"4.5.15 LTS\"}\n",
+          "annotations": null,
+          "meta": null
+        }
+      ],
+      "structuredContent": {
+        "result": "Code executed successfully: ROUNDTRIP_OK {\"file\": \"D:\\\\AI-Yang.cn\\\\HomeDesign\\\\06_blender\\\\validation\\\\2m-cube-roundtrip.blend\", \"dimensions_m\": [2.0, 2.0, 2.0], \"material\": \"MCP_TEST_BLUE\", \"baseColor\": [0.2199999988079071, 0.44999998807907104, 0.699999988079071, 1.0], \"blender\": \"4.5.15 LTS\"}\n"
+      },
+      "isError": false
+    }
+  }
+]

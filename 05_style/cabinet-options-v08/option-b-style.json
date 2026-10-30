@@ -1,0 +1,11 @@
+{
+  "status": "unselected",
+  "option": "B",
+  "name": "灰橄榄绿＋浅木端柜",
+  "base_style": "05_style/modern-japanese-v03.json",
+  "geometry_sha256": "7f254d9fa7c1a0bc195e589aa025344fc3d555b856fedb14f8a75042089e3e0e",
+  "front_srgb_hex": "#7C8974",
+  "description": "灰绿门板搭配约650mm浅木端柜与细木色内嵌拉手；电视端R80弧形端头，呼应绿植与圆角家具。",
+  "cabinet_height_mm": 2750,
+  "ceiling_gap_mm": 0
+}

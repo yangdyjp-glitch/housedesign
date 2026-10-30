@@ -1,0 +1,80 @@
+{
+  "revision": 13,
+  "filename": "home-main-v13.blend",
+  "geometry": "02_geometry/geometry-master-v13.json",
+  "geometry_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+  "style": "05_style/modern-japanese-v09.json",
+  "style_sha256": "5bf6107877d0647f356201cddd13074a91dc5dc42dffd572987f061d32aace59",
+  "style_revision": "modern-japanese-v09",
+  "previous_active_filename": "home-main-v12.blend",
+  "furniture_count": 23,
+  "live_session_verified": true,
+  "cabinet_selection": "C, lower navy replaced with milk yellow",
+  "cabinet_top_gap_mm": 0,
+  "kitchen_sliding_door": true,
+  "door_default_open": false,
+  "public_details": 29,
+  "reference_details": 11,
+  "curtain_blades": 45,
+  "curtain_default": "open",
+  "curtain_translation_and_rotation_separate": true,
+  "lighting_scenes": [
+    "day",
+    "evening",
+    "cleaning",
+    "viewing"
+  ],
+  "default_lighting_scene": "day",
+  "reference_pdf": "00_sources/entry-tv-lighting-curtain-reference.pdf",
+  "entry_clear_width_mm": 1271,
+  "entry_mirror_local_clear_width_mm": 1254,
+  "balcony_tea_set": {
+    "type": "low round pedestal tea table with two opposing low lounge tea chairs",
+    "tableDiameterMm": 700,
+    "tableHeightMm": 380,
+    "chairCount": 2,
+    "chairSizeMm": [
+      600,
+      560,
+      580
+    ],
+    "chairSeatHeightMm": 230,
+    "designer_selected_dimensions": true,
+    "orientation": "chairs oppose along plan x, parallel to balcony glazing",
+    "footprintMm": {
+      "x": 2580,
+      "z": 270,
+      "w": 2140,
+      "d": 700
+    },
+    "windowGapMm": 270,
+    "sofaGapMm": 330,
+    "pullBackTrialMm": 300,
+    "washerFrontClearZone": {
+      "x": 5488,
+      "z": 170,
+      "w": 1000,
+      "d": 600
+    },
+    "rightChairWithPullbackToWasherBodyMm": 1468,
+    "teaware": "one small pot and two cups on one tray",
+    "furnitureIds": [
+      "balcony-tea-table",
+      "balcony-tea-chair-1",
+      "balcony-tea-chair-2"
+    ],
+    "siteAccuracy": "concept dimensions, actual window opening and equipment governs",
+    "reason_for_100mm_shift": "reserve the new curtain blade envelope without changing the latest user sofa or coffee-table positions"
+  },
+  "budget_considered": false,
+  "master_bath_study_only": true,
+  "private_room_boundaries_changed": false,
+  "model_sha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3",
+  "panorama_tour": "09_delivery/vr-tour-v01/打开360全景漫游.html",
+  "panorama_nodes": 4,
+  "panorama_resolution": [
+    8192,
+    4096
+  ],
+  "panorama_projection": "monoscopic equirectangular 360x180"
+}

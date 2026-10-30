@@ -1,0 +1,33 @@
+2026-10-30 18:52:55,557 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-30 18:52:55,558 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-30 18:52:55,559 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-30 18:52:55,560 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-30 18:52:55,560 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-30 18:52:55,560 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-30 18:52:55,561 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 18:52:55,616 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-30 18:52:55,616 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-30 18:52:55,616 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 18:52:55,616 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-30 18:52:55,616 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-30 18:52:55,620 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 18:52:55,620 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-30 18:52:55,624 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy, json\nif not bpy.context.scene.get('HomeDesign_ManagedSession'):\n    raise RuntimeError('Only the task-managed scratch session may be used')\nbpy.ops.object.select_all(action='SELECT')\nbpy.ops.object.delete(use_global=False)\nbpy.context.scene.unit_settings.system='METRIC'\nbpy.context.scene.unit_settings.scale_length=1.0\nbpy.ops.mesh.primitive_cube_add(size=2.0, location=(0,0,1))\ncube=bpy.context.object\ncube.name='MCP_TEST_2M'\nmat=bpy.data.materials.new('MCP_TEST_BLUE')\nmat.diffuse_color=(0.22,0.45,0.7,1)\nmat.use_nodes=True\nmat.node_tree.nodes.get('Principled BSDF').inputs['Base Color'].default_value=(0.22,0.45,0.7,1)\ncube.data.materials.append(mat)\nbpy.ops.wm.save_as_mainfile(filepath='D:/AI-Yang.cn/HomeDesign/06_blender/validation/2m-cube-roundtrip.blend')\nprint(json.dumps(dict(saved=bpy.data.filepath,dimensions=list(cube.dimensions),material=cube.data.materials[0].name)))\n"}
+2026-10-30 18:52:55,625 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 18:52:55,701 - BlenderMCPServer - INFO - Received complete response (279 bytes)
+2026-10-30 18:52:55,701 - BlenderMCPServer - INFO - Received 279 bytes of data
+2026-10-30 18:52:55,701 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 18:52:55,702 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-30 18:52:55,702 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 18:52:55,740 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-30 18:52:55,740 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-30 18:52:55,740 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 18:52:55,742 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-30 18:52:55,745 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-30 18:52:55,746 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy, json\nbpy.ops.wm.open_mainfile(filepath='D:/AI-Yang.cn/HomeDesign/06_blender/validation/2m-cube-roundtrip.blend',load_ui=False,use_scripts=False)\ncube=bpy.data.objects['MCP_TEST_2M']\ndimensions=[round(v,6) for v in cube.dimensions]\nassert dimensions==[2.0,2.0,2.0], dimensions\nassert cube.data.materials[0].name=='MCP_TEST_BLUE'\nassert bpy.context.scene.unit_settings.system=='METRIC'\nprint('ROUNDTRIP_OK '+json.dumps(dict(file=bpy.data.filepath,dimensions_m=dimensions,material=cube.data.materials[0].name,baseColor=list(cube.data.materials[0].diffuse_color),blender=bpy.app.version_string)))\n"}
+2026-10-30 18:52:55,746 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-30 18:52:55,808 - BlenderMCPServer - INFO - Received complete response (360 bytes)
+2026-10-30 18:52:55,808 - BlenderMCPServer - INFO - Received 360 bytes of data
+2026-10-30 18:52:55,808 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-30 18:52:55,811 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-30 18:52:55,811 - BlenderMCPServer - INFO - BlenderMCP server shut down

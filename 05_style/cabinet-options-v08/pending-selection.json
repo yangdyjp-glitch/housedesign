@@ -1,0 +1,41 @@
+{
+  "status": "selected-and-applied",
+  "scope": "tv-high corridor cabinet beside TV only",
+  "homeowner_fixed_requirement": "top meets ceiling, zero open gap; cabinet styles across home need not match",
+  "baseline_active_model": "06_blender/home-main-v07.blend",
+  "option_manifest": "07_renders/v08-cabinet-options/render-manifest.json",
+  "options": [
+    {
+      "id": "A",
+      "name": "沙灰＋浅橡木",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-a-sand-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-a-geometry.json"
+    },
+    {
+      "id": "B",
+      "name": "灰橄榄绿＋浅木端柜",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-b-sage-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-b-geometry.json"
+    },
+    {
+      "id": "C",
+      "name": "深蓝下柜＋奶油白上柜＋胡桃木",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-c-navy-walnut.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-c-geometry.json"
+    }
+  ],
+  "designer_recommendation": "B",
+  "homeowner_selection": {
+    "option": "C",
+    "amendment": "replace lower navy with milk yellow",
+    "lower_srgb_concept": "#F1DDAE",
+    "upper": "cream",
+    "niche": "walnut",
+    "source": "direct user instruction"
+  },
+  "next_action": "Continue from v13 native panorama model, preserve latest sofa3100/1300 ottoman3200/4350 coffee2550/2650 and v12 entry/TV/cove/curtain refinements",
+  "active_model": "06_blender/home-main-v13.blend",
+  "applied_geometry": "02_geometry/geometry-master-v08.json",
+  "geometry_sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca",
+  "designer_recommendation_status": "Historical recommendation B; homeowner selected amended C instead"
+}

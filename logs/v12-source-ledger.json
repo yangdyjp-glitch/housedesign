@@ -1,0 +1,109 @@
+{
+  "revision": 12,
+  "geometry_sha256": "d794e0d7905f630ef8eda6ed66f41d06c3b201f94c3d9e97d82a03573dd001a1",
+  "source": {
+    "source": "00_sources/entry-tv-lighting-curtain-reference.pdf",
+    "source_sha256": "de71bd0cd48096238a054e92e8d2d07f288df31dabb9918177cde025e84b5970",
+    "pages": {
+      "entry": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "tv": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lighting": [
+        9,
+        10,
+        12
+      ],
+      "curtain": [
+        10,
+        11,
+        12
+      ]
+    },
+    "reference_policy": "borrow functions and proportions; source dimensions, devices, brand choices, automation and construction claims are not user instructions",
+    "entry": {
+      "oldClearWidthMm": 921,
+      "clearWidthMm": 1271,
+      "localMirrorClearWidthMm": 1254,
+      "gainAtMirrorMm": 333,
+      "removedFurnitureId": "entry-return-cabinet",
+      "layout": "single short-wall cabinet, open bench and hooks, upper closed storage, side full-length mirror",
+      "benchWidthMm": 801,
+      "benchHeightMm": 450,
+      "bottomGapMm": 160,
+      "mainStorage": "existing tv-high entry end; user inventory still deferred"
+    },
+    "tv": {
+      "screenInches": 85,
+      "floatingBottomMm": 180,
+      "floatingBodyHeightMm": 270,
+      "endBoxLengthMm": 500,
+      "screenMountingUnchanged": true
+    },
+    "curvedCove": {
+      "radiusMm": 180,
+      "source": "design proposal; not measured from PDF",
+      "lowerEdgeHeightMm": 2520,
+      "topSlotMm": 32
+    },
+    "curtain": {
+      "type": "warm-white dream curtain; translation and blade rotation are distinct",
+      "default": "open",
+      "collection": "single left stack to keep laundry side free",
+      "modelBladeCount": 45,
+      "bladeWidthMm": 132,
+      "trackHeightMm": 2500,
+      "hemHeightMm": 20,
+      "reservedSweepMm": {
+        "x": 853,
+        "z": 0,
+        "w": 5675,
+        "d": 160,
+        "y": 20,
+        "h": 2480
+      },
+      "nightPrivacy": "unverified; not equivalent to blackout",
+      "productAndMotorUnselected": true
+    },
+    "lighting": {
+      "scenes": [
+        "day",
+        "evening",
+        "cleaning",
+        "viewing"
+      ],
+      "layers": [
+        "general direct",
+        "ceiling cove",
+        "curtain wash",
+        "cabinet niche",
+        "task lamps",
+        "entry guide"
+      ],
+      "valuesAre": "relative rendering controls, not luminaire watts or photometric results"
+    },
+    "privateBoundariesChanged": false,
+    "budgetConsidered": false
+  },
+  "rebuildFurnitureIds": [
+    "entry-shoe-cabinet",
+    "tv-low"
+  ],
+  "removedFurnitureIds": [
+    "entry-return-cabinet"
+  ],
+  "teaShiftMm": 100,
+  "latestUserLivingPlacementsPreserved": true,
+  "furnitureCount": 23,
+  "ff": [],
+  "fw": [],
+  "fc": []
+}

@@ -1,0 +1,17 @@
+{
+  "revision": 6,
+  "inspected": [
+    "widget-v06-plan-hover.png",
+    "widget-v06-3d-hover.png",
+    "widget-v06-mobile-hover.png",
+    "widget-v06-dark-hover.png",
+    "model-v06-top.png",
+    "model-v06-axonometric.png"
+  ],
+  "result": "Dimensions readable; upper-end chaise, four dining chairs, one office chair and continuous entry cabinet visible. Tooltip fits canvas on narrow width. Full walls retained in saved source.",
+  "launcher": "v06 active manifest, hidden managed window detected without displaying it",
+  "recovery": [
+    "Preview wrapper initially already existed; refreshed the task-owned preview with --force.",
+    "Blender movement operator required a separate MCP callback after reopening to refresh selection context; split load and verification, then all 14 passed."
+  ]
+}

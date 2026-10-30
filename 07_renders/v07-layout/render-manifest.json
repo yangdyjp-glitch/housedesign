@@ -1,0 +1,66 @@
+{
+  "revision": 7,
+  "geometry_sha256": "0ccc097db63ca0b4732518708e3f2e01c78e31049a9a5eb364fca4d581bd28bd",
+  "style_sha256": "624d1c7b0e4c18fc1df2ed3a4e7fb567d6fe704154929f285c67f144570939df",
+  "actual_render_mode": "Blender Cycles 96 samples, OptiX",
+  "imagegen_used_this_revision": false,
+  "images": [
+    {
+      "path": "07_renders/v07-layout/green-corner.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "2c0df809cf82218869def80a965d3d30e26aa0ef0f49398889b1d03bc85dfcfe",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v07-layout/balcony-laundry.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "d699b42f00eb7a575634f9c4bd61598eee8042ce12747090e84a669237dfd6dc",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v07-layout/desk-single-34.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "3d5fbc41a9728c458e1c9b0e0fce226fac3ded539856628d1d692ea2afb7de7d",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v07-layout/entry-cabinets-cutaway.png",
+      "size": [
+        1500,
+        1300
+      ],
+      "sha256": "600369c1322a804849eb5d355eae1e8e6aaeae93a706174dd982ca1a2286773f",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v07-layout/overview-cutaway.png",
+      "size": [
+        1800,
+        1450
+      ],
+      "sha256": "c3f8e396dfec209e8226a2ea458c55d43352467630ad1261945e54d506dfd814",
+      "visually_reviewed": true
+    }
+  ],
+  "model": "06_blender/home-main-v07.blend",
+  "furniture_count": 21,
+  "parts": 344,
+  "source_walls": 60,
+  "glass": 8,
+  "furniture_wall_aabb_intersections": [],
+  "furniture_furniture_aabb_intersections": [],
+  "real_world_accuracy": "source model consistency only; dimensions and products provisional",
+  "render_review": "04_reviews/v07审美与实用性.md",
+  "live_session": "logs/v07-live-state.json",
+  "widget": "logs/widget-v07-verification.json",
+  "live_operator_note": "MCP safe mode forbids module reload/registration; used existing operator with both laundry devices selected, verified movement and restoration. Updated installed add-on tested separately in new background process supports automatic movement_group linking. No safe mode setting changed."
+}

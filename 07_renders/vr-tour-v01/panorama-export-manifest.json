@@ -1,0 +1,72 @@
+{
+  "revision": 13,
+  "source": "Blender Cycles native spherical renders; JPEG encoding only; no AI repaint or geometry warp",
+  "projection": "monoscopic equirectangular",
+  "metadata_reference": "https://developers.google.com/streetview/spherical-metadata",
+  "images": [
+    {
+      "id": "living",
+      "native_png": "07_renders/vr-tour-v01/living-day.png",
+      "native_png_sha256": "36ac7a28bce693a59784753c5c01aab375e5418dec105b0c03555bf0dafe0d2c",
+      "viewer_jpeg": "07_renders/vr-tour-v01/living-day.jpg",
+      "viewer_jpeg_sha256": "5269560e9571e2e936f6d89526af2af05eb7e09e5398a80351f7a7e8801fd53d",
+      "pixels": [
+        8192,
+        4096
+      ],
+      "jpeg_quality": 92,
+      "chroma_subsampling": "4:4:4",
+      "bytes": 1881566,
+      "gpano": "equirectangular, full 360x180",
+      "geographic_heading_invented": false
+    },
+    {
+      "id": "dining",
+      "native_png": "07_renders/vr-tour-v01/dining-day.png",
+      "native_png_sha256": "ceac348ffd47bf40486e0f9af0a81bfd033c985c38373f9cab2eb6ec0bd9e63c",
+      "viewer_jpeg": "07_renders/vr-tour-v01/dining-day.jpg",
+      "viewer_jpeg_sha256": "f9c9cbc9e6aa8e3130ac460c35168b344213718b07ffdba2138cff767e6d5bbb",
+      "pixels": [
+        8192,
+        4096
+      ],
+      "jpeg_quality": 92,
+      "chroma_subsampling": "4:4:4",
+      "bytes": 1663937,
+      "gpano": "equirectangular, full 360x180",
+      "geographic_heading_invented": false
+    },
+    {
+      "id": "balcony",
+      "native_png": "07_renders/vr-tour-v01/balcony-day.png",
+      "native_png_sha256": "96b572b75848dbcd5afe2e00452a2031d049bd9a46a16461ccf16e7eff10e675",
+      "viewer_jpeg": "07_renders/vr-tour-v01/balcony-day.jpg",
+      "viewer_jpeg_sha256": "75fb571907332f154612b41968411225c875869f3ee25fa76029127d60b95d8d",
+      "pixels": [
+        8192,
+        4096
+      ],
+      "jpeg_quality": 92,
+      "chroma_subsampling": "4:4:4",
+      "bytes": 2032551,
+      "gpano": "equirectangular, full 360x180",
+      "geographic_heading_invented": false
+    },
+    {
+      "id": "entry",
+      "native_png": "07_renders/vr-tour-v01/entry-day.png",
+      "native_png_sha256": "9f79bf5adb7dcae7d234d930b76313d36b16974a75764db22d22fec02ad8dc03",
+      "viewer_jpeg": "07_renders/vr-tour-v01/entry-day.jpg",
+      "viewer_jpeg_sha256": "5b465ea5c9a90975921583e2c6b831547fd6c9efb963192606172732f51aa9a1",
+      "pixels": [
+        8192,
+        4096
+      ],
+      "jpeg_quality": 92,
+      "chroma_subsampling": "4:4:4",
+      "bytes": 1559925,
+      "gpano": "equirectangular, full 360x180",
+      "geographic_heading_invented": false
+    }
+  ]
+}

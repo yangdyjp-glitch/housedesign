@@ -1,0 +1,19 @@
+{
+  "revision": 9,
+  "zip": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\v09-餐厨玻璃推拉门.zip",
+  "files": 17,
+  "zip_valid": true,
+  "images_visually_reviewed": true,
+  "model_sha256": "e0f9533041dfb15c02cec9a50de62c299387304c8e94a49db72c81b44cd7a25e",
+  "geometry_sha256": "c3806b73ad37549d6329159fb1178d8fd2d79804e0584f6eb219e98d7b91ec0c",
+  "style_sha256": "5062cec31e157faa218ebe173cdd41a618c258d43695ff5b61474c484f33d5ef",
+  "active_model_matches": true,
+  "geometry_master_matches": true,
+  "previous_v08_unchanged": true,
+  "door_furniture_contacts": {
+    "closed": [],
+    "open": []
+  },
+  "door_toggle_verified": true,
+  "all_21_furniture_retained": true
+}

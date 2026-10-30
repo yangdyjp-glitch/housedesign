@@ -1,0 +1,11 @@
+{
+  "status": "unselected",
+  "option": "C",
+  "name": "深蓝下柜＋奶油白上柜＋胡桃木",
+  "base_style": "05_style/modern-japanese-v03.json",
+  "geometry_sha256": "726e14222d9ca59deaf44a8eaa7bf6ee62d7e841b613d0a2f8c772fba250960b",
+  "front_srgb_hex": "#344D65",
+  "description": "深蓝集中在下部，奶油白上柜减轻压迫，胡桃木置物格形成更明确的对比。",
+  "cabinet_height_mm": 2750,
+  "ceiling_gap_mm": 0
+}

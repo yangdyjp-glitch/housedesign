@@ -1,0 +1,91 @@
+{
+  "status": "passed",
+  "html": "D:/AI-Yang.cn/HomeDesign/logs/vr-viewer-calibration/打开360全景漫游.html",
+  "htmlSha256": "a67ee1d0962af7748b7583b69503759a14add8570457533a15f84481d24176ab",
+  "calibrationOnly": true,
+  "tests": [
+    "Local file opens offline; spherical WebGL projection; 2:1 image decode",
+    "Mouse drag changes yaw/pitch and rendered pixel output",
+    "Wheel zoom and reset",
+    "Arrow keys, Home and keyboard zoom",
+    "All four final image scenes decode, upload and switch",
+    "Map toggles and switches scene",
+    "Projected hotspot uses world direction and switches observation point",
+    "Chinese usage help opens/closes",
+    "Mobile single-finger spherical rotation",
+    "Mobile two-finger pinch changes field of view",
+    "Mobile scene switch, reset and no horizontal overflow at 390px",
+    "320px viewport has no horizontal overflow",
+    "Zenith/nadir and continuous 360-degree yaw wrap",
+    "No network requests, CDN or page errors under browser offline mode"
+  ],
+  "screenshots": [
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-viewer-calibration-desktop.png",
+    "D:/AI-Yang.cn/HomeDesign/logs/vr-viewer-calibration-mobile.png"
+  ],
+  "headsetTested": false,
+  "decodedImages": [
+    {
+      "id": "dining",
+      "width": 4096,
+      "height": 2048,
+      "textureWidth": 4096,
+      "textureHeight": 2048
+    },
+    {
+      "id": "entry",
+      "width": 4096,
+      "height": 2048,
+      "textureWidth": 4096,
+      "textureHeight": 2048
+    },
+    {
+      "id": "living",
+      "width": 4096,
+      "height": 2048,
+      "textureWidth": 4096,
+      "textureHeight": 2048
+    },
+    {
+      "id": "balcony",
+      "width": 4096,
+      "height": 2048,
+      "textureWidth": 4096,
+      "textureHeight": 2048
+    }
+  ],
+  "requests": [
+    "file:///D:/AI-Yang.cn/HomeDesign/logs/vr-viewer-calibration/%E6%89%93%E5%BC%80360%E5%85%A8%E6%99%AF%E6%BC%AB%E6%B8%B8.html",
+    "file:///D:/AI-Yang.cn/HomeDesign/logs/vr-viewer-calibration/%E6%89%93%E5%BC%80360%E5%85%A8%E6%99%AF%E6%BC%AB%E6%B8%B8.html"
+  ],
+  "errors": [],
+  "webglState": {
+    "scene": "living",
+    "yaw": 0.6981317007977239,
+    "pitch": -1.5607963267948965,
+    "fov": 75,
+    "loaded": true,
+    "width": 4096,
+    "height": 2048,
+    "textureWidth": 4096,
+    "textureHeight": 2048,
+    "frame": 33,
+    "error": null,
+    "yawDeg": 39.999999999999545,
+    "pitchDeg": -89.42704220486918,
+    "webgl": true,
+    "maxTextureSize": 8192,
+    "scenes": [
+      "dining",
+      "entry",
+      "living",
+      "balcony"
+    ],
+    "perspectiveProjection": true,
+    "networkDependencies": 0,
+    "positionPlanMm": [
+      1700,
+      4500
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": null,
+  "content": [
+    {
+      "type": "text",
+      "text": "Code executed successfully: GEOMETRY_AUDIT_OK {\"furniture_bbox_max_error_mm\": 0.000381, \"furniture\": 13, \"parts\": 175, \"wall_ids_match\": true, \"aligned_wall_face_mm\": 1072, \"balcony_glass_bottom_mm\": 0, \"geographic_orientation\": \"unknown\", \"source_dimensions_verified\": false}\n",
+      "annotations": null,
+      "meta": null
+    }
+  ],
+  "structuredContent": {
+    "result": "Code executed successfully: GEOMETRY_AUDIT_OK {\"furniture_bbox_max_error_mm\": 0.000381, \"furniture\": 13, \"parts\": 175, \"wall_ids_match\": true, \"aligned_wall_face_mm\": 1072, \"balcony_glass_bottom_mm\": 0, \"geographic_orientation\": \"unknown\", \"source_dimensions_verified\": false}\n"
+  },
+  "isError": false
+}

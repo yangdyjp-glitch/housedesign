@@ -1,0 +1,1088 @@
+{
+  "tools": [
+    "get_addon_status",
+    "disable_telemetry",
+    "get_scene_info",
+    "execute_blender_code",
+    "record_trajectory_feedback",
+    "look",
+    "generate_3d",
+    "search_assets",
+    "import_asset"
+  ],
+  "live": {
+    "file": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v09.blend",
+    "dirty": false,
+    "managed": true,
+    "revision": 9,
+    "positions": [
+      {
+        "id": "tv-low",
+        "x": 0.0,
+        "z": 1800.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "television",
+        "x": 30.0,
+        "z": 2450.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "sofa-modular",
+        "x": 2900.0,
+        "z": 1800.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "ottoman",
+        "x": 3000.0,
+        "z": 4850.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "side-table",
+        "x": 2650.0,
+        "z": 3250.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "office-chair-1",
+        "x": 5900.0,
+        "z": 2335.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "bookcase",
+        "x": 6838.0,
+        "z": 1176.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-table",
+        "x": 2282.0,
+        "z": 7300.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-1",
+        "x": 1832.0,
+        "z": 7550.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-2",
+        "x": 1832.0,
+        "z": 8200.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-3",
+        "x": 2457.0,
+        "z": 6850.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dining-chair-4",
+        "x": 2457.0,
+        "z": 8900.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "double-desk",
+        "x": 5300.0,
+        "z": 2000.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "entry-shoe-cabinet",
+        "x": 921.0,
+        "z": 9635.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "entry-return-cabinet",
+        "x": 0.0,
+        "z": 10818.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "plant-balcony-tall",
+        "x": 150.0,
+        "z": 120.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "plant-tv-medium",
+        "x": 100.0,
+        "z": 1030.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "plant-balcony-low",
+        "x": 1100.0,
+        "z": 200.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "washer",
+        "x": 6488.0,
+        "z": 170.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "dryer",
+        "x": 6488.0,
+        "z": 170.0,
+        "rotation": 0.0
+      },
+      {
+        "id": "tv-high",
+        "x": 0.0,
+        "z": 5000.0,
+        "rotation": 0.0
+      }
+    ],
+    "materials": [
+      {
+        "name": "J02 · 低饱和苔绿色织物",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "J02 · 深蓝书脊",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "J02 · 深蓝色织物",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 3000K灯带",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 关闭的黑玻璃屏幕",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 哑白顶面",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 实体透明玻璃",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 暖白哑光柜门",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 暖白细肌理墙面",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 沙发框体织物",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 浅木地板",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Texture Coordinate",
+            "type": "TEX_COORD"
+          },
+          {
+            "name": "Vector Math",
+            "type": "VECT_MATH"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Color Ramp",
+            "type": "VALTORGB"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          },
+          {
+            "name": "Brick Texture",
+            "type": "TEX_BRICK"
+          },
+          {
+            "name": "Mix (Legacy)",
+            "type": "MIX_RGB"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Texture Coordinate",
+            "to_node": "Vector Math",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Vector Math",
+            "to_node": "Noise Texture",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Color Ramp",
+            "to_socket": "Fac"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          },
+          {
+            "from_node": "Texture Coordinate",
+            "to_node": "Brick Texture",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Color Ramp",
+            "to_node": "Mix (Legacy)",
+            "to_socket": "Color1"
+          },
+          {
+            "from_node": "Brick Texture",
+            "to_node": "Mix (Legacy)",
+            "to_socket": "Color2"
+          },
+          {
+            "from_node": "Mix (Legacy)",
+            "to_node": "Principled BSDF",
+            "to_socket": "Base Color"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 浅橡木细纹",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Texture Coordinate",
+            "type": "TEX_COORD"
+          },
+          {
+            "name": "Vector Math",
+            "type": "VECT_MATH"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Color Ramp",
+            "type": "VALTORGB"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Texture Coordinate",
+            "to_node": "Vector Math",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Vector Math",
+            "to_node": "Noise Texture",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Color Ramp",
+            "to_socket": "Fac"
+          },
+          {
+            "from_node": "Color Ramp",
+            "to_node": "Principled BSDF",
+            "to_socket": "Base Color"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 深灰细砂金属",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 灰绿书脊",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 窗框暖灰铝材",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "R01 · 米灰亚麻混纺",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Bump",
+            "type": "BUMP"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Bump",
+            "to_socket": "Height"
+          },
+          {
+            "from_node": "Bump",
+            "to_node": "Principled BSDF",
+            "to_socket": "Normal"
+          }
+        ]
+      },
+      {
+        "name": "V08 · 柔和奶黄色下柜",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      },
+      {
+        "name": "V08 · 温润胡桃木置物格",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED"
+          },
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Noise Texture",
+            "type": "TEX_NOISE"
+          },
+          {
+            "name": "Texture Coordinate",
+            "type": "TEX_COORD"
+          },
+          {
+            "name": "Vector Math",
+            "type": "VECT_MATH"
+          },
+          {
+            "name": "Color Ramp",
+            "type": "VALTORGB"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Principled BSDF",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          },
+          {
+            "from_node": "Texture Coordinate",
+            "to_node": "Vector Math",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Vector Math",
+            "to_node": "Noise Texture",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Noise Texture",
+            "to_node": "Color Ramp",
+            "to_socket": "Fac"
+          },
+          {
+            "from_node": "Color Ramp",
+            "to_node": "Principled BSDF",
+            "to_socket": "Base Color"
+          }
+        ]
+      },
+      {
+        "name": "V08 · 纱网外观占位",
+        "nodes": [
+          {
+            "name": "Material Output",
+            "type": "OUTPUT_MATERIAL"
+          },
+          {
+            "name": "Mix Shader",
+            "type": "MIX_SHADER"
+          },
+          {
+            "name": "Transparent BSDF",
+            "type": "BSDF_TRANSPARENT"
+          },
+          {
+            "name": "Diffuse BSDF",
+            "type": "BSDF_DIFFUSE"
+          },
+          {
+            "name": "Texture Coordinate",
+            "type": "TEX_COORD"
+          },
+          {
+            "name": "Wave Texture",
+            "type": "TEX_WAVE"
+          },
+          {
+            "name": "Math",
+            "type": "MATH"
+          },
+          {
+            "name": "Wave Texture.001",
+            "type": "TEX_WAVE"
+          },
+          {
+            "name": "Math.001",
+            "type": "MATH"
+          },
+          {
+            "name": "Math.002",
+            "type": "MATH"
+          }
+        ],
+        "links": [
+          {
+            "from_node": "Texture Coordinate",
+            "to_node": "Wave Texture",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Wave Texture",
+            "to_node": "Math",
+            "to_socket": "Value"
+          },
+          {
+            "from_node": "Texture Coordinate",
+            "to_node": "Wave Texture.001",
+            "to_socket": "Vector"
+          },
+          {
+            "from_node": "Wave Texture.001",
+            "to_node": "Math.001",
+            "to_socket": "Value"
+          },
+          {
+            "from_node": "Math",
+            "to_node": "Math.002",
+            "to_socket": "Value"
+          },
+          {
+            "from_node": "Math.001",
+            "to_node": "Math.002",
+            "to_socket": "Value"
+          },
+          {
+            "from_node": "Math.002",
+            "to_node": "Mix Shader",
+            "to_socket": "Fac"
+          },
+          {
+            "from_node": "Transparent BSDF",
+            "to_node": "Mix Shader",
+            "to_socket": "Shader"
+          },
+          {
+            "from_node": "Diffuse BSDF",
+            "to_node": "Mix Shader",
+            "to_socket": "Shader"
+          },
+          {
+            "from_node": "Mix Shader",
+            "to_node": "Material Output",
+            "to_socket": "Surface"
+          }
+        ]
+      }
+    ],
+    "lights": [
+      {
+        "name": "主光",
+        "type": "AREA",
+        "energy": 1600.0,
+        "color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "position": [
+          -3.0,
+          -3.0,
+          12.0
+        ]
+      },
+      {
+        "name": "补光",
+        "type": "AREA",
+        "energy": 950.0,
+        "color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "position": [
+          10.0,
+          -10.0,
+          8.0
+        ]
+      },
+      {
+        "name": "阳台柔和日光",
+        "type": "AREA",
+        "energy": 1450.0,
+        "color": [
+          1.0,
+          0.9399999976158142,
+          0.8299999833106995
+        ],
+        "position": [
+          3.6500000953674316,
+          0.699999988079071,
+          1.649999976158142
+        ]
+      },
+      {
+        "name": "入户侧开口日光",
+        "type": "AREA",
+        "energy": 400.0,
+        "color": [
+          0.8399999737739563,
+          0.9100000262260437,
+          1.0
+        ],
+        "position": [
+          -0.699999988079071,
+          -10.100000381469727,
+          1.4500000476837158
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          1.149999976158142,
+          -2.5,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯.001",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          3.299999952316284,
+          -2.5,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯.002",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          5.900000095367432,
+          -2.5,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯.003",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          1.2999999523162842,
+          -5.599999904632568,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯.004",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          5.400000095367432,
+          -5.599999904632568,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯.005",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          1.399999976158142,
+          -7.5,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "3000K柔和顶灯.006",
+        "type": "AREA",
+        "energy": 35.0,
+        "color": [
+          1.0,
+          0.8299999833106995,
+          0.6299999952316284
+        ],
+        "position": [
+          1.399999976158142,
+          -9.0,
+          2.734999895095825
+        ]
+      },
+      {
+        "name": "置物格内部照明",
+        "type": "AREA",
+        "energy": 3.5,
+        "color": [
+          1.0,
+          0.7799999713897705,
+          0.49000000953674316
+        ],
+        "position": [
+          0.2800000011920929,
+          -9.0,
+          1.3799999952316284
+        ]
+      }
+    ],
+    "ceilings": [
+      {
+        "name": "表现用顶面 · 暂定净高2750",
+        "dimensions": [
+          10.795000076293945,
+          12.40999984741211,
+          0.0
+        ],
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  }
+}

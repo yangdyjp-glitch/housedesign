@@ -1,0 +1,165 @@
+{
+  "status": "three unselected options",
+  "base_model": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v07.blend",
+  "base_sha256": "f432ed4ed8da8eba33d1574087cb6d0fa0d9387d5c2890c2ba9b6e58e9094fbb",
+  "options": [
+    {
+      "id": "A",
+      "name": "沙灰＋浅橡木",
+      "color_hex": "#B8AA96",
+      "description": "暖沙灰平板门，隐藏式开启；木色仅用于置物格和细节，平静柔和。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-a-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-a-sand-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-a-geometry.json",
+      "geometry_sha256": "778b6ea70f92e7f95d768fce1e7d8222f66f2f994c324f6ce7d9d533117c2b05",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 18
+    },
+    {
+      "id": "B",
+      "name": "灰橄榄绿＋浅木端柜",
+      "color_hex": "#7C8974",
+      "description": "灰绿门板搭配约650mm浅木端柜与细木色内嵌拉手；电视端R80弧形端头，呼应绿植与圆角家具。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-b-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-b-sage-oak.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-b-geometry.json",
+      "geometry_sha256": "7f254d9fa7c1a0bc195e589aa025344fc3d555b856fedb14f8a75042089e3e0e",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 18
+    },
+    {
+      "id": "C",
+      "name": "深蓝下柜＋奶油白上柜＋胡桃木",
+      "color_hex": "#344D65",
+      "description": "深蓝集中在下部，奶油白上柜减轻压迫，胡桃木置物格形成更明确的对比。",
+      "png": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v08-cabinet-options\\option-c-cycles.png",
+      "blend": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\cabinet-option-c-navy-walnut.blend",
+      "geometry": "D:\\AI-Yang.cn\\HomeDesign\\05_style\\cabinet-options-v08\\option-c-geometry.json",
+      "geometry_sha256": "726e14222d9ca59deaf44a8eaa7bf6ee62d7e841b613d0a2f8c772fba250960b",
+      "ceiling_height_mm": 2750,
+      "cabinet_top_mm": 2750,
+      "top_gap_mm": 0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_furniture_meshes_and_positions_unchanged": true,
+      "active_main_not_modified": true,
+      "camera_position": [
+        2.8499999046325684,
+        -7.199999809265137,
+        1.5199999809265137
+      ],
+      "camera_lens": 18
+    }
+  ],
+  "images": [
+    {
+      "option": "A",
+      "kind": "imagegen",
+      "path": "07_renders/v08-cabinet-options/option-a-photoreal.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "2bd3b74ee173b2640e98be4f730c4f2a87d4a78707e13727da48cfa04c146a1b",
+      "raw_source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-20978cba-1a8e-461a-a63d-833bdc358d23.png"
+    },
+    {
+      "option": "A",
+      "kind": "Cycles",
+      "path": "07_renders/v08-cabinet-options/option-a-cycles.png",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6d8f27e1b43a85ccbc512e4c321ee9cf067504976b3b8ac866b028ac831e0cf8",
+      "raw_source": null
+    },
+    {
+      "option": "B",
+      "kind": "imagegen",
+      "path": "07_renders/v08-cabinet-options/option-b-photoreal.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "21e384fb5b360db7884d1074ea7ecd8c5367359b63a7b2311c143968d92c2737",
+      "raw_source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-07ffb33d-2d6d-4828-b9be-cc54bdf45e58.png"
+    },
+    {
+      "option": "B",
+      "kind": "Cycles",
+      "path": "07_renders/v08-cabinet-options/option-b-cycles.png",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b0fa7d7f62c0e710bd9b55b5f4d06f7e29b153362d3811fe4cfb8d1cadc60816",
+      "raw_source": null
+    },
+    {
+      "option": "C",
+      "kind": "imagegen",
+      "path": "07_renders/v08-cabinet-options/option-c-photoreal.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "483cca247349f739c5f0e280b1a73d27f0d1e0d04e36c8bdd3c176fa58e79319",
+      "raw_source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-21d3a18a-0a1e-44c9-a166-5dcfabb6b2ac.png"
+    },
+    {
+      "option": "C",
+      "kind": "Cycles",
+      "path": "07_renders/v08-cabinet-options/option-c-cycles.png",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "d00521bf3aed5cf321526a639756b5d5a769e67daec8685d9a934f7a7a9f9eeb",
+      "raw_source": null
+    }
+  ],
+  "imagegen_mode": "built-in",
+  "imagegen_calls": 3,
+  "correction_calls": 0,
+  "prompt_file": "imagegen-prompts.json",
+  "selection_status": "awaiting homeowner choice A / B / C",
+  "designer_recommendation": "B, not homeowner selection",
+  "fixed_conditions": [
+    "4500x400 footprint and 21 furniture positions retained",
+    "corridor cabinet top 2750mm, zero ceiling gap",
+    "single 1200-1400mm niche preserved",
+    "remaining cabinets may have different finishes"
+  ],
+  "geometry_readback": "logs/cabinet-options-v08-readback.json",
+  "visual_review": {
+    "top_joint": "all three show matching scribe reaching ceiling",
+    "niche": "one shallow niche at left in all three",
+    "A": "sand-grey fronts and oak niche retained",
+    "B": "olive fronts, one closed pale oak end bay and round end retained",
+    "C": "cream upper and navy lower retained; walnut niche retained",
+    "differences": "AI adjusted exterior foliage/reflections and fine surface grain. In B the prominence of slim inset pulls differs from the native image. Use Cycles/model for joints and dimensions."
+  }
+}

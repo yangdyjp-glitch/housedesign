@@ -1,0 +1,15 @@
+{
+  "meta": null,
+  "content": [
+    {
+      "type": "text",
+      "text": "Code executed successfully: V13_LATEST_POSITIONS_MOVEMENT_AND_PANORAMA_VERIFIED\n",
+      "annotations": null,
+      "meta": null
+    }
+  ],
+  "structuredContent": {
+    "result": "Code executed successfully: V13_LATEST_POSITIONS_MOVEMENT_AND_PANORAMA_VERIFIED\n"
+  },
+  "isError": false
+}

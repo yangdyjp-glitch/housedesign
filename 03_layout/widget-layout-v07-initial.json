@@ -1,0 +1,153 @@
+{
+  "revision": 7,
+  "units": "mm",
+  "furniturePositions": [
+    {
+      "id": "tv-low",
+      "x": 0,
+      "z": 1800,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "tv-high",
+      "x": 0,
+      "z": 5000,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "television",
+      "x": 30,
+      "z": 2450,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "sofa-modular",
+      "x": 2900,
+      "z": 1800,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "ottoman",
+      "x": 3000,
+      "z": 4850,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "side-table",
+      "x": 2650,
+      "z": 3250,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "double-desk",
+      "x": 5300,
+      "z": 2000,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900,
+      "z": 2335,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "bookcase",
+      "x": 6838,
+      "z": 1176,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-table",
+      "x": 2282,
+      "z": 7300,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832,
+      "z": 7550,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832,
+      "z": 8200,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457,
+      "z": 6850,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457,
+      "z": 8900,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 921,
+      "z": 9635,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "entry-return-cabinet",
+      "x": 0,
+      "z": 10818,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150,
+      "z": 120,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100,
+      "z": 1030,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100,
+      "z": 200,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "washer",
+      "x": 6488,
+      "z": 170,
+      "dx": 0,
+      "dz": 0
+    },
+    {
+      "id": "dryer",
+      "x": 6488,
+      "z": 170,
+      "dx": 0,
+      "dz": 0
+    }
+  ]
+}

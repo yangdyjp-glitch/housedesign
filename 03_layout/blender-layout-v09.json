@@ -1,0 +1,177 @@
+{
+  "units": "mm",
+  "revision": 9,
+  "relative_to": "geometry-master-v09",
+  "source": "logs/v09-live-state.json actual managed Blender readback",
+  "kitchenDoorOpen": false,
+  "objects": [
+    {
+      "id": "tv-low",
+      "x": 0.0,
+      "z": 1800.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "television",
+      "x": 30.0,
+      "z": 2450.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "sofa-modular",
+      "x": 2900.0,
+      "z": 1800.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "ottoman",
+      "x": 3000.0,
+      "z": 4850.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "side-table",
+      "x": 2650.0,
+      "z": 3250.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900.0,
+      "z": 2335.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "bookcase",
+      "x": 6838.0,
+      "z": 1176.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "dining-table",
+      "x": 2282.0,
+      "z": 7300.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832.0,
+      "z": 7550.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832.0,
+      "z": 8200.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457.0,
+      "z": 6850.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457.0,
+      "z": 8900.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "double-desk",
+      "x": 5300.0,
+      "z": 2000.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 921.0,
+      "z": 9635.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "entry-return-cabinet",
+      "x": 0.0,
+      "z": 10818.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150.0,
+      "z": 120.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100.0,
+      "z": 1030.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100.0,
+      "z": 200.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "washer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "dryer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    },
+    {
+      "id": "tv-high",
+      "x": 0.0,
+      "z": 5000.0,
+      "dx": 0.0,
+      "dz": 0.0,
+      "rotation_z_degrees": 0.0
+    }
+  ]
+}

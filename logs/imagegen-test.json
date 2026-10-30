@@ -1,0 +1,16 @@
+{
+  "mode": "built-in imagegen",
+  "purpose": "environment-only fictional non-private reading nook",
+  "input_private_images": false,
+  "path": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\environment-test-fictional.png",
+  "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-28678033-e94b-4a0a-bbbd-15192632419e.png",
+  "format": "PNG",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "sha256": "cbf3731d4b340582cce8b56583cb0235de867ca81f5a9c7e78a542a63eb6813c",
+  "result": "passed",
+  "prompt": "Create a single realistic architectural interior image for a software environment connectivity test. This is a wholly fictional, generic room, unrelated to any real home, drawing or private project. A small peaceful reading nook with warm off-white walls, one pale oak desk, one beige chair, a book and a potted plant beside a tall window. Daylight, soft shadows, normal eye-level architectural photography, straight vertical lines, natural proportions, refined but simple. No people, no logos, no text, no floorplan or technical drawing. Landscape composition.",
+  "inspection": "Saved PNG opened and visually inspected; coherent desk/chair/window scene, no private project input."
+}

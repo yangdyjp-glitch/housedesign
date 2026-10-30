@@ -1,0 +1,7585 @@
+{
+  "title": "房屋主模型 · 绿植角 / 入户L柜 / 阳台洗烘 / 34寸单屏",
+  "revision": 7,
+  "units": "mm",
+  "height": 2750,
+  "geometry_status": "依据手绘图的初步空间复原；非闭合实测CAD或施工图",
+  "photo": "C:/Users/Administrator/Desktop/房型.jpg",
+  "reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-9cd2d453-b333-4021-b37e-41631362d66d.png",
+  "alignment_reference": "C:/Users/ADMINI~1/AppData/Local/Temp/codex-clipboard-df1537cd-add6-4258-8426-21e02c517ef3.png",
+  "assumptions": [
+    "外墙厚240 mm、内墙厚120–168 mm为建模暂定值，并非承重判断。",
+    "统一墙高2750 mm为暂定值；照片中的h/D标注仅用于局部窗洞参考。",
+    "优先保留墙体关系和清楚的分段净尺寸；外轮廓总长未闭合，纵向位置含拟合。",
+    "房间用途已按用户说明更新；客卫保留原图中的上下两区及内部隔断。",
+    "阳台按照片上侧长窗区域理解，窗下缘至地面，窗顶2270 mm暂沿原开口。",
+    "主卧凸出部分为飘窗，凸出500 mm；窗台高500 mm暂定，未将其计为可步入地面。",
+    "红框两段墙以室内侧墙面z=1072 mm对齐；因墙厚不同，不强制墙中心线相同。",
+    "三段红圈墙已从OBJ、GLB和现状平面中删除；DELETED_REFERENCE层仅留核对位置。",
+    "双人办公桌在沙发后，两席同向面对电视；书柜独立在座位后方，座椅活动区与通道分开。",
+    "家具尺寸为方案尺寸，非产品实测或定制下单尺寸；浅木、暖白与灰米色仅作材质示意。",
+    "底板厚160 mm仅为显示占位；不代表楼板结构尺寸。",
+    "v06家具尺寸为本次配套设计建议；85英寸指屏幕对角线，机壳1900×70×1100 mm为通用示意。",
+    "入户端按用户明确的图片左下侧定位；通长柜先延伸至现有左下洞口上沿附近，柜长4500 mm为拟定尺寸，门宽与精确洞口仍待核。",
+    "通长柜靠门端置物格按离地1200–1400 mm理解，净高200 mm。",
+    "家具悬停显示长、宽、高；办公桌显示桌体高度750 mm，显示器总高另行注明；电视高度不包含离地安装高度。",
+    "用户方位图：上南下北、左东右西；向北移动即向图片下方、平面z增加。不是实测地理方位。",
+    "沙发、茶几及配套脚凳按设计建议同向下移500mm，避免茶几与原位脚凳重叠；其余既有家具位置继承。",
+    "入户L形立柜深350mm、高2400mm；短边921mm，长边1533mm含350mm封闭盲角，不把盲角记为可直接存取空间。入口局部净宽921mm，门扇开向及精确洞口仍待核。",
+    "阳台洗烘按下洗上烘叠放，单机通用包络600宽×650深×850高mm，中间30mm安装件占位。前面朝图左，后方50mm仅为方案预留，最终按具体型号安装图深化。",
+    "34英寸按超宽单屏占位，机壳约810长×90深×370高mm，参考官方尺寸但未选购具体产品；桌体仍为2400×700×750mm。",
+    "三盆落地绿植从阳台左侧延伸到电视右侧，尺寸为含叶冠包络的约值；小绿植、台灯、笔筒和杯子随桌体整体移动。",
+    "脚凳移后到客卫前墙局部最小距离470mm，不视为主通道；主通行沿电视柜与脚凳左侧，宽2600mm。办公椅后408mm既有局部净距继续待体验。"
+  ],
+  "floor": [
+    [
+      0,
+      0
+    ],
+    [
+      7188,
+      0
+    ],
+    [
+      7188,
+      1072
+    ],
+    [
+      10795,
+      1072
+    ],
+    [
+      10795,
+      9635
+    ],
+    [
+      3500,
+      9635
+    ],
+    [
+      3500,
+      12410
+    ],
+    [
+      438,
+      12410
+    ],
+    [
+      438,
+      11168
+    ],
+    [
+      0,
+      11168
+    ]
+  ],
+  "walls": [
+    {
+      "id": "outer-top-0",
+      "x": -240,
+      "z": -240,
+      "w": 1093,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-top-lintel-0",
+      "x": 853,
+      "z": -240,
+      "w": 5675,
+      "d": 240,
+      "y": 2270,
+      "h": 480,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-top-end",
+      "x": 6528,
+      "z": -240,
+      "w": 900,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-0",
+      "x": -240,
+      "z": -240,
+      "w": 240,
+      "d": 9775,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-lintel-0",
+      "x": -240,
+      "z": 9535,
+      "w": 240,
+      "d": 1230,
+      "y": 2344,
+      "h": 406,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-end",
+      "x": -240,
+      "z": 10765,
+      "w": 240,
+      "d": 643,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "top-step-end",
+      "x": 7188,
+      "z": 0,
+      "w": 240,
+      "d": 1072,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-top-left-end",
+      "x": 7188,
+      "z": 832,
+      "w": 661,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-top-right-end",
+      "x": 10324,
+      "z": 832,
+      "w": 711,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-left-end",
+      "x": 7849,
+      "z": 572,
+      "w": 100,
+      "d": 500,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-right-end",
+      "x": 10224,
+      "z": 572,
+      "w": 100,
+      "d": 500,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-0",
+      "x": 7849,
+      "z": 472,
+      "w": 100,
+      "d": 100,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-sill-0",
+      "x": 7949,
+      "z": 472,
+      "w": 2275,
+      "d": 100,
+      "y": 0,
+      "h": 500,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-lintel-0",
+      "x": 7949,
+      "z": 472,
+      "w": 2275,
+      "d": 100,
+      "y": 2274,
+      "h": 476,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-end",
+      "x": 10224,
+      "z": 472,
+      "w": 100,
+      "d": 100,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "master-bay-seat",
+      "x": 7849,
+      "z": 572,
+      "w": 2475,
+      "d": 500,
+      "y": 0,
+      "h": 500,
+      "kind": "bay-seat",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-0",
+      "x": 10795,
+      "z": 1072,
+      "w": 240,
+      "d": 4053,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-sill-0",
+      "x": 10795,
+      "z": 5125,
+      "w": 240,
+      "d": 869,
+      "y": 0,
+      "h": 445,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-lintel-0",
+      "x": 10795,
+      "z": 5125,
+      "w": 240,
+      "d": 869,
+      "y": 1918,
+      "h": 832,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-end",
+      "x": 10795,
+      "z": 5994,
+      "w": 240,
+      "d": 3881,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-0",
+      "x": 3082,
+      "z": 9635,
+      "w": 848,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-sill-0",
+      "x": 3930,
+      "z": 9635,
+      "w": 699,
+      "d": 240,
+      "y": 0,
+      "h": 448,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-lintel-0",
+      "x": 3930,
+      "z": 9635,
+      "w": 699,
+      "d": 240,
+      "y": 1920,
+      "h": 830,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-1",
+      "x": 4629,
+      "z": 9635,
+      "w": 721,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-sill-1",
+      "x": 5350,
+      "z": 9635,
+      "w": 1522,
+      "d": 240,
+      "y": 0,
+      "h": 602,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-lintel-1",
+      "x": 5350,
+      "z": 9635,
+      "w": 1522,
+      "d": 240,
+      "y": 2371,
+      "h": 379,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-2",
+      "x": 6872,
+      "z": 9635,
+      "w": 1222,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-sill-2",
+      "x": 8094,
+      "z": 9635,
+      "w": 2172,
+      "d": 240,
+      "y": 0,
+      "h": 614,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-lintel-2",
+      "x": 8094,
+      "z": 9635,
+      "w": 2172,
+      "d": 240,
+      "y": 2386,
+      "h": 364,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-end",
+      "x": 10266,
+      "z": 9635,
+      "w": 769,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-0",
+      "x": 3500,
+      "z": 9635,
+      "w": 240,
+      "d": 900,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-sill-0",
+      "x": 3500,
+      "z": 10535,
+      "w": 240,
+      "d": 1423,
+      "y": 0,
+      "h": 494,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-lintel-0",
+      "x": 3500,
+      "z": 10535,
+      "w": 240,
+      "d": 1423,
+      "y": 1966,
+      "h": 784,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-end",
+      "x": 3500,
+      "z": 11958,
+      "w": 240,
+      "d": 692,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-bottom-end",
+      "x": 198,
+      "z": 12410,
+      "w": 3542,
+      "d": 240,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-left-end",
+      "x": 198,
+      "z": 11168,
+      "w": 240,
+      "d": 1242,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "left-step-return-end",
+      "x": -240,
+      "z": 11168,
+      "w": 1511,
+      "d": 180,
+      "y": 0,
+      "h": 2750,
+      "kind": "external",
+      "confidence": "provisional"
+    },
+    {
+      "id": "left-short-partition-end",
+      "x": 1271,
+      "z": 9635,
+      "w": 120,
+      "d": 1533,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional",
+      "planCornerRadiiMm": [
+        60,
+        60,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "retained-central-right-end",
+      "x": 7188,
+      "z": 1072,
+      "w": 140,
+      "d": 3824,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "retained-central-top-stub-end",
+      "x": 6516,
+      "z": 932,
+      "w": 812,
+      "d": 140,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional",
+      "planCornerRadiiMm": [
+        65,
+        0,
+        0,
+        65
+      ]
+    },
+    {
+      "id": "retained-central-bottom-stub-end",
+      "x": 6916,
+      "z": 4776,
+      "w": 454,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional",
+      "planCornerRadiiMm": [
+        50,
+        0,
+        0,
+        50
+      ]
+    },
+    {
+      "id": "upper-right-bottom-lintel-0",
+      "x": 7370,
+      "z": 4776,
+      "w": 866,
+      "d": 120,
+      "y": 2180,
+      "h": 570,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-1",
+      "x": 8236,
+      "z": 4776,
+      "w": 1488,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-lintel-1",
+      "x": 9724,
+      "z": 4776,
+      "w": 892,
+      "d": 120,
+      "y": 2100,
+      "h": 650,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-end",
+      "x": 10616,
+      "z": 4776,
+      "w": 179,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-left-end",
+      "x": 9203,
+      "z": 4896,
+      "w": 120,
+      "d": 2134,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-bottom-end",
+      "x": 9203,
+      "z": 6910,
+      "w": 1592,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-service-block",
+      "x": 9323,
+      "z": 6559,
+      "w": 280,
+      "d": 351,
+      "y": 0,
+      "h": 1100,
+      "kind": "recess",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-left-end",
+      "x": 3082,
+      "z": 6090,
+      "w": 120,
+      "d": 3545,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-right-end",
+      "x": 4759,
+      "z": 6090,
+      "w": 120,
+      "d": 3545,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-top-0",
+      "x": 3082,
+      "z": 5970,
+      "w": 730,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional",
+      "planCornerRadiiMm": [
+        80,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "lower-narrow-top-lintel-0",
+      "x": 3812,
+      "z": 5970,
+      "w": 947,
+      "d": 120,
+      "y": 2100,
+      "h": 650,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-split-0",
+      "x": 3082,
+      "z": 7455,
+      "w": 869,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-narrow-split-lintel-0",
+      "x": 3951,
+      "z": 7455,
+      "w": 808,
+      "d": 120,
+      "y": 2100,
+      "h": 650,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-top-0",
+      "x": 4759,
+      "z": 6145,
+      "w": 184,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-top-lintel-0",
+      "x": 4943,
+      "z": 6145,
+      "w": 868,
+      "d": 120,
+      "y": 2100,
+      "h": 650,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-top-end",
+      "x": 5811,
+      "z": 6145,
+      "w": 1813,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-centre-right-end",
+      "x": 7456,
+      "z": 6265,
+      "w": 168,
+      "d": 3370,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-left-service-block",
+      "x": 3082,
+      "z": 9275,
+      "w": 418,
+      "d": 360,
+      "y": 0,
+      "h": 1100,
+      "kind": "recess",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bottom-corner-block",
+      "x": 438,
+      "z": 12037,
+      "w": 373,
+      "d": 373,
+      "y": 0,
+      "h": 2750,
+      "kind": "recess",
+      "confidence": "provisional"
+    }
+  ],
+  "glass": [
+    {
+      "id": "outer-top-glass-0",
+      "x": 853,
+      "z": -132.0,
+      "w": 5675,
+      "d": 24,
+      "y": 0,
+      "h": 2270,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-left-glass-0",
+      "x": -132.0,
+      "z": 9535,
+      "w": 24,
+      "d": 1230,
+      "y": 0,
+      "h": 2344,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "bay-front-glass-0",
+      "x": 7949,
+      "z": 510.0,
+      "w": 2275,
+      "d": 24,
+      "y": 500,
+      "h": 1774,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "outer-right-glass-0",
+      "x": 10903.0,
+      "z": 5125,
+      "w": 24,
+      "d": 869,
+      "y": 445,
+      "h": 1473,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-glass-0",
+      "x": 3930,
+      "z": 9743.0,
+      "w": 699,
+      "d": 24,
+      "y": 448,
+      "h": 1472,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-glass-1",
+      "x": 5350,
+      "z": 9743.0,
+      "w": 1522,
+      "d": 24,
+      "y": 602,
+      "h": 1769,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "front-facade-glass-2",
+      "x": 8094,
+      "z": 9743.0,
+      "w": 2172,
+      "d": 24,
+      "y": 614,
+      "h": 1772,
+      "kind": "glass",
+      "confidence": "provisional"
+    },
+    {
+      "id": "lower-projection-right-glass-0",
+      "x": 3608.0,
+      "z": 10535,
+      "w": 24,
+      "d": 1423,
+      "y": 494,
+      "h": 1472,
+      "kind": "glass",
+      "confidence": "provisional"
+    }
+  ],
+  "removed": [
+    {
+      "id": "deleted-vertical",
+      "x": 4070,
+      "z": 1072,
+      "w": 144,
+      "d": 3704,
+      "y": 0,
+      "h": 2750,
+      "kind": "removed"
+    },
+    {
+      "id": "deleted-top-return",
+      "x": 4070,
+      "z": 932,
+      "w": 644,
+      "d": 140,
+      "y": 0,
+      "h": 2750,
+      "kind": "removed"
+    },
+    {
+      "id": "deleted-bottom-return",
+      "x": 4070,
+      "z": 4776,
+      "w": 1982,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "removed"
+    }
+  ],
+  "openings": [
+    {
+      "wall": "outer-top",
+      "axis": "x",
+      "c": -240,
+      "start": 853,
+      "end": 6528,
+      "sill": 0,
+      "top": 2270,
+      "type": "window"
+    },
+    {
+      "wall": "outer-left",
+      "axis": "z",
+      "c": -240,
+      "start": 9535,
+      "end": 10765,
+      "sill": 0,
+      "top": 2344,
+      "type": "window"
+    },
+    {
+      "wall": "bay-front",
+      "axis": "x",
+      "c": 472,
+      "start": 7949,
+      "end": 10224,
+      "sill": 500,
+      "top": 2274,
+      "type": "window"
+    },
+    {
+      "wall": "outer-right",
+      "axis": "z",
+      "c": 10795,
+      "start": 5125,
+      "end": 5994,
+      "sill": 445,
+      "top": 1918,
+      "type": "window"
+    },
+    {
+      "wall": "front-facade",
+      "axis": "x",
+      "c": 9635,
+      "start": 3930,
+      "end": 4629,
+      "sill": 448,
+      "top": 1920,
+      "type": "window"
+    },
+    {
+      "wall": "front-facade",
+      "axis": "x",
+      "c": 9635,
+      "start": 5350,
+      "end": 6872,
+      "sill": 602,
+      "top": 2371,
+      "type": "window"
+    },
+    {
+      "wall": "front-facade",
+      "axis": "x",
+      "c": 9635,
+      "start": 8094,
+      "end": 10266,
+      "sill": 614,
+      "top": 2386,
+      "type": "window"
+    },
+    {
+      "wall": "lower-projection-right",
+      "axis": "z",
+      "c": 3500,
+      "start": 10535,
+      "end": 11958,
+      "sill": 494,
+      "top": 1966,
+      "type": "window"
+    },
+    {
+      "wall": "upper-right-bottom",
+      "axis": "x",
+      "c": 4776,
+      "start": 7370,
+      "end": 8236,
+      "sill": 0,
+      "top": 2180,
+      "type": "door"
+    },
+    {
+      "wall": "upper-right-bottom",
+      "axis": "x",
+      "c": 4776,
+      "start": 9724,
+      "end": 10616,
+      "sill": 0,
+      "top": 2100,
+      "type": "door"
+    },
+    {
+      "wall": "lower-narrow-top",
+      "axis": "x",
+      "c": 5970,
+      "start": 3812,
+      "end": 4759,
+      "sill": 0,
+      "top": 2100,
+      "type": "door"
+    },
+    {
+      "wall": "lower-narrow-split",
+      "axis": "x",
+      "c": 7455,
+      "start": 3951,
+      "end": 4759,
+      "sill": 0,
+      "top": 2100,
+      "type": "door"
+    },
+    {
+      "wall": "lower-centre-top",
+      "axis": "x",
+      "c": 6145,
+      "start": 4943,
+      "end": 5811,
+      "sill": 0,
+      "top": 2100,
+      "type": "door"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "open",
+      "name": "客厅",
+      "x": 3450,
+      "z": 3220,
+      "detail": "用户确认用途为客厅；红圈三段墙已删除，原隔间已并入。"
+    },
+    {
+      "id": "balcony",
+      "name": "阳台",
+      "x": 3250,
+      "z": 510,
+      "detail": "上侧长窗按落地窗处理，下缘为地面；窗顶暂沿原开口2270 mm。"
+    },
+    {
+      "id": "upper-right",
+      "name": "主卧",
+      "x": 9020,
+      "z": 2850,
+      "detail": "净宽按原图3467 mm；上方凸出部分为飘窗，非落地空间。"
+    },
+    {
+      "id": "bay",
+      "name": "飘窗",
+      "x": 9086,
+      "z": 805,
+      "detail": "主卧飘窗：凸出500 mm；窗台高暂定500 mm，需复核。"
+    },
+    {
+      "id": "hall",
+      "name": "通道",
+      "x": 6020,
+      "z": 5480,
+      "detail": "原图通道关系保留；局部尺寸为拟合。"
+    },
+    {
+      "id": "small-right",
+      "name": "主卫",
+      "x": 10020,
+      "z": 5920,
+      "detail": "暂按1472 × 2014 mm；与横墙2040标注冲突。"
+    },
+    {
+      "id": "narrow-top",
+      "name": "客卫上区",
+      "shortName": "客卫",
+      "group": "guest-bath",
+      "x": 3980,
+      "z": 6730,
+      "detail": "客卫上区，保留内部隔断和开口；暂按1557 × 1365 mm。"
+    },
+    {
+      "id": "narrow-bottom",
+      "name": "客卫下区",
+      "shortName": "客卫",
+      "group": "guest-bath",
+      "x": 3980,
+      "z": 8490,
+      "detail": "与上区同属客卫；净尺寸按原图1557 × 2060 mm。"
+    },
+    {
+      "id": "centre",
+      "name": "客卧",
+      "x": 6167,
+      "z": 8120,
+      "detail": "净尺寸按原图2577 × 3370 mm。"
+    },
+    {
+      "id": "lower-right",
+      "name": "次卧",
+      "x": 9210,
+      "z": 8350,
+      "detail": "底段按原图3171 × 2605 mm；保留上侧转折。"
+    },
+    {
+      "id": "projection",
+      "name": "厨房",
+      "x": 2060,
+      "z": 11340,
+      "detail": "用户确认用途为厨房；底宽3062 mm、纵深2775 mm。"
+    }
+  ],
+  "features": {
+    "balconyWindow": {
+      "wall": "outer-top",
+      "bottom": 0,
+      "top": 2270,
+      "type": "floor-level-window",
+      "topProvisional": true
+    },
+    "masterBay": {
+      "seat": "master-bay-seat",
+      "projection": 500,
+      "seatHeight": 500,
+      "seatHeightProvisional": true
+    },
+    "alignedWalls": {
+      "indoorFaceAxis": "z",
+      "indoorFaceCoordinate": 1072,
+      "segments": [
+        "retained-central-top-stub",
+        "upper-right-top-left",
+        "upper-right-top-right"
+      ]
+    },
+    "furnishing": {
+      "selectedSchemes": [
+        {
+          "zone": "red",
+          "option": "A",
+          "name": "电视低柜与入户通长立柜"
+        },
+        {
+          "zone": "blue",
+          "option": "B",
+          "name": "贵妃组合沙发与加大茶几"
+        },
+        {
+          "zone": "green",
+          "option": "B",
+          "name": "双人桌单屏一椅"
+        },
+        {
+          "zone": "yellow",
+          "option": "A",
+          "name": "高柜与开放书架"
+        },
+        {
+          "zone": "ink",
+          "option": "B",
+          "name": "四人餐桌靠墙，无卡座"
+        }
+      ],
+      "officeFacesTV": true,
+      "diningBanquette": false,
+      "movable": true,
+      "moveStepMm": 100,
+      "movableObjectIds": [
+        "tv-low",
+        "tv-high",
+        "television",
+        "sofa-modular",
+        "ottoman",
+        "side-table",
+        "double-desk",
+        "office-chair-1",
+        "bookcase",
+        "dining-table",
+        "dining-chair-1",
+        "dining-chair-2",
+        "dining-chair-3",
+        "dining-chair-4",
+        "entry-shoe-cabinet",
+        "entry-return-cabinet",
+        "plant-balcony-tall",
+        "plant-tv-medium",
+        "plant-balcony-low",
+        "washer",
+        "dryer"
+      ],
+      "layoutEdited": true,
+      "currentReview": {
+        "localOfficeGapMm": 408,
+        "sofaToCoffeeTableMm": 500,
+        "chaiseToCoffeeTableMm": 450,
+        "leftDiningAisleMm": 1432,
+        "positionsPreservedUnlessResized": true,
+        "sofaToDeskMm": 500,
+        "ottomanToBathFrontMm": 470,
+        "mainAisleBesideOttomanMm": 2600
+      },
+      "hoverDimensions": true,
+      "officeChairCount": 1,
+      "diningChairCount": 4,
+      "televisionDiagonalInches": 85,
+      "sofaChaiseEnd": "plan-top",
+      "diningTableAgainstWall": true,
+      "continuousCabinet": {
+        "lengthMm": 4500,
+        "depthMm": 400,
+        "heightMm": 2400,
+        "startPlanZ": 5000,
+        "endPlanZ": 9500,
+        "nicheBottomMm": 1200,
+        "nicheTopMm": 1400,
+        "nicheClearHeightMm": 200,
+        "nicheClearDepthMm": 380,
+        "nicheClearLengthMm": 960
+      },
+      "monitorCount": 1,
+      "monitorDiagonalInches": 34,
+      "livingNorthShiftMm": 500,
+      "greenCorner": "balcony left + TV right toward balcony",
+      "entryCabinetDepthMm": 350,
+      "laundry": {
+        "configuration": "washer below dryer",
+        "front": "negative-plan-x",
+        "singleEnvelopeMm": [
+          600,
+          650,
+          850
+        ],
+        "stackKitMm": 30
+      }
+    },
+    "entrance": {
+      "plan_side": "lower-left",
+      "approximate_point": [
+        0,
+        10150
+      ],
+      "opening_width_confirmed": false,
+      "source": "user: balcony taken as south implies entrance northeast / lower-left in this image",
+      "orientation_status": "user diagram confirmed up south/down north/left east/right west; exact door opening and swing unverified"
+    },
+    "compass": {
+      "top": "南",
+      "bottom": "北",
+      "left": "东",
+      "right": "西",
+      "source": "00_sources/v07-user-compass.png"
+    }
+  },
+  "dimensions": [
+    {
+      "a": [
+        0,
+        -430
+      ],
+      "b": [
+        7188,
+        -430
+      ],
+      "label": "7188"
+    },
+    {
+      "a": [
+        7328,
+        1800
+      ],
+      "b": [
+        10795,
+        1800
+      ],
+      "label": "3467*"
+    },
+    {
+      "a": [
+        4879,
+        9925
+      ],
+      "b": [
+        7456,
+        9925
+      ],
+      "label": "2577"
+    },
+    {
+      "a": [
+        7624,
+        10255
+      ],
+      "b": [
+        10795,
+        10255
+      ],
+      "label": "3171"
+    },
+    {
+      "a": [
+        438,
+        13000
+      ],
+      "b": [
+        3500,
+        13000
+      ],
+      "label": "3062"
+    },
+    {
+      "a": [
+        6930,
+        6265
+      ],
+      "b": [
+        6930,
+        9635
+      ],
+      "label": "3370"
+    }
+  ],
+  "beams": [
+    {
+      "a": [
+        0,
+        1072
+      ],
+      "b": [
+        4070,
+        1072
+      ],
+      "label": "h2362？"
+    },
+    {
+      "a": [
+        0,
+        6090
+      ],
+      "b": [
+        3082,
+        6090
+      ],
+      "label": "h2484？"
+    }
+  ],
+  "measurements": [
+    {
+      "name": "上侧横向总宽",
+      "source": 7188,
+      "used": 7188,
+      "status": "采用"
+    },
+    {
+      "name": "上侧浅区进深",
+      "source": 1072,
+      "used": 1072,
+      "status": "采用"
+    },
+    {
+      "name": "原中间隔间净宽",
+      "source": 2974,
+      "used": 2974,
+      "status": "墙已删除，保留定位"
+    },
+    {
+      "name": "原中间隔间进深",
+      "source": 3704,
+      "used": 3704,
+      "status": "手写末位待核"
+    },
+    {
+      "name": "主卧净宽",
+      "source": 3467,
+      "used": 3467,
+      "status": "手写末位待核"
+    },
+    {
+      "name": "客卧",
+      "source": [
+        2577,
+        3370
+      ],
+      "used": [
+        2577,
+        3370
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "客卫上区",
+      "source": [
+        1554,
+        1365
+      ],
+      "used": [
+        1557,
+        1365
+      ],
+      "status": "与下区对齐，宽差3"
+    },
+    {
+      "name": "客卫下区",
+      "source": [
+        1557,
+        2060
+      ],
+      "used": [
+        1557,
+        2060
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "次卧底段",
+      "source": [
+        3171,
+        2605
+      ],
+      "used": [
+        3171,
+        2605
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "主卫",
+      "source": [
+        1472,
+        2014
+      ],
+      "used": [
+        1472,
+        2014
+      ],
+      "status": "与横墙2040标注冲突，待核"
+    },
+    {
+      "name": "厨房底宽/纵深",
+      "source": [
+        3062,
+        2775
+      ],
+      "used": [
+        3062,
+        2775
+      ],
+      "status": "采用"
+    },
+    {
+      "name": "左外墙总长",
+      "source": 11089,
+      "used": 9635,
+      "status": "与分段尺寸不闭合，未作为硬约束"
+    },
+    {
+      "name": "左侧内部纵向标注",
+      "source": 6432,
+      "used": null,
+      "status": "起止点待核"
+    },
+    {
+      "name": "主卧外墙纵向标注",
+      "source": null,
+      "used": 3704,
+      "status": "字迹待核，暂与相邻空间对齐"
+    },
+    {
+      "name": "主卫下横墙",
+      "source": 2040,
+      "used": 1592,
+      "status": "与净宽标注不闭合，待核"
+    },
+    {
+      "name": "阳台窗下缘",
+      "source": "用户确认落地窗",
+      "used": 0,
+      "status": "取消上一版607 mm窗下墙，窗顶2270 mm暂沿原开口"
+    },
+    {
+      "name": "主卧飘窗凸出/窗台高",
+      "source": [
+        500,
+        "待核"
+      ],
+      "used": [
+        500,
+        500
+      ],
+      "status": "凸出尺寸沿原图，窗台高500 mm暂定"
+    }
+  ],
+  "furniture": [
+    {
+      "id": "tv-low-case-body",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 1800,
+      "w": 400,
+      "d": 3200,
+      "y": 70,
+      "h": 380,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-low-case-top",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 1800,
+      "w": 400,
+      "d": 3200,
+      "y": 430,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "tv-low-case-door-0",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 1804.0,
+      "w": 18,
+      "d": 792.0,
+      "y": 74,
+      "h": 352,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-low-case-handle-0",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 2155.0,
+      "w": 3,
+      "d": 90,
+      "y": 305.6,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-low-case-door-1",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 2604.0,
+      "w": 18,
+      "d": 792.0,
+      "y": 74,
+      "h": 352,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-low-case-handle-1",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 2955.0,
+      "w": 3,
+      "d": 90,
+      "y": 305.6,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-low-case-door-2",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 3404.0,
+      "w": 18,
+      "d": 792.0,
+      "y": 74,
+      "h": 352,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-low-case-handle-2",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 3755.0,
+      "w": 3,
+      "d": 90,
+      "y": 305.6,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-low-case-door-3",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 4204.0,
+      "w": 18,
+      "d": 792.0,
+      "y": 74,
+      "h": 352,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-low-case-handle-3",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 4555.0,
+      "w": 3,
+      "d": 90,
+      "y": 305.6,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-low-plinth",
+      "parent": "tv-low",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 45,
+      "z": 1840,
+      "w": 300,
+      "d": 3120,
+      "y": 0,
+      "h": 70,
+      "material": "metal"
+    },
+    {
+      "id": "ottoman-base",
+      "parent": "ottoman",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3020,
+      "z": 4870,
+      "w": 810,
+      "d": 610,
+      "y": 80,
+      "h": 210,
+      "material": "fabric-dark"
+    },
+    {
+      "id": "ottoman-cushion",
+      "parent": "ottoman",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3000,
+      "z": 4850,
+      "w": 850,
+      "d": 650,
+      "y": 290,
+      "h": 140,
+      "material": "fabric"
+    },
+    {
+      "id": "ottoman-foot-2070-4120",
+      "parent": "ottoman",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3070,
+      "z": 4920,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 80,
+      "material": "metal"
+    },
+    {
+      "id": "ottoman-foot-2070-4560",
+      "parent": "ottoman",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3070,
+      "z": 5360,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 80,
+      "material": "metal"
+    },
+    {
+      "id": "ottoman-foot-2720-4120",
+      "parent": "ottoman",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3720,
+      "z": 4920,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 80,
+      "material": "metal"
+    },
+    {
+      "id": "ottoman-foot-2720-4560",
+      "parent": "ottoman",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3720,
+      "z": 5360,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 80,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-seat",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5900,
+      "z": 2350,
+      "w": 500,
+      "d": 500,
+      "y": 420,
+      "h": 65,
+      "material": "sage"
+    },
+    {
+      "id": "office-chair-1-back",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6335,
+      "z": 2350,
+      "w": 65,
+      "d": 500,
+      "y": 485,
+      "h": 465,
+      "material": "sage"
+    },
+    {
+      "id": "office-chair-1-arm-2635",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5970,
+      "z": 2335,
+      "w": 330,
+      "d": 30,
+      "y": 640,
+      "h": 35,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-arm-support-2635",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6240,
+      "z": 2335,
+      "w": 35,
+      "d": 30,
+      "y": 485,
+      "h": 155,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-arm-3135",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5970,
+      "z": 2835,
+      "w": 330,
+      "d": 30,
+      "y": 640,
+      "h": 35,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-arm-support-3135",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6240,
+      "z": 2835,
+      "w": 35,
+      "d": 30,
+      "y": 485,
+      "h": 155,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-column",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6115,
+      "z": 2565,
+      "w": 70,
+      "d": 70,
+      "y": 90,
+      "h": 330,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-base-x",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5875,
+      "z": 2575,
+      "w": 550,
+      "d": 50,
+      "y": 60,
+      "h": 30,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-base-z",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6125,
+      "z": 2325,
+      "w": 50,
+      "d": 550,
+      "y": 60,
+      "h": 30,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-caster--250-0",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5870,
+      "z": 2570,
+      "w": 60,
+      "d": 60,
+      "y": 0,
+      "h": 60,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-caster-250-0",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6370,
+      "z": 2570,
+      "w": 60,
+      "d": 60,
+      "y": 0,
+      "h": 60,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-caster-0--250",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6120,
+      "z": 2320,
+      "w": 60,
+      "d": 60,
+      "y": 0,
+      "h": 60,
+      "material": "metal"
+    },
+    {
+      "id": "office-chair-1-caster-0-250",
+      "parent": "office-chair-1",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6120,
+      "z": 2820,
+      "w": 60,
+      "d": 60,
+      "y": 0,
+      "h": 60,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-north-tower-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1176,
+      "w": 350,
+      "d": 800,
+      "y": 0,
+      "h": 2400,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-north-tower-top",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1176,
+      "w": 350,
+      "d": 800,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-north-tower-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1180.0,
+      "w": 18,
+      "d": 392.0,
+      "y": 4,
+      "h": 2372,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-north-tower-handle-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1331.0,
+      "w": 3,
+      "d": 90,
+      "y": 1488.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-north-tower-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1580.0,
+      "w": 18,
+      "d": 392.0,
+      "y": 4,
+      "h": 2372,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-north-tower-handle-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1731.0,
+      "w": 3,
+      "d": 90,
+      "y": 1488.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-south-tower-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3976,
+      "w": 350,
+      "d": 800,
+      "y": 0,
+      "h": 2400,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-south-tower-top",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3976,
+      "w": 350,
+      "d": 800,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-south-tower-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3980.0,
+      "w": 18,
+      "d": 392.0,
+      "y": 4,
+      "h": 2372,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-south-tower-handle-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 4131.0,
+      "w": 3,
+      "d": 90,
+      "y": 1488.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-south-tower-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 4380.0,
+      "w": 18,
+      "d": 392.0,
+      "y": 4,
+      "h": 2372,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-south-tower-handle-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 4531.0,
+      "w": 3,
+      "d": 90,
+      "y": 1488.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-lower-case-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 0,
+      "h": 800,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-lower-case-top",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 780,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-lower-case-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1980.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-lower-case-handle-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 2181.0,
+      "w": 3,
+      "d": 90,
+      "y": 496.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-lower-case-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 2480.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-lower-case-handle-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 2681.0,
+      "w": 3,
+      "d": 90,
+      "y": 496.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-lower-case-door-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 2980.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-lower-case-handle-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3181.0,
+      "w": 3,
+      "d": 90,
+      "y": 496.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-lower-case-door-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3480.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-lower-case-handle-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3681.0,
+      "w": 3,
+      "d": 90,
+      "y": 496.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "bookcase-back",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7168,
+      "z": 1976,
+      "w": 20,
+      "d": 2000,
+      "y": 800,
+      "h": 1600,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-partition-2000",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 330,
+      "d": 18,
+      "y": 800,
+      "h": 1600,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-partition-2991",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 2967,
+      "w": 330,
+      "d": 18,
+      "y": 800,
+      "h": 1600,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-partition-3982",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 3958,
+      "w": 330,
+      "d": 18,
+      "y": 800,
+      "h": 1600,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-shelf-800",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 800,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-shelf-1200",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 1200,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-shelf-1600",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 1600,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-shelf-2000",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 2000,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-shelf-2380",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "bookcase-book-0-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2066,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-0-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2191,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-0-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2316,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-0-0-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2441,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 240,
+      "material": "navy"
+    },
+    {
+      "id": "bookcase-book-0-0-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2566,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-0-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3066,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-0-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3191,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-0-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3316,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-0-1-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3441,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 240,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-0-1-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3566,
+      "w": 230,
+      "d": 70,
+      "y": 820,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-1-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2066,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-1-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2191,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-1-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2316,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-1-0-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2441,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 240,
+      "material": "navy"
+    },
+    {
+      "id": "bookcase-book-1-0-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2566,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-1-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3066,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-1-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3191,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-1-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3316,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-1-1-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3441,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 240,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-1-1-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3566,
+      "w": 230,
+      "d": 70,
+      "y": 1220,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-2-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2066,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-2-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2191,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-2-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2316,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-2-0-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2441,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 240,
+      "material": "navy"
+    },
+    {
+      "id": "bookcase-book-2-0-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2566,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-2-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3066,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-2-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3191,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-2-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3316,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-2-1-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3441,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 240,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-2-1-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3566,
+      "w": 230,
+      "d": 70,
+      "y": 1620,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-3-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2066,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-3-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2191,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-3-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2316,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-3-0-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2441,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 240,
+      "material": "navy"
+    },
+    {
+      "id": "bookcase-book-3-0-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 2566,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-3-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3066,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 240,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-3-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3191,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 275,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-3-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3316,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 310,
+      "material": "cabinet"
+    },
+    {
+      "id": "bookcase-book-3-1-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3441,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 240,
+      "material": "book"
+    },
+    {
+      "id": "bookcase-book-3-1-4",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6870,
+      "z": 3566,
+      "w": 230,
+      "d": 70,
+      "y": 2020,
+      "h": 275,
+      "material": "cabinet"
+    },
+    {
+      "id": "television-body",
+      "parent": "television",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 30,
+      "z": 2450,
+      "w": 65,
+      "d": 1900,
+      "y": 600,
+      "h": 1100,
+      "material": "metal"
+    },
+    {
+      "id": "television-screen",
+      "parent": "television",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 95,
+      "z": 2459.1342076740493,
+      "w": 5,
+      "d": 1881.7315846519018,
+      "y": 620.7629918166526,
+      "h": 1058.4740163666947,
+      "material": "screen"
+    },
+    {
+      "id": "tv-high-main-body",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 5000,
+      "w": 400,
+      "d": 3500,
+      "y": 60,
+      "h": 2340,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-top",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 5000,
+      "w": 400,
+      "d": 3500,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "tv-high-main-door-0",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 5004.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-0",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 5205.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-main-door-1",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 5504.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-1",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 5705.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-main-door-2",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 6004.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-2",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 6205.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-main-door-3",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 6504.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-3",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 6705.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-main-door-4",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 7004.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-4",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 7205.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-main-door-5",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 7504.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-5",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 7705.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-main-door-6",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 8004.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 2312,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-main-handle-6",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 8205.0,
+      "w": 3,
+      "d": 90,
+      "y": 1510.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-entry-lower-body",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 8500,
+      "w": 400,
+      "d": 1000,
+      "y": 60,
+      "h": 1140,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-entry-lower-top",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 8500,
+      "w": 400,
+      "d": 1000,
+      "y": 1180,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "tv-high-entry-lower-door-0",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 8504.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 1112,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-entry-lower-handle-0",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 8705.0,
+      "w": 3,
+      "d": 90,
+      "y": 766.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-entry-lower-door-1",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 9004.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 64,
+      "h": 1112,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-entry-lower-handle-1",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 9205.0,
+      "w": 3,
+      "d": 90,
+      "y": 766.8,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-entry-upper-body",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 8500,
+      "w": 400,
+      "d": 1000,
+      "y": 1400,
+      "h": 1000,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-entry-upper-top",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 8500,
+      "w": 400,
+      "d": 1000,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "tv-high-entry-upper-door-0",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 8504.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 1404,
+      "h": 972,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-entry-upper-handle-0",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 8705.0,
+      "w": 3,
+      "d": 90,
+      "y": 2020.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-entry-upper-door-1",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 382,
+      "z": 9004.0,
+      "w": 18,
+      "d": 492.0,
+      "y": 1404,
+      "h": 972,
+      "material": "cabinet"
+    },
+    {
+      "id": "tv-high-entry-upper-handle-1",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 397,
+      "z": 9205.0,
+      "w": 3,
+      "d": 90,
+      "y": 2020.0,
+      "h": 10,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-entry-niche-back",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 8500,
+      "w": 20,
+      "d": 1000,
+      "y": 1200,
+      "h": 200,
+      "material": "wood"
+    },
+    {
+      "id": "tv-high-entry-niche-side-a",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 20,
+      "z": 8500,
+      "w": 380,
+      "d": 20,
+      "y": 1200,
+      "h": 200,
+      "material": "wood"
+    },
+    {
+      "id": "tv-high-entry-niche-side-b",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 20,
+      "z": 9480,
+      "w": 380,
+      "d": 20,
+      "y": 1200,
+      "h": 200,
+      "material": "wood"
+    },
+    {
+      "id": "tv-high-plinth",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 40,
+      "z": 5040,
+      "w": 320,
+      "d": 4420,
+      "y": 0,
+      "h": 60,
+      "material": "metal"
+    },
+    {
+      "id": "tv-high-niche-tray",
+      "parent": "tv-high",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 210,
+      "z": 8800,
+      "w": 130,
+      "d": 260,
+      "y": 1200,
+      "h": 18,
+      "material": "navy"
+    },
+    {
+      "id": "sofa-modular-back",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 4660,
+      "z": 1800,
+      "w": 140,
+      "d": 3000,
+      "y": 280,
+      "h": 570,
+      "material": "fabric-dark"
+    },
+    {
+      "id": "sofa-modular-main-base",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3870,
+      "z": 2800,
+      "w": 910,
+      "d": 1980,
+      "y": 100,
+      "h": 190,
+      "material": "fabric-dark"
+    },
+    {
+      "id": "sofa-modular-chaise-base",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2920,
+      "z": 1820,
+      "w": 1740,
+      "d": 960,
+      "y": 100,
+      "h": 190,
+      "material": "fabric-dark"
+    },
+    {
+      "id": "sofa-modular-chaise-cushion",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2900,
+      "z": 1940,
+      "w": 1760,
+      "d": 850,
+      "y": 290,
+      "h": 140,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-chaise-back-cushion",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 4550,
+      "z": 1950,
+      "w": 110,
+      "d": 820,
+      "y": 430,
+      "h": 350,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-seat-0",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3850,
+      "z": 2810,
+      "w": 800,
+      "d": 905,
+      "y": 290,
+      "h": 140,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-back-cushion-0",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 4550,
+      "z": 2814,
+      "w": 110,
+      "d": 897,
+      "y": 430,
+      "h": 350,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-seat-1",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3850,
+      "z": 3735,
+      "w": 800,
+      "d": 905,
+      "y": 290,
+      "h": 140,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-back-cushion-1",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 4550,
+      "z": 3739,
+      "w": 110,
+      "d": 897,
+      "y": 430,
+      "h": 350,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-north-arm",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2900,
+      "z": 1800,
+      "w": 1900,
+      "d": 140,
+      "y": 280,
+      "h": 350,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-south-arm",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3850,
+      "z": 4660,
+      "w": 950,
+      "d": 140,
+      "y": 280,
+      "h": 350,
+      "material": "fabric"
+    },
+    {
+      "id": "sofa-modular-foot-2970-1370",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2970,
+      "z": 1870,
+      "w": 55,
+      "d": 55,
+      "y": 0,
+      "h": 100,
+      "material": "metal"
+    },
+    {
+      "id": "sofa-modular-foot-4670-1370",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 4670,
+      "z": 1870,
+      "w": 55,
+      "d": 55,
+      "y": 0,
+      "h": 100,
+      "material": "metal"
+    },
+    {
+      "id": "sofa-modular-foot-2970-2200",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2970,
+      "z": 2700,
+      "w": 55,
+      "d": 55,
+      "y": 0,
+      "h": 100,
+      "material": "metal"
+    },
+    {
+      "id": "sofa-modular-foot-3920-2370",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3920,
+      "z": 2870,
+      "w": 55,
+      "d": 55,
+      "y": 0,
+      "h": 100,
+      "material": "metal"
+    },
+    {
+      "id": "sofa-modular-foot-3920-4170",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3920,
+      "z": 4670,
+      "w": 55,
+      "d": 55,
+      "y": 0,
+      "h": 100,
+      "material": "metal"
+    },
+    {
+      "id": "sofa-modular-foot-4670-4170",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 4670,
+      "z": 4670,
+      "w": 55,
+      "d": 55,
+      "y": 0,
+      "h": 100,
+      "material": "metal"
+    },
+    {
+      "id": "side-table-top",
+      "parent": "side-table",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2650,
+      "z": 3250,
+      "w": 700,
+      "d": 1400,
+      "y": 370,
+      "h": 30,
+      "material": "wood",
+      "radiusMm": 100
+    },
+    {
+      "id": "side-table-lower-shelf",
+      "parent": "side-table",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2690,
+      "z": 3290,
+      "w": 620,
+      "d": 1320,
+      "y": 110,
+      "h": 20,
+      "material": "cabinet",
+      "radiusMm": 70
+    },
+    {
+      "id": "side-table-leg-2690-2790",
+      "parent": "side-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2690,
+      "z": 3290,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 370,
+      "material": "metal"
+    },
+    {
+      "id": "side-table-leg-2690-4070",
+      "parent": "side-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2690,
+      "z": 4570,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 370,
+      "material": "metal"
+    },
+    {
+      "id": "side-table-leg-3270-2790",
+      "parent": "side-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3270,
+      "z": 3290,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 370,
+      "material": "metal"
+    },
+    {
+      "id": "side-table-leg-3270-4070",
+      "parent": "side-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 3270,
+      "z": 4570,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 370,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-top",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 5300,
+      "z": 2000,
+      "w": 700,
+      "d": 2400,
+      "y": 720,
+      "h": 30,
+      "material": "wood",
+      "radiusMm": 70
+    },
+    {
+      "id": "double-desk-leg-5340-2040",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5340,
+      "z": 2040,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-leg-5340-4310",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5340,
+      "z": 4310,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-leg-5910-2040",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5910,
+      "z": 2040,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-leg-5910-4310",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5910,
+      "z": 4310,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-rail",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5340,
+      "z": 2040,
+      "w": 40,
+      "d": 2320,
+      "y": 645,
+      "h": 55,
+      "material": "metal"
+    },
+    {
+      "id": "dining-table-top",
+      "parent": "dining-table",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2282,
+      "z": 7300,
+      "w": 800,
+      "d": 1600,
+      "y": 720,
+      "h": 30,
+      "material": "wood",
+      "radiusMm": 100
+    },
+    {
+      "id": "dining-table-leg-2332-7350",
+      "parent": "dining-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2332,
+      "z": 7350,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "wood"
+    },
+    {
+      "id": "dining-table-leg-2332-8800",
+      "parent": "dining-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2332,
+      "z": 8800,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "wood"
+    },
+    {
+      "id": "dining-table-leg-2982-7350",
+      "parent": "dining-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2982,
+      "z": 7350,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "wood"
+    },
+    {
+      "id": "dining-table-leg-2982-8800",
+      "parent": "dining-table",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2982,
+      "z": 8800,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 720,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-1-seat",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1832,
+      "z": 7550,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "sage"
+    },
+    {
+      "id": "dining-chair-1-back",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1832,
+      "z": 7550,
+      "w": 55,
+      "d": 450,
+      "y": 460,
+      "h": 390,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-1-leg-1852-7570",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1852,
+      "z": 7570,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-1-leg-1852-7930",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1852,
+      "z": 7930,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-1-leg-2212-7570",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2212,
+      "z": 7570,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-1-leg-2212-7930",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2212,
+      "z": 7930,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-2-seat",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1832,
+      "z": 8200,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "sage"
+    },
+    {
+      "id": "dining-chair-2-back",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1832,
+      "z": 8200,
+      "w": 55,
+      "d": 450,
+      "y": 460,
+      "h": 390,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-2-leg-1852-8220",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1852,
+      "z": 8220,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-2-leg-1852-8580",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 1852,
+      "z": 8580,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-2-leg-2212-8220",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2212,
+      "z": 8220,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-2-leg-2212-8580",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2212,
+      "z": 8580,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-3-seat",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2457,
+      "z": 6850,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "fabric"
+    },
+    {
+      "id": "dining-chair-3-back",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2457,
+      "z": 6850,
+      "w": 450,
+      "d": 55,
+      "y": 460,
+      "h": 390,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-3-leg-2477-6870",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2477,
+      "z": 6870,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-3-leg-2477-7230",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2477,
+      "z": 7230,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-3-leg-2837-6870",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2837,
+      "z": 6870,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-3-leg-2837-7230",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2837,
+      "z": 7230,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-4-seat",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2457,
+      "z": 8900,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "fabric"
+    },
+    {
+      "id": "dining-chair-4-back",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2457,
+      "z": 9295,
+      "w": 450,
+      "d": 55,
+      "y": 460,
+      "h": 390,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-4-leg-2477-8920",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2477,
+      "z": 8920,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-4-leg-2477-9280",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2477,
+      "z": 9280,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-4-leg-2837-8920",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2837,
+      "z": 8920,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "dining-chair-4-leg-2837-9280",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2837,
+      "z": 9280,
+      "w": 50,
+      "d": 50,
+      "y": 0,
+      "h": 420,
+      "material": "wood"
+    },
+    {
+      "id": "sofa-modular-pillow-green",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 4390,
+      "z": 2920,
+      "w": 160,
+      "d": 380,
+      "y": 430,
+      "h": 380,
+      "material": "sage",
+      "radiusMm": 60,
+      "bevelMm": 70
+    },
+    {
+      "id": "sofa-modular-pillow-navy",
+      "parent": "sofa-modular",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 4390,
+      "z": 4100,
+      "w": 160,
+      "d": 380,
+      "y": 430,
+      "h": 380,
+      "material": "navy",
+      "radiusMm": 60,
+      "bevelMm": 70
+    },
+    {
+      "id": "double-desk-monitor-base-34",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 5360,
+      "z": 2480,
+      "w": 250,
+      "d": 260,
+      "y": 750,
+      "h": 20,
+      "material": "metal",
+      "radiusMm": 55
+    },
+    {
+      "id": "double-desk-monitor-stand-34",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5405,
+      "z": 2580,
+      "w": 45,
+      "d": 60,
+      "y": 770,
+      "h": 210,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-monitor-body-34",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 5380,
+      "z": 2195,
+      "w": 87,
+      "d": 810,
+      "y": 900,
+      "h": 370,
+      "material": "metal",
+      "radiusMm": 8
+    },
+    {
+      "id": "double-desk-monitor-screen-34",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 5467,
+      "z": 2207,
+      "w": 3,
+      "d": 786,
+      "y": 912,
+      "h": 346,
+      "material": "screen"
+    },
+    {
+      "id": "double-desk-keyboard-single",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 5740,
+      "z": 2380,
+      "w": 145,
+      "d": 440,
+      "y": 750,
+      "h": 16,
+      "material": "metal",
+      "radiusMm": 12
+    },
+    {
+      "id": "double-desk-mouse-single",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "ellipsoid",
+      "x": 5825,
+      "z": 2890,
+      "w": 75,
+      "d": 55,
+      "y": 750,
+      "h": 25,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-lamp-base",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5390,
+      "z": 3200,
+      "w": 160,
+      "d": 160,
+      "y": 750,
+      "h": 22,
+      "material": "navy"
+    },
+    {
+      "id": "double-desk-lamp-stem",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5458,
+      "z": 3268,
+      "w": 24,
+      "d": 24,
+      "y": 772,
+      "h": 315,
+      "material": "metal"
+    },
+    {
+      "id": "double-desk-lamp-shade",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "frustum",
+      "x": 5385,
+      "z": 3195,
+      "w": 170,
+      "d": 170,
+      "y": 1087,
+      "h": 90,
+      "material": "navy",
+      "bottomScale": 1,
+      "topScale": 0.45
+    },
+    {
+      "id": "double-desk-pen-cup",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5510,
+      "z": 3440,
+      "w": 85,
+      "d": 85,
+      "y": 750,
+      "h": 110,
+      "material": "ceramic"
+    },
+    {
+      "id": "double-desk-pen-0",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5535,
+      "z": 3465,
+      "w": 8,
+      "d": 8,
+      "y": 840,
+      "h": 70,
+      "material": "wood"
+    },
+    {
+      "id": "double-desk-pen-1",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5565,
+      "z": 3480,
+      "w": 8,
+      "d": 8,
+      "y": 840,
+      "h": 78,
+      "material": "wood"
+    },
+    {
+      "id": "double-desk-pen-2",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5548,
+      "z": 3498,
+      "w": 8,
+      "d": 8,
+      "y": 840,
+      "h": 86,
+      "material": "wood"
+    },
+    {
+      "id": "double-desk-water-cup",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5750,
+      "z": 3320,
+      "w": 90,
+      "d": 90,
+      "y": 750,
+      "h": 110,
+      "material": "ceramic"
+    },
+    {
+      "id": "double-desk-plant-pot",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "frustum",
+      "x": 5410,
+      "z": 3860,
+      "w": 190,
+      "d": 190,
+      "y": 750,
+      "h": 160,
+      "material": "ceramic",
+      "bottomScale": 0.75
+    },
+    {
+      "id": "double-desk-plant-soil",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 5420,
+      "z": 3870,
+      "w": 170,
+      "d": 170,
+      "y": 905,
+      "h": 8,
+      "material": "soil"
+    },
+    {
+      "id": "double-desk-plant-leaf-0",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 5390,
+      "z": 3880,
+      "w": 120,
+      "d": 190,
+      "y": 910,
+      "h": 230,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "double-desk-plant-leaf-1",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 5490,
+      "z": 3835,
+      "w": 130,
+      "d": 130,
+      "y": 910,
+      "h": 170,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "double-desk-plant-leaf-2",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 5470,
+      "z": 3965,
+      "w": 120,
+      "d": 100,
+      "y": 910,
+      "h": 210,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "double-desk-plant-leaf-3",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 5400,
+      "z": 3950,
+      "w": 90,
+      "d": 150,
+      "y": 910,
+      "h": 160,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "entry-shoe-cabinet-body",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 941,
+      "z": 9635,
+      "w": 330,
+      "d": 1533,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "entry-shoe-cabinet-top",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 9635,
+      "w": 350,
+      "d": 1533,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "entry-shoe-cabinet-plinth",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 951,
+      "z": 9655,
+      "w": 300,
+      "d": 1493,
+      "y": 0,
+      "h": 80,
+      "material": "wood"
+    },
+    {
+      "id": "entry-shoe-cabinet-door-0",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 9637.0,
+      "w": 20,
+      "d": 390.3333333333333,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "entry-shoe-cabinet-pull-0",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 10009.333333333334,
+      "w": 3,
+      "d": 3,
+      "y": 1050,
+      "h": 180,
+      "material": "wood"
+    },
+    {
+      "id": "entry-shoe-cabinet-door-1",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 10031.333333333334,
+      "w": 20,
+      "d": 390.3333333333333,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "entry-shoe-cabinet-pull-1",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 10403.666666666668,
+      "w": 3,
+      "d": 3,
+      "y": 1050,
+      "h": 180,
+      "material": "wood"
+    },
+    {
+      "id": "entry-shoe-cabinet-door-2",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 10425.666666666666,
+      "w": 20,
+      "d": 390.3333333333333,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "entry-shoe-cabinet-pull-2",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 10798.0,
+      "w": 3,
+      "d": 3,
+      "y": 1050,
+      "h": 180,
+      "material": "wood"
+    },
+    {
+      "id": "entry-shoe-cabinet-blind-return",
+      "parent": "entry-shoe-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 921,
+      "z": 10818,
+      "w": 20,
+      "d": 350,
+      "y": 80,
+      "h": 2300,
+      "material": "wood"
+    },
+    {
+      "id": "entry-return-cabinet-body",
+      "parent": "entry-return-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 10838,
+      "w": 921,
+      "d": 330,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "entry-return-cabinet-top",
+      "parent": "entry-return-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 0,
+      "z": 10818,
+      "w": 921,
+      "d": 350,
+      "y": 2380,
+      "h": 20,
+      "material": "wood"
+    },
+    {
+      "id": "entry-return-cabinet-plinth",
+      "parent": "entry-return-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 20,
+      "z": 10848,
+      "w": 881,
+      "d": 300,
+      "y": 0,
+      "h": 80,
+      "material": "wood"
+    },
+    {
+      "id": "entry-return-cabinet-door-0",
+      "parent": "entry-return-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 2.0,
+      "z": 10818,
+      "w": 456.5,
+      "d": 20,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "entry-return-cabinet-door-1",
+      "parent": "entry-return-cabinet",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 462.5,
+      "z": 10818,
+      "w": 456.5,
+      "d": 20,
+      "y": 80,
+      "h": 2300,
+      "material": "cabinet"
+    },
+    {
+      "id": "plant-balcony-tall-pot",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "frustum",
+      "x": 335.0,
+      "z": 305.0,
+      "w": 330,
+      "d": 330,
+      "y": 0,
+      "h": 330,
+      "material": "ceramic",
+      "bottomScale": 0.76
+    },
+    {
+      "id": "plant-balcony-tall-soil",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 351.5,
+      "z": 321.5,
+      "w": 297.0,
+      "d": 297.0,
+      "y": 322,
+      "h": 8,
+      "material": "soil"
+    },
+    {
+      "id": "plant-balcony-tall-stem",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 488.0,
+      "z": 458.0,
+      "w": 24,
+      "d": 24,
+      "y": 330,
+      "h": 1070,
+      "material": "wood"
+    },
+    {
+      "id": "plant-balcony-tall-leaf-0",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 598.0,
+      "z": 375.5,
+      "w": 154.0,
+      "d": 189.0,
+      "y": 470.4,
+      "h": 269.1,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-0",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 467.0,
+      "w": 181.0,
+      "d": 6.0,
+      "y": 427.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        178.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-1",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 283.46082812577976,
+      "z": 483.21121825789396,
+      "w": 175.0,
+      "d": 210.0,
+      "y": 533.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-1",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 367.96082812577976,
+      "z": 467.0,
+      "w": 135.03917187422024,
+      "d": 124.21121825789396,
+      "y": 490.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        132.03917187422024,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        121.21121825789396
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-2",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 417.29837574839496,
+      "z": 211.6699690258132,
+      "w": 196.00000000000003,
+      "d": 168.0,
+      "y": 596.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-2",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 292.6699690258132,
+      "w": 21.29837574839496,
+      "d": 180.3300309741868,
+      "y": 553.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        177.3300309741868
+      ],
+      "endLocal": [
+        18.29837574839496,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-3",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 529.4781463017227,
+      "z": 514.3790997960058,
+      "w": 154.0,
+      "d": 189.0,
+      "y": 659.4,
+      "h": 269.1,
+      "material": "foliage-light",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-3",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 467.0,
+      "w": 112.47814630172275,
+      "d": 144.8790997960058,
+      "y": 616.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        109.47814630172275,
+        43.0,
+        141.8790997960058
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-4",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 240.17474629187518,
+      "z": 334.52038493631505,
+      "w": 175.0,
+      "d": 210.0,
+      "y": 722.4000000000001,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-4",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 324.6747462918752,
+      "z": 436.52038493631505,
+      "w": 178.32525370812482,
+      "d": 36.479615063684946,
+      "y": 679.4000000000001,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        175.32525370812482,
+        3.0,
+        33.479615063684946
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-5",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 549.6556597726925,
+      "z": 292.0702063395704,
+      "w": 196.00000000000003,
+      "d": 168.0,
+      "y": 785.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-5",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 373.0702063395704,
+      "w": 153.6556597726925,
+      "d": 99.9297936604296,
+      "y": 742.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        96.9297936604296
+      ],
+      "endLocal": [
+        150.6556597726925,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-6",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 377.5725215982979,
+      "z": 544.5010183580646,
+      "w": 154.0,
+      "d": 189.0,
+      "y": 848.4,
+      "h": 269.1,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-6",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 451.5725215982979,
+      "z": 467.0,
+      "w": 51.4274784017021,
+      "d": 175.00101835806458,
+      "y": 805.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        48.4274784017021,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        172.00101835806458
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-7",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 331.8377595791894,
+      "z": 209.69834846243475,
+      "w": 175.0,
+      "d": 210.0,
+      "y": 911.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-7",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 416.3377595791894,
+      "z": 311.69834846243475,
+      "w": 86.66224042081058,
+      "d": 161.30165153756525,
+      "y": 868.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        83.66224042081058,
+        3.0,
+        158.30165153756525
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-8",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 566.3827778922239,
+      "z": 446.0275131288628,
+      "w": 196.00000000000003,
+      "d": 168.0,
+      "y": 974.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-8",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 467.0,
+      "w": 170.38277789222388,
+      "d": 66.02751312886278,
+      "y": 931.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        167.38277789222388,
+        43.0,
+        63.02751312886278
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-9",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 261.24146865399405,
+      "z": 442.2770734367957,
+      "w": 154.0,
+      "d": 189.0,
+      "y": 1037.4,
+      "h": 269.1,
+      "material": "foliage-light",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-9",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 335.24146865399405,
+      "z": 467.0,
+      "w": 167.75853134600595,
+      "d": 72.77707343679572,
+      "y": 994.4000000000001,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        164.75853134600595,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        69.77707343679572
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-10",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 486.6679298618185,
+      "z": 206.49410679721598,
+      "w": 175.0,
+      "d": 210.0,
+      "y": 1100.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-10",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 308.494106797216,
+      "w": 80.1679298618185,
+      "d": 164.50589320278402,
+      "y": 1057.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        161.50589320278402
+      ],
+      "endLocal": [
+        77.1679298618185,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-11",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 454.38060850035663,
+      "z": 552.9768602325854,
+      "w": 196.00000000000003,
+      "d": 168.0,
+      "y": 1163.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-11",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 467.0,
+      "w": 58.38060850035663,
+      "d": 172.9768602325854,
+      "y": 1120.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        55.38060850035663,
+        43.0,
+        169.9768602325854
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-12",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 271.5846376449956,
+      "z": 287.75954158483836,
+      "w": 154.0,
+      "d": 189.0,
+      "y": 1226.4,
+      "h": 269.1,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-tall-branch-12",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 345.5846376449956,
+      "z": 379.25954158483836,
+      "w": 157.4153623550044,
+      "d": 93.74045841516164,
+      "y": 1183.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        154.4153623550044,
+        3.0,
+        90.74045841516164
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-leaf-13",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 583.4166825547834,
+      "z": 327.41692369606506,
+      "w": 175.0,
+      "d": 210.0,
+      "y": 1289.4,
+      "h": 269.1,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-tall-branch-13",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 497.0,
+      "z": 429.41692369606506,
+      "w": 176.9166825547834,
+      "d": 43.583076303934945,
+      "y": 1246.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        40.583076303934945
+      ],
+      "endLocal": [
+        173.9166825547834,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-tall-top-leaf",
+      "parent": "plant-balcony-tall",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 416.0,
+      "z": 386.0,
+      "w": 168.0,
+      "d": 168.0,
+      "y": 1242.6,
+      "h": 257.4,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-pot",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "frustum",
+      "x": 235.0,
+      "z": 1165.0,
+      "w": 280,
+      "d": 280,
+      "y": 0,
+      "h": 280,
+      "material": "ceramic",
+      "bottomScale": 0.76
+    },
+    {
+      "id": "plant-tv-medium-soil",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 249.0,
+      "z": 1179.0,
+      "w": 252.0,
+      "d": 252.0,
+      "y": 272,
+      "h": 8,
+      "material": "soil"
+    },
+    {
+      "id": "plant-tv-medium-stem",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 363.0,
+      "z": 1293.0,
+      "w": 24,
+      "d": 24,
+      "y": 280,
+      "h": 620,
+      "material": "wood"
+    },
+    {
+      "id": "plant-tv-medium-leaf-0",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 452.0,
+      "z": 1230.75,
+      "w": 121.0,
+      "d": 148.5,
+      "y": 366.4,
+      "h": 165.6,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-0",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1302.0,
+      "w": 143.5,
+      "d": 6.0,
+      "y": 323.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        140.5,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-1",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 204.8620792416841,
+      "z": 1315.3802429169166,
+      "w": 137.5,
+      "d": 165.0,
+      "y": 405.16923076923075,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-1",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 270.6120792416841,
+      "z": 1302.0,
+      "w": 107.38792075831589,
+      "d": 98.88024291691659,
+      "y": 362.16923076923075,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        104.38792075831589,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        95.88024291691659
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-2",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 310.0201523737389,
+      "z": 1102.0264042345675,
+      "w": 154.00000000000003,
+      "d": 132.0,
+      "y": 443.9384615384615,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-2",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1165.0264042345675,
+      "w": 18.02015237373888,
+      "d": 142.9735957654325,
+      "y": 400.9384615384615,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        139.9735957654325
+      ],
+      "endLocal": [
+        15.020152373738881,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-3",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 398.16140066563923,
+      "z": 1339.8692926968617,
+      "w": 121.0,
+      "d": 148.5,
+      "y": 482.7076923076923,
+      "h": 165.6,
+      "material": "foliage-light",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-3",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1302.0,
+      "w": 89.66140066563923,
+      "d": 115.11929269686175,
+      "y": 439.7076923076923,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        86.66140066563923,
+        43.0,
+        112.11929269686175
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-4",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 170.85158637218763,
+      "z": 1198.5517310213904,
+      "w": 137.5,
+      "d": 165.0,
+      "y": 521.4769230769231,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-4",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 236.60158637218763,
+      "z": 1278.0517310213904,
+      "w": 141.39841362781237,
+      "d": 29.948268978609576,
+      "y": 478.4769230769231,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        138.39841362781237,
+        3.0,
+        26.948268978609576
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-5",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 414.01516124997266,
+      "z": 1165.1980192668054,
+      "w": 154.00000000000003,
+      "d": 132.0,
+      "y": 560.2461538461539,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-5",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1228.1980192668054,
+      "w": 122.01516124997266,
+      "d": 79.80198073319457,
+      "y": 517.2461538461539,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        76.80198073319457
+      ],
+      "endLocal": [
+        119.01516124997266,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-6",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 278.80698125580545,
+      "z": 1363.5365144241937,
+      "w": 121.0,
+      "d": 148.5,
+      "y": 599.0153846153846,
+      "h": 165.6,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-6",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 336.30698125580545,
+      "z": 1302.0,
+      "w": 41.693018744194546,
+      "d": 138.78651442419368,
+      "y": 556.0153846153846,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        38.693018744194546,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        135.78651442419368
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-7",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 242.87252538364885,
+      "z": 1100.477273791913,
+      "w": 137.5,
+      "d": 165.0,
+      "y": 637.7846153846153,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-7",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 308.62252538364885,
+      "z": 1179.977273791913,
+      "w": 69.37747461635115,
+      "d": 128.02272620808708,
+      "y": 594.7846153846153,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        66.37747461635115,
+        3.0,
+        125.02272620808708
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-8",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 427.15789691531876,
+      "z": 1286.1644746012494,
+      "w": 154.00000000000003,
+      "d": 132.0,
+      "y": 676.5538461538462,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-8",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1302.0,
+      "w": 135.15789691531876,
+      "d": 53.16447460124937,
+      "y": 633.5538461538462,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        132.15789691531876,
+        43.0,
+        50.16447460124937
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-9",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 187.404011085281,
+      "z": 1283.2177005574822,
+      "w": 121.0,
+      "d": 148.5,
+      "y": 715.3230769230769,
+      "h": 165.6,
+      "material": "foliage-light",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-9",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 244.904011085281,
+      "z": 1302.0,
+      "w": 133.095988914719,
+      "d": 58.4677005574822,
+      "y": 672.3230769230769,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        130.095988914719,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        55.4677005574822
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-10",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 364.524802034286,
+      "z": 1097.9596553406698,
+      "w": 137.5,
+      "d": 165.0,
+      "y": 754.0923076923077,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-10",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1177.4596553406698,
+      "w": 64.27480203428598,
+      "d": 130.54034465933023,
+      "y": 711.0923076923077,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        127.54034465933023
+      ],
+      "endLocal": [
+        61.27480203428598,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-11",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 339.15619239313736,
+      "z": 1370.19610446846,
+      "w": 154.00000000000003,
+      "d": 132.0,
+      "y": 792.8615384615384,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-11",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1302.0,
+      "w": 47.15619239313736,
+      "d": 137.1961044684599,
+      "y": 749.8615384615384,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        44.15619239313736,
+        43.0,
+        134.1961044684599
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-12",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 195.53078672106795,
+      "z": 1161.8110683880873,
+      "w": 121.0,
+      "d": 148.5,
+      "y": 831.6307692307693,
+      "h": 165.6,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-tv-medium-branch-12",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 253.03078672106795,
+      "z": 1233.0610683880873,
+      "w": 124.96921327893205,
+      "d": 74.93893161191272,
+      "y": 788.6307692307693,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        121.96921327893205,
+        3.0,
+        71.93893161191272
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-leaf-13",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 440.54167915018695,
+      "z": 1192.9704400469084,
+      "w": 137.5,
+      "d": 165.0,
+      "y": 870.4,
+      "h": 165.6,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-tv-medium-branch-13",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 372.0,
+      "z": 1272.4704400469084,
+      "w": 140.29167915018695,
+      "d": 35.52955995309162,
+      "y": 827.4,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        32.52955995309162
+      ],
+      "endLocal": [
+        137.29167915018695,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-tv-medium-top-leaf",
+      "parent": "plant-tv-medium",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 309.0,
+      "z": 1239.0,
+      "w": 132.0,
+      "d": 132.0,
+      "y": 841.6,
+      "h": 158.4,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-pot",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "frustum",
+      "x": 1240.0,
+      "z": 340.0,
+      "w": 220,
+      "d": 220,
+      "y": 0,
+      "h": 220,
+      "material": "ceramic",
+      "bottomScale": 0.76
+    },
+    {
+      "id": "plant-balcony-low-soil",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 1251.0,
+      "z": 351.0,
+      "w": 198.0,
+      "d": 198.0,
+      "y": 212,
+      "h": 8,
+      "material": "soil"
+    },
+    {
+      "id": "plant-balcony-low-stem",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 1338.0,
+      "z": 438.0,
+      "w": 24,
+      "d": 24,
+      "y": 220,
+      "h": 330,
+      "material": "wood"
+    },
+    {
+      "id": "plant-balcony-low-leaf-0",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1420.0,
+      "z": 382.5,
+      "w": 110.0,
+      "d": 135.0,
+      "y": 271.6,
+      "h": 98.9,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-0",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 447.0,
+      "w": 131.0,
+      "d": 6.0,
+      "y": 228.60000000000002,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        128.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-1",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1195.3291629469854,
+      "z": 459.43658446992424,
+      "w": 125.0,
+      "d": 150.0,
+      "y": 294.75384615384615,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-1",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1254.8291629469854,
+      "z": 447.0,
+      "w": 98.17083705301457,
+      "d": 90.43658446992424,
+      "y": 251.75384615384615,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        95.17083705301457,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        87.43658446992424
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-2",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1290.9274112488536,
+      "z": 265.4785493041523,
+      "w": 140.0,
+      "d": 120.0,
+      "y": 317.9076923076923,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-2",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 322.4785493041523,
+      "w": 16.92741124885356,
+      "d": 130.5214506958477,
+      "y": 274.9076923076923,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        127.5214506958477
+      ],
+      "endLocal": [
+        13.92741124885356,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-3",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1371.0558187869449,
+      "z": 481.699356997147,
+      "w": 110.0,
+      "d": 135.0,
+      "y": 341.0615384615385,
+      "h": 98.9,
+      "material": "foliage-light",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-3",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 447.0,
+      "w": 82.05581878694488,
+      "d": 105.19935699714699,
+      "y": 298.0615384615385,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        79.05581878694488,
+        43.0,
+        102.19935699714699
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-4",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1164.410533065625,
+      "z": 353.22884638308216,
+      "w": 125.0,
+      "d": 150.0,
+      "y": 364.2153846153846,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-4",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1223.910533065625,
+      "z": 425.22884638308216,
+      "w": 129.08946693437497,
+      "d": 27.771153616917843,
+      "y": 321.2153846153846,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        126.08946693437497,
+        3.0,
+        24.771153616917843
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-5",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1385.468328409066,
+      "z": 322.9072902425503,
+      "w": 140.0,
+      "d": 120.0,
+      "y": 387.36923076923074,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-5",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 379.9072902425503,
+      "w": 111.46832840906609,
+      "d": 73.09270975744971,
+      "y": 344.36923076923074,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        70.09270975744971
+      ],
+      "endLocal": [
+        108.46832840906609,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-6",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1262.5518011416414,
+      "z": 503.2150131129033,
+      "w": 110.0,
+      "d": 135.0,
+      "y": 410.5230769230769,
+      "h": 98.9,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-6",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1314.5518011416414,
+      "z": 447.0,
+      "w": 38.44819885835864,
+      "d": 126.7150131129033,
+      "y": 367.5230769230769,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        35.44819885835864,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        123.7150131129033
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-7",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1229.8841139851354,
+      "z": 264.0702489017391,
+      "w": 125.0,
+      "d": 150.0,
+      "y": 433.67692307692306,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-7",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1289.3841139851354,
+      "z": 336.0702489017391,
+      "w": 63.6158860148646,
+      "d": 116.92975109826091,
+      "y": 390.67692307692306,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        60.6158860148646,
+        3.0,
+        113.92975109826091
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-8",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1397.4162699230171,
+      "z": 432.87679509204486,
+      "w": 140.0,
+      "d": 120.0,
+      "y": 456.83076923076925,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-8",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 447.0,
+      "w": 123.41626992301713,
+      "d": 48.87679509204486,
+      "y": 413.83076923076925,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        120.41626992301713,
+        43.0,
+        45.87679509204486
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-9",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1179.4581918957101,
+      "z": 430.1979095977112,
+      "w": 110.0,
+      "d": 135.0,
+      "y": 479.9846153846154,
+      "h": 98.9,
+      "material": "foliage-light",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-9",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1231.4581918957101,
+      "z": 447.0,
+      "w": 121.54180810428988,
+      "d": 53.6979095977112,
+      "y": 436.9846153846154,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        118.54180810428988,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        50.6979095977112
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-10",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1340.4770927584418,
+      "z": 261.7815048551543,
+      "w": 125.0,
+      "d": 150.0,
+      "y": 503.1384615384615,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-10",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 333.7815048551543,
+      "w": 58.97709275844181,
+      "d": 119.21849514484569,
+      "y": 460.1384615384615,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        116.21849514484569
+      ],
+      "endLocal": [
+        55.97709275844181,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-11",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1317.4147203573975,
+      "z": 509.26918588041815,
+      "w": 140.0,
+      "d": 120.0,
+      "y": 526.2923076923078,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-11",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 447.0,
+      "w": 43.41472035739753,
+      "d": 125.26918588041815,
+      "y": 483.29230769230776,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "endLocal": [
+        40.41472035739753,
+        43.0,
+        122.26918588041815
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-12",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1186.8461697464254,
+      "z": 319.8282439891703,
+      "w": 110.0,
+      "d": 135.0,
+      "y": 549.4461538461538,
+      "h": 98.9,
+      "material": "foliage-light",
+      "leafFlip": 1
+    },
+    {
+      "id": "plant-balcony-low-branch-12",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1238.8461697464254,
+      "z": 384.3282439891703,
+      "w": 114.1538302535746,
+      "d": 68.67175601082971,
+      "y": 506.44615384615383,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        111.1538302535746,
+        3.0,
+        65.67175601082971
+      ],
+      "endLocal": [
+        3.0,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-leaf-13",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1409.5833446819881,
+      "z": 348.1549454971893,
+      "w": 125.0,
+      "d": 150.0,
+      "y": 572.5999999999999,
+      "h": 98.9,
+      "material": "foliage",
+      "leafFlip": -1
+    },
+    {
+      "id": "plant-balcony-low-branch-13",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "branch",
+      "x": 1347.0,
+      "z": 420.1549454971893,
+      "w": 128.08334468198814,
+      "d": 32.84505450281068,
+      "y": 529.5999999999999,
+      "h": 46,
+      "material": "wood",
+      "startLocal": [
+        3.0,
+        3.0,
+        29.845054502810683
+      ],
+      "endLocal": [
+        125.08334468198814,
+        43.0,
+        3.0
+      ],
+      "radiusMm": 3
+    },
+    {
+      "id": "plant-balcony-low-top-leaf",
+      "parent": "plant-balcony-low",
+      "kind": "furniture",
+      "shape": "leaf",
+      "x": 1290.0,
+      "z": 390.0,
+      "w": 120.0,
+      "d": 120.0,
+      "y": 555.4,
+      "h": 94.6,
+      "material": "foliage",
+      "leafFlip": 1
+    },
+    {
+      "id": "washer-body",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6528,
+      "z": 170,
+      "w": 610,
+      "d": 600,
+      "y": 15,
+      "h": 835,
+      "material": "appliance",
+      "radiusMm": 5,
+      "bevelMm": 5
+    },
+    {
+      "id": "washer-feet",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6550,
+      "z": 190,
+      "w": 550,
+      "d": 560,
+      "y": 0,
+      "h": 15,
+      "material": "metal"
+    },
+    {
+      "id": "washer-door-ring",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6493,
+      "z": 230,
+      "w": 35,
+      "d": 480,
+      "y": 175,
+      "h": 480,
+      "material": "metal",
+      "axis": "x"
+    },
+    {
+      "id": "washer-door-glass",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6489,
+      "z": 268,
+      "w": 6,
+      "d": 404,
+      "y": 213,
+      "h": 404,
+      "material": "screen",
+      "axis": "x"
+    },
+    {
+      "id": "washer-door-inner",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6488,
+      "z": 295,
+      "w": 1,
+      "d": 350,
+      "y": 240,
+      "h": 350,
+      "material": "drum",
+      "axis": "x"
+    },
+    {
+      "id": "washer-control-strip",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6525,
+      "z": 185,
+      "w": 3,
+      "d": 570,
+      "y": 717,
+      "h": 90,
+      "material": "cabinet"
+    },
+    {
+      "id": "washer-display",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6523,
+      "z": 230,
+      "w": 2,
+      "d": 150,
+      "y": 742,
+      "h": 42,
+      "material": "screen"
+    },
+    {
+      "id": "washer-dial",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6513,
+      "z": 600,
+      "w": 12,
+      "d": 54,
+      "y": 735,
+      "h": 54,
+      "material": "metal",
+      "axis": "x"
+    },
+    {
+      "id": "dryer-body",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6528,
+      "z": 170,
+      "w": 610,
+      "d": 600,
+      "y": 895,
+      "h": 835,
+      "material": "appliance",
+      "radiusMm": 5,
+      "bevelMm": 5
+    },
+    {
+      "id": "dryer-feet",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6550,
+      "z": 190,
+      "w": 550,
+      "d": 560,
+      "y": 880,
+      "h": 15,
+      "material": "metal"
+    },
+    {
+      "id": "dryer-door-ring",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6493,
+      "z": 230,
+      "w": 35,
+      "d": 480,
+      "y": 1055,
+      "h": 480,
+      "material": "metal",
+      "axis": "x"
+    },
+    {
+      "id": "dryer-door-glass",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6489,
+      "z": 268,
+      "w": 6,
+      "d": 404,
+      "y": 1093,
+      "h": 404,
+      "material": "screen",
+      "axis": "x"
+    },
+    {
+      "id": "dryer-door-inner",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6488,
+      "z": 295,
+      "w": 1,
+      "d": 350,
+      "y": 1120,
+      "h": 350,
+      "material": "drum",
+      "axis": "x"
+    },
+    {
+      "id": "dryer-control-strip",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6525,
+      "z": 185,
+      "w": 3,
+      "d": 570,
+      "y": 1597,
+      "h": 90,
+      "material": "cabinet"
+    },
+    {
+      "id": "dryer-display",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6523,
+      "z": 230,
+      "w": 2,
+      "d": 150,
+      "y": 1622,
+      "h": 42,
+      "material": "screen"
+    },
+    {
+      "id": "dryer-dial",
+      "parent": "dryer",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 6513,
+      "z": 600,
+      "w": 12,
+      "d": 54,
+      "y": 1615,
+      "h": 54,
+      "material": "metal",
+      "axis": "x"
+    },
+    {
+      "id": "washer-stacking-kit",
+      "parent": "washer",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 6528,
+      "z": 170,
+      "w": 610,
+      "d": 600,
+      "y": 850,
+      "h": 30,
+      "material": "cabinet"
+    }
+  ],
+  "furnitureObjects": [
+    {
+      "id": "tv-low",
+      "name": "电视低柜",
+      "zone": "red",
+      "scheme": "A",
+      "x": 0,
+      "z": 1800,
+      "w": 400,
+      "d": 3200,
+      "h": 450,
+      "detail": "红 A：3200×400×450 低柜；配餐厅端 900×550×2400 高柜。",
+      "label": true,
+      "labelRotate": -90,
+      "placement_source": "03_layout/widget-layout-v04-latest.json",
+      "visualHeight": 450,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 0,
+        "z": 1800,
+        "y": 0,
+        "w": 400,
+        "d": 3200,
+        "h": 450
+      },
+      "dimensionsMm": {
+        "length": 3200,
+        "width": 400,
+        "height": 450
+      }
+    },
+    {
+      "id": "tv-high",
+      "name": "入户至电视通长立柜",
+      "zone": "red",
+      "scheme": "A",
+      "x": 0,
+      "z": 5000,
+      "w": 400,
+      "d": 4500,
+      "h": 2400,
+      "detail": "沿左墙由入户端接到电视低柜：4500×400×2400 mm。靠门端约1m宽置物格，离地1200–1400 mm，净高200 mm、净深380 mm。",
+      "label": true,
+      "labelRotate": -90,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "positive-x",
+      "dimensionsMm": {
+        "length": 4500,
+        "width": 400,
+        "height": 2400
+      },
+      "visualHeight": 2400,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 0,
+        "z": 5000,
+        "y": 0,
+        "w": 400,
+        "d": 4500,
+        "h": 2400
+      }
+    },
+    {
+      "id": "television",
+      "name": "85英寸电视",
+      "zone": "red",
+      "scheme": "A",
+      "x": 30,
+      "z": 2450,
+      "w": 70,
+      "d": 1900,
+      "h": 1100,
+      "detail": "85英寸16:9屏幕，机身按1900×70×1100 mm示意；挂装下沿600 mm，中心1150 mm；实际外壳依所选型号核对。",
+      "label": false,
+      "labelRotate": 0,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "positive-x",
+      "dimensionsMm": {
+        "length": 1900,
+        "width": 70,
+        "height": 1100
+      },
+      "visualHeight": 1700,
+      "baseHeightMm": 600,
+      "meshBoundsMm": {
+        "x": 30,
+        "z": 2450,
+        "y": 600,
+        "w": 70,
+        "d": 1900,
+        "h": 1100
+      }
+    },
+    {
+      "id": "sofa-modular",
+      "name": "贵妃组合沙发",
+      "zone": "blue",
+      "scheme": "B",
+      "x": 2900,
+      "z": 1800,
+      "w": 1900,
+      "d": 3000,
+      "h": 850,
+      "detail": "总长3000 mm、常规位进深950 mm、上端贵妃位进深1900 mm、高850 mm、坐高430 mm。贵妃位位于平面图上端，朝电视伸出。",
+      "label": true,
+      "labelRotate": 0,
+      "placement_source": "v07: north/image down +500 mm; ottoman follows to avoid overlap with coffee table",
+      "facing": "negative-x",
+      "dimensionsMm": {
+        "length": 3000,
+        "width": 1900,
+        "height": 850
+      },
+      "visualHeight": 850,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 2900,
+        "z": 1800,
+        "y": 0,
+        "w": 1900,
+        "d": 3000,
+        "h": 850
+      }
+    },
+    {
+      "id": "ottoman",
+      "name": "可移脚凳",
+      "zone": "blue",
+      "scheme": "B",
+      "x": 3000,
+      "z": 4850,
+      "w": 850,
+      "d": 650,
+      "h": 430,
+      "detail": "蓝 B：850×650 可移脚凳，当前靠沙发前侧摆放。",
+      "label": false,
+      "labelRotate": 0,
+      "placement_source": "v07: north/image down +500 mm; ottoman follows to avoid overlap with coffee table",
+      "visualHeight": 430,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 3000,
+        "z": 4850,
+        "y": 0,
+        "w": 850,
+        "d": 650,
+        "h": 430
+      },
+      "dimensionsMm": {
+        "length": 850,
+        "width": 650,
+        "height": 430
+      }
+    },
+    {
+      "id": "side-table",
+      "name": "长方茶几",
+      "zone": "blue",
+      "scheme": "B",
+      "x": 2650,
+      "z": 3250,
+      "w": 700,
+      "d": 1400,
+      "h": 400,
+      "detail": "配3000 mm组合沙发的1400×700×400 mm茶几；与常规沙发前沿留500 mm，与贵妃位端面留450 mm。",
+      "label": true,
+      "labelRotate": -90,
+      "placement_source": "v07: north/image down +500 mm; ottoman follows to avoid overlap with coffee table",
+      "dimensionsMm": {
+        "length": 1400,
+        "width": 700,
+        "height": 400
+      },
+      "visualHeight": 400,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 2650,
+        "z": 3250,
+        "y": 0,
+        "w": 700,
+        "d": 1400,
+        "h": 400
+      }
+    },
+    {
+      "id": "double-desk",
+      "name": "双人办公桌",
+      "zone": "green",
+      "scheme": "B",
+      "x": 5300,
+      "z": 2000,
+      "w": 700,
+      "d": 2400,
+      "h": 750,
+      "detail": "2400×700×750mm圆角双人桌，暂放一椅；仅一台34英寸超宽屏、单套键鼠，配台灯、笔筒、水杯和小绿植。",
+      "label": true,
+      "labelRotate": -90,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "negative-x",
+      "dimensionsMm": {
+        "length": 2400,
+        "width": 700,
+        "height": 750
+      },
+      "visualHeight": 1270,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 5300,
+        "z": 2000,
+        "y": 0,
+        "w": 700,
+        "d": 2400,
+        "h": 1270
+      },
+      "monitorCount": 1,
+      "monitorDiagonalInches": 34
+    },
+    {
+      "id": "office-chair-1",
+      "name": "办公椅1",
+      "zone": "green",
+      "scheme": "B",
+      "x": 5900,
+      "z": 2335,
+      "w": 500,
+      "d": 530,
+      "h": 950,
+      "detail": "办公椅在桌子右侧，靠背在右侧，人面向左侧电视。",
+      "label": false,
+      "labelRotate": 0,
+      "facing": "negative-x",
+      "placement_source": "03_layout/widget-layout-v04-latest.json",
+      "visualHeight": 950,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 5870,
+        "z": 2320,
+        "y": 0,
+        "w": 560,
+        "d": 560,
+        "h": 950
+      },
+      "dimensionsMm": {
+        "length": 560,
+        "width": 560,
+        "height": 950
+      }
+    },
+    {
+      "id": "bookcase",
+      "name": "书柜与储物",
+      "zone": "yellow",
+      "scheme": "A",
+      "x": 6838,
+      "z": 1176,
+      "w": 350,
+      "d": 3600,
+      "h": 2400,
+      "detail": "黄 A：3600×350×2400；两端各800高柜，中部2000，上开放书架、下封闭柜。",
+      "label": true,
+      "labelRotate": -90,
+      "facing": "negative-x",
+      "placement_source": "03_layout/widget-layout-v04-latest.json",
+      "visualHeight": 2400,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 6838,
+        "z": 1176,
+        "y": 0,
+        "w": 350,
+        "d": 3600,
+        "h": 2400
+      },
+      "dimensionsMm": {
+        "length": 3600,
+        "width": 350,
+        "height": 2400
+      }
+    },
+    {
+      "id": "dining-table",
+      "name": "四人靠墙餐桌",
+      "zone": "ink",
+      "scheme": "B",
+      "x": 2282,
+      "z": 7300,
+      "w": 800,
+      "d": 1600,
+      "h": 750,
+      "detail": "1600×800×750 mm；长边仍靠客卫外墙，外侧两椅、桌两端各一椅，共4张，取消卡座。",
+      "label": true,
+      "labelRotate": -90,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "dimensionsMm": {
+        "length": 1600,
+        "width": 800,
+        "height": 750
+      },
+      "visualHeight": 750,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 2282,
+        "z": 7300,
+        "y": 0,
+        "w": 800,
+        "d": 1600,
+        "h": 750
+      }
+    },
+    {
+      "id": "dining-chair-1",
+      "name": "餐椅1",
+      "zone": "ink",
+      "scheme": "B",
+      "x": 1832,
+      "z": 7550,
+      "w": 450,
+      "d": 450,
+      "h": 850,
+      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "label": false,
+      "labelRotate": 0,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "positive-x",
+      "dimensionsMm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "visualHeight": 850,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 1832,
+        "z": 7550,
+        "y": 0,
+        "w": 450,
+        "d": 450,
+        "h": 850
+      }
+    },
+    {
+      "id": "dining-chair-2",
+      "name": "餐椅2",
+      "zone": "ink",
+      "scheme": "B",
+      "x": 1832,
+      "z": 8200,
+      "w": 450,
+      "d": 450,
+      "h": 850,
+      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "label": false,
+      "labelRotate": 0,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "positive-x",
+      "dimensionsMm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "visualHeight": 850,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 1832,
+        "z": 8200,
+        "y": 0,
+        "w": 450,
+        "d": 450,
+        "h": 850
+      }
+    },
+    {
+      "id": "dining-chair-3",
+      "name": "餐椅3",
+      "zone": "ink",
+      "scheme": "B",
+      "x": 2457,
+      "z": 6850,
+      "w": 450,
+      "d": 450,
+      "h": 850,
+      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "label": false,
+      "labelRotate": 0,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "positive-z",
+      "dimensionsMm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "visualHeight": 850,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 2457,
+        "z": 6850,
+        "y": 0,
+        "w": 450,
+        "d": 450,
+        "h": 850
+      }
+    },
+    {
+      "id": "dining-chair-4",
+      "name": "餐椅4",
+      "zone": "ink",
+      "scheme": "B",
+      "x": 2457,
+      "z": 8900,
+      "w": 450,
+      "d": 450,
+      "h": 850,
+      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "label": false,
+      "labelRotate": 0,
+      "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
+      "facing": "negative-z",
+      "dimensionsMm": {
+        "length": 450,
+        "width": 450,
+        "height": 850
+      },
+      "visualHeight": 850,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 2457,
+        "z": 8900,
+        "y": 0,
+        "w": 450,
+        "d": 450,
+        "h": 850
+      }
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "name": "入户鞋柜",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 921,
+      "z": 9635,
+      "w": 350,
+      "d": 1533,
+      "h": 2400,
+      "label": true,
+      "labelRotate": -90,
+      "dimensionsMm": {
+        "length": 1533,
+        "width": 350,
+        "height": 2400
+      },
+      "detail": "长1533×深350×高2400mm；靠墙立柜，末端350mm封闭盲角；有效门面长1183mm。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "facing": "negative-x",
+      "meshBoundsMm": {
+        "x": 921,
+        "z": 9635,
+        "y": 0,
+        "w": 350,
+        "d": 1533,
+        "h": 2400
+      },
+      "visualHeight": 2400,
+      "baseHeightMm": 0
+    },
+    {
+      "id": "entry-return-cabinet",
+      "name": "入户转角储物柜",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 0,
+      "z": 10818,
+      "w": 921,
+      "d": 350,
+      "h": 2400,
+      "label": true,
+      "labelRotate": 0,
+      "dimensionsMm": {
+        "length": 921,
+        "width": 350,
+        "height": 2400
+      },
+      "detail": "长921×深350×高2400mm；朝入户过道开门，与右侧鞋柜连为L形。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "facing": "negative-z",
+      "meshBoundsMm": {
+        "x": 0,
+        "z": 10818,
+        "y": 0,
+        "w": 921,
+        "d": 350,
+        "h": 2400
+      },
+      "visualHeight": 2400,
+      "baseHeightMm": 0
+    },
+    {
+      "id": "plant-balcony-tall",
+      "name": "阳台高绿植",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 150,
+      "z": 120,
+      "w": 700,
+      "d": 700,
+      "h": 1500,
+      "label": false,
+      "labelRotate": 0,
+      "dimensionsMm": {
+        "length": 700,
+        "width": 700,
+        "height": 1500
+      },
+      "detail": "含盆器及叶冠的方案包络，非具体品种实测；与阳台和电视右侧空位组合。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "meshBoundsMm": {
+        "x": 240.17474629187518,
+        "z": 206.49410679721598,
+        "y": 0,
+        "w": 522.2080316003487,
+        "d": 527.0069115608486,
+        "h": 1558.5
+      },
+      "visualHeight": 1558.5,
+      "baseHeightMm": 0
+    },
+    {
+      "id": "plant-tv-medium",
+      "name": "电视右侧绿植",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 100,
+      "z": 1030,
+      "w": 550,
+      "d": 550,
+      "h": 1000,
+      "label": false,
+      "labelRotate": 0,
+      "dimensionsMm": {
+        "length": 550,
+        "width": 550,
+        "height": 1000
+      },
+      "detail": "含盆器及叶冠的方案包络，非具体品种实测；与阳台和电视右侧空位组合。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "meshBoundsMm": {
+        "x": 170.85158637218763,
+        "z": 1097.9596553406698,
+        "y": 0,
+        "w": 410.3063105431312,
+        "d": 414.0768590835239,
+        "h": 1036.0
+      },
+      "visualHeight": 1036.0,
+      "baseHeightMm": 0
+    },
+    {
+      "id": "plant-balcony-low",
+      "name": "阳台矮绿植",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 1100,
+      "z": 200,
+      "w": 500,
+      "d": 500,
+      "h": 650,
+      "label": false,
+      "labelRotate": 0,
+      "dimensionsMm": {
+        "length": 500,
+        "width": 500,
+        "height": 650
+      },
+      "detail": "含盆器及叶冠的方案包络，非具体品种实测；与阳台和电视右侧空位组合。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "meshBoundsMm": {
+        "x": 1164.410533065625,
+        "z": 261.7815048551543,
+        "y": 0,
+        "w": 373.0057368573921,
+        "d": 376.433508257749,
+        "h": 671.4999999999999
+      },
+      "visualHeight": 671.4999999999999,
+      "baseHeightMm": 0
+    },
+    {
+      "id": "washer",
+      "name": "阳台洗衣机",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 6488,
+      "z": 170,
+      "w": 650,
+      "d": 600,
+      "h": 850,
+      "label": false,
+      "labelRotate": 0,
+      "dimensionsMm": {
+        "length": 600,
+        "width": 650,
+        "height": 850
+      },
+      "detail": "600宽×650深×850高mm占位；正面朝图左，后部预留50mm。下洗上烘，具体型号及安装条件待核。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "facing": "negative-x",
+      "baseHeightMm": 0,
+      "visualHeight": 880,
+      "movementGroup": "laundry-stack",
+      "meshBoundsMm": {
+        "x": 6488,
+        "z": 170,
+        "y": 0,
+        "w": 650,
+        "d": 600,
+        "h": 880
+      }
+    },
+    {
+      "id": "dryer",
+      "name": "阳台烘干机",
+      "zone": "v07",
+      "scheme": "user-amendment",
+      "x": 6488,
+      "z": 170,
+      "w": 650,
+      "d": 600,
+      "h": 850,
+      "label": true,
+      "labelRotate": -90,
+      "dimensionsMm": {
+        "length": 600,
+        "width": 650,
+        "height": 850
+      },
+      "detail": "600宽×650深×850高mm占位；正面朝图左，后部预留50mm。下洗上烘，具体型号及安装条件待核。",
+      "placement_source": "user annotation/text; dimensions are designer proposals",
+      "facing": "negative-x",
+      "baseHeightMm": 880,
+      "visualHeight": 1730,
+      "movementGroup": "laundry-stack",
+      "meshBoundsMm": {
+        "x": 6488,
+        "z": 170,
+        "y": 880,
+        "w": 650,
+        "d": 600,
+        "h": 850
+      }
+    }
+  ],
+  "furnitureMaterials": {
+    "wood": {
+      "name": "oak",
+      "color": [
+        0.64,
+        0.47,
+        0.31,
+        1
+      ],
+      "roughness": 0.75
+    },
+    "cabinet": {
+      "name": "warm-white-cabinet",
+      "color": [
+        0.91,
+        0.89,
+        0.83,
+        1
+      ],
+      "roughness": 0.85
+    },
+    "fabric": {
+      "name": "greige-upholstery",
+      "color": [
+        0.69,
+        0.68,
+        0.63,
+        1
+      ],
+      "roughness": 1
+    },
+    "fabric-dark": {
+      "name": "upholstery-frame",
+      "color": [
+        0.55,
+        0.55,
+        0.51,
+        1
+      ],
+      "roughness": 1
+    },
+    "metal": {
+      "name": "dark-metal",
+      "color": [
+        0.18,
+        0.2,
+        0.2,
+        1
+      ],
+      "roughness": 0.5
+    },
+    "screen": {
+      "name": "display-screen",
+      "color": [
+        0.035,
+        0.055,
+        0.065,
+        1
+      ],
+      "roughness": 0.3
+    },
+    "book": {
+      "name": "muted-book-spines",
+      "color": [
+        0.43,
+        0.53,
+        0.5,
+        1
+      ],
+      "roughness": 1
+    },
+    "sage": {
+      "name": "sage",
+      "color": [
+        0.17,
+        0.245,
+        0.16,
+        1
+      ],
+      "roughness": 0.9
+    },
+    "navy": {
+      "name": "navy",
+      "color": [
+        0.018,
+        0.045,
+        0.083,
+        1
+      ],
+      "roughness": 0.7
+    },
+    "foliage": {
+      "name": "foliage",
+      "color": [
+        0.075,
+        0.19,
+        0.05,
+        1
+      ],
+      "roughness": 0.48
+    },
+    "foliage-light": {
+      "name": "foliage-light",
+      "color": [
+        0.15,
+        0.29,
+        0.08,
+        1
+      ],
+      "roughness": 0.53
+    },
+    "soil": {
+      "name": "soil",
+      "color": [
+        0.075,
+        0.047,
+        0.025,
+        1
+      ],
+      "roughness": 1
+    },
+    "ceramic": {
+      "name": "ceramic",
+      "color": [
+        0.68,
+        0.64,
+        0.55,
+        1
+      ],
+      "roughness": 0.7
+    },
+    "appliance": {
+      "name": "appliance",
+      "color": [
+        0.76,
+        0.75,
+        0.7,
+        1
+      ],
+      "roughness": 0.35
+    },
+    "drum": {
+      "name": "drum",
+      "color": [
+        0.09,
+        0.12,
+        0.13,
+        1
+      ],
+      "roughness": 0.35
+    }
+  },
+  "project_revision": 7,
+  "provenance": {
+    "baseline": "02_geometry/geometry-master-v06.json",
+    "layout": "user: entry L cabinets, balcony laundry/plants, northward living move, 34 inch single monitor, green corner extends to TV right",
+    "geometry_units": "mm",
+    "blender_units": "m",
+    "blender_axis_mapping": "(plan x, -plan z, height) -> (Blender X, Blender Y, Blender Z); mm / 1000",
+    "geographic_orientation": "user diagram: up south, down north, left east, right west; not a surveyed bearing",
+    "imported_at": "2026-10-30T10:38:40.317267+00:00",
+    "dimension_status": "unverified sketch reconstruction; not a closed measured CAD",
+    "baseline_sha256": "fea1569ed8142ca0eff6872dec83569a62130520e643880d84a3bdf624584b4b",
+    "revision": 7,
+    "sources": [
+      {
+        "path": "00_sources/v07-placement-annotation.png",
+        "sha256": "3e48ae1f322df2c1b8b059e7cd2468643d2b018a23554544a1a880a858fcf449",
+        "evidence": "user placement/compass annotation; pixels are not measured dimensions"
+      },
+      {
+        "path": "00_sources/v07-user-compass.png",
+        "sha256": "40f0289a50fdc5213c1023390777d9a3439ac9f9a620b70fe591ce27c34eb2a1",
+        "evidence": "user placement/compass annotation; pixels are not measured dimensions"
+      }
+    ]
+  },
+  "previousPlacements": {
+    "tv-low": {
+      "x": 0,
+      "z": 1800
+    },
+    "tv-high": {
+      "x": 0,
+      "z": 5000
+    },
+    "television": {
+      "x": 30,
+      "z": 2450
+    },
+    "sofa-modular": {
+      "x": 2900,
+      "z": 1300
+    },
+    "ottoman": {
+      "x": 3000,
+      "z": 4350
+    },
+    "side-table": {
+      "x": 2650,
+      "z": 2750
+    },
+    "double-desk": {
+      "x": 5300,
+      "z": 2000
+    },
+    "office-chair-1": {
+      "x": 5900,
+      "z": 2335
+    },
+    "bookcase": {
+      "x": 6838,
+      "z": 1176
+    },
+    "dining-table": {
+      "x": 2282,
+      "z": 7300
+    },
+    "dining-chair-1": {
+      "x": 1832,
+      "z": 7550
+    },
+    "dining-chair-2": {
+      "x": 1832,
+      "z": 8200
+    },
+    "dining-chair-3": {
+      "x": 2457,
+      "z": 6850
+    },
+    "dining-chair-4": {
+      "x": 2457,
+      "z": 8900
+    }
+  },
+  "compatiblePlacementRevisions": [
+    4,
+    5,
+    6
+  ],
+  "placementBaselinesByRevision": {
+    "4": {
+      "tv-low": {
+        "x": 0,
+        "z": 1800
+      },
+      "tv-high": {
+        "x": 0,
+        "z": 5100
+      },
+      "television": {
+        "x": 30,
+        "z": 2550
+      },
+      "sofa-modular": {
+        "x": 3850,
+        "z": 1900
+      },
+      "ottoman": {
+        "x": 3000,
+        "z": 4350
+      },
+      "side-table": {
+        "x": 2725,
+        "z": 3125
+      },
+      "double-desk": {
+        "x": 5300,
+        "z": 2000
+      },
+      "office-chair-1": {
+        "x": 5900,
+        "z": 2335
+      },
+      "office-chair-2": {
+        "x": 5900,
+        "z": 3435
+      },
+      "bookcase": {
+        "x": 6838,
+        "z": 1176
+      },
+      "dining-table": {
+        "x": 2332,
+        "z": 7300
+      },
+      "dining-chair-1": {
+        "x": 1832,
+        "z": 7550
+      },
+      "dining-chair-2": {
+        "x": 1832,
+        "z": 8200
+      }
+    },
+    "5": {
+      "tv-low": {
+        "x": 0,
+        "z": 1800
+      },
+      "tv-high": {
+        "x": 0,
+        "z": 5100
+      },
+      "television": {
+        "x": 30,
+        "z": 2550
+      },
+      "sofa-modular": {
+        "x": 3850,
+        "z": 1900
+      },
+      "ottoman": {
+        "x": 3000,
+        "z": 4350
+      },
+      "side-table": {
+        "x": 2725,
+        "z": 3125
+      },
+      "double-desk": {
+        "x": 5300,
+        "z": 2000
+      },
+      "office-chair-1": {
+        "x": 5900,
+        "z": 2335
+      },
+      "office-chair-2": {
+        "x": 5900,
+        "z": 3435
+      },
+      "bookcase": {
+        "x": 6838,
+        "z": 1176
+      },
+      "dining-table": {
+        "x": 2332,
+        "z": 7300
+      },
+      "dining-chair-1": {
+        "x": 1832,
+        "z": 7550
+      },
+      "dining-chair-2": {
+        "x": 1832,
+        "z": 8200
+      }
+    },
+    "6": {
+      "tv-low": {
+        "x": 0,
+        "z": 1800
+      },
+      "tv-high": {
+        "x": 0,
+        "z": 5000
+      },
+      "television": {
+        "x": 30,
+        "z": 2450
+      },
+      "sofa-modular": {
+        "x": 2900,
+        "z": 1300
+      },
+      "ottoman": {
+        "x": 3000,
+        "z": 4350
+      },
+      "side-table": {
+        "x": 2650,
+        "z": 2750
+      },
+      "double-desk": {
+        "x": 5300,
+        "z": 2000
+      },
+      "office-chair-1": {
+        "x": 5900,
+        "z": 2335
+      },
+      "bookcase": {
+        "x": 6838,
+        "z": 1176
+      },
+      "dining-table": {
+        "x": 2282,
+        "z": 7300
+      },
+      "dining-chair-1": {
+        "x": 1832,
+        "z": 7550
+      },
+      "dining-chair-2": {
+        "x": 1832,
+        "z": 8200
+      },
+      "dining-chair-3": {
+        "x": 2457,
+        "z": 6850
+      },
+      "dining-chair-4": {
+        "x": 2457,
+        "z": 8900
+      }
+    }
+  },
+  "style": {
+    "revision": "modern-japanese-v03",
+    "tableCornerRadiiMm": {
+      "side-table-top": 100,
+      "side-table-lower-shelf": 70,
+      "dining-table-top": 100,
+      "double-desk-top": 70
+    },
+    "wallFinishProfilesMm": {
+      "lower-narrow-top-0": [
+        0,
+        0,
+        0,
+        80
+      ],
+      "left-short-partition-end": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "retained-central-top-stub-end": [
+        65,
+        0,
+        0,
+        65
+      ],
+      "retained-central-bottom-stub-end": [
+        50,
+        0,
+        0,
+        50
+      ]
+    }
+  }
+}

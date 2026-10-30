@@ -1,0 +1,442 @@
+{
+  "version": "v12-style-v08",
+  "geometry_base": "02_geometry/geometry-master-v12.json",
+  "geometry_sha256": "d794e0d7905f630ef8eda6ed66f41d06c3b201f94c3d9e97d82a03573dd001a1",
+  "homeowner_decisions": [
+    "现代日式，简约",
+    "暖色调为主",
+    "桌子尽可能采用圆角",
+    "墙体拐角尽可能采用弧线",
+    "允许绿色与深蓝点缀",
+    "走廊柜采用第三种设计，深蓝改为奶黄色",
+    "走廊柜通顶",
+    "阳台窗型按新参考，尺寸以实测为准",
+    "餐厨红框位置增加玻璃推拉门",
+    "常驻3人，两大一小，目前是毛坯，这部分预算一共10万人民币做硬装，包含柜子，但不包含家具和灯具",
+    "更干净的暖白墙＋浅木，减少整体黄感，突出绿色和深蓝",
+    "细织布或者棉麻，无家具",
+    "更重氛围：间接光和台灯为主，接受明显的明暗层次",
+    "这个暂时不定",
+    "门墙尽量同面，隐藏门套和踢脚线，愿意增加细节施工投入",
+    "平整哑光，主要靠光影、家具和柜体形成层次",
+    "直线为骨架，桌角、墙角和柜体外露端部做柔和圆弧",
+    "之后的所有内容不考虑预算，只考虑设计",
+    "阳台上再加一个茶桌和茶椅，然后把餐厅、客厅、阳台进行实景渲染",
+    "茶桌换成矮茶桌，茶椅同理",
+    "门厅、电视墙、灯光和窗帘参考用户PDF"
+  ],
+  "designer_decisions": {
+    "palette": {
+      "warm_white": "#F3F1EA",
+      "pale_oak": "#D6C6AC",
+      "oatmeal": "#D8D5CC",
+      "sage_green": "#71816A",
+      "deep_navy": "#243C55"
+    },
+    "color_distribution_intent": "暖白及米色约65%，浅木约25%，绿色和深蓝合计不超过10%；是视觉控制目标，非图像像素测量",
+    "table_corner_radii_mm": {
+      "side-table-top": 100,
+      "side-table-lower-shelf": 70,
+      "dining-table-top": 100,
+      "double-desk-top": 70
+    },
+    "wall_finish_profiles_mm": {
+      "lower-narrow-top-0": [
+        0,
+        0,
+        0,
+        80
+      ],
+      "left-short-partition-end": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "retained-central-top-stub-end": [
+        65,
+        0,
+        0,
+        65
+      ],
+      "retained-central-bottom-stub-end": [
+        50,
+        0,
+        0,
+        50
+      ]
+    },
+    "wall_profile_corner_order": [
+      "Blender xmin,ymin",
+      "xmax,ymin",
+      "xmax,ymax",
+      "xmin,ymax"
+    ],
+    "wall_scope": "仅主公共区可见的外露阳角和端头，弧面位于原墙体显示包络内；墙基线、门洞净宽、卧室与卫浴内部不调整",
+    "wall_construction_status": "弧形饰面意向，不作为原结构墙削切指令；施工基层、实际做法与半径须现场深化",
+    "soft_furnishings": "原沙发上两只薄抱枕：一只低饱和苔绿、一只深蓝；办公室唯一一把椅子的坐背采用灰绿织物；餐桌外侧两椅的坐垫采用灰绿；少量深蓝书脊与置物格中的深蓝浅托盘",
+    "lighting": "indirect-led evening scene, separate usable task and cleaning circuits; CCT/outputs conceptual",
+    "simplification": "保留平整柜面和留白，不增加格栅墙、造型吊顶、拱门、岛台或卡座",
+    "v07_additions": "暖白浅木L形立柜；三盆高低错落的绿植连成电视右侧与阳台角；暖白洗烘叠放；桌面常用品控制数量。",
+    "selected_corridor_cabinet": {
+      "derivedFromOption": "C",
+      "lowerSRGB": "#F1DDAE",
+      "upper": "existing cream",
+      "niche": "warm walnut",
+      "heightMm": 2750,
+      "lowerSplitMm": 1200,
+      "topGapMm": 0
+    },
+    "balcony_window": {
+      "wall": "outer-top",
+      "bottom": 0,
+      "top": 2270,
+      "type": "large-fixed-centre-plus-two-upper-opening-side-sashes-over-fixed-lower-panes",
+      "topProvisional": true,
+      "sourceReference": "00_sources/v08-balcony-window-reference.png",
+      "sourceSHA256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8",
+      "sourceDimensionsMm": {
+        "totalWidth": 6000,
+        "totalHeight": 2300,
+        "leftBay": 700,
+        "centreBay": 4600,
+        "rightBay": 700,
+        "upperSide": 1300,
+        "lowerSide": 1000,
+        "rightAnnotation1500": "likely handle reference, unverified"
+      },
+      "modelOpeningMm": {
+        "x": 853,
+        "width": 5675,
+        "height": 2270,
+        "bottom": 0,
+        "verifiedOnSite": false
+      },
+      "provisionalLayoutMm": {
+        "leftBay": 700,
+        "centreBay": 4275,
+        "rightBay": 700,
+        "lowerSide": 1000,
+        "upperSide": 1270
+      },
+      "nominalFrameMm": 55,
+      "nominalSashBorderMm": 32,
+      "referencePolicy": "match type; keep existing provisional opening; side 700 and lower 1000 used as adjustable references; measured site values prevail",
+      "openingDirection": "unverified",
+      "sashesShown": "closed",
+      "centralMullions": 0,
+      "upperSideScreens": "visual inference from hatched reference",
+      "glassPaneCount": 5
+    },
+    "kitchen_sliding_door": {
+      "id": "kitchen-slider",
+      "name": "餐厨玻璃推拉门",
+      "type": "two-leaf-bypass-overhead-slider",
+      "location": "red-marked junction between dining and kitchen",
+      "x": 1391,
+      "z": 9635,
+      "widthMm": 1691,
+      "depthMm": 120,
+      "totalHeightMm": 2750,
+      "slidingLeafTopMm": 2350,
+      "upperFixedGlass": true,
+      "openingSide": "left opens, both leaves stack right",
+      "openTravelMm": 800.5,
+      "clearOpeningProvisionalMm": 800.5,
+      "leafWidthMm": 840.5,
+      "overlapMm": 40,
+      "jambWidthMm": 25,
+      "track": "overhead double track, local floor guides only",
+      "finish": "existing warm dark-grey thin frame and clear glass",
+      "defaultOpen": false,
+      "frameSystemIsConcept": true,
+      "sourceReference": "00_sources/v09-dining-kitchen-door-markup.png",
+      "sourceSHA256": "f8925e0c42bbb16cd71f99a0e466beb4ee2e624eebb97f1496b7c9cb2f68cae1",
+      "modelOpeningSource": [
+        "left-short-partition-end interior edge x1391",
+        "front-facade-0 left edge x3082",
+        "z9635 existing kitchen boundary"
+      ],
+      "dimensionStatus": "Existing model fit, unmeasured on site; two-leaf configuration, height, top light, tracks and finish are designer proposals"
+    },
+    "public_refinement": {
+      "palette": {
+        "wall": "#F3F1EA",
+        "ceiling": "#F6F4EF",
+        "oak": "#D6C6AC",
+        "fabric": "#D8D5CC",
+        "sage": "#71816A",
+        "navy": "#243C55",
+        "graphite": "#424743",
+        "milk": "#F1DDAE"
+      },
+      "publicFloorPolygon": [
+        [
+          0,
+          0
+        ],
+        [
+          7188,
+          0
+        ],
+        [
+          7188,
+          4896
+        ],
+        [
+          9203,
+          4896
+        ],
+        [
+          9203,
+          6145
+        ],
+        [
+          4759,
+          6145
+        ],
+        [
+          4759,
+          6090
+        ],
+        [
+          3082,
+          6090
+        ],
+        [
+          3082,
+          9635
+        ],
+        [
+          0,
+          9635
+        ]
+      ],
+      "floorStatus": "Existing pale-wood appearance retained as a concept and desaturated; actual flooring product unselected",
+      "wall": "flat matte warm white, no feature wall or heavy texture",
+      "wood": "one pale oak family on main timber furniture; walnut retained only as existing cabinet accent",
+      "fabric": "fine woven linen-look greige, no new upholstery product selected",
+      "doors": [
+        {
+          "id": "master-public",
+          "start": 7370,
+          "end": 8236,
+          "publicFaceZ": 4896,
+          "top": 2180,
+          "visualRevealMm": 4,
+          "leafDepthMm": 40,
+          "finish": "same matte warm white as public wall",
+          "swing": "not inferred; closed visual finish proposal only",
+          "hardware": "slim graphite lever with softened touch edges"
+        },
+        {
+          "id": "guest-bath-public",
+          "start": 3812,
+          "end": 4759,
+          "publicFaceZ": 5970,
+          "top": 2100,
+          "visualRevealMm": 4,
+          "leafDepthMm": 40,
+          "finish": "same matte warm white as public wall",
+          "swing": "not inferred; closed visual finish proposal only",
+          "hardware": "slim graphite lever with softened touch edges"
+        },
+        {
+          "id": "guest-room-public",
+          "start": 4943,
+          "end": 5811,
+          "publicFaceZ": 6145,
+          "top": 2100,
+          "visualRevealMm": 4,
+          "leafDepthMm": 40,
+          "finish": "same matte warm white as public wall",
+          "swing": "not inferred; closed visual finish proposal only",
+          "hardware": "slim graphite lever with softened touch edges"
+        }
+      ],
+      "skirting": {
+        "visualHeightMm": 58,
+        "visualTopJointMm": 4,
+        "intent": "flush warm-white skirting, coordinated with concealed door frame",
+        "construction": "reserve within finish build-up before floor and paint; no assumption of structural wall cutting; final profile/depth and movement joints by selected system"
+      },
+      "joints": {
+        "doorVisualRevealMm": 4,
+        "cabinetCeiling": "matching scribe retained; no open top gap",
+        "status": "concept geometry, not order dimensions"
+      },
+      "curves": "existing table R100/R70 and wall R50–80 retained; straight lines remain the main structure; handle touch edges softened",
+      "storage": {
+        "status": "inventory deferred by homeowner",
+        "intent": "retain closed storage plus limited display, use adjustable shelves; no fixed counts or final internal dividers"
+      },
+      "lighting": {
+        "preference": "indirect atmosphere plus existing desk lamp; retained usable general/task circuits",
+        "conceptCCT": {
+          "indirect": 3000,
+          "task": 3500,
+          "night": 2700
+        },
+        "circuits": [
+          "living ceiling bounce",
+          "hall ceiling bounce",
+          "TV background",
+          "bookcase shelf light",
+          "entry niche/low guide",
+          "desk task",
+          "dining task",
+          "general clean-up"
+        ],
+        "sceneNames": [
+          "day",
+          "evening",
+          "cleaning"
+        ],
+        "renderEnergyStatus": "relative rendering controls, not luminaire wattage or verified illumination calculations"
+      },
+      "budget": {
+        "considered": false,
+        "source": "01_brief/current-design-constraints.json",
+        "historical_record": "v10 allocation superseded for subsequent design"
+      }
+    },
+    "balcony_tea_set": {
+      "type": "low round pedestal tea table with two opposing low lounge tea chairs",
+      "tableDiameterMm": 700,
+      "tableHeightMm": 380,
+      "chairCount": 2,
+      "chairSizeMm": [
+        600,
+        560,
+        580
+      ],
+      "chairSeatHeightMm": 230,
+      "designer_selected_dimensions": true,
+      "orientation": "chairs oppose along plan x, parallel to balcony glazing",
+      "footprintMm": {
+        "x": 2580,
+        "z": 170,
+        "w": 2140,
+        "d": 700
+      },
+      "windowGapMm": 170,
+      "sofaGapMm": 330,
+      "pullBackTrialMm": 300,
+      "washerFrontClearZone": {
+        "x": 5488,
+        "z": 170,
+        "w": 1000,
+        "d": 600
+      },
+      "rightChairWithPullbackToWasherBodyMm": 1468,
+      "teaware": "one small pot and two cups on one tray",
+      "furnitureIds": [
+        "balcony-tea-table",
+        "balcony-tea-chair-1",
+        "balcony-tea-chair-2"
+      ],
+      "siteAccuracy": "concept dimensions, actual window opening and equipment governs"
+    },
+    "reference_refinement": {
+      "source": "00_sources/entry-tv-lighting-curtain-reference.pdf",
+      "source_sha256": "de71bd0cd48096238a054e92e8d2d07f288df31dabb9918177cde025e84b5970",
+      "pages": {
+        "entry": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "tv": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "lighting": [
+          9,
+          10,
+          12
+        ],
+        "curtain": [
+          10,
+          11,
+          12
+        ]
+      },
+      "reference_policy": "borrow functions and proportions; source dimensions, devices, brand choices, automation and construction claims are not user instructions",
+      "entry": {
+        "oldClearWidthMm": 921,
+        "clearWidthMm": 1271,
+        "localMirrorClearWidthMm": 1254,
+        "gainAtMirrorMm": 333,
+        "removedFurnitureId": "entry-return-cabinet",
+        "layout": "single short-wall cabinet, open bench and hooks, upper closed storage, side full-length mirror",
+        "benchWidthMm": 801,
+        "benchHeightMm": 450,
+        "bottomGapMm": 160,
+        "mainStorage": "existing tv-high entry end; user inventory still deferred"
+      },
+      "tv": {
+        "screenInches": 85,
+        "floatingBottomMm": 180,
+        "floatingBodyHeightMm": 270,
+        "endBoxLengthMm": 500,
+        "screenMountingUnchanged": true
+      },
+      "curvedCove": {
+        "radiusMm": 180,
+        "source": "design proposal; not measured from PDF",
+        "lowerEdgeHeightMm": 2520,
+        "topSlotMm": 32
+      },
+      "curtain": {
+        "type": "warm-white dream curtain; translation and blade rotation are distinct",
+        "default": "open",
+        "collection": "single left stack to keep laundry side free",
+        "modelBladeCount": 45,
+        "bladeWidthMm": 132,
+        "trackHeightMm": 2500,
+        "hemHeightMm": 20,
+        "reservedSweepMm": {
+          "x": 853,
+          "z": 0,
+          "w": 5675,
+          "d": 160,
+          "y": 20,
+          "h": 2480
+        },
+        "nightPrivacy": "unverified; not equivalent to blackout",
+        "productAndMotorUnselected": true
+      },
+      "lighting": {
+        "scenes": [
+          "day",
+          "evening",
+          "cleaning",
+          "viewing"
+        ],
+        "layers": [
+          "general direct",
+          "ceiling cove",
+          "curtain wash",
+          "cabinet niche",
+          "task lamps",
+          "entry guide"
+        ],
+        "valuesAre": "relative rendering controls, not luminaire watts or photometric results"
+      },
+      "privateBoundariesChanged": false,
+      "budgetConsidered": false
+    }
+  },
+  "locked": [
+    "既有墙窗和房间关系",
+    "沙发/茶几/脚凳北移500mm，其余既有坐标继承",
+    "85寸电视",
+    "双人桌一把椅子、一台34寸屏",
+    "餐桌四椅、长边靠墙",
+    "植物角、入户L形立柜、右上洗烘位置按用户标注"
+  ],
+  "rounding_note": "桌面是有直线中段的圆角矩形，不改成圆桌；靠墙餐桌的长直边仍与墙接触。"
+}

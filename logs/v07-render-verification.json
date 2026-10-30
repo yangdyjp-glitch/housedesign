@@ -1,0 +1,250 @@
+{
+  "saved_model_reopened": true,
+  "architecture": {
+    "wall_sources": 60,
+    "glass": 8,
+    "curved_finish_profiles": 4
+  },
+  "furniture": [
+    {
+      "id": "tv-low",
+      "x": 0,
+      "z": 1800,
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "tv-high",
+      "x": 0,
+      "z": 5000,
+      "dimensions_mm": [
+        4500,
+        400,
+        2400
+      ]
+    },
+    {
+      "id": "television",
+      "x": 30,
+      "z": 2450,
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "x": 2900,
+      "z": 1800,
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "x": 3000,
+      "z": 4850,
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "x": 2650,
+      "z": 3250,
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "double-desk",
+      "x": 5300,
+      "z": 2000,
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900,
+      "z": 2335,
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "x": 6838,
+      "z": 1176,
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "x": 2282,
+      "z": 7300,
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832,
+      "z": 7550,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832,
+      "z": 8200,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457,
+      "z": 6850,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457,
+      "z": 8900,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 921,
+      "z": 9635,
+      "dimensions_mm": [
+        1533,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "entry-return-cabinet",
+      "x": 0,
+      "z": 10818,
+      "dimensions_mm": [
+        921,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150,
+      "z": 120,
+      "dimensions_mm": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100,
+      "z": 1030,
+      "dimensions_mm": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100,
+      "z": 200,
+      "dimensions_mm": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "x": 6488,
+      "z": 170,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "x": 6488,
+      "z": 170,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    }
+  ],
+  "monitor_count": 1,
+  "monitor_inches": 34,
+  "living_shift_mm": 500,
+  "renders": [
+    {
+      "view": "green-corner",
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v07-layout\\green-corner.png",
+      "mode": "full architecture eye-level Cycles"
+    },
+    {
+      "view": "balcony-laundry",
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v07-layout\\balcony-laundry.png",
+      "mode": "full architecture eye-level Cycles"
+    },
+    {
+      "view": "desk-single-34",
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v07-layout\\desk-single-34.png",
+      "mode": "full architecture eye-level Cycles"
+    },
+    {
+      "view": "overview",
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v07-layout\\overview-cutaway.png",
+      "mode": "temporary low wall observation"
+    },
+    {
+      "view": "entry",
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\07_renders\\v07-layout\\entry-cabinets-cutaway.png",
+      "mode": "temporary cutaway for cabinet access"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "revision": 8,
+  "geometry_sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca",
+  "style_sha256": "42759bbd2312d5e03461f6521db082b21890ee0972c70939d564f7ca6b0e33a0",
+  "model": "06_blender/home-main-v08.blend",
+  "actual_render_mode": "Blender Cycles 128 samples, OptiX",
+  "imagegen_used_this_revision": false,
+  "images": [
+    {
+      "path": "07_renders/v08-selected/cabinet-milk-yellow.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "d2f0e73758166c699ceada04648ced485cfe7f9a9b2eb1933a992f0c613a8455",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v08-selected/balcony-window.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "6c26e598c29a46eaaf3ad1ea905f7438314a78234ad0cdc9114214c25d7e667b",
+      "visually_reviewed": true
+    }
+  ],
+  "furniture_count": 21,
+  "parts": 340,
+  "source_walls": 60,
+  "glass": 12,
+  "new_window_parts": 22,
+  "furniture_wall_aabb_intersections": [],
+  "furniture_furniture_aabb_intersections": [],
+  "all_21_positions_preserved": true,
+  "other_20_meshes_unchanged": true,
+  "cabinet": {
+    "selection": "C amended",
+    "lower": "#F1DDAE",
+    "upper": "cream",
+    "niche": "walnut",
+    "ceiling_gap_mm": 0,
+    "niche_clear_height_mm": 200,
+    "top_mm": 2750
+  },
+  "window": {
+    "wall": "outer-top",
+    "bottom": 0,
+    "top": 2270,
+    "type": "large-fixed-centre-plus-two-upper-opening-side-sashes-over-fixed-lower-panes",
+    "topProvisional": true,
+    "sourceReference": "00_sources/v08-balcony-window-reference.png",
+    "sourceSHA256": "519b943487aeb024d0334a1472387da06c30ae8e56b322e7a07d4a3f03b368e8",
+    "sourceDimensionsMm": {
+      "totalWidth": 6000,
+      "totalHeight": 2300,
+      "leftBay": 700,
+      "centreBay": 4600,
+      "rightBay": 700,
+      "upperSide": 1300,
+      "lowerSide": 1000,
+      "rightAnnotation1500": "likely handle reference, unverified"
+    },
+    "modelOpeningMm": {
+      "x": 853,
+      "width": 5675,
+      "height": 2270,
+      "bottom": 0,
+      "verifiedOnSite": false
+    },
+    "provisionalLayoutMm": {
+      "leftBay": 700,
+      "centreBay": 4275,
+      "rightBay": 700,
+      "lowerSide": 1000,
+      "upperSide": 1270
+    },
+    "nominalFrameMm": 55,
+    "nominalSashBorderMm": 32,
+    "referencePolicy": "match type; keep existing provisional opening; side 700 and lower 1000 used as adjustable references; measured site values prevail",
+    "openingDirection": "unverified",
+    "sashesShown": "closed",
+    "centralMullions": 0,
+    "upperSideScreens": "visual inference from hatched reference",
+    "glassPaneCount": 5
+  },
+  "real_world_accuracy": "Provisional geometry; reference drawing dimensions are not site measurements",
+  "review": "04_reviews/v08审美与实用性.md",
+  "live_session": "logs/v08-live-state.json",
+  "widget": "logs/widget-v08-verification.json",
+  "old_v07_model_preserved": true
+}

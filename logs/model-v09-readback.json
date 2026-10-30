@@ -1,0 +1,255 @@
+{
+  "saved_model_reopened": true,
+  "revision": 9,
+  "geometry_sha256": "c3806b73ad37549d6329159fb1178d8fd2d79804e0584f6eb219e98d7b91ec0c",
+  "style_sha256": "5062cec31e157faa218ebe173cdd41a618c258d43695ff5b61474c484f33d5ef",
+  "furniture": [
+    {
+      "id": "tv-low",
+      "x": 0.0,
+      "z": 1800.0,
+      "dimensions_mm": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "tv-high",
+      "x": 0.0,
+      "z": 5000.0,
+      "dimensions_mm": [
+        4500,
+        400,
+        2750
+      ]
+    },
+    {
+      "id": "television",
+      "x": 30.0,
+      "z": 2450.0,
+      "dimensions_mm": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "x": 2900.0,
+      "z": 1800.0,
+      "dimensions_mm": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "x": 3000.0,
+      "z": 4850.0,
+      "dimensions_mm": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "x": 2650.0,
+      "z": 3250.0,
+      "dimensions_mm": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "double-desk",
+      "x": 5300.0,
+      "z": 2000.0,
+      "dimensions_mm": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900.0,
+      "z": 2335.0,
+      "dimensions_mm": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "x": 6838.0,
+      "z": 1176.0,
+      "dimensions_mm": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "x": 2282.0,
+      "z": 7300.0,
+      "dimensions_mm": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832.0,
+      "z": 7550.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832.0,
+      "z": 8200.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457.0,
+      "z": 6850.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457.0,
+      "z": 8900.0,
+      "dimensions_mm": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 921.0,
+      "z": 9635.0,
+      "dimensions_mm": [
+        1533,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "entry-return-cabinet",
+      "x": 0.0,
+      "z": 10818.0,
+      "dimensions_mm": [
+        921,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150.0,
+      "z": 120.0,
+      "dimensions_mm": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100.0,
+      "z": 1030.0,
+      "dimensions_mm": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100.0,
+      "z": 200.0,
+      "dimensions_mm": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "x": 6488.0,
+      "z": 170.0,
+      "dimensions_mm": [
+        600,
+        650,
+        850
+      ]
+    }
+  ],
+  "architecture": {
+    "source_walls": 60,
+    "window_glass": 12,
+    "door_glass": 3,
+    "door_frames": 16
+  },
+  "door": {
+    "id": "kitchen-slider",
+    "name": "餐厨玻璃推拉门",
+    "type": "two-leaf-bypass-overhead-slider",
+    "location": "red-marked junction between dining and kitchen",
+    "x": 1391,
+    "z": 9635,
+    "widthMm": 1691,
+    "depthMm": 120,
+    "totalHeightMm": 2750,
+    "slidingLeafTopMm": 2350,
+    "upperFixedGlass": true,
+    "openingSide": "left opens, both leaves stack right",
+    "openTravelMm": 800.5,
+    "clearOpeningProvisionalMm": 800.5,
+    "leafWidthMm": 840.5,
+    "overlapMm": 40,
+    "jambWidthMm": 25,
+    "track": "overhead double track, local floor guides only",
+    "finish": "existing warm dark-grey thin frame and clear glass",
+    "defaultOpen": false,
+    "frameSystemIsConcept": true,
+    "sourceReference": "00_sources/v09-dining-kitchen-door-markup.png",
+    "sourceSHA256": "f8925e0c42bbb16cd71f99a0e466beb4ee2e624eebb97f1496b7c9cb2f68cae1",
+    "modelOpeningSource": [
+      "left-short-partition-end interior edge x1391",
+      "front-facade-0 left edge x3082",
+      "z9635 existing kitchen boundary"
+    ],
+    "dimensionStatus": "Existing model fit, unmeasured on site; two-leaf configuration, height, top light, tracks and finish are designer proposals"
+  }
+}

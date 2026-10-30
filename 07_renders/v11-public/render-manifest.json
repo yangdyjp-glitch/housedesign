@@ -1,0 +1,149 @@
+{
+  "revision": 11,
+  "model": "06_blender/home-main-v11.blend",
+  "model_sha256": "a9d2568f7679ba85ab23d4fb4076ceaff22825bb82db35ff8523edaaaa6ed522",
+  "geometry_sha256": "dc76ff10da16ed6c8927c5381f280864ea996dafba7ad6f6a9a1b4234c14f672",
+  "style_sha256": "b59f6c1fe091dcf30ac9b73fc7d5905d93c30ec919daef917cf67b83a6f9aace",
+  "images": [
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "living-day",
+      "path": "07_renders/v11-public/living-day-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "0a8b3a3d3d7f2b2c0ea2304438e958b9061d5927b8ff4c36c3b574d5d936b8b0",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "dining-evening",
+      "path": "07_renders/v11-public/dining-evening-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "d732b541ad40c97a0a71b1f3159be783b67a1d8519e599c16d4ecedb208234ad",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "balcony-day",
+      "path": "07_renders/v11-public/balcony-day-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "0983fa0cd780d541f6390d2e9b79cf99824e11d6f0e5de5f7b5fb7f6571c0936",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "living",
+      "path": "07_renders/v11-public/living-realistic-low-v02.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-8fd0b832-62d8-4ae0-942a-907ebbe52510.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "bd2ed35fd6ae6aa077cf2076bad15ba8889fedf2f4fe6476db2abec332ab1209",
+      "visually_reviewed": true,
+      "reuse_reason": null
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "balcony",
+      "path": "07_renders/v11-public/balcony-realistic-low-v02.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-39ffb136-b6d7-47f2-8319-6f15b866c7ed.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "dd5c2b01a0076254831d589f82f7d816276f85a6ef070ac23eb7219aa4defd36",
+      "visually_reviewed": true,
+      "reuse_reason": null
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "dining",
+      "path": "07_renders/v11-public/dining-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-69618c4a-2490-49c7-b19d-add8d106cd28.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8bead0579eeee57417124ca1e46b25082a3ca16447e507228f1518c448e72adc",
+      "visually_reviewed": true,
+      "reuse_reason": "Dining geometry and camera unchanged; lowered balcony tea furniture outside this view."
+    }
+  ],
+  "prompts": [
+    "07_renders/v11-public/imagegen-prompts-low-v02.json",
+    "07_renders/v11-public/imagegen-prompts.json"
+  ],
+  "furniture_count": 24,
+  "tea_set": {
+    "type": "low round pedestal tea table with two opposing low lounge tea chairs",
+    "tableDiameterMm": 700,
+    "tableHeightMm": 380,
+    "chairCount": 2,
+    "chairSizeMm": [
+      600,
+      560,
+      580
+    ],
+    "chairSeatHeightMm": 230,
+    "designer_selected_dimensions": true,
+    "orientation": "chairs oppose along plan x, parallel to balcony glazing",
+    "footprintMm": {
+      "x": 2580,
+      "z": 170,
+      "w": 2140,
+      "d": 700
+    },
+    "windowGapMm": 170,
+    "sofaGapMm": 330,
+    "pullBackTrialMm": 300,
+    "washerFrontClearZone": {
+      "x": 5488,
+      "z": 170,
+      "w": 1000,
+      "d": 600
+    },
+    "rightChairWithPullbackToWasherBodyMm": 1468,
+    "teaware": "one small pot and two cups on one tray",
+    "furnitureIds": [
+      "balcony-tea-table",
+      "balcony-tea-chair-1",
+      "balcony-tea-chair-2"
+    ],
+    "siteAccuracy": "concept dimensions, actual window opening and equipment governs"
+  },
+  "old_21_meshes_preserved": true,
+  "latest_user_positions_preserved": true,
+  "private_room_boundaries_changed": false,
+  "source_walls": 60,
+  "window_glass": 12,
+  "kitchen_door_glass": 3,
+  "public_detail_parts": 29,
+  "budget_considered": false,
+  "geometry_collisions": {
+    "furniture_wall": [],
+    "furniture_furniture": [],
+    "public_doors": [],
+    "kitchen_door": {
+      "closed": [],
+      "open": []
+    }
+  },
+  "review": "04_reviews/v11审美与实用性.md",
+  "delivery_note": "09_delivery/v11矮茶席与公共区效果说明.md",
+  "native_render_mode": "Blender Cycles 128 samples OptiX",
+  "imagegen_mode": "built-in image_gen",
+  "limitations": [
+    "AI exterior is invented; plant leaf type and fine soft upholstery may differ across views",
+    "Native model is dimensional concept, not site measurement or construction certification",
+    "Entry L cabinet is v11 baseline; new user PDF reference will be developed separately as v12"
+  ]
+}

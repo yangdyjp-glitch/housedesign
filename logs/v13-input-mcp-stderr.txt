@@ -1,0 +1,27 @@
+2026-10-31 03:34:27,789 - BlenderMCPServer - INFO - BlenderMCP server starting up
+2026-10-31 03:34:27,791 - BlenderMCPServer - INFO - Blender addon on disk is current (protocol 15).
+2026-10-31 03:34:27,791 - blender-mcp-telemetry - WARNING - Telemetry disabled via environment variable
+2026-10-31 03:34:27,792 - BlenderMCPServer - INFO - Connected to Blender at 127.0.0.1:9876
+2026-10-31 03:34:27,793 - BlenderMCPServer - INFO - Created new persistent connection to Blender
+2026-10-31 03:34:27,793 - BlenderMCPServer - INFO - Sending command: get_addon_info with params: None
+2026-10-31 03:34:27,793 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:34:27,825 - BlenderMCPServer - INFO - Received complete response (470 bytes)
+2026-10-31 03:34:27,825 - BlenderMCPServer - INFO - Received 470 bytes of data
+2026-10-31 03:34:27,825 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:34:27,825 - BlenderMCPServer - INFO - Blender addon up to date (protocol 15, addon [1, 8], Blender 4.5.15 LTS)
+2026-10-31 03:34:27,825 - BlenderMCPServer - INFO - Successfully connected to Blender on startup
+2026-10-31 03:34:27,828 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-10-31 03:34:27,828 - BlenderMCPServer - INFO - MCP client mcp 0.1.0: extensions=[], apps=False, openai_forms=False
+2026-10-31 03:34:27,829 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-10-31 03:34:27,832 - BlenderMCPServer - INFO - Sending command: execute_code with params: {'code': "import bpy,json\nscene=bpy.context.scene\ncam=next(o.data for o in scene.objects if o.type=='CAMERA')\nprops=dict(panorama_type=str(cam.panorama_type),latitude_min=cam.latitude_min,latitude_max=cam.latitude_max,longitude_min=cam.longitude_min,longitude_max=cam.longitude_max)\nprint('LIVE_STATE '+json.dumps(dict(file=bpy.data.filepath,dirty=bpy.data.is_dirty,managed=bool(scene.get('HomeDesign_ManagedSession')),revision=scene.get('home_design_revision'),geometry_sha256=scene.get('home_design_geometry_sha256'),positions=[dict(id=o['source_id'],x=round(o.location.x*1000,3),z=round(-o.location.y*1000,3),rotation=round(o.rotation_euler.z,6),dimensions=list(o['dimensions_mm'])) for o in scene.objects if o.get('home_design_role')=='furniture'],camera_api=props,units=dict(system=scene.unit_settings.system,scale=scene.unit_settings.scale_length))))"}
+2026-10-31 03:34:27,832 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:34:27,888 - BlenderMCPServer - INFO - Received complete response (3130 bytes)
+2026-10-31 03:34:27,888 - BlenderMCPServer - INFO - Received 3130 bytes of data
+2026-10-31 03:34:27,888 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:34:27,888 - BlenderMCPServer - INFO - Sending command: get_telemetry_consent with params: None
+2026-10-31 03:34:27,888 - BlenderMCPServer - INFO - Command sent, waiting for response...
+2026-10-31 03:34:27,949 - BlenderMCPServer - INFO - Received complete response (51 bytes)
+2026-10-31 03:34:27,949 - BlenderMCPServer - INFO - Received 51 bytes of data
+2026-10-31 03:34:27,949 - BlenderMCPServer - INFO - Response parsed, status: success
+2026-10-31 03:34:27,953 - BlenderMCPServer - INFO - Disconnecting from Blender on shutdown
+2026-10-31 03:34:27,953 - BlenderMCPServer - INFO - BlenderMCP server shut down

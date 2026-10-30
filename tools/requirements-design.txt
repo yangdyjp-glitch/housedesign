@@ -1,0 +1,10 @@
+# Snapshot of the locally tested design Python environment
+PyYAML==6.0.3
+ezdxf==1.4.5
+fonttools==4.68.0
+fpdf2==2.9.0
+numpy==2.5.4
+pillow==12.3.0
+pyparsing==3.3.3
+typing_extensions==4.16.0
+websocket-client==1.9.2

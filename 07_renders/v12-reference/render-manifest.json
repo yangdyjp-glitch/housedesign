@@ -1,0 +1,281 @@
+{
+  "revision": 12,
+  "model": "06_blender/home-main-v12.blend",
+  "model_sha256": "3261e403c61b15f4fa47e20776c68abe7fd3c5d04d94888abdbfe1e15598dc67",
+  "geometry_sha256": "d794e0d7905f630ef8eda6ed66f41d06c3b201f94c3d9e97d82a03573dd001a1",
+  "style_sha256": "d5b85a6df0d8656fe93a0725bc35a141c1a92c0e76c1f0082fac71e8341a5d8d",
+  "images": [
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "living-day",
+      "path": "07_renders/v12-reference/living-day-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "d52cef7a9270b6b9e8c9a899f110f839bf871a775160ee25d843c3c824305e13",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "dining-evening",
+      "path": "07_renders/v12-reference/dining-evening-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "107fb7db62b5d40ece36a04caa936af759e74cd44e76d3f977f367edbe664a0a",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "balcony-day",
+      "path": "07_renders/v12-reference/balcony-day-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "50f90039d873317a030cc48e904d82b01bf0e886d773223923923d5937b801c9",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "entry-evening",
+      "path": "07_renders/v12-reference/entry-evening-reference.png",
+      "size": [
+        1200,
+        1800
+      ],
+      "sha256": "53cf56161fe7972153c6fc9e998ba608ee5d7e485390c1bc5170ea0ee3b76155",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "tv-evening",
+      "path": "07_renders/v12-reference/tv-evening-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "c43083396f1ace618f47d829b44bf855d59c313829d594e71d54429a55be16ca",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "Blender Cycles geometry reference",
+      "view": "curtain-evening",
+      "path": "07_renders/v12-reference/curtain-evening-reference.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "93372355c26a7328734a1f4170fde4ab3ef61ebc2a2eb18d2f45c4aac181847b",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "entry-evening",
+      "path": "07_renders/v12-reference/entry-evening-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-e3603415-db82-4b58-8576-931346eb91a8.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "bc6dcdfbe09520c083469c8719f18a6149b3bfb5b5d7542672fb2241ffd03a40",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "tv-evening",
+      "path": "07_renders/v12-reference/tv-evening-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-6a2ee2d2-5f5f-4f2d-b173-867bc285fc32.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8ecc546bf95c6a8d5b7f34ff0d1f5d1b8572a379040042670d714a1cf1cb389a",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "living-day",
+      "path": "07_renders/v12-reference/living-day-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-f6e6e80b-e0e7-4136-9694-6c80148a9e10.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "cb97cbfbf95eb2e0dd40620830acceef3c76f1df3818dbb0474cc1b5d30b6089",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "dining-evening",
+      "path": "07_renders/v12-reference/dining-evening-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a5f80880-6ecc-4fd5-9fe8-6a30ba6ccd0c.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "2ec58452d6ae03b2fb39155fbad51802ff790d25d036f1719c1eeaac1c7b9920",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "balcony-day",
+      "path": "07_renders/v12-reference/balcony-day-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-4c5ee96d-f97e-469a-994d-3c60c559a624.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "a0febc558411aaaa5ea6fbc877db1da03eb37d30567f6800136c02b1b1ae85ab",
+      "visually_reviewed": true
+    },
+    {
+      "kind": "built-in imagegen realistic concept",
+      "view": "curtain-evening",
+      "path": "07_renders/v12-reference/curtain-evening-realistic-v01.png",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-0c7399ae-e733-4d7f-b4bf-05a504620d22.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "ed2c0f51b794efae29b330acab045f7ceed235e3de865b95397426e48ed91409",
+      "visually_reviewed": true
+    }
+  ],
+  "prompts": "07_renders/v12-reference/imagegen-prompts.json",
+  "reference_pdf": {
+    "source": "00_sources/entry-tv-lighting-curtain-reference.pdf",
+    "source_sha256": "de71bd0cd48096238a054e92e8d2d07f288df31dabb9918177cde025e84b5970",
+    "pages": {
+      "entry": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "tv": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lighting": [
+        9,
+        10,
+        12
+      ],
+      "curtain": [
+        10,
+        11,
+        12
+      ]
+    },
+    "reference_policy": "borrow functions and proportions; source dimensions, devices, brand choices, automation and construction claims are not user instructions",
+    "entry": {
+      "oldClearWidthMm": 921,
+      "clearWidthMm": 1271,
+      "localMirrorClearWidthMm": 1254,
+      "gainAtMirrorMm": 333,
+      "removedFurnitureId": "entry-return-cabinet",
+      "layout": "single short-wall cabinet, open bench and hooks, upper closed storage, side full-length mirror",
+      "benchWidthMm": 801,
+      "benchHeightMm": 450,
+      "bottomGapMm": 160,
+      "mainStorage": "existing tv-high entry end; user inventory still deferred"
+    },
+    "tv": {
+      "screenInches": 85,
+      "floatingBottomMm": 180,
+      "floatingBodyHeightMm": 270,
+      "endBoxLengthMm": 500,
+      "screenMountingUnchanged": true
+    },
+    "curvedCove": {
+      "radiusMm": 180,
+      "source": "design proposal; not measured from PDF",
+      "lowerEdgeHeightMm": 2520,
+      "topSlotMm": 32
+    },
+    "curtain": {
+      "type": "warm-white dream curtain; translation and blade rotation are distinct",
+      "default": "open",
+      "collection": "single left stack to keep laundry side free",
+      "modelBladeCount": 45,
+      "bladeWidthMm": 132,
+      "trackHeightMm": 2500,
+      "hemHeightMm": 20,
+      "reservedSweepMm": {
+        "x": 853,
+        "z": 0,
+        "w": 5675,
+        "d": 160,
+        "y": 20,
+        "h": 2480
+      },
+      "nightPrivacy": "unverified; not equivalent to blackout",
+      "productAndMotorUnselected": true
+    },
+    "lighting": {
+      "scenes": [
+        "day",
+        "evening",
+        "cleaning",
+        "viewing"
+      ],
+      "layers": [
+        "general direct",
+        "ceiling cove",
+        "curtain wash",
+        "cabinet niche",
+        "task lamps",
+        "entry guide"
+      ],
+      "valuesAre": "relative rendering controls, not luminaire watts or photometric results"
+    },
+    "privateBoundariesChanged": false,
+    "budgetConsidered": false
+  },
+  "furniture_count": 23,
+  "preserved_meshes": 21,
+  "rebuild": [
+    "tv-low",
+    "entry-shoe-cabinet"
+  ],
+  "removed": [
+    "entry-return-cabinet"
+  ],
+  "latest_user_living_positions_preserved": true,
+  "tea_shift_mm": 100,
+  "private_room_boundaries_changed": false,
+  "budget_considered": false,
+  "source_walls": 60,
+  "window_glass": 12,
+  "kitchen_door_glass": 3,
+  "public_detail_parts": 29,
+  "reference_parts": 11,
+  "curtain_blades": 45,
+  "geometry_collisions": {
+    "furniture_wall": [],
+    "furniture_furniture": [],
+    "fixed_finishes": [],
+    "curtain_reserved": [],
+    "kitchen_door": {
+      "closed": [],
+      "open": []
+    }
+  },
+  "native_render_mode": "Blender Cycles 128 samples OptiX",
+  "imagegen_mode": "built-in image_gen",
+  "saved_model_metadata_refreshed_after_renders": true,
+  "metadata_refresh_changed_geometry_or_lighting": false,
+  "review": "04_reviews/v12审美与实用性.md",
+  "delivery_note": "09_delivery/v12门厅电视墙灯光窗帘说明.md",
+  "limitations": [
+    "All dimensions provisional; entry door hinge, site net width and equipment unknown",
+    "Curtain motor/product, night privacy and blackout not verified; local curtain sweep-to-laundry envelope only10mm",
+    "AI exterior, plant leaves, fine folds, reflections and a small day-view ceiling-edge addition are illustrative; not written back",
+    "Lighting is relative render staging, not measured illuminance, fixture selection or construction approval"
+  ]
+}

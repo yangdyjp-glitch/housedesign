@@ -1,0 +1,17 @@
+{
+  "revision": 8,
+  "zip": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\v08-奶黄通顶柜与阳台窗.zip",
+  "files": 17,
+  "zip_valid": true,
+  "all_pngs_decoded": true,
+  "images_visually_reviewed": true,
+  "model_sha256": "be82fe4e17cc3a291b8a4be7e54a22b03591e0e4d280ed0eacc784c85e42f35c",
+  "geometry_sha256": "26aeb5c93e8379a7de0be8def35e73cfad240605dfa330e7d12e113838193eca",
+  "style_sha256": "42759bbd2312d5e03461f6521db082b21890ee0972c70939d564f7ca6b0e33a0",
+  "active_model_matches": true,
+  "geometry_master_matches": true,
+  "previous_v07_unchanged": true,
+  "furniture_wall_intersections": 0,
+  "furniture_furniture_intersections": 0,
+  "selection_resolved": true
+}

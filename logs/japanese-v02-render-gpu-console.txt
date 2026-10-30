@@ -1,0 +1,1025 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-v06-presentation-v01.blend"
+Fra:1 Mem:48.74M (Peak 48.74M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:48.74M (Peak 48.74M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:48.74M (Peak 48.74M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | bay-front-glass-0.001
+Fra:1 Mem:48.74M (Peak 48.74M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-0.001
+Fra:1 Mem:48.75M (Peak 48.75M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:48.75M (Peak 48.75M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | tv-high | 入户至电视通长立柜 · 日式圆角
+Fra:1 Mem:48.75M (Peak 48.75M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | television | 85英寸电视 · 日式圆角
+Fra:1 Mem:48.76M (Peak 48.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发 · 日式圆角
+Fra:1 Mem:49.77M (Peak 49.77M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | ottoman | 可移脚凳 · 日式圆角
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | side-table | 长方茶几 · 日式圆角
+Fra:1 Mem:50.80M (Peak 50.80M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | double-desk | 双人办公桌 · 日式圆角
+Fra:1 Mem:50.81M (Peak 50.81M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | bookcase | 书柜与储物 · 日式圆角
+Fra:1 Mem:50.81M (Peak 50.81M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1 · 日式圆角
+Fra:1 Mem:50.86M (Peak 50.86M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2 · 日式圆角
+Fra:1 Mem:50.87M (Peak 50.87M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3 · 日式圆角
+Fra:1 Mem:50.88M (Peak 50.88M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:52.69M (Peak 52.69M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:52.81M (Peak 52.81M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0
+Fra:1 Mem:53.08M (Peak 53.08M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.001
+Fra:1 Mem:52.96M (Peak 53.08M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.002
+Fra:1 Mem:53.02M (Peak 53.08M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.003
+Fra:1 Mem:53.23M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃
+Fra:1 Mem:52.49M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃.001
+Fra:1 Mem:52.81M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:52.95M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:52.81M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:52.92M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:52.93M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:52.90M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:52.91M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:52.95M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:53.12M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:53.15M (Peak 53.23M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:53.31M (Peak 53.31M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:53.33M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:53.08M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:53.08M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:53.15M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:53.21M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:53.26M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:53.25M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:53.30M (Peak 53.33M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:53.37M (Peak 53.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:53.39M (Peak 53.39M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:53.39M (Peak 53.39M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:53.41M (Peak 53.41M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:53.39M (Peak 53.41M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:53.39M (Peak 53.41M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:53.40M (Peak 53.41M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:53.41M (Peak 53.41M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:53.55M (Peak 53.55M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:53.53M (Peak 53.55M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:53.54M (Peak 53.55M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:53.55M (Peak 53.55M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:53.56M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:53.54M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:53.55M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:53.55M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:53.55M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:53.55M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:53.55M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:53.55M (Peak 53.56M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:53.64M (Peak 53.64M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:53.61M (Peak 53.64M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:53.80M (Peak 53.80M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:53.80M (Peak 53.80M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:53.83M (Peak 53.83M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:53.88M (Peak 53.88M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:53.90M (Peak 53.90M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:53.92M (Peak 53.92M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:58.08M (Peak 59.00M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Initializing
+Fra:1 Mem:53.46M (Peak 59.00M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.46M (Peak 59.00M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene
+Fra:1 Mem:53.46M (Peak 59.00M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Shaders
+Fra:1 Mem:53.46M (Peak 59.00M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Procedurals
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Background
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.24 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.24 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.24 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.24 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.24 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.24 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:54.81M (Peak 80.63M) | Time:00:00.24 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH outer-left-glass-0 mesh.001 4/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH outer-top-glass-0 mesh.001 3/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH lower-projection-right-glass-0 mesh.001 10/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH tv-low-case-body mesh 11/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH tv-high-main-body mesh 12/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 16/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓 17/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building BVH
+Fra:1 Mem:55.04M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH light 83/82 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH light 83/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.57M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building BVH
+Fra:1 Mem:55.57M (Peak 80.63M) | Time:00:00.24 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.56M (Peak 80.63M) | Time:00:00.24 | Mem:1.31M, Peak:1.31M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.24 | Mem:3.31M, Peak:3.31M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building BVH
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.24 | Mem:3.31M, Peak:3.31M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.65M (Peak 80.63M) | Time:00:00.24 | Mem:3.17M, Peak:3.33M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building BVH
+Fra:1 Mem:56.65M (Peak 80.63M) | Time:00:00.24 | Mem:3.17M, Peak:3.33M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.70M (Peak 80.63M) | Time:00:00.24 | Mem:3.22M, Peak:3.33M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building BVH
+Fra:1 Mem:56.70M (Peak 80.63M) | Time:00:00.24 | Mem:3.22M, Peak:3.33M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 80.63M) | Time:00:00.24 | Mem:3.24M, Peak:3.47M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building BVH
+Fra:1 Mem:56.67M (Peak 80.63M) | Time:00:00.24 | Mem:3.24M, Peak:3.47M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.72M (Peak 80.63M) | Time:00:00.24 | Mem:3.28M, Peak:3.47M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building BVH
+Fra:1 Mem:56.72M (Peak 80.63M) | Time:00:00.24 | Mem:3.55M, Peak:3.55M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.45M (Peak 80.63M) | Time:00:00.24 | Mem:3.45M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building BVH
+Fra:1 Mem:56.45M (Peak 80.63M) | Time:00:00.24 | Mem:3.45M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.22M (Peak 80.63M) | Time:00:00.25 | Mem:3.07M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building BVH
+Fra:1 Mem:56.22M (Peak 80.63M) | Time:00:00.25 | Mem:3.22M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.11M (Peak 80.63M) | Time:00:00.25 | Mem:3.04M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building BVH
+Fra:1 Mem:56.11M (Peak 80.63M) | Time:00:00.25 | Mem:3.05M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.12M (Peak 80.63M) | Time:00:00.25 | Mem:3.05M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building BVH
+Fra:1 Mem:56.12M (Peak 80.63M) | Time:00:00.25 | Mem:3.06M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.13M (Peak 80.63M) | Time:00:00.25 | Mem:3.06M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building BVH
+Fra:1 Mem:56.13M (Peak 80.63M) | Time:00:00.25 | Mem:3.06M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.13M (Peak 80.63M) | Time:00:00.25 | Mem:3.07M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building BVH
+Fra:1 Mem:56.13M (Peak 80.63M) | Time:00:00.25 | Mem:3.09M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.13M (Peak 80.63M) | Time:00:00.25 | Mem:3.07M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building BVH
+Fra:1 Mem:56.13M (Peak 80.63M) | Time:00:00.25 | Mem:3.48M, Peak:3.88M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.92M (Peak 80.63M) | Time:00:00.25 | Mem:3.08M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building BVH
+Fra:1 Mem:55.92M (Peak 80.63M) | Time:00:00.25 | Mem:3.08M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.74M (Peak 80.63M) | Time:00:00.25 | Mem:3.03M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building BVH
+Fra:1 Mem:55.74M (Peak 80.63M) | Time:00:00.25 | Mem:3.04M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.74M (Peak 80.63M) | Time:00:00.25 | Mem:3.04M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building BVH
+Fra:1 Mem:55.74M (Peak 80.63M) | Time:00:00.25 | Mem:3.13M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.68M (Peak 80.63M) | Time:00:00.25 | Mem:3.02M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building BVH
+Fra:1 Mem:55.68M (Peak 80.63M) | Time:00:00.25 | Mem:3.02M, Peak:4.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.13M (Peak 80.63M) | Time:00:00.25 | Mem:2.78M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building BVH
+Fra:1 Mem:55.13M (Peak 80.63M) | Time:00:00.25 | Mem:2.81M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.25 | Mem:2.78M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.25 | Mem:2.85M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.25 | Mem:2.93M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building BVH
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.25 | Mem:2.93M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.25 | Mem:2.84M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building BVH
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.25 | Mem:2.93M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building BVH
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.25 | Mem:2.76M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.77M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.79M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.79M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.25 | Mem:2.82M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.80M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.81M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.81M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.81M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.84M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.82M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.82M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.83M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.84M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.84M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.91M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.26 | Mem:2.89M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.85M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.85M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.26 | Mem:2.88M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.26 | Mem:2.85M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.26 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.26 | Mem:2.87M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:2.85M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:2.85M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:2.86M, Peak:4.32M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects Flags
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Images
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera Volume
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.27 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.27 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Integrator
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.27 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Film
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.27 | Mem:6.32M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.27 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Baking
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.27 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.27 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:63.89M (Peak 80.63M) | Time:00:00.29 | Mem:501.41M, Peak:501.41M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 0/128
+Fra:1 Mem:220.45M (Peak 220.45M) | Time:00:00.37 | Remaining:00:10.94 | Mem:657.97M, Peak:657.97M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 1/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:05.51 | Remaining:00:03.13 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 80/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:06.57 | Remaining:00:02.09 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 96/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:07.64 | Remaining:00:01.05 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 112/128
+Fra:1 Mem:286.39M (Peak 385.26M) | Time:00:31.21 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 128/128
+Fra:1 Mem:286.39M (Peak 385.26M) | Time:00:31.21 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v06-japanese-v02\living-cycles.png'
+Time: 00:31.71 (Saving: 00:00.42)
+
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-top-glass-0.001
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-right-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-2.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | tv-low | 电视低柜 · 日式圆角
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | television | 85英寸电视 · 日式圆角
+Fra:1 Mem:52.21M (Peak 52.21M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发 · 日式圆角
+Fra:1 Mem:52.46M (Peak 52.46M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:52.63M (Peak 52.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:53.45M (Peak 53.45M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:53.75M (Peak 53.75M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:54.14M (Peak 54.14M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:53.90M (Peak 54.14M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:54.16M (Peak 54.16M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:54.16M (Peak 54.16M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:54.22M (Peak 54.22M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:54.49M (Peak 54.49M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:54.63M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:53.66M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | ottoman | 可移脚凳 · 日式圆角
+Fra:1 Mem:53.88M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:54.06M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:54.12M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:54.18M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:54.16M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:54.25M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:54.26M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:54.25M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:54.25M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:54.20M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:54.20M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:54.20M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:54.20M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:54.23M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:54.20M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | side-table | 长方茶几 · 日式圆角
+Fra:1 Mem:54.26M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:54.60M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:54.54M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:54.60M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:54.63M (Peak 54.63M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:54.65M (Peak 54.65M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:54.67M (Peak 54.67M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:55.45M (Peak 55.45M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:54.31M (Peak 55.45M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | double-desk | 双人办公桌 · 日式圆角
+Fra:1 Mem:54.33M (Peak 55.45M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1 · 日式圆角
+Fra:1 Mem:55.24M (Peak 55.45M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:55.59M (Peak 55.59M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | bookcase | 书柜与储物 · 日式圆角
+Fra:1 Mem:55.61M (Peak 55.61M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-table | 四人靠墙餐桌 · 日式圆角
+Fra:1 Mem:55.59M (Peak 55.61M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:56.02M (Peak 56.02M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:56.30M (Peak 56.30M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:57.22M (Peak 57.79M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:57.38M (Peak 57.79M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:57.57M (Peak 57.79M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:57.47M (Peak 57.79M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1 · 日式圆角
+Fra:1 Mem:58.16M (Peak 58.16M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2 · 日式圆角
+Fra:1 Mem:58.37M (Peak 58.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:57.49M (Peak 58.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:57.67M (Peak 58.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:57.60M (Peak 58.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3 · 日式圆角
+Fra:1 Mem:57.99M (Peak 58.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:58.00M (Peak 58.37M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:58.52M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:57.86M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4 · 日式圆角
+Fra:1 Mem:57.88M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:58.03M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:57.98M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:58.03M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:58.05M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:58.13M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:58.08M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0
+Fra:1 Mem:58.09M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃.001
+Fra:1 Mem:58.11M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.001
+Fra:1 Mem:58.14M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃
+Fra:1 Mem:58.16M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.002
+Fra:1 Mem:58.18M (Peak 58.52M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.003
+Fra:1 Mem:58.08M (Peak 59.25M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Initializing
+Fra:1 Mem:53.46M (Peak 59.25M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.46M (Peak 59.25M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene
+Fra:1 Mem:53.46M (Peak 59.25M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Shaders
+Fra:1 Mem:53.46M (Peak 59.25M) | Time:00:00.17 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.27 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Procedurals
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.27 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Background
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.27 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.27 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.27 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.27 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:54.81M (Peak 80.63M) | Time:00:00.27 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH light 83/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH light 83/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 16/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.27 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓 17/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.82M (Peak 80.63M) | Time:00:00.27 | Mem:1.35M, Peak:1.35M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH office-chair-1-seat mesh 18/82 | Building BVH
+Fra:1 Mem:55.82M (Peak 80.63M) | Time:00:00.27 | Mem:1.35M, Peak:1.35M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH office-chair-1-seat mesh 18/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.01M (Peak 80.63M) | Time:00:00.28 | Mem:1.49M, Peak:1.49M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building BVH
+Fra:1 Mem:56.01M (Peak 80.63M) | Time:00:00.28 | Mem:1.57M, Peak:1.57M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.58M (Peak 80.63M) | Time:00:00.28 | Mem:1.94M, Peak:1.94M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building BVH
+Fra:1 Mem:56.58M (Peak 80.63M) | Time:00:00.28 | Mem:1.94M, Peak:1.94M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.28 | Mem:3.12M, Peak:3.13M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building BVH
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.28 | Mem:3.12M, Peak:3.13M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.71M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:3.18M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building BVH
+Fra:1 Mem:56.71M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:3.18M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.67M (Peak 80.63M) | Time:00:00.28 | Mem:3.18M, Peak:3.43M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building BVH
+Fra:1 Mem:56.67M (Peak 80.63M) | Time:00:00.28 | Mem:3.19M, Peak:3.43M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.72M (Peak 80.63M) | Time:00:00.28 | Mem:3.24M, Peak:3.43M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building BVH
+Fra:1 Mem:56.72M (Peak 80.63M) | Time:00:00.28 | Mem:3.24M, Peak:3.43M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.77M (Peak 80.63M) | Time:00:00.28 | Mem:3.29M, Peak:3.43M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building BVH
+Fra:1 Mem:56.77M (Peak 80.63M) | Time:00:00.28 | Mem:3.56M, Peak:3.56M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.51M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:3.89M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building BVH
+Fra:1 Mem:56.51M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:3.89M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.30M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building BVH
+Fra:1 Mem:56.30M (Peak 80.63M) | Time:00:00.28 | Mem:3.37M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.26M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building BVH
+Fra:1 Mem:56.26M (Peak 80.63M) | Time:00:00.28 | Mem:3.24M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.24M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building BVH
+Fra:1 Mem:56.24M (Peak 80.63M) | Time:00:00.28 | Mem:3.17M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.01M (Peak 80.63M) | Time:00:00.28 | Mem:3.09M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building BVH
+Fra:1 Mem:56.01M (Peak 80.63M) | Time:00:00.28 | Mem:3.09M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.02M (Peak 80.63M) | Time:00:00.28 | Mem:3.10M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building BVH
+Fra:1 Mem:56.02M (Peak 80.63M) | Time:00:00.28 | Mem:3.10M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.02M (Peak 80.63M) | Time:00:00.28 | Mem:3.11M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building BVH
+Fra:1 Mem:56.02M (Peak 80.63M) | Time:00:00.28 | Mem:3.11M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.03M (Peak 80.63M) | Time:00:00.29 | Mem:3.12M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building BVH
+Fra:1 Mem:56.03M (Peak 80.63M) | Time:00:00.29 | Mem:3.12M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.04M (Peak 80.63M) | Time:00:00.29 | Mem:3.13M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building BVH
+Fra:1 Mem:56.04M (Peak 80.63M) | Time:00:00.29 | Mem:3.28M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.93M (Peak 80.63M) | Time:00:00.29 | Mem:3.12M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building BVH
+Fra:1 Mem:55.93M (Peak 80.63M) | Time:00:00.29 | Mem:3.14M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.92M (Peak 80.63M) | Time:00:00.29 | Mem:3.10M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building BVH
+Fra:1 Mem:55.92M (Peak 80.63M) | Time:00:00.29 | Mem:3.36M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.74M (Peak 80.63M) | Time:00:00.29 | Mem:3.05M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building BVH
+Fra:1 Mem:55.74M (Peak 80.63M) | Time:00:00.29 | Mem:3.06M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.75M (Peak 80.63M) | Time:00:00.29 | Mem:3.06M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building BVH
+Fra:1 Mem:55.75M (Peak 80.63M) | Time:00:00.29 | Mem:3.06M, Peak:4.10M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.63M) | Time:00:00.29 | Mem:2.80M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.63M) | Time:00:00.29 | Mem:3.01M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.29 | Mem:2.79M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.29 | Mem:2.94M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.29 | Mem:2.78M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building BVH
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.29 | Mem:2.93M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.29 | Mem:2.77M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building BVH
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.29 | Mem:2.84M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.29 | Mem:2.77M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building BVH
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.29 | Mem:2.92M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.77M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.77M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.77M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.79M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.77M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.80M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.79M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.80M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.79M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.79M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.80M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.81M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.81M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.29 | Mem:2.83M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.81M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.83M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.82M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.83M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.82M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.83M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.83M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.84M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.83M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.84M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.84M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.91M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.30 | Mem:2.91M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.30 | Mem:2.89M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.30 | Mem:2.87M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.30 | Mem:2.88M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.31 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.31 | Mem:2.85M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.31 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.31 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:2.86M, Peak:4.36M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects Flags
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Images
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera Volume
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.31 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.32 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Integrator
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.32 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Film
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.32 | Mem:6.32M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.32 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Baking
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.32 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.32 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:63.89M (Peak 80.63M) | Time:00:00.33 | Mem:501.41M, Peak:501.41M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 0/128
+Fra:1 Mem:220.45M (Peak 220.45M) | Time:00:00.41 | Remaining:00:10.44 | Mem:657.97M, Peak:657.97M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 1/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:05.33 | Remaining:00:02.99 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 80/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:06.32 | Remaining:00:01.99 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 96/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:07.27 | Remaining:00:00.99 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 112/128
+Fra:1 Mem:286.39M (Peak 385.27M) | Time:00:30.49 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 128/128
+Fra:1 Mem:286.39M (Peak 385.27M) | Time:00:30.49 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v06-japanese-v02\office-cycles.png'
+Time: 00:30.91 (Saving: 00:00.34)
+
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-top-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-right-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-2.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | lower-projection-right-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | tv-low | 电视低柜 · 日式圆角
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | tv-high | 入户至电视通长立柜 · 日式圆角
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | television | 85英寸电视 · 日式圆角
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发 · 日式圆角
+Fra:1 Mem:52.48M (Peak 52.48M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | ottoman | 可移脚凳 · 日式圆角
+Fra:1 Mem:53.05M (Peak 53.05M) | Time:00:00.13 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | side-table | 长方茶几 · 日式圆角
+Fra:1 Mem:54.26M (Peak 54.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | double-desk | 双人办公桌 · 日式圆角
+Fra:1 Mem:54.82M (Peak 55.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:54.92M (Peak 55.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:55.06M (Peak 55.26M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:55.35M (Peak 55.35M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:55.78M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:55.45M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:55.10M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1 · 日式圆角
+Fra:1 Mem:55.10M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:55.12M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:55.14M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:55.14M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:55.21M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:55.21M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:55.21M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:55.21M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:55.64M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:55.64M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:55.64M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:55.64M (Peak 55.78M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:55.90M (Peak 55.90M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:56.11M (Peak 56.11M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:56.11M (Peak 56.11M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:56.16M (Peak 56.16M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:56.27M (Peak 56.27M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:56.32M (Peak 56.32M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:55.54M (Peak 56.32M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | bookcase | 书柜与储物 · 日式圆角
+Fra:1 Mem:55.20M (Peak 56.32M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:55.58M (Peak 56.32M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:55.65M (Peak 56.32M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:56.92M (Peak 56.92M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:56.94M (Peak 56.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:56.96M (Peak 56.96M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:57.83M (Peak 57.83M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:57.48M (Peak 57.83M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-table | 四人靠墙餐桌 · 日式圆角
+Fra:1 Mem:57.73M (Peak 57.83M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:57.72M (Peak 57.83M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:58.25M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:57.25M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:56.95M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1 · 日式圆角
+Fra:1 Mem:56.97M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:57.26M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2 · 日式圆角
+Fra:1 Mem:57.53M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:57.58M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:57.50M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:57.52M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:57.52M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:57.54M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:57.56M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:57.59M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:57.61M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:57.63M (Peak 58.25M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:57.65M (Peak 58.25M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:57.68M (Peak 58.25M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:57.70M (Peak 58.25M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:57.72M (Peak 58.25M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:57.75M (Peak 58.25M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3 · 日式圆角
+Fra:1 Mem:58.50M (Peak 58.50M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:59.39M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃.001
+Fra:1 Mem:58.32M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃
+Fra:1 Mem:57.94M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4 · 日式圆角
+Fra:1 Mem:58.05M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.003
+Fra:1 Mem:58.11M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:58.01M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0
+Fra:1 Mem:58.09M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.002
+Fra:1 Mem:58.13M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.001
+Fra:1 Mem:58.08M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Initializing
+Fra:1 Mem:53.46M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.46M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene
+Fra:1 Mem:53.46M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Shaders
+Fra:1 Mem:53.46M (Peak 59.39M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Procedurals
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Background
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.25 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:54.81M (Peak 80.63M) | Time:00:00.25 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH light 83/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 16/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 16/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.01M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/82 | Building BVH
+Fra:1 Mem:55.01M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.58M (Peak 80.63M) | Time:00:00.26 | Mem:1.37M, Peak:1.37M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓 17/82 | Building BVH
+Fra:1 Mem:55.58M (Peak 80.63M) | Time:00:00.26 | Mem:1.37M, Peak:1.37M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH double-desk-top · 弧形轮廓 17/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.66M (Peak 80.63M) | Time:00:00.26 | Mem:1.37M, Peak:1.37M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH office-chair-1-seat mesh 18/82 | Building BVH
+Fra:1 Mem:55.82M (Peak 80.63M) | Time:00:00.26 | Mem:1.38M, Peak:1.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH office-chair-1-seat mesh 18/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.01M (Peak 80.63M) | Time:00:00.26 | Mem:1.54M, Peak:1.54M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building BVH
+Fra:1 Mem:56.01M (Peak 80.63M) | Time:00:00.26 | Mem:1.54M, Peak:1.54M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.58M (Peak 80.63M) | Time:00:00.26 | Mem:1.62M, Peak:1.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building BVH
+Fra:1 Mem:56.58M (Peak 80.63M) | Time:00:00.26 | Mem:1.62M, Peak:1.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.26 | Mem:3.12M, Peak:3.12M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building BVH
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.26 | Mem:3.18M, Peak:3.18M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.68M (Peak 80.63M) | Time:00:00.26 | Mem:3.16M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building BVH
+Fra:1 Mem:56.68M (Peak 80.63M) | Time:00:00.26 | Mem:3.17M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.69M (Peak 80.63M) | Time:00:00.26 | Mem:3.17M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building BVH
+Fra:1 Mem:56.69M (Peak 80.63M) | Time:00:00.26 | Mem:3.18M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.75M (Peak 80.63M) | Time:00:00.26 | Mem:3.23M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building BVH
+Fra:1 Mem:56.75M (Peak 80.63M) | Time:00:00.26 | Mem:3.24M, Peak:3.24M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.80M (Peak 80.63M) | Time:00:00.26 | Mem:3.28M, Peak:3.29M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building BVH
+Fra:1 Mem:56.80M (Peak 80.63M) | Time:00:00.26 | Mem:3.69M, Peak:3.69M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.63M (Peak 80.63M) | Time:00:00.26 | Mem:3.33M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building BVH
+Fra:1 Mem:56.63M (Peak 80.63M) | Time:00:00.26 | Mem:3.33M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.63M (Peak 80.63M) | Time:00:00.26 | Mem:3.33M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building BVH
+Fra:1 Mem:56.63M (Peak 80.63M) | Time:00:00.26 | Mem:3.60M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.38M (Peak 80.63M) | Time:00:00.26 | Mem:3.22M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building BVH
+Fra:1 Mem:56.38M (Peak 80.63M) | Time:00:00.26 | Mem:3.22M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.14M (Peak 80.63M) | Time:00:00.26 | Mem:3.39M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building BVH
+Fra:1 Mem:56.14M (Peak 80.63M) | Time:00:00.26 | Mem:3.39M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.96M (Peak 80.63M) | Time:00:00.26 | Mem:3.08M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building BVH
+Fra:1 Mem:55.96M (Peak 80.63M) | Time:00:00.26 | Mem:3.28M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.91M (Peak 80.63M) | Time:00:00.27 | Mem:3.08M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building BVH
+Fra:1 Mem:55.91M (Peak 80.63M) | Time:00:00.27 | Mem:3.13M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.90M (Peak 80.63M) | Time:00:00.27 | Mem:3.09M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building BVH
+Fra:1 Mem:55.90M (Peak 80.63M) | Time:00:00.27 | Mem:3.09M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.91M (Peak 80.63M) | Time:00:00.27 | Mem:3.09M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building BVH
+Fra:1 Mem:55.91M (Peak 80.63M) | Time:00:00.27 | Mem:3.10M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.92M (Peak 80.63M) | Time:00:00.27 | Mem:3.10M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building BVH
+Fra:1 Mem:55.92M (Peak 80.63M) | Time:00:00.27 | Mem:3.11M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.93M (Peak 80.63M) | Time:00:00.27 | Mem:3.11M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building BVH
+Fra:1 Mem:55.93M (Peak 80.63M) | Time:00:00.27 | Mem:3.12M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.94M (Peak 80.63M) | Time:00:00.27 | Mem:3.12M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building BVH
+Fra:1 Mem:55.94M (Peak 80.63M) | Time:00:00.27 | Mem:3.21M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.86M (Peak 80.63M) | Time:00:00.27 | Mem:3.09M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building BVH
+Fra:1 Mem:55.86M (Peak 80.63M) | Time:00:00.27 | Mem:3.09M, Peak:4.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.29M (Peak 80.63M) | Time:00:00.27 | Mem:2.83M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building BVH
+Fra:1 Mem:55.29M (Peak 80.63M) | Time:00:00.27 | Mem:3.17M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.19M (Peak 80.63M) | Time:00:00.27 | Mem:2.80M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building BVH
+Fra:1 Mem:55.19M (Peak 80.63M) | Time:00:00.27 | Mem:2.80M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.27 | Mem:2.79M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.27 | Mem:2.94M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.27 | Mem:2.78M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building BVH
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.07M (Peak 80.63M) | Time:00:00.27 | Mem:2.79M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building BVH
+Fra:1 Mem:55.07M (Peak 80.63M) | Time:00:00.27 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.27 | Mem:2.79M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building BVH
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.27 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.27 | Mem:2.78M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building BVH
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.27 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.78M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.79M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.79M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.80M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.82M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.83M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.82M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.82M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.84M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.83M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.84M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.83M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.84M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.84M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.92M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.91M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.91M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.91M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.91M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.90M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.39M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects Flags
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Images
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera Volume
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Integrator
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Film
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.32M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Baking
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:63.89M (Peak 80.63M) | Time:00:00.31 | Mem:501.41M, Peak:501.41M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 0/128
+Fra:1 Mem:220.45M (Peak 220.45M) | Time:00:00.39 | Remaining:00:10.15 | Mem:657.97M, Peak:657.97M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 1/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:05.15 | Remaining:00:02.90 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 80/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:06.11 | Remaining:00:01.93 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 96/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:07.06 | Remaining:00:00.96 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 112/128
+Fra:1 Mem:286.39M (Peak 385.27M) | Time:00:30.25 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 128/128
+Fra:1 Mem:286.39M (Peak 385.27M) | Time:00:30.25 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v06-japanese-v02\office-detail-cycles.png'
+Time: 00:30.59 (Saving: 00:00.26)
+
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 原户型轮廓 · 总长未闭合.001
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-top-glass-0.001
+Fra:1 Mem:52.00M (Peak 52.00M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-left-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | bay-front-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | outer-right-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | front-facade-glass-1.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | lower-projection-right-glass-0.001
+Fra:1 Mem:52.01M (Peak 52.01M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | tv-low | 电视低柜 · 日式圆角
+Fra:1 Mem:52.02M (Peak 52.02M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | tv-high | 入户至电视通长立柜 · 日式圆角
+Fra:1 Mem:52.07M (Peak 52.07M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | television | 85英寸电视 · 日式圆角
+Fra:1 Mem:52.99M (Peak 52.99M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 墙体显示并集 · 完整高度与开口
+Fra:1 Mem:53.02M (Peak 53.02M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | sofa-modular | 贵妃组合沙发 · 日式圆角
+Fra:1 Mem:53.05M (Peak 53.05M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-bottom-stub-end
+Fra:1 Mem:53.10M (Peak 53.10M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | ottoman | 可移脚凳 · 日式圆角
+Fra:1 Mem:53.11M (Peak 53.11M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | side-table | 长方茶几 · 日式圆角
+Fra:1 Mem:53.12M (Peak 53.12M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 retained-central-top-stub-end
+Fra:1 Mem:53.33M (Peak 53.33M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 left-short-partition-end
+Fra:1 Mem:53.71M (Peak 53.71M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 弧形饰面 lower-narrow-top-0
+Fra:1 Mem:53.77M (Peak 53.77M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 置物格内部照明
+Fra:1 Mem:53.70M (Peak 53.77M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户置物格内灯带
+Fra:1 Mem:53.79M (Peak 53.79M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.006
+Fra:1 Mem:53.84M (Peak 53.84M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.006
+Fra:1 Mem:53.85M (Peak 53.85M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.005
+Fra:1 Mem:53.85M (Peak 53.85M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.005
+Fra:1 Mem:53.85M (Peak 53.85M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.004
+Fra:1 Mem:53.85M (Peak 53.85M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.004
+Fra:1 Mem:53.87M (Peak 53.87M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.003
+Fra:1 Mem:53.89M (Peak 53.89M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.003
+Fra:1 Mem:53.94M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.002
+Fra:1 Mem:53.94M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.002
+Fra:1 Mem:53.58M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯.001
+Fra:1 Mem:53.61M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯.001
+Fra:1 Mem:53.70M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 3000K柔和顶灯
+Fra:1 Mem:53.71M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现嵌入灯
+Fra:1 Mem:53.71M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 入户侧开口日光
+Fra:1 Mem:53.71M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台柔和日光
+Fra:1 Mem:53.71M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.003
+Fra:1 Mem:53.78M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | double-desk | 双人办公桌 · 日式圆角
+Fra:1 Mem:53.88M (Peak 53.94M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.002
+Fra:1 Mem:54.48M (Peak 54.48M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0.001
+Fra:1 Mem:54.63M (Peak 54.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 lower-projection-right-glass-0
+Fra:1 Mem:55.03M (Peak 55.03M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.003
+Fra:1 Mem:54.93M (Peak 55.03M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | office-chair-1 | 办公椅1 · 日式圆角
+Fra:1 Mem:54.94M (Peak 55.03M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.002
+Fra:1 Mem:54.85M (Peak 55.03M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2.001
+Fra:1 Mem:55.12M (Peak 55.12M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-2
+Fra:1 Mem:55.63M (Peak 55.63M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.003
+Fra:1 Mem:55.92M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.002
+Fra:1 Mem:55.53M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1.001
+Fra:1 Mem:55.66M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-1
+Fra:1 Mem:55.65M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.003
+Fra:1 Mem:55.68M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.002
+Fra:1 Mem:55.70M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0.001
+Fra:1 Mem:55.72M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 front-facade-glass-0
+Fra:1 Mem:55.74M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.003
+Fra:1 Mem:55.77M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.002
+Fra:1 Mem:55.79M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0.001
+Fra:1 Mem:55.81M (Peak 55.92M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-right-glass-0
+Fra:1 Mem:56.21M (Peak 56.21M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | bookcase | 书柜与储物 · 日式圆角
+Fra:1 Mem:55.35M (Peak 56.21M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.003
+Fra:1 Mem:56.94M (Peak 56.94M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.002
+Fra:1 Mem:56.92M (Peak 56.94M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0.001
+Fra:1 Mem:57.07M (Peak 57.07M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 bay-front-glass-0
+Fra:1 Mem:57.54M (Peak 57.54M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.003
+Fra:1 Mem:57.53M (Peak 57.54M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.002
+Fra:1 Mem:57.76M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0.001
+Fra:1 Mem:56.47M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-left-glass-0
+Fra:1 Mem:57.11M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃.001
+Fra:1 Mem:57.37M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 阳台细窗梃
+Fra:1 Mem:57.56M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.003
+Fra:1 Mem:57.58M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.002
+Fra:1 Mem:57.50M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0.001
+Fra:1 Mem:57.48M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-table | 四人靠墙餐桌 · 日式圆角
+Fra:1 Mem:57.71M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现窗框 outer-top-glass-0
+Fra:1 Mem:57.71M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | 表现用顶面 · 暂定净高2750
+Fra:1 Mem:57.71M (Peak 57.76M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-4 | 餐椅4 · 日式圆角
+Fra:1 Mem:58.07M (Peak 58.07M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-1 | 餐椅1 · 日式圆角
+Fra:1 Mem:57.75M (Peak 58.07M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-3 | 餐椅3 · 日式圆角
+Fra:1 Mem:58.06M (Peak 58.07M) | Time:00:00.15 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Synchronizing object | dining-chair-2 | 餐椅2 · 日式圆角
+Fra:1 Mem:58.08M (Peak 59.18M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Initializing
+Fra:1 Mem:53.46M (Peak 59.18M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Waiting for render to start
+Fra:1 Mem:53.46M (Peak 59.18M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene
+Fra:1 Mem:53.46M (Peak 59.18M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Shaders
+Fra:1 Mem:53.46M (Peak 59.18M) | Time:00:00.16 | Mem:0.00M, Peak:0.00M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.26 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Procedurals
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.26 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Background
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.26 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.26 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.26 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects
+Fra:1 Mem:53.57M (Peak 80.63M) | Time:00:00.26 | Mem:0.03M, Peak:0.03M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.26 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.26 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.26 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Meshes
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.26 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:53.59M (Peak 80.63M) | Time:00:00.26 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:54.81M (Peak 80.63M) | Time:00:00.26 | Mem:0.05M, Peak:0.05M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH side-table-top · 弧形轮廓 16/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-table-top · 弧形轮廓 20/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH bookcase-north-tower-body mesh 19/82 | Building BVH
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.26 | Mem:1.26M, Peak:1.26M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 墙体显示并集 · 去除重合面 82/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.26 | Mem:3.12M, Peak:3.13M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building BVH
+Fra:1 Mem:56.66M (Peak 80.63M) | Time:00:00.26 | Mem:3.13M, Peak:3.13M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-1-seat mesh 21/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.71M (Peak 80.63M) | Time:00:00.26 | Mem:3.17M, Peak:3.18M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building BVH
+Fra:1 Mem:56.71M (Peak 80.63M) | Time:00:00.26 | Mem:3.18M, Peak:3.18M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-2-seat mesh 22/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.76M (Peak 80.63M) | Time:00:00.26 | Mem:3.22M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building BVH
+Fra:1 Mem:56.76M (Peak 80.63M) | Time:00:00.26 | Mem:3.23M, Peak:3.23M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-3-seat mesh 23/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.81M (Peak 80.63M) | Time:00:00.26 | Mem:3.28M, Peak:3.28M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building BVH
+Fra:1 Mem:56.81M (Peak 80.63M) | Time:00:00.26 | Mem:3.28M, Peak:3.28M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH dining-chair-4-seat mesh 24/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.86M (Peak 80.63M) | Time:00:00.26 | Mem:3.33M, Peak:3.34M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building BVH
+Fra:1 Mem:56.86M (Peak 80.63M) | Time:00:00.26 | Mem:3.90M, Peak:3.90M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现用顶面 · 暂定净高2750 mesh 25/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.29M (Peak 80.63M) | Time:00:00.26 | Mem:3.07M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building BVH
+Fra:1 Mem:56.29M (Peak 80.63M) | Time:00:00.26 | Mem:3.07M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh 26/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.30M (Peak 80.63M) | Time:00:00.27 | Mem:3.08M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building BVH
+Fra:1 Mem:56.30M (Peak 80.63M) | Time:00:00.27 | Mem:3.68M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.001 27/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.04M (Peak 80.63M) | Time:00:00.27 | Mem:2.96M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building BVH
+Fra:1 Mem:56.04M (Peak 80.63M) | Time:00:00.27 | Mem:2.97M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.002 28/82 | Building OptiX acceleration structure
+Fra:1 Mem:56.05M (Peak 80.63M) | Time:00:00.27 | Mem:2.97M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building BVH
+Fra:1 Mem:56.05M (Peak 80.63M) | Time:00:00.27 | Mem:3.18M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-top-glass-0 mesh.003 29/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.97M (Peak 80.63M) | Time:00:00.27 | Mem:2.94M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building BVH
+Fra:1 Mem:55.97M (Peak 80.63M) | Time:00:00.27 | Mem:3.03M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh 30/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.91M (Peak 80.63M) | Time:00:00.27 | Mem:2.92M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building BVH
+Fra:1 Mem:55.91M (Peak 80.63M) | Time:00:00.27 | Mem:3.26M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台细窗梃 mesh.001 31/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.80M (Peak 80.63M) | Time:00:00.27 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building BVH
+Fra:1 Mem:55.80M (Peak 80.63M) | Time:00:00.27 | Mem:2.92M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh 32/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.78M (Peak 80.63M) | Time:00:00.27 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building BVH
+Fra:1 Mem:55.78M (Peak 80.63M) | Time:00:00.27 | Mem:3.55M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-bottom-stub-end · 弧形轮廓 81/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.55M (Peak 80.63M) | Time:00:00.27 | Mem:2.81M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building BVH
+Fra:1 Mem:55.55M (Peak 80.63M) | Time:00:00.27 | Mem:2.82M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.001 33/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.56M (Peak 80.63M) | Time:00:00.27 | Mem:2.82M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building BVH
+Fra:1 Mem:55.56M (Peak 80.63M) | Time:00:00.27 | Mem:2.84M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.002 34/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.55M (Peak 80.63M) | Time:00:00.27 | Mem:2.82M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building BVH
+Fra:1 Mem:55.55M (Peak 80.63M) | Time:00:00.27 | Mem:3.08M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-left-glass-0 mesh.003 35/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.37M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building BVH
+Fra:1 Mem:55.37M (Peak 80.63M) | Time:00:00.27 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh 36/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.32M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building BVH
+Fra:1 Mem:55.32M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.001 37/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.33M (Peak 80.63M) | Time:00:00.27 | Mem:2.78M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building BVH
+Fra:1 Mem:55.33M (Peak 80.63M) | Time:00:00.27 | Mem:3.19M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.002 38/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.27 | Mem:2.79M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building BVH
+Fra:1 Mem:55.12M (Peak 80.63M) | Time:00:00.27 | Mem:2.94M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 bay-front-glass-0 mesh.003 39/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.27 | Mem:2.78M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building BVH
+Fra:1 Mem:55.08M (Peak 80.63M) | Time:00:00.27 | Mem:2.93M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh 40/82 | Building OptiX acceleration structure
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building BVH
+Fra:1 Mem:55.03M (Peak 80.63M) | Time:00:00.27 | Mem:2.93M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.001 41/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building BVH
+Fra:1 Mem:54.99M (Peak 80.63M) | Time:00:00.27 | Mem:2.83M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.002 42/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.76M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.27 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 outer-right-glass-0 mesh.003 43/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.79M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh 44/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.77M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.80M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.001 45/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.78M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.79M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.002 46/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.79M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.81M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-0 mesh.003 47/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.80M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.82M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh 48/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.80M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.80M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.001 49/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.80M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.81M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.002 50/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.81M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-1 mesh.003 51/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.82M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.83M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 retained-central-top-stub-end · 弧形轮廓 80/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.83M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh 52/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.83M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.001 53/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.002 54/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.84M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 front-facade-glass-2 mesh.003 55/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh 56/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.001 57/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.002 58/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现窗框 lower-projection-right-glass-0 mesh.003 59/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 阳台柔和日光 60/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户侧开口日光 61/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh 62/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯 63/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building BVH
+Fra:1 Mem:54.95M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.001 64/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.001 65/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building BVH
+Fra:1 Mem:54.94M (Peak 80.63M) | Time:00:00.28 | Mem:2.89M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.002 66/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.002 67/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building BVH
+Fra:1 Mem:54.93M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.003 68/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.003 69/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building BVH
+Fra:1 Mem:54.92M (Peak 80.63M) | Time:00:00.28 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.004 70/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.004 71/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.88M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.005 72/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.005 73/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building BVH
+Fra:1 Mem:54.91M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 表现嵌入灯 mesh.006 74/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 3000K柔和顶灯.006 75/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.29 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building BVH
+Fra:1 Mem:54.90M (Peak 80.63M) | Time:00:00.29 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 入户置物格内灯带 mesh 76/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 置物格内部照明 77/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.29 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.29 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 lower-narrow-top-0 · 弧形轮廓 78/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building BVH
+Fra:1 Mem:54.89M (Peak 80.63M) | Time:00:00.29 | Mem:2.87M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Geometry BVH 饰面 left-short-partition-end · 弧形轮廓 79/82 | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.85M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Building OptiX acceleration structure
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:54.80M (Peak 80.63M) | Time:00:00.29 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:2.86M, Peak:4.62M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Objects Flags
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Images
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Camera Volume
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.30M, Peak:6.30M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights
+Fra:1 Mem:58.24M (Peak 80.63M) | Time:00:00.30 | Mem:6.38M, Peak:6.38M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Integrator
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Film
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.32M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Baking
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:58.26M (Peak 80.63M) | Time:00:00.30 | Mem:6.40M, Peak:6.40M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:63.89M (Peak 80.63M) | Time:00:00.31 | Mem:501.41M, Peak:501.41M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 0/128
+Fra:1 Mem:220.45M (Peak 220.45M) | Time:00:00.41 | Remaining:00:12.21 | Mem:657.97M, Peak:657.97M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 1/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:06.02 | Remaining:00:03.42 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 80/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:07.16 | Remaining:00:02.28 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 96/128
+Fra:1 Mem:220.47M (Peak 220.47M) | Time:00:08.31 | Remaining:00:01.14 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 112/128
+Fra:1 Mem:286.39M (Peak 385.27M) | Time:00:31.54 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Sample 128/128
+Fra:1 Mem:286.39M (Peak 385.27M) | Time:00:31.54 | Mem:657.98M, Peak:657.98M | v06 · 现代日式简约 · 圆角与暖色, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\07_renders\v06-japanese-v02\dining-cycles.png'
+Time: 00:31.86 (Saving: 00:00.25)
+
+BlenderMCP addon registered
+Info: Saved as "home-v06-japanese-v02.blend"
+JAPANESE_V02_DONE {"draft": false, "furniture": 14, "views": ["living", "office", "office-detail", "dining"], "source_parts": 206, "style_accessories": 2}
+BlenderMCP addon unregistered
+
+Blender quit

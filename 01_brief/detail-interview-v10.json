@@ -1,0 +1,101 @@
+{
+  "stage": "public-area-detail-interview",
+  "status": "public preferences applied to v10; storage inventory deferred",
+  "baseline_model": "06_blender/home-main-v09.blend",
+  "baseline_geometry": "02_geometry/geometry-master-v09.json",
+  "baseline_geometry_sha256": "c3806b73ad37549d6329159fb1178d8fd2d79804e0584f6eb219e98d7b91ec0c",
+  "user_request": "公共区核心设计完成，先询问需求，再细化颜色、风格、家具、灯光、墙面、收纳、门墙统一、材质统一、极窄收口、线条和弧度。",
+  "scope": [
+    "客厅",
+    "餐厅",
+    "阳台",
+    "相邻办公、柜体与公共区门墙接口"
+  ],
+  "retained_decisions": [
+    "现代日式简约，暖色为主，可有绿色与深蓝",
+    "第三种走廊柜：奶黄下柜、奶油白上柜、胡桃木浅格，柜顶贴合天花",
+    "柜体不必全屋采用相同样式；材质协调不等于所有柜体外形一致",
+    "85寸电视、上端贵妃位、双人桌一椅一台34寸屏、四椅靠墙餐桌",
+    "保留现有主要布局及已烘焙的北移，不重复移动",
+    "中央整玻、两侧上开下固的阳台窗型，餐厨玻璃推拉门",
+    "保留家具悬停尺寸、100mm移动、撤销与洗烘联动"
+  ],
+  "questions": [
+    {
+      "id": "household_site_budget",
+      "topic": "常住人员、孩子老人宠物、毛坯或局改、需保留的地面吊顶门窗、公共区预算及包含范围",
+      "answer": "常驻3人，两大一小，目前是毛坯，这部分预算一共10万人民币做硬装，包含柜子，但不包含家具和灯具"
+    },
+    {
+      "id": "palette_and_wood",
+      "topic": "在奶黄奶油白柜体基础上选择米白浅橡木、燕麦稍深木色或更干净暖白浅木的综合色调",
+      "answer": "更干净的暖白墙＋浅木，减少整体黄感，突出绿色和深蓝"
+    },
+    {
+      "id": "furniture_touch",
+      "topic": "沙发餐椅坐感、面料、拆洗需求和已购必须保留的家具",
+      "answer": "细织布或者棉麻，无家具"
+    },
+    {
+      "id": "lighting_scenes",
+      "topic": "分场景切换、均匀明亮或明显氛围层次的晚间照明偏好",
+      "answer": "更重氛围：间接光和台灯为主，接受明显的明暗层次"
+    },
+    {
+      "id": "storage_inventory",
+      "topic": "收纳物品、粗略数量、展示与随手取用或隐藏需求",
+      "answer": "这个暂时不定"
+    },
+    {
+      "id": "doors_walls_trim",
+      "topic": "门墙同色细收边、同面隐藏门套踢脚线或保留门墙区分的取向与投入程度",
+      "answer": "门墙尽量同面，隐藏门套和踢脚线，愿意增加细节施工投入"
+    },
+    {
+      "id": "wall_texture",
+      "topic": "平整哑光、细肌理或局部饰面的偏好",
+      "answer": "平整哑光，主要靠光影、家具和柜体形成层次"
+    },
+    {
+      "id": "curve_language",
+      "topic": "局部柔弧、整体更圆润或分区控制弧线",
+      "answer": "直线为骨架，桌角、墙角和柜体外露端部做柔和圆弧"
+    }
+  ],
+  "independent_review_priorities": [
+    "建立主木色、辅木色、金属色和哑光程度的对应关系，保留已选柜体配色",
+    "按物品数量细分封闭与开放柜格、抽屉及随手置物，不只核对柜体总体积",
+    "将日常、观影、办公、用餐与夜间动线分别考虑，结合实际吊顶和设备条件",
+    "统一公共区可见门套、踢脚线、柜墙柜顶、窗边和玻璃门轨盒的收口关系",
+    "区分视觉极窄收口与实际需要的安装、伸缩及检修空间，不预设未经核对的极小施工缝",
+    "按家具、柜端和墙角的尺度建立圆角层级，避免所有物体套用同一个半径",
+    "复核办公椅后408、脚凳局部470、餐椅4至门位线285等已有模型包络问题，先提出调整依据，不借出图擅自重排",
+    "在业主回答后形成具体配色材质、照明和节点方案，再应用到下一版主模型；此访谈文件不代表v10模型已经生成"
+  ],
+  "main_model_changed_during_interview": false,
+  "answers_are_not_inferred_from_preselected_options": true,
+  "storage_inventory_status": "deferred by homeowner; no exact storage quantities assumed",
+  "public_hard_finish_budget_rmb": 100000,
+  "budget_answer_status": "historical interview answer; superseded for all subsequent design by homeowner instruction on 2026-10-31",
+  "budget_considered_in_future_design": false,
+  "current_budget_constraint_rmb": null,
+  "latest_design_directive": "之后的所有内容不考虑预算，只考虑设计",
+  "current_design_constraints": "01_brief/current-design-constraints.json",
+  "included_in_budget": [
+    "public hard finishes",
+    "built-in cabinets"
+  ],
+  "excluded_from_budget": [
+    "loose furniture",
+    "lighting fixtures"
+  ],
+  "household": {
+    "adults": 2,
+    "children": 1
+  },
+  "site": "bare shell",
+  "existing_furniture": "none purchased",
+  "applied_model": "06_blender/home-main-v10.blend",
+  "applied_geometry_sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8",
+  "master_bath_study": "01_brief/master-bath-feasibility-v10.json"
+}

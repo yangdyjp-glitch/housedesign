@@ -1,0 +1,22 @@
+[
+  {
+    "name": "xiong-interior-design",
+    "error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "name": "interior-designer",
+    "error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "name": "interior-design-expert",
+    "error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "name": "interior-design-visualizer",
+    "error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "name": "moodboard-aesthetic-iteration",
+    "error": "HTTP Error 403: rate limit exceeded"
+  }
+]

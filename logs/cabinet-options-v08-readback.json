@@ -1,0 +1,39 @@
+{
+  "options": [
+    {
+      "option": "A",
+      "saved_reopened": true,
+      "geometry_sha256": "778b6ea70f92e7f95d768fce1e7d8222f66f2f994c324f6ce7d9d533117c2b05",
+      "style_sha256": "5f07bed5055859d96caadb26be3142640ed7c17893400dd6662a9f5115e3774d",
+      "cabinet_top_mm": 2750.0,
+      "ceiling_gap_mm": 0.0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_placements_and_dimensions_unchanged": true
+    },
+    {
+      "option": "B",
+      "saved_reopened": true,
+      "geometry_sha256": "7f254d9fa7c1a0bc195e589aa025344fc3d555b856fedb14f8a75042089e3e0e",
+      "style_sha256": "2dd63d7a1ad11606e4ac03d23e26b94bbcf4f4432a3880ed6797e8dc8c13415b",
+      "cabinet_top_mm": 2750.0,
+      "ceiling_gap_mm": 0.0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_placements_and_dimensions_unchanged": true
+    },
+    {
+      "option": "C",
+      "saved_reopened": true,
+      "geometry_sha256": "726e14222d9ca59deaf44a8eaa7bf6ee62d7e841b613d0a2f8c772fba250960b",
+      "style_sha256": "d8415a70d7de97219af293fd4db482243e32cece3ccd692d50c9e0e21dcbd2aa",
+      "cabinet_top_mm": 2750.0,
+      "ceiling_gap_mm": 0.0,
+      "niche_bottom_mm": 1200,
+      "niche_top_mm": 1400,
+      "other_20_placements_and_dimensions_unchanged": true
+    }
+  ],
+  "active_main_sha256": "f432ed4ed8da8eba33d1574087cb6d0fa0d9387d5c2890c2ba9b6e58e9094fbb",
+  "active_main_unchanged": true
+}

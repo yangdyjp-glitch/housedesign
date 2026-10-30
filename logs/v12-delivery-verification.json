@@ -1,0 +1,23 @@
+{
+  "revision": 12,
+  "zip": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\v12-门厅电视墙灯光窗帘与矮茶席.zip",
+  "files": 43,
+  "zip_valid": true,
+  "model_sha256": "3261e403c61b15f4fa47e20776c68abe7fd3c5d04d94888abdbfe1e15598dc67",
+  "geometry_sha256": "d794e0d7905f630ef8eda6ed66f41d06c3b201f94c3d9e97d82a03573dd001a1",
+  "style_sha256": "d5b85a6df0d8656fe93a0725bc35a141c1a92c0e76c1f0082fac71e8341a5d8d",
+  "previous_v11_unchanged": true,
+  "active_model_matches": true,
+  "geometry_master_matches": true,
+  "images_visually_reviewed": true,
+  "image_count": 12,
+  "furniture_count": 23,
+  "preserved_meshes": 21,
+  "entry_local_width_mm": 1254,
+  "curtain_states_verified": 3,
+  "lighting_scenes_verified": 4,
+  "private_room_boundaries_unchanged": true,
+  "latest_user_living_positions_preserved": true,
+  "live_movement_door_curtain_lighting_verified": true,
+  "budget_considered": false
+}

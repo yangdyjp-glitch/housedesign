@@ -1,0 +1,70 @@
+{
+  "revision": 10,
+  "model": "06_blender/home-main-v10.blend",
+  "geometry_sha256": "b9c2ff9ff26ea6e49380d1077331a78522e8504eb384edd26e6e6062f40333f8",
+  "style_sha256": "105e9cb2612ffa439fe55879120cd8aba7670536dd179abf877b074d5c765ccd",
+  "actual_render_mode": "Blender Cycles 128 samples OptiX",
+  "imagegen_used_this_revision": false,
+  "images": [
+    {
+      "path": "07_renders/v10-detail/living-day.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "730ff3e7d1a2f00364994c0b24d9f1701605d38875935ec72fd5c2c2e30e65ca",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v10-detail/living-evening.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "25813393742b20381b9e6bf2a67b274b261d4ff50b1251fd949221687c068da1",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v10-detail/desk-evening.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "660012e69562c8914d8510d3c3b689abe11c0a5855977c894d1b7da260bb598c",
+      "visually_reviewed": true
+    },
+    {
+      "path": "07_renders/v10-detail/door-wall-detail.png",
+      "size": [
+        1800,
+        1200
+      ],
+      "sha256": "b7590343be6eeb035949ee4755c0d790f8abd003626ae0796fb1a23d6654f51e",
+      "visually_reviewed": true
+    }
+  ],
+  "furniture_count": 21,
+  "source_walls": 60,
+  "window_glass": 12,
+  "kitchen_door_glass": 3,
+  "public_detail_parts": 29,
+  "all_21_furniture_meshes_and_transforms_unchanged": true,
+  "original_architecture_sources_preserved": true,
+  "lighting_scenes": 3,
+  "lighting_attachments_verified": true,
+  "lighting_status": "concept scene contrast only; no luminaire or photometric verification",
+  "furniture_wall_intersections": [],
+  "furniture_furniture_intersections": [],
+  "public_door_furniture_contacts": [],
+  "kitchen_door_furniture_contacts": {
+    "closed": [],
+    "open": []
+  },
+  "private_room_boundaries_changed": false,
+  "master_bath_study_only": true,
+  "review": "04_reviews/v10审美与实用性.md",
+  "delivery_note": "09_delivery/v10深化说明.md",
+  "live_session": "logs/v10-live-state.json",
+  "widget": "logs/widget-v10-verification.json",
+  "previous_v09_model_preserved": true
+}

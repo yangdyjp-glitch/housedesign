@@ -1,0 +1,75 @@
+{
+  "version": "v07-style-v03",
+  "geometry_base": "02_geometry/geometry-master-v07.json",
+  "geometry_sha256": "0ccc097db63ca0b4732518708e3f2e01c78e31049a9a5eb364fca4d581bd28bd",
+  "homeowner_decisions": [
+    "现代日式，简约",
+    "暖色调为主",
+    "桌子尽可能采用圆角",
+    "墙体拐角尽可能采用弧线",
+    "允许绿色与深蓝点缀"
+  ],
+  "designer_decisions": {
+    "palette": {
+      "warm_white": "#EAE4D8",
+      "pale_oak": "#C9AE87",
+      "oatmeal": "#C9BDAB",
+      "sage_green": "#71816A",
+      "deep_navy": "#243C55"
+    },
+    "color_distribution_intent": "暖白及米色约65%，浅木约25%，绿色和深蓝合计不超过10%；是视觉控制目标，非图像像素测量",
+    "table_corner_radii_mm": {
+      "side-table-top": 100,
+      "side-table-lower-shelf": 70,
+      "dining-table-top": 100,
+      "double-desk-top": 70
+    },
+    "wall_finish_profiles_mm": {
+      "lower-narrow-top-0": [
+        0,
+        0,
+        0,
+        80
+      ],
+      "left-short-partition-end": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "retained-central-top-stub-end": [
+        65,
+        0,
+        0,
+        65
+      ],
+      "retained-central-bottom-stub-end": [
+        50,
+        0,
+        0,
+        50
+      ]
+    },
+    "wall_profile_corner_order": [
+      "Blender xmin,ymin",
+      "xmax,ymin",
+      "xmax,ymax",
+      "xmin,ymax"
+    ],
+    "wall_scope": "仅主公共区可见的外露阳角和端头，弧面位于原墙体显示包络内；墙基线、门洞净宽、卧室与卫浴内部不调整",
+    "wall_construction_status": "弧形饰面意向，不作为原结构墙削切指令；施工基层、实际做法与半径须现场深化",
+    "soft_furnishings": "原沙发上两只薄抱枕：一只低饱和苔绿、一只深蓝；办公室唯一一把椅子的坐背采用灰绿织物；餐桌外侧两椅的坐垫采用灰绿；少量深蓝书脊与置物格中的深蓝浅托盘",
+    "lighting": "保留自然日光和约3000K暖光，白墙保持暖白可辨，避免全屋泛黄",
+    "simplification": "保留平整柜面和留白，不增加格栅墙、造型吊顶、拱门、岛台或卡座",
+    "v07_additions": "暖白浅木L形立柜；三盆高低错落的绿植连成电视右侧与阳台角；暖白洗烘叠放；桌面常用品控制数量。"
+  },
+  "locked": [
+    "既有墙窗和房间关系",
+    "沙发/茶几/脚凳北移500mm，其余既有坐标继承",
+    "85寸电视",
+    "双人桌一把椅子、一台34寸屏",
+    "餐桌四椅、长边靠墙",
+    "植物角、入户L形立柜、右上洗烘位置按用户标注"
+  ],
+  "rounding_note": "桌面是有直线中段的圆角矩形，不改成圆桌；靠墙餐桌的长直边仍与墙接触。"
+}

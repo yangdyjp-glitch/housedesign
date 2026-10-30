@@ -1,0 +1,15 @@
+{
+  "inspected_at": "2026-10-30T11:20:25.554132+00:00",
+  "views": [
+    {
+      "path": "07_renders/model-v05-top.png",
+      "projection": "ORTHO",
+      "inspection": "Room adjacency matches source plan; latest furniture placement retained; desk behind sofa facing TV; no mirrored top view; full walls retained."
+    },
+    {
+      "path": "07_renders/model-v05-axonometric.png",
+      "projection": "ORTHO",
+      "inspection": "Furniture readable; office bookcase gap visibly tight as already flagged; 450mm wall observation proxies only; original full-height walls not saved as cutaway."
+    }
+  ]
+}
