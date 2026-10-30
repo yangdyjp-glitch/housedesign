@@ -1,0 +1,308 @@
+{
+  "file": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v14.blend",
+  "dirty": false,
+  "managed": true,
+  "revision": 14,
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "positions": [
+    {
+      "id": "television",
+      "x": 30.0,
+      "z": 2450.0,
+      "rotation": 0.0,
+      "dimensions": [
+        1900,
+        70,
+        1100
+      ]
+    },
+    {
+      "id": "sofa-modular",
+      "x": 3100.0,
+      "z": 1300.0,
+      "rotation": 0.0,
+      "dimensions": [
+        3000,
+        1900,
+        850
+      ]
+    },
+    {
+      "id": "ottoman",
+      "x": 3200.0,
+      "z": 4350.0,
+      "rotation": 0.0,
+      "dimensions": [
+        850,
+        650,
+        430
+      ]
+    },
+    {
+      "id": "side-table",
+      "x": 2550.0,
+      "z": 2650.0,
+      "rotation": 0.0,
+      "dimensions": [
+        1400,
+        700,
+        400
+      ]
+    },
+    {
+      "id": "office-chair-1",
+      "x": 5900.0,
+      "z": 2335.0,
+      "rotation": 0.0,
+      "dimensions": [
+        560,
+        560,
+        950
+      ]
+    },
+    {
+      "id": "bookcase",
+      "x": 6838.0,
+      "z": 1176.0,
+      "rotation": 0.0,
+      "dimensions": [
+        3600,
+        350,
+        2400
+      ]
+    },
+    {
+      "id": "dining-table",
+      "x": 2282.0,
+      "z": 7300.0,
+      "rotation": 0.0,
+      "dimensions": [
+        1600,
+        800,
+        750
+      ]
+    },
+    {
+      "id": "dining-chair-1",
+      "x": 1832.0,
+      "z": 7550.0,
+      "rotation": 0.0,
+      "dimensions": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-2",
+      "x": 1832.0,
+      "z": 8200.0,
+      "rotation": 0.0,
+      "dimensions": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-3",
+      "x": 2457.0,
+      "z": 6850.0,
+      "rotation": 0.0,
+      "dimensions": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "dining-chair-4",
+      "x": 2457.0,
+      "z": 8900.0,
+      "rotation": 0.0,
+      "dimensions": [
+        450,
+        450,
+        850
+      ]
+    },
+    {
+      "id": "double-desk",
+      "x": 5300.0,
+      "z": 2000.0,
+      "rotation": 0.0,
+      "dimensions": [
+        2400,
+        700,
+        750
+      ]
+    },
+    {
+      "id": "plant-balcony-tall",
+      "x": 150.0,
+      "z": 120.0,
+      "rotation": 0.0,
+      "dimensions": [
+        700,
+        700,
+        1500
+      ]
+    },
+    {
+      "id": "plant-tv-medium",
+      "x": 100.0,
+      "z": 1030.0,
+      "rotation": 0.0,
+      "dimensions": [
+        550,
+        550,
+        1000
+      ]
+    },
+    {
+      "id": "plant-balcony-low",
+      "x": 1100.0,
+      "z": 200.0,
+      "rotation": 0.0,
+      "dimensions": [
+        500,
+        500,
+        650
+      ]
+    },
+    {
+      "id": "washer",
+      "x": 6488.0,
+      "z": 170.0,
+      "rotation": 0.0,
+      "dimensions": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "dryer",
+      "x": 6488.0,
+      "z": 170.0,
+      "rotation": 0.0,
+      "dimensions": [
+        600,
+        650,
+        850
+      ]
+    },
+    {
+      "id": "tv-high",
+      "x": 0.0,
+      "z": 5000.0,
+      "rotation": 0.0,
+      "dimensions": [
+        4500,
+        400,
+        2750
+      ]
+    },
+    {
+      "id": "balcony-tea-table",
+      "x": 3300.0,
+      "z": 270.0,
+      "rotation": 0.0,
+      "dimensions": [
+        700,
+        700,
+        380
+      ]
+    },
+    {
+      "id": "balcony-tea-chair-1",
+      "x": 2580.0,
+      "z": 320.0,
+      "rotation": 0.0,
+      "dimensions": [
+        600,
+        560,
+        580
+      ]
+    },
+    {
+      "id": "balcony-tea-chair-2",
+      "x": 4160.0,
+      "z": 320.0,
+      "rotation": 0.0,
+      "dimensions": [
+        600,
+        560,
+        580
+      ]
+    },
+    {
+      "id": "tv-low",
+      "x": 0.0,
+      "z": 1800.0,
+      "rotation": 0.0,
+      "dimensions": [
+        3200,
+        400,
+        450
+      ]
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "x": 0.0,
+      "z": 10818.0,
+      "rotation": 0.0,
+      "dimensions": [
+        1271,
+        350,
+        2750
+      ]
+    },
+    {
+      "id": "master-bed",
+      "x": 8645.0,
+      "z": 1826.0,
+      "rotation": 0.0,
+      "dimensions": [
+        2150,
+        2150,
+        1050
+      ]
+    },
+    {
+      "id": "master-wardrobe",
+      "x": 7328.0,
+      "z": 1272.0,
+      "rotation": 0.0,
+      "dimensions": [
+        2500,
+        600,
+        2750
+      ]
+    },
+    {
+      "id": "master-vanity",
+      "x": 10345.0,
+      "z": 4196.0,
+      "rotation": 0.0,
+      "dimensions": [
+        800,
+        450,
+        2130
+      ]
+    },
+    {
+      "id": "master-toilet",
+      "x": 9323.0,
+      "z": 5350.0,
+      "rotation": 0.0,
+      "dimensions": [
+        680,
+        400,
+        800
+      ]
+    }
+  ],
+  "source_walls": 62,
+  "window_glass": 12
+}

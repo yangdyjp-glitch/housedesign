@@ -45,6 +45,78 @@
       8192,
       4096
     ],
-    "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim"
+    "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim",
+    "current_master_revision": 14,
+    "status": "historical v13; not re-rendered for v14 master-suite"
+  },
+  "master_suite": {
+    "applied_model_revision": 14,
+    "status": "concept model; site feasibility unverified",
+    "brief": {
+      "status": "applied-to-concept-model; site feasibility unverified",
+      "source": "00_sources/master-bath-expansion-markup-01.png",
+      "source_sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36",
+      "ownerConfirmed": [
+        "新增段与原主卫合并",
+        "洗手台—马桶—淋浴；干湿分离；无浴缸",
+        "床垫2000宽；头北脚南；图左衣柜"
+      ],
+      "bathRectMm": {
+        "x": 9323,
+        "z": 4096,
+        "w": 1472,
+        "d": 2814
+      },
+      "extensionMm": 800,
+      "wallThicknessMm": 120,
+      "door": {
+        "rawOpeningMm": 800,
+        "leafMm": 760,
+        "conceptClearOpeningMm": 720,
+        "openingZ": [
+          4136,
+          4936
+        ],
+        "swing": "outwards into private foyer, south/top hinge",
+        "hingePlanMm": [
+          9203,
+          4156
+        ],
+        "defaultOpen": false,
+        "frameProductSelected": false
+      },
+      "foyer": {
+        "stepIntoHallMm": 200,
+        "newFrontOuterZ": 5096,
+        "previousFrontOuterZ": 4896,
+        "referenceBandToGuestFrontMm": 1049,
+        "referenceBandIsNotCertifiedClearance": true
+      },
+      "shower": {
+        "depthMm": 900,
+        "widthMm": 1472,
+        "screenZ": 6010,
+        "defaultOpen": false,
+        "slidingTravelMm": 700,
+        "clearOpeningConceptMm": 700,
+        "serviceBlockRetained": true
+      },
+      "bed": {
+        "mattressWidthMm": 2000,
+        "framePlanMm": [
+          2150,
+          2150
+        ],
+        "head": "north / image bottom",
+        "feet": "south / image top",
+        "wardrobeGapMm": 717,
+        "footGapMm": 754,
+        "rightSideGapMm": 0,
+        "singleSideAccess": true
+      },
+      "constructionStatus": "Not approved for construction; original wet boundary, lower-storey use, structure, drains, window and finished sizes remain unverified",
+      "publicFurnitureUnchanged": 23,
+      "budgetConsidered": false
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "title": "房屋主模型 · 四区360度全景观察",
-  "revision": 13,
+  "title": "房屋主模型 · 主卧主卫扩展概念",
+  "revision": 14,
   "units": "mm",
   "height": 2750,
   "geometry_status": "依据手绘图的初步空间复原；非闭合实测CAD或施工图",
@@ -42,18 +42,22 @@
     "收纳物品数量由用户暂缓；保留现有柜体占地，内部以可调层板方向深化，不假定固定数量。",
     "公共门同面饰面仅在原有3处洞口关闭展示，沿用原门高，不抬梁或统一扩大门洞；具体开向待核。",
     "踢脚线58高/4顶缝、门缝4和局部直线灯槽为本轮可视化提案，实际型材、找平层、伸缩/检修及安装条件需配套深化，不表示可开槽结构墙。",
-    "主卧参考图仅做可借鉴性研究，主卧及主卫边界、排水与家具尚未改动。",
     "后续所有设计不考虑预算；旧10万元及分配不再作为约束。",
     "v11继承用户最新聊天内位置：沙发3100/1200、脚凳3200/4250、茶几2550/2450，不重复叠加旧500mm移动。",
     "用户进一步要求矮茶桌和矮茶椅，设计拟定阳台直径700、高380矮圆茶桌，两把座面高230、总高580矮茶椅，沿窗左右相对；均可按100mm单独移动，茶具随桌整体移动。",
     "阳台茶桌距窗线170、茶桌至沙发最近330为模型包络距离，不作为主通道；操作主要沿两椅外侧，右侧洗烘留独立操作区。",
-    "主卫新增段与原主卫合并已由用户确认范围；结构、用途、排水及尺寸未核，本轮公共区渲染不执行主卫改墙。",
     "v12按用户PDF参考调整门厅、电视墙、灯光和窗帘；案例尺寸、品牌、100寸电视和水培挂画不直接复制。",
     "入户取消原L形长边，把一字鞋柜/换鞋位放在图下短墙；通道横向1271，镜面局部1254均为模型值，入户门开向及实际净宽未核。",
     "梦幻帘模型采用单侧左收、45片通用代理；闭合、转角和夜间隐私须按最终系统验证，不等同全遮光。",
     "新茶席整体往图下100mm，给帘片留位；用户沙发、脚凳与客厅茶几最新位置不改。",
     "曲面反光槽R180、低边2520、帘盒和灯光分路为设计提案；实际净高、空调风口、检修及灯具未定。",
-    "v13只合并本轮收到的旧revision10快照摘要增量：沙发z1300、脚凳z4350、茶几z2650；x不变，其他20件及v12门厅、电视墙、矮茶席、窗帘与灯光方案保持。三件偏移已烘焙，重复恢复不再次叠加。"
+    "v13只合并本轮收到的旧revision10快照摘要增量：沙发z1300、脚凳z4350、茶几z2650；x不变，其他20件及v12门厅、电视墙、矮茶席、窗帘与灯光方案保持。三件偏移已烘焙，重复恢复不再次叠加。",
+    "v14按用户要求将扩展主卫接入方案主模型；不是施工许可或结构、湿区、排水认证。原v13完整保留。",
+    "新增段与原主卫合并，入口向内依次洗手台、马桶、淋浴；无浴缸。向原主卧延伸800为设计试排值，净宽1472、原长2014仍待实测。",
+    "保留直侧门，门洞800、概念通行约720；为容纳门洞，原主卧入口右侧墙局部向图下退200，形成私用小门厅。原主卧公共门洞保留。",
+    "2米床垫以2150×2150床架占位，头北脚南；图左600深衣柜。床右贴墙、左侧717、床尾754为当前模型值，属于单侧上下床方案。",
+    "马桶在原卫浴范围内靠左侧墙布置，排水口位置未知，未据此生成已接通管线。原服务凸块和低窗保留。",
+    "新增床、衣柜、洗手台组合和马桶代理可悬停看尺寸、按100毫米试排；洁具移动只是方案操作，不代表排水可随意迁移。"
   ],
   "floor": [
     [
@@ -579,50 +583,6 @@
       "confidence": "provisional"
     },
     {
-      "id": "upper-right-bottom-1",
-      "x": 8236,
-      "z": 4776,
-      "w": 1488,
-      "d": 120,
-      "y": 0,
-      "h": 2750,
-      "kind": "wall",
-      "confidence": "provisional"
-    },
-    {
-      "id": "upper-right-bottom-lintel-1",
-      "x": 9724,
-      "z": 4776,
-      "w": 892,
-      "d": 120,
-      "y": 2100,
-      "h": 650,
-      "kind": "wall",
-      "confidence": "provisional"
-    },
-    {
-      "id": "upper-right-bottom-end",
-      "x": 10616,
-      "z": 4776,
-      "w": 179,
-      "d": 120,
-      "y": 0,
-      "h": 2750,
-      "kind": "wall",
-      "confidence": "provisional"
-    },
-    {
-      "id": "right-small-left-end",
-      "x": 9203,
-      "z": 4896,
-      "w": 120,
-      "d": 2134,
-      "y": 0,
-      "h": 2750,
-      "kind": "wall",
-      "confidence": "provisional"
-    },
-    {
       "id": "right-small-bottom-end",
       "x": 9203,
       "z": 6910,
@@ -781,6 +741,78 @@
       "h": 2750,
       "kind": "recess",
       "confidence": "provisional"
+    },
+    {
+      "id": "v14-master-head-wall",
+      "x": 8645,
+      "z": 3976,
+      "w": 2150,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "internal",
+      "confidence": "concept-unverified",
+      "source": "v14 owner concept; dimensions by designer trial"
+    },
+    {
+      "id": "v14-bath-left-top-jamb",
+      "x": 9203,
+      "z": 4096,
+      "w": 120,
+      "d": 40,
+      "y": 0,
+      "h": 2750,
+      "kind": "internal",
+      "confidence": "concept-unverified",
+      "source": "v14 owner concept; dimensions by designer trial"
+    },
+    {
+      "id": "v14-bath-left-door-header",
+      "x": 9203,
+      "z": 4136,
+      "w": 120,
+      "d": 800,
+      "y": 2100,
+      "h": 650,
+      "kind": "internal",
+      "confidence": "concept-unverified",
+      "source": "v14 owner concept; dimensions by designer trial"
+    },
+    {
+      "id": "v14-bath-left-bottom",
+      "x": 9203,
+      "z": 4936,
+      "w": 120,
+      "d": 2094,
+      "y": 0,
+      "h": 2750,
+      "kind": "internal",
+      "confidence": "concept-unverified",
+      "source": "v14 owner concept; dimensions by designer trial"
+    },
+    {
+      "id": "v14-master-foyer-return",
+      "x": 8236,
+      "z": 4776,
+      "w": 120,
+      "d": 320,
+      "y": 0,
+      "h": 2750,
+      "kind": "internal",
+      "confidence": "concept-unverified",
+      "source": "v14 owner concept; dimensions by designer trial"
+    },
+    {
+      "id": "v14-master-foyer-front",
+      "x": 8236,
+      "z": 4976,
+      "w": 1087,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "internal",
+      "confidence": "concept-unverified",
+      "source": "v14 owner concept; dimensions by designer trial"
     }
   ],
   "glass": [
@@ -1051,16 +1083,6 @@
       "type": "door"
     },
     {
-      "wall": "upper-right-bottom",
-      "axis": "x",
-      "c": 4776,
-      "start": 9724,
-      "end": 10616,
-      "sill": 0,
-      "top": 2100,
-      "type": "door"
-    },
-    {
       "wall": "lower-narrow-top",
       "axis": "x",
       "c": 5970,
@@ -1089,6 +1111,17 @@
       "sill": 0,
       "top": 2100,
       "type": "door"
+    },
+    {
+      "wall": "v14-bath-left",
+      "axis": "z",
+      "c": 9203,
+      "start": 4136,
+      "end": 4936,
+      "sill": 0,
+      "top": 2100,
+      "type": "door",
+      "confidence": "concept-unverified"
     }
   ],
   "rooms": [
@@ -1109,9 +1142,9 @@
     {
       "id": "upper-right",
       "name": "主卧",
-      "x": 9020,
-      "z": 2850,
-      "detail": "净宽按原图3467 mm；上方凸出部分为飘窗，非落地空间。"
+      "x": 8270,
+      "z": 2600,
+      "detail": "2米床头北脚南；左侧600深衣柜。扩卫后床尾约754、柜床间717，右侧贴墙。尺寸待核。"
     },
     {
       "id": "bay",
@@ -1130,9 +1163,9 @@
     {
       "id": "small-right",
       "name": "主卫",
-      "x": 10020,
-      "z": 5920,
-      "detail": "暂按1472 × 2014 mm；与横墙2040标注冲突。"
+      "x": 10025,
+      "z": 5720,
+      "detail": "扩展主卫约1472×2814：洗手台—马桶—淋浴；干湿分离，无浴缸。扩卫允许性及排水未核。"
     },
     {
       "id": "narrow-top",
@@ -1416,8 +1449,16 @@
           4896
         ],
         [
-          9203,
+          8236,
           4896
+        ],
+        [
+          8236,
+          5096
+        ],
+        [
+          9203,
+          5096
         ],
         [
           9203,
@@ -1662,7 +1703,73 @@
       "privateBoundariesChanged": false,
       "budgetConsidered": false
     },
-    "removedEntryLongLeg": true
+    "removedEntryLongLeg": true,
+    "masterSuite": {
+      "status": "applied-to-concept-model; site feasibility unverified",
+      "source": "00_sources/master-bath-expansion-markup-01.png",
+      "source_sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36",
+      "ownerConfirmed": [
+        "新增段与原主卫合并",
+        "洗手台—马桶—淋浴；干湿分离；无浴缸",
+        "床垫2000宽；头北脚南；图左衣柜"
+      ],
+      "bathRectMm": {
+        "x": 9323,
+        "z": 4096,
+        "w": 1472,
+        "d": 2814
+      },
+      "extensionMm": 800,
+      "wallThicknessMm": 120,
+      "door": {
+        "rawOpeningMm": 800,
+        "leafMm": 760,
+        "conceptClearOpeningMm": 720,
+        "openingZ": [
+          4136,
+          4936
+        ],
+        "swing": "outwards into private foyer, south/top hinge",
+        "hingePlanMm": [
+          9203,
+          4156
+        ],
+        "defaultOpen": false,
+        "frameProductSelected": false
+      },
+      "foyer": {
+        "stepIntoHallMm": 200,
+        "newFrontOuterZ": 5096,
+        "previousFrontOuterZ": 4896,
+        "referenceBandToGuestFrontMm": 1049,
+        "referenceBandIsNotCertifiedClearance": true
+      },
+      "shower": {
+        "depthMm": 900,
+        "widthMm": 1472,
+        "screenZ": 6010,
+        "defaultOpen": false,
+        "slidingTravelMm": 700,
+        "clearOpeningConceptMm": 700,
+        "serviceBlockRetained": true
+      },
+      "bed": {
+        "mattressWidthMm": 2000,
+        "framePlanMm": [
+          2150,
+          2150
+        ],
+        "head": "north / image bottom",
+        "feet": "south / image top",
+        "wardrobeGapMm": 717,
+        "footGapMm": 754,
+        "rightSideGapMm": 0,
+        "singleSideAccess": true
+      },
+      "constructionStatus": "Not approved for construction; original wet boundary, lower-storey use, structure, drains, window and finished sizes remain unverified",
+      "publicFurnitureUnchanged": 23,
+      "budgetConsidered": false
+    }
   },
   "dimensions": [
     {
@@ -1730,6 +1837,17 @@
         9635
       ],
       "label": "3370"
+    },
+    {
+      "a": [
+        11095,
+        4096
+      ],
+      "b": [
+        11095,
+        6910
+      ],
+      "label": "2814*"
     }
   ],
   "beams": [
@@ -7434,6 +7552,340 @@
       "h": 390,
       "material": "stone",
       "bevelMm": 0
+    },
+    {
+      "id": "v14-bed-base",
+      "parent": "master-bed",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 8645,
+      "z": 1826,
+      "w": 2150,
+      "d": 2150,
+      "y": 100,
+      "h": 220,
+      "material": "wood",
+      "radiusMm": 45
+    },
+    {
+      "id": "v14-bed-mattress",
+      "parent": "master-bed",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 8720,
+      "z": 1876,
+      "w": 2000,
+      "d": 2000,
+      "y": 320,
+      "h": 240,
+      "material": "fabric",
+      "radiusMm": 50
+    },
+    {
+      "id": "v14-bed-headboard",
+      "parent": "master-bed",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 8645,
+      "z": 3896,
+      "w": 2150,
+      "d": 80,
+      "y": 100,
+      "h": 950,
+      "material": "fabric",
+      "radiusMm": 35
+    },
+    {
+      "id": "v14-bed-quilt",
+      "parent": "master-bed",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 8720,
+      "z": 1876,
+      "w": 2000,
+      "d": 1370,
+      "y": 560,
+      "h": 50,
+      "material": "sage",
+      "radiusMm": 35
+    },
+    {
+      "id": "v14-bed-pillow-1",
+      "parent": "master-bed",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 8830,
+      "z": 3376,
+      "w": 800,
+      "d": 420,
+      "y": 560,
+      "h": 130,
+      "material": "fabric",
+      "radiusMm": 100
+    },
+    {
+      "id": "v14-bed-pillow-2",
+      "parent": "master-bed",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 9780,
+      "z": 3376,
+      "w": 800,
+      "d": 420,
+      "y": 560,
+      "h": 130,
+      "material": "fabric",
+      "radiusMm": 100
+    },
+    {
+      "id": "v14-wardrobe-plinth",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7328,
+      "z": 1272,
+      "w": 580,
+      "d": 2500,
+      "y": 0,
+      "h": 80,
+      "material": "shadow"
+    },
+    {
+      "id": "v14-wardrobe-body",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7328,
+      "z": 1272,
+      "w": 575,
+      "d": 2500,
+      "y": 80,
+      "h": 2620,
+      "material": "wood"
+    },
+    {
+      "id": "v14-wardrobe-front-1",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7903,
+      "z": 1274,
+      "w": 25,
+      "d": 496,
+      "y": 80,
+      "h": 2620,
+      "material": "cabinet"
+    },
+    {
+      "id": "v14-wardrobe-front-2",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7903,
+      "z": 1774,
+      "w": 25,
+      "d": 496,
+      "y": 80,
+      "h": 2620,
+      "material": "cabinet"
+    },
+    {
+      "id": "v14-wardrobe-front-3",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7903,
+      "z": 2274,
+      "w": 25,
+      "d": 496,
+      "y": 80,
+      "h": 2620,
+      "material": "cabinet"
+    },
+    {
+      "id": "v14-wardrobe-front-4",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7903,
+      "z": 2774,
+      "w": 25,
+      "d": 496,
+      "y": 80,
+      "h": 2620,
+      "material": "cabinet"
+    },
+    {
+      "id": "v14-wardrobe-front-5",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7903,
+      "z": 3274,
+      "w": 25,
+      "d": 496,
+      "y": 80,
+      "h": 2620,
+      "material": "cabinet"
+    },
+    {
+      "id": "v14-wardrobe-top-scribe",
+      "parent": "master-wardrobe",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 7328,
+      "z": 1272,
+      "w": 600,
+      "d": 2500,
+      "y": 2700,
+      "h": 50,
+      "material": "cabinet"
+    },
+    {
+      "id": "v14-vanity-body",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 10345,
+      "z": 4196,
+      "w": 450,
+      "d": 800,
+      "y": 250,
+      "h": 540,
+      "material": "wood",
+      "radiusMm": 25
+    },
+    {
+      "id": "v14-vanity-top",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 10345,
+      "z": 4196,
+      "w": 450,
+      "d": 800,
+      "y": 790,
+      "h": 30,
+      "material": "stone",
+      "radiusMm": 25
+    },
+    {
+      "id": "v14-vanity-bowl",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "ellipsoid",
+      "x": 10390,
+      "z": 4321,
+      "w": 360,
+      "d": 550,
+      "y": 820,
+      "h": 110,
+      "material": "ceramic"
+    },
+    {
+      "id": "v14-vanity-basin-inset",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "ellipsoid",
+      "x": 10415,
+      "z": 4361,
+      "w": 280,
+      "d": 470,
+      "y": 912,
+      "h": 3,
+      "material": "basin-inset"
+    },
+    {
+      "id": "v14-vanity-tap-column",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "cylinder",
+      "x": 10740,
+      "z": 4536,
+      "w": 22,
+      "d": 22,
+      "y": 820,
+      "h": 230,
+      "material": "metal"
+    },
+    {
+      "id": "v14-vanity-tap-arm",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 10620,
+      "z": 4536,
+      "w": 140,
+      "d": 22,
+      "y": 1030,
+      "h": 22,
+      "material": "metal"
+    },
+    {
+      "id": "v14-vanity-mirror",
+      "parent": "master-vanity",
+      "kind": "furniture",
+      "shape": "box",
+      "x": 10779,
+      "z": 4216,
+      "w": 16,
+      "d": 760,
+      "y": 1130,
+      "h": 1000,
+      "material": "mirror"
+    },
+    {
+      "id": "v14-wc-foot",
+      "parent": "master-toilet",
+      "kind": "furniture",
+      "shape": "ellipsoid",
+      "x": 9403,
+      "z": 5370,
+      "w": 420,
+      "d": 360,
+      "y": 0,
+      "h": 260,
+      "material": "ceramic"
+    },
+    {
+      "id": "v14-wc-bowl",
+      "parent": "master-toilet",
+      "kind": "furniture",
+      "shape": "ellipsoid",
+      "x": 9453,
+      "z": 5350,
+      "w": 550,
+      "d": 400,
+      "y": 240,
+      "h": 180,
+      "material": "ceramic"
+    },
+    {
+      "id": "v14-wc-seat",
+      "parent": "master-toilet",
+      "kind": "furniture",
+      "shape": "ellipsoid",
+      "x": 9463,
+      "z": 5360,
+      "w": 530,
+      "d": 380,
+      "y": 410,
+      "h": 35,
+      "material": "ceramic"
+    },
+    {
+      "id": "v14-wc-tank",
+      "parent": "master-toilet",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 9323,
+      "z": 5350,
+      "w": 150,
+      "d": 400,
+      "y": 400,
+      "h": 400,
+      "material": "ceramic",
+      "radiusMm": 30
     }
   ],
   "furnitureObjects": [
@@ -8158,6 +8610,126 @@
       "label": false,
       "labelRotate": 0,
       "face": "-x"
+    },
+    {
+      "id": "master-bed",
+      "name": "主卧2米床",
+      "zone": "master-suite",
+      "scheme": "用户批注接续",
+      "x": 8645,
+      "z": 1826,
+      "w": 2150,
+      "d": 2150,
+      "h": 1050,
+      "detail": "床垫2000宽；头北脚南。床架暂拟2150×2150；右侧贴墙，单侧上下床。",
+      "label": true,
+      "labelRotate": 0,
+      "placement_source": "user markup + v14 designer dimensional trial",
+      "visualHeight": 1050,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 8645,
+        "z": 1826,
+        "y": 100,
+        "w": 2150,
+        "d": 2150,
+        "h": 950
+      },
+      "dimensionsMm": {
+        "length": 2150,
+        "width": 2150,
+        "height": 1050
+      }
+    },
+    {
+      "id": "master-wardrobe",
+      "name": "主卧通顶衣柜",
+      "zone": "master-suite",
+      "scheme": "用户批注接续",
+      "x": 7328,
+      "z": 1272,
+      "w": 600,
+      "d": 2500,
+      "h": 2750,
+      "detail": "图左600深、2500长、暂定2750通顶；柜门面向床，内部收纳清单待定。",
+      "label": true,
+      "labelRotate": 0,
+      "placement_source": "user markup + v14 designer dimensional trial",
+      "visualHeight": 2750,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 7328,
+        "z": 1272,
+        "y": 0,
+        "w": 600,
+        "d": 2500,
+        "h": 2750
+      },
+      "dimensionsMm": {
+        "length": 2500,
+        "width": 600,
+        "height": 2750
+      }
+    },
+    {
+      "id": "master-vanity",
+      "name": "主卫洗手台与镜",
+      "zone": "master-suite",
+      "scheme": "用户批注接续",
+      "x": 10345,
+      "z": 4196,
+      "w": 450,
+      "d": 800,
+      "h": 2130,
+      "detail": "入口右侧800长×450深，台面高820；悬停总高含镜面2130。给排水与实样未定。",
+      "label": true,
+      "labelRotate": 0,
+      "placement_source": "user markup + v14 designer dimensional trial",
+      "visualHeight": 2130,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 10345,
+        "z": 4196,
+        "y": 250,
+        "w": 450,
+        "d": 800,
+        "h": 1880
+      },
+      "dimensionsMm": {
+        "length": 800,
+        "width": 450,
+        "height": 2130
+      }
+    },
+    {
+      "id": "master-toilet",
+      "name": "主卫马桶",
+      "zone": "master-suite",
+      "scheme": "用户批注接续",
+      "x": 9323,
+      "z": 5350,
+      "w": 680,
+      "d": 400,
+      "h": 800,
+      "detail": "位于原主卫范围内，靠左侧墙、面向右；排污口未知，100mm移动仅用于方案试排。",
+      "label": true,
+      "labelRotate": 0,
+      "placement_source": "user markup + v14 designer dimensional trial",
+      "visualHeight": 800,
+      "baseHeightMm": 0,
+      "meshBoundsMm": {
+        "x": 9323,
+        "z": 5350,
+        "y": 0,
+        "w": 680,
+        "d": 400,
+        "h": 800
+      },
+      "dimensionsMm": {
+        "length": 680,
+        "width": 400,
+        "height": 800
+      }
     }
   ],
   "furnitureMaterials": {
@@ -8365,20 +8937,74 @@
         1
       ],
       "roughness": 0.95
+    },
+    "bath-tile": {
+      "color": [
+        0.7,
+        0.71,
+        0.67,
+        1
+      ],
+      "roughness": 0.65
+    },
+    "shower-tile": {
+      "color": [
+        0.56,
+        0.61,
+        0.56,
+        1
+      ],
+      "roughness": 0.72
+    },
+    "bath-glass": {
+      "color": [
+        0.76,
+        0.87,
+        0.86,
+        1
+      ],
+      "roughness": 0.06
+    },
+    "basin-inset": {
+      "color": [
+        0.62,
+        0.66,
+        0.64,
+        1
+      ],
+      "roughness": 0.35
+    },
+    "wall-finish": {
+      "color": [
+        0.89,
+        0.88,
+        0.84,
+        1
+      ],
+      "roughness": 0.82
+    },
+    "shadow": {
+      "color": [
+        0.1,
+        0.11,
+        0.1,
+        1
+      ],
+      "roughness": 0.8
     }
   },
-  "project_revision": 13,
+  "project_revision": "v14-master-suite-concept",
   "provenance": {
-    "baseline": "02_geometry/geometry-master-v12.json",
-    "layout": "v12 complete 23-object model plus exactly three summarized user placement deltas",
+    "baseline": "02_geometry/geometry-master-v13.json",
+    "layout": "v13 public 23 objects unchanged; owner master-suite concept with provisional 800mm extension and 200mm foyer step",
     "geometry_units": "mm",
     "blender_units": "m",
     "blender_axis_mapping": "(plan x, -plan z, height) -> (Blender X, Blender Y, Blender Z); mm / 1000",
     "geographic_orientation": "user diagram: up south, down north, left east, right west; not a surveyed bearing",
     "imported_at": "2026-10-30T10:38:40.317267+00:00",
     "dimension_status": "unverified sketch reconstruction; not a closed measured CAD",
-    "baseline_sha256": "d794e0d7905f630ef8eda6ed66f41d06c3b201f94c3d9e97d82a03573dd001a1",
-    "revision": 13,
+    "baseline_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+    "revision": 14,
     "sources": [
       {
         "path": "00_sources/v07-placement-annotation.png",
@@ -8489,7 +9115,12 @@
       "privateBoundariesChanged": false,
       "budgetConsidered": false
     },
-    "layout_source_sha256": "1edc42344b055c22889cb41a73b12a87413048eea9d4942c05a66043a8ae96ff"
+    "layout_source_sha256": "1edc42344b055c22889cb41a73b12a87413048eea9d4942c05a66043a8ae96ff",
+    "v14_master_suite": {
+      "previous_geometry_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+      "public_objects_preserved": 23,
+      "source": "user markup and confirmed sequence; 800/200 are designer trials"
+    }
   },
   "previousPlacements": {
     "tv-low": {
@@ -8506,15 +9137,15 @@
     },
     "sofa-modular": {
       "x": 3100,
-      "z": 1200
+      "z": 1300
     },
     "ottoman": {
       "x": 3200,
-      "z": 4250
+      "z": 4350
     },
     "side-table": {
       "x": 2550,
-      "z": 2450
+      "z": 2650
     },
     "double-desk": {
       "x": 5300.0,
@@ -8594,7 +9225,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "placementBaselinesByRevision": {
     "4": {
@@ -9298,43 +9930,103 @@
         "x": 4160,
         "z": 320
       }
-    }
-  },
-  "style": {
-    "revision": "modern-japanese-v03",
-    "tableCornerRadiiMm": {
-      "side-table-top": 100,
-      "side-table-lower-shelf": 70,
-      "dining-table-top": 100,
-      "double-desk-top": 70
     },
-    "wallFinishProfilesMm": {
-      "lower-narrow-top-0": [
-        0,
-        0,
-        0,
-        80
-      ],
-      "left-short-partition-end": [
-        0,
-        0,
-        60,
-        60
-      ],
-      "retained-central-top-stub-end": [
-        65,
-        0,
-        0,
-        65
-      ],
-      "retained-central-bottom-stub-end": [
-        50,
-        0,
-        0,
-        50
-      ]
+    "13": {
+      "tv-low": {
+        "x": 0.0,
+        "z": 1800.0
+      },
+      "tv-high": {
+        "x": 0.0,
+        "z": 5000.0
+      },
+      "television": {
+        "x": 30.0,
+        "z": 2450.0
+      },
+      "sofa-modular": {
+        "x": 3100,
+        "z": 1300
+      },
+      "ottoman": {
+        "x": 3200,
+        "z": 4350
+      },
+      "side-table": {
+        "x": 2550,
+        "z": 2650
+      },
+      "double-desk": {
+        "x": 5300.0,
+        "z": 2000.0
+      },
+      "office-chair-1": {
+        "x": 5900.0,
+        "z": 2335.0
+      },
+      "bookcase": {
+        "x": 6838.0,
+        "z": 1176.0
+      },
+      "dining-table": {
+        "x": 2282.0,
+        "z": 7300.0
+      },
+      "dining-chair-1": {
+        "x": 1832.0,
+        "z": 7550.0
+      },
+      "dining-chair-2": {
+        "x": 1832.0,
+        "z": 8200.0
+      },
+      "dining-chair-3": {
+        "x": 2457.0,
+        "z": 6850.0
+      },
+      "dining-chair-4": {
+        "x": 2457.0,
+        "z": 8900.0
+      },
+      "entry-shoe-cabinet": {
+        "x": 0,
+        "z": 10818
+      },
+      "plant-balcony-tall": {
+        "x": 150.0,
+        "z": 120.0
+      },
+      "plant-tv-medium": {
+        "x": 100.0,
+        "z": 1030.0
+      },
+      "plant-balcony-low": {
+        "x": 1100.0,
+        "z": 200.0
+      },
+      "washer": {
+        "x": 6488.0,
+        "z": 170.0
+      },
+      "dryer": {
+        "x": 6488.0,
+        "z": 170.0
+      },
+      "balcony-tea-table": {
+        "x": 3300,
+        "z": 270
+      },
+      "balcony-tea-chair-1": {
+        "x": 2580,
+        "z": 320
+      },
+      "balcony-tea-chair-2": {
+        "x": 4160,
+        "z": 320
+      }
     }
   },
+  "style": "modern-japanese-v10",
   "windowParts": [
     {
       "id": "balcony-outer-left",
@@ -10270,62 +10962,6 @@
       "z": 4895.2,
       "w": 42,
       "d": 1,
-      "y": 58,
-      "h": 4,
-      "material": "shadow",
-      "collidable": false,
-      "assembly": "public-detail-v10"
-    },
-    {
-      "id": "v10-skirting-master-public-right",
-      "kind": "finish",
-      "shape": "box",
-      "x": 8236,
-      "z": 4895.2,
-      "w": 967,
-      "d": 1,
-      "y": 0,
-      "h": 58,
-      "material": "skirting",
-      "collidable": false,
-      "assembly": "public-detail-v10"
-    },
-    {
-      "id": "v10-skirting-joint-master-public-right",
-      "kind": "finish",
-      "shape": "box",
-      "x": 8236,
-      "z": 4895.2,
-      "w": 967,
-      "d": 1,
-      "y": 58,
-      "h": 4,
-      "material": "shadow",
-      "collidable": false,
-      "assembly": "public-detail-v10"
-    },
-    {
-      "id": "v10-skirting-main-bath-side",
-      "kind": "finish",
-      "shape": "box",
-      "x": 9202.8,
-      "z": 4896,
-      "w": 1,
-      "d": 1249,
-      "y": 0,
-      "h": 58,
-      "material": "skirting",
-      "collidable": false,
-      "assembly": "public-detail-v10"
-    },
-    {
-      "id": "v10-skirting-joint-main-bath-side",
-      "kind": "finish",
-      "shape": "box",
-      "x": 9202.8,
-      "z": 4896,
-      "w": 1,
-      "d": 1249,
       "y": 58,
       "h": 4,
       "material": "shadow",
@@ -11620,6 +12256,399 @@
         "d": 132
       },
       "collidable": false
+    }
+  ],
+  "retiredWallsV14": [
+    {
+      "id": "upper-right-bottom-1",
+      "x": 8236,
+      "z": 4776,
+      "w": 1488,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-lintel-1",
+      "x": 9724,
+      "z": 4776,
+      "w": 892,
+      "d": 120,
+      "y": 2100,
+      "h": 650,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "upper-right-bottom-end",
+      "x": 10616,
+      "z": 4776,
+      "w": 179,
+      "d": 120,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    },
+    {
+      "id": "right-small-left-end",
+      "x": 9203,
+      "z": 4896,
+      "w": 120,
+      "d": 2134,
+      "y": 0,
+      "h": 2750,
+      "kind": "wall",
+      "confidence": "provisional"
+    }
+  ],
+  "retiredOpeningsV14": [
+    {
+      "wall": "upper-right-bottom",
+      "axis": "x",
+      "c": 4776,
+      "start": 9724,
+      "end": 10616,
+      "sill": 0,
+      "top": 2100,
+      "type": "door"
+    }
+  ],
+  "retiredDetailsV14": [
+    {
+      "id": "v10-skirting-master-public-right",
+      "kind": "finish",
+      "shape": "box",
+      "x": 8236,
+      "z": 4895.2,
+      "w": 967,
+      "d": 1,
+      "y": 0,
+      "h": 58,
+      "material": "skirting",
+      "collidable": false,
+      "assembly": "public-detail-v10"
+    },
+    {
+      "id": "v10-skirting-joint-master-public-right",
+      "kind": "finish",
+      "shape": "box",
+      "x": 8236,
+      "z": 4895.2,
+      "w": 967,
+      "d": 1,
+      "y": 58,
+      "h": 4,
+      "material": "shadow",
+      "collidable": false,
+      "assembly": "public-detail-v10"
+    },
+    {
+      "id": "v10-skirting-main-bath-side",
+      "kind": "finish",
+      "shape": "box",
+      "x": 9202.8,
+      "z": 4896,
+      "w": 1,
+      "d": 1249,
+      "y": 0,
+      "h": 58,
+      "material": "skirting",
+      "collidable": false,
+      "assembly": "public-detail-v10"
+    },
+    {
+      "id": "v10-skirting-joint-main-bath-side",
+      "kind": "finish",
+      "shape": "box",
+      "x": 9202.8,
+      "z": 4896,
+      "w": 1,
+      "d": 1249,
+      "y": 58,
+      "h": 4,
+      "material": "shadow",
+      "collidable": false,
+      "assembly": "public-detail-v10"
+    }
+  ],
+  "bathParts": [
+    {
+      "id": "v14-bath-floor-main",
+      "x": 9323,
+      "z": 4096,
+      "w": 1472,
+      "d": 2463,
+      "y": 2.5,
+      "h": 3,
+      "kind": "finish",
+      "material": "bath-tile",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-bath-floor-service-side",
+      "x": 9603,
+      "z": 6559,
+      "w": 1192,
+      "d": 351,
+      "y": 2.5,
+      "h": 3,
+      "kind": "finish",
+      "material": "bath-tile",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-bedroom-floor",
+      "x": 7328,
+      "z": 1072,
+      "w": 3467,
+      "d": 2904,
+      "y": 2,
+      "h": 2,
+      "kind": "finish",
+      "material": "wood",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-bedroom-foyer-floor",
+      "x": 8356,
+      "z": 4096,
+      "w": 847,
+      "d": 880,
+      "y": 2,
+      "h": 2,
+      "kind": "finish",
+      "material": "wood",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-zone-floor-main",
+      "x": 9323,
+      "z": 6010,
+      "w": 1472,
+      "d": 549,
+      "y": 6,
+      "h": 3,
+      "kind": "finish",
+      "material": "shower-tile",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-zone-floor-service-side",
+      "x": 9603,
+      "z": 6559,
+      "w": 1192,
+      "d": 351,
+      "y": 6,
+      "h": 3,
+      "kind": "finish",
+      "material": "shower-tile",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-track",
+      "x": 9323,
+      "z": 5990,
+      "w": 1472,
+      "d": 50,
+      "y": 2100,
+      "h": 25,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-fixed-glass",
+      "x": 9323,
+      "z": 6004,
+      "w": 736,
+      "d": 10,
+      "y": 15,
+      "h": 2085,
+      "kind": "finish",
+      "material": "bath-glass",
+      "shape": "box",
+      "collidable": true
+    },
+    {
+      "id": "v14-shower-moving-glass",
+      "x": 10059,
+      "z": 6019,
+      "w": 736,
+      "d": 10,
+      "y": 15,
+      "h": 2085,
+      "kind": "finish",
+      "material": "bath-glass",
+      "shape": "box",
+      "collidable": true,
+      "slidingPanel": true,
+      "openPlan": {
+        "x": 9359,
+        "z": 6019,
+        "w": 736,
+        "d": 10
+      }
+    },
+    {
+      "id": "v14-shower-handle",
+      "x": 10100,
+      "z": 5994,
+      "w": 16,
+      "d": 30,
+      "y": 1000,
+      "h": 300,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": true,
+      "slidingPanel": true,
+      "openPlan": {
+        "x": 9400,
+        "z": 5994,
+        "w": 16,
+        "d": 30
+      }
+    },
+    {
+      "id": "v14-shower-drain-provisional",
+      "x": 10455,
+      "z": 6810,
+      "w": 280,
+      "d": 24,
+      "y": 10,
+      "h": 3,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-bar",
+      "x": 10745,
+      "z": 6460,
+      "w": 20,
+      "d": 20,
+      "y": 900,
+      "h": 1200,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-mixer",
+      "x": 10710,
+      "z": 6390,
+      "w": 55,
+      "d": 160,
+      "y": 1030,
+      "h": 45,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-arm",
+      "x": 10480,
+      "z": 6455,
+      "w": 280,
+      "d": 22,
+      "y": 2100,
+      "h": 22,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-shower-head",
+      "x": 10430,
+      "z": 6390,
+      "w": 180,
+      "d": 180,
+      "y": 2070,
+      "h": 25,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "cylinder",
+      "collidable": false
+    },
+    {
+      "id": "v14-bath-door-jamb-top",
+      "x": 9203,
+      "z": 4136,
+      "w": 120,
+      "d": 20,
+      "y": 0,
+      "h": 2100,
+      "kind": "finish",
+      "material": "wall-finish",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-bath-door-jamb-bottom",
+      "x": 9203,
+      "z": 4916,
+      "w": 120,
+      "d": 20,
+      "y": 0,
+      "h": 2100,
+      "kind": "finish",
+      "material": "wall-finish",
+      "shape": "box",
+      "collidable": false
+    },
+    {
+      "id": "v14-bath-door-leaf",
+      "x": 9203,
+      "z": 4156,
+      "w": 40,
+      "d": 760,
+      "y": 6,
+      "h": 2088,
+      "kind": "finish",
+      "material": "wall-finish",
+      "shape": "box",
+      "collidable": true,
+      "swingLeaf": true,
+      "openPlan": {
+        "x": 8443,
+        "z": 4156,
+        "w": 760,
+        "d": 40
+      }
+    },
+    {
+      "id": "v14-bath-door-handle",
+      "x": 9179,
+      "z": 4800,
+      "w": 30,
+      "d": 90,
+      "y": 960,
+      "h": 12,
+      "kind": "finish",
+      "material": "metal",
+      "shape": "box",
+      "collidable": true,
+      "swingLeaf": true,
+      "openPlan": {
+        "x": 8469,
+        "z": 4132,
+        "w": 90,
+        "d": 30
+      }
     }
   ]
 }

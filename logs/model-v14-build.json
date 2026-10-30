@@ -1,0 +1,30 @@
+{
+  "revision": 14,
+  "base_sha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "style_sha256": "9a294029c6f75c14c9ea66cd960c87c42a2fb2204659004c3d835b1ce9a18089",
+  "public_furniture_meshes_and_positions_preserved": 23,
+  "new_furniture": [
+    "master-bed",
+    "master-wardrobe",
+    "master-vanity",
+    "master-toilet"
+  ],
+  "source_walls": 62,
+  "window_glass": 12,
+  "bath_details": 19,
+  "retired_walls": [
+    "right-small-left-end",
+    "upper-right-bottom-1",
+    "v10-skirting-main-bath-side",
+    "v10-skirting-master-public-right",
+    "upper-right-bottom-end",
+    "v10-skirting-joint-main-bath-side",
+    "upper-right-bottom-lintel-1",
+    "v10-skirting-joint-master-public-right"
+  ],
+  "source_units": "mm",
+  "blender_units": "m",
+  "mapping": "(x,-z,height)/1000",
+  "construction_status": "concept only; wet-area extension, structure, drains and dimensions unverified"
+}

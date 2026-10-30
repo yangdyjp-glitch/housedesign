@@ -1,19 +1,19 @@
 {
-  "revision": 13,
-  "filename": "home-main-v13.blend",
-  "geometry": "02_geometry/geometry-master-v13.json",
-  "geometry_sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
-  "style": "05_style/modern-japanese-v09.json",
-  "style_sha256": "5bf6107877d0647f356201cddd13074a91dc5dc42dffd572987f061d32aace59",
-  "style_revision": "modern-japanese-v09",
-  "previous_active_filename": "home-main-v12.blend",
-  "furniture_count": 23,
+  "revision": 14,
+  "filename": "home-main-v14.blend",
+  "geometry": "02_geometry/geometry-master-v14.json",
+  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
+  "style": "05_style/modern-japanese-v10.json",
+  "style_sha256": "9a294029c6f75c14c9ea66cd960c87c42a2fb2204659004c3d835b1ce9a18089",
+  "style_revision": "modern-japanese-v10",
+  "previous_active_filename": "home-main-v13.blend",
+  "furniture_count": 27,
   "live_session_verified": true,
   "cabinet_selection": "C, lower navy replaced with milk yellow",
   "cabinet_top_gap_mm": 0,
   "kitchen_sliding_door": true,
   "door_default_open": false,
-  "public_details": 29,
+  "public_details": 25,
   "reference_details": 11,
   "curtain_blades": 45,
   "curtain_default": "open",
@@ -67,14 +67,86 @@
     "reason_for_100mm_shift": "reserve the new curtain blade envelope without changing the latest user sofa or coffee-table positions"
   },
   "budget_considered": false,
-  "master_bath_study_only": true,
-  "private_room_boundaries_changed": false,
-  "model_sha256": "ce3d1f7cf782ad4d718a40751b5d9812559d6dbd3609fa5cbdc7109ee6b383f3",
+  "master_bath_study_only": false,
+  "private_room_boundaries_changed": true,
+  "model_sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752",
   "panorama_tour": "09_delivery/vr-tour-v01/打开360全景漫游.html",
   "panorama_nodes": 4,
   "panorama_resolution": [
     8192,
     4096
   ],
-  "panorama_projection": "monoscopic equirectangular 360x180"
+  "panorama_projection": "monoscopic equirectangular 360x180",
+  "master_bath_concept_applied": true,
+  "construction_approval_status": "unverified; concept model only",
+  "master_suite": {
+    "status": "applied-to-concept-model; site feasibility unverified",
+    "source": "00_sources/master-bath-expansion-markup-01.png",
+    "source_sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36",
+    "ownerConfirmed": [
+      "新增段与原主卫合并",
+      "洗手台—马桶—淋浴；干湿分离；无浴缸",
+      "床垫2000宽；头北脚南；图左衣柜"
+    ],
+    "bathRectMm": {
+      "x": 9323,
+      "z": 4096,
+      "w": 1472,
+      "d": 2814
+    },
+    "extensionMm": 800,
+    "wallThicknessMm": 120,
+    "door": {
+      "rawOpeningMm": 800,
+      "leafMm": 760,
+      "conceptClearOpeningMm": 720,
+      "openingZ": [
+        4136,
+        4936
+      ],
+      "swing": "outwards into private foyer, south/top hinge",
+      "hingePlanMm": [
+        9203,
+        4156
+      ],
+      "defaultOpen": false,
+      "frameProductSelected": false
+    },
+    "foyer": {
+      "stepIntoHallMm": 200,
+      "newFrontOuterZ": 5096,
+      "previousFrontOuterZ": 4896,
+      "referenceBandToGuestFrontMm": 1049,
+      "referenceBandIsNotCertifiedClearance": true
+    },
+    "shower": {
+      "depthMm": 900,
+      "widthMm": 1472,
+      "screenZ": 6010,
+      "defaultOpen": false,
+      "slidingTravelMm": 700,
+      "clearOpeningConceptMm": 700,
+      "serviceBlockRetained": true
+    },
+    "bed": {
+      "mattressWidthMm": 2000,
+      "framePlanMm": [
+        2150,
+        2150
+      ],
+      "head": "north / image bottom",
+      "feet": "south / image top",
+      "wardrobeGapMm": 717,
+      "footGapMm": 754,
+      "rightSideGapMm": 0,
+      "singleSideAccess": true
+    },
+    "constructionStatus": "Not approved for construction; original wet boundary, lower-storey use, structure, drains, window and finished sizes remain unverified",
+    "publicFurnitureUnchanged": 23,
+    "budgetConsidered": false
+  },
+  "panorama_model_revision": 13,
+  "panorama_stale_for_current_master_suite": true,
+  "current_perspective_renders": "07_renders/v14-master-suite",
+  "interactive_model": "09_delivery/house-v14-preview.html"
 }
