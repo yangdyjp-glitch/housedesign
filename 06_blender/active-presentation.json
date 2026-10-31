@@ -1,22 +1,31 @@
 {
-  "presentation_revision": 15,
-  "geometry_revision": 14,
-  "model": "06_blender/home-v14-photoreal-v15.blend",
-  "model_sha256": "9d8ffa5e6e6481e6baa56fddd8f633af5c29f36de0c85454d7f86d5f3bfb2699",
-  "geometry": "02_geometry/geometry-master-v14.json",
-  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
-  "style": "05_style/photoreal-presentation-v15.json",
-  "style_sha256": "6b97acf05c7ac9eafa6def162900d5b7c9baa8387fa9fc180ffbe7f1a0e224e4",
-  "assets": "08_assets/photoreal-v15/asset-manifest.json",
-  "tour": "09_delivery/vr-tour-v02/打开360全景漫游.html",
+  "presentation_revision": 16,
+  "geometry_revision": 16,
+  "base_architecture_revision": 14,
+  "model": "06_blender/home-v16-reference-anchor.blend",
+  "model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
+  "geometry": "02_geometry/presentation-layout-v16.json",
+  "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
+  "style": "05_style/photographic-reference-v16.json",
+  "style_sha256": "0dfa4a5e3cbfb15ba7cd700cd8e1fded77e4a94ab361e8a205d7504936ccd564",
+  "tour": "09_delivery/vr-tour-v03/打开360全景漫游.html",
+  "method": "Native verified geometry anchors + built-in imagegen photographic light and realism treatment",
   "resolution": [
-    8192,
-    4096
+    1774,
+    887
+  ],
+  "upscaled": false,
+  "native_anchor_resolution": [
+    4096,
+    2048
   ],
   "view_count": 4,
   "projection": "monoscopic equirectangular 360x180",
+  "placement_snapshot": "03_layout/widget-layout-v16-snapshot.json",
   "source_layout_furniture_count": 27,
-  "all_placements_preserved": true,
+  "native_anchors_match_latest_placements": true,
+  "ai_image_details_are_conceptual": true,
   "exterior_is_illustrative": true,
-  "main_editable_model_preserved": true
+  "main_editable_model_preserved": true,
+  "previous_native_8k_tour": "09_delivery/vr-tour-v02/打开360全景漫游.html"
 }

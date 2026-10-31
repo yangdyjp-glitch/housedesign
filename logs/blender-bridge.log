@@ -1121,3 +1121,240 @@ Queued command: get_addon_info
 Executing handler for get_addon_info
 Handler execution complete
 Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Queued command: get_telemetry_consent
+Executing handler for get_telemetry_consent
+Handler execution complete
+Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 7569)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 7577)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Queued command: get_telemetry_consent
+Executing handler for get_telemetry_consent
+Handler execution complete
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10056)
+Client handler started
+Connected to client: ('127.0.0.1', 10059)
+Client disconnected
+Client handler stopped
+Client handler started
+Connected to client: ('127.0.0.1', 10060)
+Client disconnected
+Client handler stopped
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10069)
+Client handler started
+Connected to client: ('127.0.0.1', 10070)
+Queued command: get_addon_info
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 10071)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 10079)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10082)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 10089)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10094)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Queued command: get_polyhaven_status
+Queued command: get_sketchfab_status
+Executing handler for get_sketchfab_status
+Handler execution complete
+Queued command: get_polypizza_status
+Executing handler for get_polypizza_status
+Handler execution complete
+Queued command: get_hunyuan3d_status
+Executing handler for get_hunyuan3d_status
+Handler execution complete
+Queued command: get_hyper3d_status
+Executing handler for get_hyper3d_status
+Handler execution complete
+Queued command: get_meshy_status
+Executing handler for get_meshy_status
+Handler execution complete
+Queued command: get_tripo_status
+Executing handler for get_tripo_status
+Handler execution complete
+Queued command: get_telemetry_consent
+Executing handler for get_telemetry_consent
+Handler execution complete
+Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Queued command: execute_code
+Executing handler for execute_code
+Handler execution complete
+Connected to client: ('127.0.0.1', 10774)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10777)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 10783)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10788)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 9926)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 9934)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 9940)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 9943)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 10539)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10542)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 10548)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 10551)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 13148)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 13151)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 13157)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 13160)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 14522)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 14526)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 14532)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 14535)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 12016)
+Client handler started
+Client disconnected
+Client handler stopped
+Connected to client: ('127.0.0.1', 12019)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Client handler stopped
+Connected to client: ('127.0.0.1', 12025)

@@ -66,7 +66,9 @@ def main():
         with Image.open(source) as im:
             width, height = im.size
         assert width == height * 2, f"{scene['id']}: equirectangular panorama must be 2:1"
-        assert width >= 2048, f"{scene['id']}: insufficient resolution"
+        minimum_width = config.get("minimumPanoramaWidth", 2048)
+        assert minimum_width >= 1536, "Keep the delivered native panorama usable for preview"
+        assert width >= minimum_width, f"{scene['id']}: insufficient resolution"
         mime = "image/jpeg" if source.suffix.lower() in (".jpg", ".jpeg") else "image/png"
         scene["imageData"] = "data:" + mime + ";base64," + base64.b64encode(source.read_bytes()).decode("ascii")
         scene["imageWidth"], scene["imageHeight"] = width, height

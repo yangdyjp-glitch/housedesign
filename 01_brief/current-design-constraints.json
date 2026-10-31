@@ -38,19 +38,23 @@
       "客厅",
       "阳台"
     ],
-    "version": 14,
+    "version": 16,
     "projection": "monoscopic equirectangular 360x180",
     "nodes": 4,
     "resolution": [
-      8192,
-      4096
+      1774,
+      887
     ],
     "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim",
     "current_master_revision": 14,
-    "status": "current v14 layout with v15 realistic PBR presentation",
-    "presentation_revision": 15,
+    "status": "Selected-reference photographic light and realism preview, native AI resolution honestly retained",
+    "presentation_revision": 16,
     "photorealistic": true,
-    "exterior_is_illustrative": true
+    "exterior_is_illustrative": true,
+    "base_architecture_revision": 14,
+    "upscaled": false,
+    "ai_assisted": true,
+    "latest_placement_snapshot": "03_layout/widget-layout-v16-snapshot.json"
   },
   "master_suite": {
     "applied_model_revision": 14,

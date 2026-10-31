@@ -1,0 +1,39 @@
+{
+  "presentation_revision": 16,
+  "architecture_revision": 14,
+  "request": [
+    "VR使用这一套图的风格",
+    "不仅仅是色彩和材质，主要是这个图的真实感和光影"
+  ],
+  "reference": "00_sources/photographic-style-reference-v16.png",
+  "reference_sha256": "46d359f2c84bb5c8de0658a066182a1fa8164320430748c3e3e73a89c5c32d6e",
+  "style": "restrained modern Japanese, photographic architectural interior, textured pale oak and greige linen",
+  "primary_goal": "photographic realism and physically coherent oblique daylight, contact shadows, natural reflections; not merely a color/material change",
+  "method": "Native full-sphere architectural anchors, built-in imagegen enhancement locked to the anchors, inspect in spherical viewer",
+  "geometry": "02_geometry/presentation-layout-v16.json",
+  "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
+  "placement_source": "03_layout/widget-layout-v16-snapshot.json",
+  "locks": [
+    "All walls and openings",
+    "85inch TV",
+    "single34inch monitor and one office chair",
+    "one desk behind sofa facing TV",
+    "four dining chairs and table against wall",
+    "two low tea chairs and one low round tea table",
+    "milk-yellow lower and cream upper cabinets, walnut niche",
+    "no new rug, pendant, artwork or furniture"
+  ],
+  "exterior_is_illustrative": true,
+  "budget_considered": false,
+  "anchor_model": "06_blender/home-v16-reference-anchor.blend",
+  "anchor_model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
+  "native_generated_resolution": [
+    1774,
+    887
+  ],
+  "upscaled": false,
+  "output_manifest": "07_renders/vr-tour-v03/imagegen-outputs.json",
+  "final_prompt_set": "07_renders/vr-tour-v03/imagegen-final-prompts.json",
+  "correction_prompt_set": "07_renders/vr-tour-v03/correction-prompts.json",
+  "tour": "09_delivery/vr-tour-v03/打开360全景漫游.html"
+}

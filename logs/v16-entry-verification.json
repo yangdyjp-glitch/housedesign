@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "homepage_opens_current_tour": true,
+  "native_image_dimensions": [
+    1774,
+    887
+  ],
+  "mobile_390px_no_overflow": true,
+  "errors": []
+}

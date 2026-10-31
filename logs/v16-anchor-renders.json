@@ -1,0 +1,46 @@
+{
+  "model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
+  "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
+  "images": [
+    {
+      "id": "living",
+      "path": "07_renders/vr-tour-v03/living-anchor.png",
+      "sha256": "845f660d2b56d826b081558cd6882d26d1d99a6f2967ebaaebe2919240d26135",
+      "seconds": 37.8,
+      "resolution": [
+        4096,
+        2048
+      ]
+    },
+    {
+      "id": "dining",
+      "path": "07_renders/vr-tour-v03/dining-anchor.png",
+      "sha256": "cc54910654ecfddd37156ea051e6e6542cd02c41a9b20e7db7d35e4a4ced0791",
+      "seconds": 39.4,
+      "resolution": [
+        4096,
+        2048
+      ]
+    },
+    {
+      "id": "balcony",
+      "path": "07_renders/vr-tour-v03/balcony-anchor.png",
+      "sha256": "89d377d37e07d15844cdd9886281f23f247d2116a4ef5d9c37669d3d2cd1321d",
+      "seconds": 36.7,
+      "resolution": [
+        4096,
+        2048
+      ]
+    },
+    {
+      "id": "entry",
+      "path": "07_renders/vr-tour-v03/entry-anchor.png",
+      "sha256": "519aa7f7b894b68e7cd17cc0176464d3aa6bd6bc1c01d400464bdbc99503ee1e",
+      "seconds": 38.8,
+      "resolution": [
+        4096,
+        2048
+      ]
+    }
+  ]
+}

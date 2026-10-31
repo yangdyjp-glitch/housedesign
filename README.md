@@ -1,11 +1,12 @@
 # 房屋设计项目 · HomeDesign
 
-基于业主手绘尺寸、功能批注及持续交互调整的住宅装修设计档案。当前布局主模型为 **v14**，写实表现为 **v15**；已接入主卧主卫扩展概念，公共区23件既有家具位置保留。现代日式、暖白浅木、奶黄柜、绿与深蓝点缀。主卫尺寸、结构、原湿区范围、下层用途和排水仍未核，当前是设计方案，不作施工认证。
+基于业主手绘尺寸、功能批注及持续交互调整的住宅装修设计档案。当前建筑主模型为 **v14**，摄影感全景表现为 **v16**，独立快照继承最新手动家具位置；已接入主卧主卫扩展概念。现代日式、暖白浅木、奶黄柜、绿与深蓝点缀。主卫尺寸、结构、原湿区范围、下层用途和排水仍未核，当前是设计方案，不作施工认证。
 
 ## 查看当前成果
 
 - **主卧主卫调整**：[本轮说明与图集](09_delivery/v14-master-suite/调整说明.md) · [平面图](09_delivery/v14-master-suite/主卧主卫调整平面.png) · [主卫实体效果](07_renders/v14-master-suite/master-bath.png) · [剖切观察](07_renders/v14-master-suite/master-suite-cutaway.png)。扩展主卫内依次洗手台—马桶—淋浴，无浴缸，另加入2米床及左侧衣柜。
-- **当前写实360°全景**：[打开写实全景漫游](09_delivery/vr-tour-v02/打开360全景漫游.html) · [离线ZIP](09_delivery/四区写实360全景-v15.zip) · [说明](09_delivery/vr-tour-v02/写实全景说明.md)。按v14布局重新渲染四张8K完整球面图，细化实拍木纹、织物、软包、叶片、玻璃和光影；窗外为摄影环境示意。下载后用浏览器双击打开，GitHub文件页显示源文件。
+- **当前摄影感360°全景**：[打开摄影感全景漫游](09_delivery/vr-tour-v03/打开360全景漫游.html) · [离线ZIP](09_delivery/四区摄影感360全景-v16.zip) · [说明](09_delivery/vr-tour-v03/摄影感全景说明.md)。按用户选定效果图细化真实感、斜向日光与阴影；模型完整球面固定空间，内置imagegen做摄影感表现，原生1774×887，未放大冒充4K/8K。下载后用浏览器双击打开，GitHub文件页显示源文件。
+- **保留的原生8K模型渲染**：[v15漫游](09_delivery/vr-tour-v02/打开360全景漫游.html) · [原生8K离线ZIP](09_delivery/四区写实360全景-v15.zip)。原完整球面模型渲染保留，与本轮摄影感预览分别标注。
 - **历史全景**：[原v13漫游](09_delivery/vr-tour-v01/打开360全景漫游.html) · [原完整交付包](09_delivery/v13-餐厅门厅客厅阳台360全景漫游.zip)。旧模型、图片及源记录继续保留。
 - **可移动家具模型**：[house-v14-preview.html](09_delivery/house-v14-preview.html)。本地浏览器打开，27件可悬停看长宽高、按100mm移动；主卫门和淋浴隔断可开合。洁具移动只是布局试排，未认定排水可迁移；修改位置后需重新渲染全景。
 - **最新深化建议（尚未实施）**：[四区美观与实用性深化建议](04_reviews/四区美观与实用性深化建议-待选.md)。包括灯光、色彩、家具、收纳、门墙收口与两处椅后空间试排。
@@ -13,17 +14,17 @@
 
 | 客厅 | 餐厅 |
 |---|---|
-| ![客厅](07_renders/vr-tour-v02/living-photo.png) | ![餐厅](07_renders/vr-tour-v02/dining-photo.png) |
+| ![客厅](09_delivery/vr-tour-v03-预览/living.png) | ![餐厅](09_delivery/vr-tour-v03-预览/dining.png) |
 | 阳台 | 门厅 |
-| ![阳台](07_renders/vr-tour-v02/balcony-photo.png) | ![门厅](07_renders/vr-tour-v02/entry-photo.png) |
+| ![阳台](09_delivery/vr-tour-v03-预览/balcony.png) | ![门厅](09_delivery/vr-tour-v03-预览/entry.png) |
 
-上述四幅图来自v14布局／v15写实表现的同一份实体模型。当前完整球面影像为8192×4096、360×180单眼全景，可拖动、缩放和切换四个固定观察点；是写实设计渲染，窗外为示意环境，不含自由行走或双眼立体模式。电脑Chrome离线和浏览器触控模拟核验记录见交付清单，实体手机及头显未实测。
+上述四幅图是实际v16漫游的透视截图，基于同版空间快照并采用所选参考图的摄影感与光影。全景为原生1774×887、360×180单眼影像，近距离放大清晰度低于旧版8K；AI细节和窗景为设计示意，可拖动、缩放和切换四个固定观察点，不含自由行走或双眼立体模式。电脑Chrome离线和浏览器触控模拟核验记录见交付清单，实体手机及头显未实测。
 
 ## Railway 在线入口
 
 仓库根目录的 `Staticfile` 将 `09_delivery/` 设为静态网站目录，首页为 `09_delivery/index.html`，提供「写实 VR 全景」与「可移动家具模型」两个入口。Railway 服务使用 Railpack、Root Directory 保持 `/`，不需额外的构建或启动命令；推送到服务连接的分支后自动部署。若设置过 `RAILPACK_STATIC_FILE_ROOT`，请移除或改为 `09_delivery`，以免覆盖 `Staticfile`。
 
-首页目前链接完整交付的 `vr-tour-v02/打开360全景漫游.html` 与 `house-v14-preview.html`。将来切换交付版本时，同步更新首页链接及预览图。缺失页面返回 404，不回退到首页。`.dockerignore` 将网站构建内容限制在交付目录，并排除 ZIP、草稿和未完成包，减少构建体积。
+首页目前链接摄影感预览 `vr-tour-v03/打开360全景漫游.html` 与 `house-v14-preview.html`。首页预览与分辨率说明同步更新；旧版8K漫游留档。缺失页面返回 404，不回退到首页。`.dockerignore` 将网站构建内容限制在交付目录，并排除 ZIP、草稿和未完成包，减少构建体积。
 
 自定义 `Caddyfile` 监听 Railway 提供的 `PORT`（本地缺省 8080），保留现有模型页面自身的内容安全策略，避免额外响应头阻止其内嵌运行时。Railway 生成公开域名时目标端口使用服务的 `PORT`（通常为 8080）。
 
@@ -39,9 +40,13 @@
 | [v14-delivery-verification.json](logs/v14-delivery-verification.json) | 本次交付与源文件核验 |
 | [home-v14-photoreal-v15.blend](06_blender/home-v14-photoreal-v15.blend) | 同一布局的写实表现模型，纹理以相对路径引用08_assets目录 |
 | [active-presentation.json](06_blender/active-presentation.json) | 当前写实模型、素材、全景及来源哈希 |
-| [v15-photoreal-delivery-verification.json](logs/v15-photoreal-delivery-verification.json) | 当前写实全景、包络、接缝与查看器核验 |
+| [v15-photoreal-delivery-verification.json](logs/v15-photoreal-delivery-verification.json) | 历史原生8K全景、包络、接缝与查看器核验 |
+| [home-v16-reference-anchor.blend](06_blender/home-v16-reference-anchor.blend) | 摄影感全景的独立空间基准，继承v14建筑和最新手动位置 |
+| [presentation-layout-v16.json](02_geometry/presentation-layout-v16.json) | 最新全景布局快照；不是覆盖v14建筑主文件 |
+| [photographic-reference-v16.json](05_style/photographic-reference-v16.json) | 用户所选摄影感、光影目标、提示词及真实输出尺寸 |
+| [v16-photographic-delivery-verification.json](logs/v16-photographic-delivery-verification.json) | 当前摄影感全景与浏览器核验 |
 
-当前沙发、脚凳、茶几的平面x/z毫米坐标分别为3100/1300、3200/4350、2550/2650。原始版本、已选奶黄柜、短墙入户柜、矮茶席、85寸电视、单台34寸办公显示器、四椅靠墙餐桌等历史决定与来源均保留。
+最新交互快照中，沙发、脚凳、茶几的平面x/z毫米坐标分别为3100/1400、3200/4450、2550/2850；v14编辑文件的旧基线仍保留，未重复叠加增量。原始版本、已选奶黄柜、短墙入户柜、矮茶席、85寸电视、单台34寸办公显示器、四椅靠墙餐桌等历史决定与来源均保留。
 
 ## 目录
 

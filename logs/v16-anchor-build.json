@@ -1,0 +1,9 @@
+{
+  "model": "06_blender/home-v16-reference-anchor.blend",
+  "model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
+  "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
+  "architecture_revision": 14,
+  "presentation_revision": 16,
+  "furniture_count": 27,
+  "main_v14_unchanged": true
+}

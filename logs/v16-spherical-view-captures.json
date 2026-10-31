@@ -1,0 +1,114 @@
+[
+  {
+    "id": "living",
+    "name": "seam-left",
+    "yawDeg": 179,
+    "pitchDeg": 0,
+    "file": "logs/v16-living-seam-left.png"
+  },
+  {
+    "id": "living",
+    "name": "seam-right",
+    "yawDeg": -179,
+    "pitchDeg": 0,
+    "file": "logs/v16-living-seam-right.png"
+  },
+  {
+    "id": "living",
+    "name": "zenith",
+    "yawDeg": 0,
+    "pitchDeg": 89,
+    "file": "logs/v16-living-zenith.png"
+  },
+  {
+    "id": "living",
+    "name": "nadir",
+    "yawDeg": 0,
+    "pitchDeg": -89,
+    "file": "logs/v16-living-nadir.png"
+  },
+  {
+    "id": "dining",
+    "name": "seam-left",
+    "yawDeg": 179,
+    "pitchDeg": 0,
+    "file": "logs/v16-dining-seam-left.png"
+  },
+  {
+    "id": "dining",
+    "name": "seam-right",
+    "yawDeg": -179,
+    "pitchDeg": 0,
+    "file": "logs/v16-dining-seam-right.png"
+  },
+  {
+    "id": "dining",
+    "name": "zenith",
+    "yawDeg": 0,
+    "pitchDeg": 89,
+    "file": "logs/v16-dining-zenith.png"
+  },
+  {
+    "id": "dining",
+    "name": "nadir",
+    "yawDeg": 0,
+    "pitchDeg": -89,
+    "file": "logs/v16-dining-nadir.png"
+  },
+  {
+    "id": "balcony",
+    "name": "seam-left",
+    "yawDeg": 179,
+    "pitchDeg": 0,
+    "file": "logs/v16-balcony-seam-left.png"
+  },
+  {
+    "id": "balcony",
+    "name": "seam-right",
+    "yawDeg": -179,
+    "pitchDeg": 0,
+    "file": "logs/v16-balcony-seam-right.png"
+  },
+  {
+    "id": "balcony",
+    "name": "zenith",
+    "yawDeg": 0,
+    "pitchDeg": 89,
+    "file": "logs/v16-balcony-zenith.png"
+  },
+  {
+    "id": "balcony",
+    "name": "nadir",
+    "yawDeg": 0,
+    "pitchDeg": -89,
+    "file": "logs/v16-balcony-nadir.png"
+  },
+  {
+    "id": "entry",
+    "name": "seam-left",
+    "yawDeg": 179,
+    "pitchDeg": 0,
+    "file": "logs/v16-entry-seam-left.png"
+  },
+  {
+    "id": "entry",
+    "name": "seam-right",
+    "yawDeg": -179,
+    "pitchDeg": 0,
+    "file": "logs/v16-entry-seam-right.png"
+  },
+  {
+    "id": "entry",
+    "name": "zenith",
+    "yawDeg": 0,
+    "pitchDeg": 89,
+    "file": "logs/v16-entry-zenith.png"
+  },
+  {
+    "id": "entry",
+    "name": "nadir",
+    "yawDeg": 0,
+    "pitchDeg": -89,
+    "file": "logs/v16-entry-nadir.png"
+  }
+]

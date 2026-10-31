@@ -1,0 +1,17 @@
+{
+  "mode": "built-in image_gen",
+  "corrections": [
+    {
+      "id": "balcony",
+      "prompt": "Precise local correction of this existing 2:1 equirectangular 360x180 photographic panorama. Keep all geometry, full-sphere longitude/latitude mapping, camera, crop, object counts, footprints, sunlight direction, color and photographic textures unchanged. Do not turn this into a normal flat interior photo. The left and right image boundaries represent the same meridian, so floor/wall tones and wood grain must flow smoothly across that boundary; the ceiling/floor must also converge smoothly at zenith/nadir without a pinched join. Correct only these wrapping transition regions and the specifically named details. No new furniture, plants, openings or lights. Preserve complete 2:1 sphere. No text or UI. Preserve the low round tea table, exactly two low chairs, one tray/teapot/two cups, chaise sofa, three plants and washer/dryer. Correct only cyclic edge continuity and the nadir floor wrap; keep the center of the image and its beautifully soft daylight exactly as-is."
+    },
+    {
+      "id": "entry",
+      "prompt": "Precise local correction of this existing 2:1 equirectangular 360x180 photographic panorama. Keep all geometry, full-sphere longitude/latitude mapping, camera, crop, object counts, footprints, sunlight direction, color and photographic textures unchanged. Do not turn this into a normal flat interior photo. The left and right image boundaries represent the same meridian, so floor/wall tones and wood grain must flow smoothly across that boundary; the ceiling/floor must also converge smoothly at zenith/nadir without a pinched join. Correct only these wrapping transition regions and the specifically named details. No new furniture, plants, openings or lights. Preserve complete 2:1 sphere. No text or UI. In the entry shoe-cabinet key niche at the right, remove the newly invented cups/bowls/tray so this small shelf is empty as originally modeled. The central tall rounded rectangle is a MIRROR: its exterior reflection must be the SAME distant leafy treetops and hazy skyline seen through the actual entry glass at the two wrapping edges, and coherent reflected opposite interior, not a different ground-level grassy field. Do not add or relocate a door. Keep the four flush wood hooks and cushioned seat unchanged. Correct only this reflection, niche contents and cyclic edge transitions."
+    }
+  ],
+  "selection": {
+    "balcony": "First photographic output retained; correction rejected because it added ceiling light spots and overemphasized floor-grain wrap",
+    "entry": "Corrected output selected; empty key niche and exterior mirror consistency"
+  }
+}

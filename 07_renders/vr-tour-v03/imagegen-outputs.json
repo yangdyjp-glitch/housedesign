@@ -1,0 +1,51 @@
+[
+  {
+    "id": "living",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-e843ad41-08d8-41c8-ae59-47b666ee9c38.png",
+    "project": "07_renders/vr-tour-v03/living-ai-final.png",
+    "sha256": "ed8a6ab5e961cae939680d0c8f794008cfc89ac6cbdfadad63b07021bf7e7919",
+    "native_resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "dining",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-d770864b-41f1-4dbf-9124-ab59fa95bd5b.png",
+    "project": "07_renders/vr-tour-v03/dining-ai-final.png",
+    "sha256": "1654d79d7a346d49e16ae51c914e0df33fe004d338e6af9c055f4de790f86654",
+    "native_resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "balcony",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-1a42a145-c970-426e-8fb5-63b0a4aa0f09.png",
+    "project": "07_renders/vr-tour-v03/balcony-ai-final.png",
+    "sha256": "a2b0b99516b6ee4a5b7db08715213d9bec52c853a5f573c57830d09551a2b9f5",
+    "native_resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "entry",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-33175d5c-9b17-4bfa-aeb2-318e3cb2da6e.png",
+    "project": "07_renders/vr-tour-v03/entry-ai-final.png",
+    "sha256": "28ee5de2072ac97988367ec3575d38770315408e4c609fdfed0fe8fe1666e304",
+    "native_resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false,
+    "mode": "built-in image_gen",
+    "correction": "Empty key niche and coherent mirror scenery"
+  }
+]

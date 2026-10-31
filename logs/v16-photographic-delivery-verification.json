@@ -1,0 +1,91 @@
+{
+  "presentation_revision": 16,
+  "base_architecture_revision": 14,
+  "model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
+  "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
+  "source_v14_unchanged": true,
+  "latest_27_native_placements_verified": true,
+  "ai_image_details_are_conceptual": true,
+  "method": "Native verified geometry anchors + built-in imagegen photographic light and realism treatment",
+  "images": [
+    {
+      "id": "living",
+      "image": "07_renders/vr-tour-v03/living-day.jpg",
+      "sha256": "dd8eb94e560b47bbdeb19efaf103492b6e360d8ea6eb958d0d1c8cfea049e31c",
+      "native_resolution": [
+        1774,
+        887
+      ],
+      "upscaled": false,
+      "seam_edge_mae_255": 6.2672,
+      "sphere_and_poles_visually_reviewed": true
+    },
+    {
+      "id": "dining",
+      "image": "07_renders/vr-tour-v03/dining-day.jpg",
+      "sha256": "a1ff04098f421ef9f2b829a2dc0a344de04686e571adbc987f2b90fae4ff2608",
+      "native_resolution": [
+        1774,
+        887
+      ],
+      "upscaled": false,
+      "seam_edge_mae_255": 2.9602,
+      "sphere_and_poles_visually_reviewed": true
+    },
+    {
+      "id": "balcony",
+      "image": "07_renders/vr-tour-v03/balcony-day.jpg",
+      "sha256": "2493e15fabc3e03829a486d797ba86c6b08a145baca202cdf4bb94df91105253",
+      "native_resolution": [
+        1774,
+        887
+      ],
+      "upscaled": false,
+      "seam_edge_mae_255": 12.5017,
+      "sphere_and_poles_visually_reviewed": true
+    },
+    {
+      "id": "entry",
+      "image": "07_renders/vr-tour-v03/entry-day.jpg",
+      "sha256": "9100cba5b939b6a4e5ddc6bf57ef88faf2fd33406895b08cdab434547975ddad",
+      "native_resolution": [
+        1774,
+        887
+      ],
+      "upscaled": false,
+      "seam_edge_mae_255": 11.434,
+      "sphere_and_poles_visually_reviewed": true
+    }
+  ],
+  "full_sphere_capture_count": 16,
+  "viewer_tests": [
+    "Local file opens offline; spherical WebGL projection; 2:1 image decode",
+    "Mouse drag changes yaw/pitch and rendered pixel output",
+    "Wheel zoom and reset",
+    "Arrow keys, Home and keyboard zoom",
+    "All four model image scenes decode, upload and switch",
+    "Map toggles and switches scene",
+    "Projected hotspot uses world direction and switches observation point",
+    "Chinese usage help opens/closes",
+    "Mobile single-finger spherical rotation",
+    "Mobile two-finger pinch changes field of view",
+    "Mobile scene switch, reset and no horizontal overflow at 390px",
+    "320px viewport has no horizontal overflow",
+    "Zenith/nadir and continuous 360-degree yaw wrap",
+    "Native-resolution living view exports both 360 seam sides, zenith and nadir for visual review",
+    "No network requests, CDN or page errors under browser offline mode",
+    "Simulated 1024px GPU limit downsamples display texture, preserving 2:1 and original download"
+  ],
+  "runtime_errors": [],
+  "headset_tested": false,
+  "physical_phone_tested": false,
+  "free_walking": false,
+  "stereo": false,
+  "exterior_is_illustrative": true,
+  "light_is_design_atmosphere_not_site_sun_study": true,
+  "known_limits": [
+    "Native generated images are1774x887, below previous8K; no upscale",
+    "Some edge/nadir joins and AI material/foliage differences remain"
+  ],
+  "budget_considered": false
+}
