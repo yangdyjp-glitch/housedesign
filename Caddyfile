@@ -1,0 +1,19 @@
+{
+	admin off
+	persist_config off
+	auto_https off
+}
+
+:{$PORT:8080} {
+	root * /app/09_delivery
+	encode zstd gzip
+	respond /health 200
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		-Server
+	}
+	# The existing model supplies its own CSP, including its bundled runtime needs.
+	# Avoid adding a second policy that would disable that runtime.
+	file_server
+}

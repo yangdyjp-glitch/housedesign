@@ -1,6 +1,7 @@
 # Build the published delivery pages without copying design source archives.
 **
 !Staticfile
+!Caddyfile
 !09_delivery/
 !09_delivery/**
 09_delivery/*.zip
