@@ -1,0 +1,8 @@
+# Build the published delivery pages without copying design source archives.
+**
+!Staticfile
+!09_delivery/
+!09_delivery/**
+09_delivery/*.zip
+09_delivery/*-draft/
+09_delivery/*-partial/
