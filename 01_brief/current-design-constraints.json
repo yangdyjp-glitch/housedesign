@@ -38,7 +38,7 @@
       "客厅",
       "阳台"
     ],
-    "version": 18,
+    "version": 19,
     "projection": "monoscopic equirectangular 360x180",
     "nodes": 4,
     "resolution": [
@@ -46,15 +46,15 @@
       887
     ],
     "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim",
-    "current_master_revision": 18,
-    "status": "Current v18 right-shoe/left-piano-bench model, photographic four-point concept preview; original native dimensions retained",
-    "presentation_revision": 18,
+    "current_master_revision": 19,
+    "status": "v19 warm white/pale and dark timber/green-blue public refinement, unchanged placements, photographic concepts",
+    "presentation_revision": 19,
     "photorealistic": true,
     "exterior_is_illustrative": true,
     "base_architecture_revision": 14,
     "upscaled": false,
     "ai_assisted": true,
-    "latest_placement_snapshot": "03_layout/widget-layout-v18-initial.json"
+    "latest_placement_snapshot": "03_layout/widget-layout-v19-initial.json"
   },
   "master_suite": {
     "applied_model_revision": 14,
@@ -174,5 +174,147 @@
       "keep straight door, adjust bed/head partition"
     ],
     "currentMainWallsRemainV14": true
+  },
+  "public_deepening_v19": {
+    "status": "design development concept",
+    "userConfirmed": {
+      "atmosphere": "natural modern Japanese with deep timber, green and blue accents",
+      "ceiling": "full-home suspended-ceiling intent; public areas detailed this phase",
+      "centralAirConditioning": true,
+      "childSpecificDesign": false,
+      "tvWall": "as clean as possible",
+      "livingLighting": "no central main luminaire",
+      "concealedLightLocations": [
+        "curtain",
+        "cabinet"
+      ],
+      "diningLighting": "independent diffuse pendant"
+    },
+    "ceiling": {
+      "finishedPlaneMm": 2750,
+      "status": "provisional visual plane inherited, not measured structure or confirmed AC clearance",
+      "modelSkinThicknessMm": 18,
+      "constructionVoidMm": null,
+      "structureHeightMm": null,
+      "beamBottomMm": null,
+      "acUnitModel": null,
+      "acUnitPosition": null,
+      "acSupplyReturnFinalized": false,
+      "intent": "coordinate equipment, return, supply and accessible service panels before final ceiling shop drawings",
+      "publicModelScope": "common matte ceiling plane; other private finishes unchanged",
+      "acCoordination": {
+        "status": "schematic candidate zones, not equipment or duct sizing",
+        "serviceBandPlanMm": [
+          3500,
+          5100,
+          4500,
+          800
+        ],
+        "supplyCandidatePlanMm": [
+          1000,
+          4810,
+          1900,
+          90
+        ],
+        "returnCandidatePlanMm": [
+          3900,
+          5800,
+          1800,
+          90
+        ],
+        "visualIntent": "straight narrow white face at corridor/living transition; keep the main ceiling quiet and access outside tall cabinets",
+        "requires": [
+          "structure/beam survey",
+          "equipment selection and capacity",
+          "static pressure and duct routing",
+          "condensate route and slope",
+          "manufacturer service access",
+          "supply/return separation and seated draft check"
+        ],
+        "diningBranch": "separate branch/zone subject to load and equipment coordination; no invented vent dimensions",
+        "source": "designer candidate layout, not HVAC engineering approval"
+      }
+    },
+    "changedFurniture": [
+      "side-table",
+      "dining-table",
+      "double-desk",
+      "sofa-modular",
+      "ottoman",
+      "bookcase",
+      "dining-chair-1",
+      "dining-chair-2",
+      "dining-chair-3",
+      "dining-chair-4"
+    ],
+    "allLatestPlacementsPreserved": true,
+    "cleanTVWallRemovedIds": [
+      "v12-tv-background",
+      "v12-tv-frame-left",
+      "v12-tv-frame-right",
+      "v12-tv-frame-top",
+      "v12-tv-fine-line-0",
+      "v12-tv-fine-line-1"
+    ],
+    "bookcase": {
+      "heightMm": 2750,
+      "baseClosedHeightMm": 800,
+      "openBandMm": [
+        800,
+        2150
+      ],
+      "newClosedTopMm": [
+        2150,
+        2750
+      ],
+      "openBays": 6,
+      "displayBooks": 18
+    },
+    "dining": {
+      "pendantMm": [
+        600,
+        350,
+        240
+      ],
+      "pendantBottomMm": 1500,
+      "tableGapMm": 750,
+      "artMm": [
+        900,
+        600
+      ]
+    },
+    "paletteRule": "warm white and pale oak dominate; deep walnut limited to recesses and bases, sage/navy in small textile/art areas; milk-yellow corridor lower doors retained",
+    "placementChoicePending": false,
+    "layoutTrials": [
+      {
+        "ids": [
+          "double-desk",
+          "office-chair-1"
+        ],
+        "dx": -200,
+        "dz": 0,
+        "chairRearGapBeforeMm": 408,
+        "chairRearGapAfterMm": 608,
+        "sofaDeskGapAfterMm": 100
+      },
+      {
+        "ids": [
+          "dining-table",
+          "dining-chair-1",
+          "dining-chair-2",
+          "dining-chair-3",
+          "dining-chair-4"
+        ],
+        "dx": 0,
+        "dz": -200,
+        "doorEndGapBeforeMm": 285,
+        "doorEndGapAfterMm": 485
+      }
+    ],
+    "laundryCurtainGapMm": 10,
+    "laundryUnchangedPendingEquipmentCoordination": true,
+    "noBudgetConstraint": true,
+    "placementDecision": "owner confirmed retain every current position on 2026-11-04; 200mm trials not applied",
+    "layoutTrialsStatus": "not adopted; historical comparison only"
   }
 }

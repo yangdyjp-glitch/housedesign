@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "revision": 19,
+  "homepage_links_current": true,
+  "all_local_links_exist": true,
+  "day_night_toggles_and_original_images": true,
+  "all_gallery_images_decoded": true,
+  "no_overflow_390_and_320": true,
+  "offline": true,
+  "errors": []
+}

@@ -1,0 +1,51 @@
+{
+  "revision": 19,
+  "schematic": true,
+  "finishedCeiling": {
+    "finishedPlaneMm": 2750,
+    "status": "provisional visual plane inherited, not measured structure or confirmed AC clearance",
+    "modelSkinThicknessMm": 18,
+    "constructionVoidMm": null,
+    "structureHeightMm": null,
+    "beamBottomMm": null,
+    "acUnitModel": null,
+    "acUnitPosition": null,
+    "acSupplyReturnFinalized": false,
+    "intent": "coordinate equipment, return, supply and accessible service panels before final ceiling shop drawings",
+    "publicModelScope": "common matte ceiling plane; other private finishes unchanged",
+    "acCoordination": {
+      "status": "schematic candidate zones, not equipment or duct sizing",
+      "serviceBandPlanMm": [
+        3500,
+        5100,
+        4500,
+        800
+      ],
+      "supplyCandidatePlanMm": [
+        1000,
+        4810,
+        1900,
+        90
+      ],
+      "returnCandidatePlanMm": [
+        3900,
+        5800,
+        1800,
+        90
+      ],
+      "visualIntent": "straight narrow white face at corridor/living transition; keep the main ceiling quiet and access outside tall cabinets",
+      "requires": [
+        "structure/beam survey",
+        "equipment selection and capacity",
+        "static pressure and duct routing",
+        "condensate route and slope",
+        "manufacturer service access",
+        "supply/return separation and seated draft check"
+      ],
+      "diningBranch": "separate branch/zone subject to load and equipment coordination; no invented vent dimensions",
+      "source": "designer candidate layout, not HVAC engineering approval"
+    }
+  },
+  "furniturePositionsUnchanged": true,
+  "diagram": "09_delivery/v19-deepening/吊顶灯光空调协调.png"
+}

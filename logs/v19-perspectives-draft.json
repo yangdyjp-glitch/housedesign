@@ -1,0 +1,17 @@
+{
+  "model_sha256": "5d4e86d0ea666b62f1611a930ea3bb9c0748c87dacaaa27a75790e2c53ffd261",
+  "geometry_sha256": "fd23112e78d27f344aae9d27f92e0a44d8421807efa0d8039b223035bc28d6fa",
+  "images": [
+    {
+      "id": "living",
+      "path": "07_renders/v19-deepening/living-native-draft.png",
+      "sha256": "49956421f287228717ec1dec0d6a20560eaa756b68b03b90d82316944d65039b",
+      "resolution": [
+        840,
+        560
+      ],
+      "mode": 0,
+      "seconds": 2.3
+    }
+  ]
+}

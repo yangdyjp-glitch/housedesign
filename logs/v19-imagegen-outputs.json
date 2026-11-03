@@ -1,0 +1,134 @@
+[
+  {
+    "kind": "photos",
+    "id": "entry-left",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-91d42eb4-f022-4c54-afee-24777ae43cad.png",
+    "path": "07_renders/v19-deepening/entry-left-realistic.png",
+    "sha256": "7e2e5786a6034f861219aae079b6ad00aec5d4740ce31911cdc2e25eba2cc653",
+    "resolution": [
+      1024,
+      1536
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "photos",
+    "id": "entry-right",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-50094a66-dbfb-4f28-b3c0-06c45b9e9723.png",
+    "path": "07_renders/v19-deepening/entry-right-realistic.png",
+    "sha256": "12a279738d518ae3d9e14e5a36d7160122cf767cf19e177c42280af26ad2d373",
+    "resolution": [
+      1024,
+      1536
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "photos",
+    "id": "living",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a965bc93-5957-4535-bdc4-4592f8162ada.png",
+    "path": "07_renders/v19-deepening/living-realistic.png",
+    "sha256": "3bcc99efd2d871ee6bff3f5eba4a5f1d5c4630cf3e0d0b34b5b6fe2c7ae6c8cd",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "photos",
+    "id": "dining",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-e66d4858-d73a-4b18-be7e-f578bbea291d.png",
+    "path": "07_renders/v19-deepening/dining-realistic.png",
+    "sha256": "dbb90f672647daa5081608b4361de1a12300dc40fba61d04da27b9a41acd1e10",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "photos",
+    "id": "balcony",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a203a8fc-d109-4361-a510-8998c887ebf8.png",
+    "path": "07_renders/v19-deepening/balcony-realistic.png",
+    "sha256": "cb56d36a17f3ba42101a028b125ae752df9d481425ac6b97d6b503e3e22cb18b",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "photos",
+    "id": "living-night",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-9a3d3435-bd47-4227-90ee-d41ee3d64aad.png",
+    "path": "07_renders/v19-deepening/living-night-realistic.png",
+    "sha256": "d9e6d313e3fe53575b14ce1a3291036ec624414dfa779e2cadbd71d2e3db9a6c",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "photos",
+    "id": "dining-night",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-76c9e4d5-bc46-45ef-9cc6-8791a588aec6.png",
+    "path": "07_renders/v19-deepening/dining-night-realistic.png",
+    "sha256": "0d7e0a711b935a94c176789a1e2519ae38ca9e15ec86bce92f6e00524fb624cb",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "panoramas",
+    "id": "living",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-292f5e12-0c1d-432f-9ba6-e0cf361884e6.png",
+    "path": "07_renders/vr-tour-v05/living-ai-final.png",
+    "sha256": "b36b75be50a6d57a8ff052a368dabe5cec6f828b46a34c9ffe10885b3cf232df",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "panoramas",
+    "id": "dining",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-7c8cad0c-2a45-4c1b-adb1-67d48f4fe3d6.png",
+    "path": "07_renders/vr-tour-v05/dining-ai-final.png",
+    "sha256": "43b52ddad945c00a1b6e187aec864fc6c28ae17aa95a53e33158440cfae97cb2",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "panoramas",
+    "id": "balcony",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-23630cd7-da8f-47fe-828b-00029e7eb260.png",
+    "path": "07_renders/vr-tour-v05/balcony-ai-final.png",
+    "sha256": "8bd10f647f23f987ed9f345b67f596f388b9a42b6e3abf071b473340fcf6a585",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  },
+  {
+    "kind": "panoramas",
+    "id": "entry",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a00a09b0-aa04-4fb7-ae24-b76c32e49f8b.png",
+    "path": "07_renders/vr-tour-v05/entry-ai-final.png",
+    "sha256": "d451bc4318bab02ff9023aec784bdec2309b9298f045a7611b7528cd76491216",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  }
+]

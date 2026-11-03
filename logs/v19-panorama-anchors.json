@@ -1,0 +1,54 @@
+{
+  "model_sha256": "5d4e86d0ea666b62f1611a930ea3bb9c0748c87dacaaa27a75790e2c53ffd261",
+  "geometry_sha256": "fd23112e78d27f344aae9d27f92e0a44d8421807efa0d8039b223035bc28d6fa",
+  "images": [
+    {
+      "id": "living",
+      "path": "07_renders/v19-deepening/living-anchor.png",
+      "sha256": "f3dac7c956f22150b9fd3f2b2fb4127c6962dded262c656e501d4e2e5db69862",
+      "resolution": [
+        4096,
+        2048
+      ],
+      "mode": 0,
+      "seconds": 75.9
+    },
+    {
+      "id": "dining",
+      "path": "07_renders/v19-deepening/dining-anchor.png",
+      "sha256": "2c8bf50d8c377c128f95d1ff2796127158a85cc415e326d31cb3ddf38e9526b6",
+      "resolution": [
+        4096,
+        2048
+      ],
+      "mode": 0,
+      "seconds": 44.4
+    },
+    {
+      "id": "balcony",
+      "path": "07_renders/v19-deepening/balcony-anchor.png",
+      "sha256": "120d439846e8485f11f7d8a0ac6508d44dafad8aecee7b90bdf07e5687b08467",
+      "resolution": [
+        4096,
+        2048
+      ],
+      "mode": 0,
+      "seconds": 40.0
+    },
+    {
+      "id": "entry",
+      "path": "07_renders/v19-deepening/entry-anchor.png",
+      "sha256": "243d8a43ba9b0c344b7206d417edf29fff5c956001887426d22f1a9f2fa42b72",
+      "resolution": [
+        4096,
+        2048
+      ],
+      "mode": 0,
+      "seconds": 40.2
+    }
+  ],
+  "render_source_model": "06_blender/home-v19-render-source.blend",
+  "compatible_active_model_sha256": "c7bfcb12dc2fb6879a6ba48dcc882b488f4ecdf51ed854f1c77f9257ca2fc359",
+  "visual_fingerprint": "6d8e65a8bb6580ad1b092f8fe4314427da4a4eb3692ceace2387d0c887888c92",
+  "metadata_confirmation": "logs/v19-metadata-confirmation.json"
+}

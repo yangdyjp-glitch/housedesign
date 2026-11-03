@@ -1,0 +1,12 @@
+{
+  "spec": {
+    "id": "living-sphere-correction",
+    "references": [
+      "D:/AI-Yang.cn/HomeDesign/07_renders/v19-deepening/living-anchor.png"
+    ],
+    "prompt": "Use case: sketch-to-render. Transform ONLY this attached complete equirectangular room sphere into a convincing photographic interior. Output ONE full360x180 EQUIRECTANGULAR image, exact2:1, same longitude/latitude positions, horizon at middle, entire ceiling and floor poles, matching left/right wrap meridian. NEVER flatten to a perspective photo. Preserve every source wall, door, furniture and camera exactly. TV wall must stay PLAIN matte warm-white exactly as source, no wood slat wall, piano hooks, panels, timber strips or decorative borders at/near the TV or the left/right wrap seam. Keep the source closed corridor cabinet fronts, and show only entry elements actually visible in the source. No invented entry furniture. Main room materials: light low-yellow oak floor and table tops, warm-white paint and closed upper cabinets, deep walnut in six-bay bookcase recess and table legs, greige linen sofa and ottoman, sage/navy pillows and chairs. Source bookcase upper closed storage flush to ceiling must remain. One34-inch desk monitor and one chair behind the sofa, low tea table and TWO low tea chairs by balcony, three plants, stacked washer/dryer, four dining chairs and one soft oval dining pendant. Realistic gentle oblique daylight, soft window shadows and grounded fabric/wood textures, trees outside illustrative. Do not add objects, slat boards, rugs, lamps, text or people. Match source layout rather than any previous conversation photo."
+  },
+  "output": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-292f5e12-0c1d-432f-9ba6-e0cf361884e6.png",
+  "reason": "Removed spurious timber hook/slat board at TV-side meridian; preserve native plain TV wall.",
+  "selected": true
+}

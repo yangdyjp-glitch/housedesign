@@ -1,0 +1,22 @@
+{
+  "revision": 19,
+  "status": "passed",
+  "furniture": 28,
+  "changed_assemblies_hover_click_dimensions_100mm_and_undo": [
+    "sofa-modular",
+    "ottoman",
+    "side-table",
+    "double-desk",
+    "bookcase",
+    "dining-table",
+    "dining-chair-1",
+    "dining-chair-2",
+    "dining-chair-3",
+    "dining-chair-4"
+  ],
+  "legacy_snapshot_restored_twice_without_double_offsets": true,
+  "private_curtain_preserved": true,
+  "perspective_mode_stable_after_restore": true,
+  "mobile_390px_no_overflow": true,
+  "errors": []
+}

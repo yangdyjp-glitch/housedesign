@@ -1,6 +1,6 @@
 {
-  "title": "房屋主模型 · 入户右鞋柜与左侧钢琴键换鞋区",
-  "revision": 18,
+  "title": "现代日式四区深化 · 暖白浅木与深木绿蓝",
+  "revision": 19,
   "units": "mm",
   "height": 2750,
   "geometry_status": "依据手绘图的初步空间复原；非闭合实测CAD或施工图",
@@ -61,7 +61,10 @@
     "v16全景读取最新交互状态：沙发3100/1400、脚凳3200/4450、茶几2550/2850；其余24件位置不变。主编辑文件仍为v14，表现快照独立保存。",
     "v18按进门实际方向区分左右：右侧图下短墙改整面鞋柜，左侧利用通长柜最靠入口1000mm做换鞋与钢琴键挂板，不新增柜体占地。",
     "钢琴键为可翻折木条挂钩意向，4键展开示意；五金、固定、额定荷载及防夹需选品和节点，未做机械承重仿真。",
-    "v17主卫墙对齐仍待门口取舍；此次未擅自改变床位或门洞。"
+    "v17主卫墙对齐仍待门口取舍；此次未擅自改变床位或门洞。",
+    "v19业主选定自然现代日式+深木绿蓝、全屋吊顶、中央空调、客厅无主灯、窗帘柜体灯槽、餐厅独立光；本轮具体建模仍为四区。",
+    "2750为沿用的效果图完成面暂定高度，结构层高、梁底、设备型号及吊顶空腔尚未测定；不凭此给出最终风口、检修口及设备安装尺寸。",
+    "业主2026-11-04确认办公桌椅、餐桌四椅均保留现位，200mm试排不应用。中央空调尚未选型，先做吊顶与风口协调示意；10mm帘布与洗烘模型余量尚不足以证明实物运行不碰。"
   ],
   "floor": [
     [
@@ -1437,7 +1440,8 @@
         "sage": "#71816A",
         "navy": "#243C55",
         "graphite": "#424743",
-        "milk": "#F1DDAE"
+        "milk": "#F1DDAE",
+        "walnut": "#665047"
       },
       "publicFloorPolygon": [
         [
@@ -1490,8 +1494,8 @@
         ]
       ],
       "floorStatus": "Existing pale-wood appearance retained as a concept and desaturated; actual flooring product unselected",
-      "wall": "flat matte warm white, no feature wall or heavy texture",
-      "wood": "one pale oak family on main timber furniture; walnut retained only as existing cabinet accent",
+      "wall": "clean matte warm white; all old decorative TV frames/panel/fine lines removed; one restrained dining artwork",
+      "wood": "pale oak as the main timber; dark walnut in bookcase recess and selected table/chair bases, not a matching whole-house suite",
       "fabric": "fine woven linen-look greige, no new upholstery product selected",
       "doors": [
         {
@@ -1548,26 +1552,26 @@
         "intent": "retain closed storage plus limited display, use adjustable shelves; no fixed counts or final internal dividers"
       },
       "lighting": {
-        "preference": "indirect atmosphere plus existing desk lamp; retained usable general/task circuits",
+        "preference": "full suspended ceiling intent, living no central main luminaire; concealed curtain/cabinet light plus task and cleaning layers",
         "conceptCCT": {
           "indirect": 3000,
           "task": 3500,
           "night": 2700
         },
         "circuits": [
-          "living ceiling bounce",
-          "hall ceiling bounce",
-          "TV background",
-          "bookcase shelf light",
-          "entry niche/low guide",
+          "curtain cove",
+          "bookcase selected shelf lights",
+          "entry bench/niche/guide",
           "desk task",
-          "dining task",
-          "general clean-up"
+          "dining diffuse pendant",
+          "living/hall general cleaning"
         ],
         "sceneNames": [
           "day",
           "evening",
-          "cleaning"
+          "dining",
+          "cleaning",
+          "viewing"
         ],
         "renderEnergyStatus": "relative rendering controls, not luminaire wattage or verified illumination calculations"
       },
@@ -1660,7 +1664,8 @@
         "floatingBottomMm": 180,
         "floatingBodyHeightMm": 270,
         "endBoxLengthMm": 500,
-        "screenMountingUnchanged": true
+        "screenMountingUnchanged": true,
+        "background": "plain warm-white paint, old decorative border/panel/fine lines removed v19"
       },
       "curvedCove": {
         "radiusMm": 180,
@@ -1822,6 +1827,148 @@
         "keep straight door, adjust bed/head partition"
       ],
       "currentMainWallsRemainV14": true
+    },
+    "deepeningV19": {
+      "status": "design development concept",
+      "userConfirmed": {
+        "atmosphere": "natural modern Japanese with deep timber, green and blue accents",
+        "ceiling": "full-home suspended-ceiling intent; public areas detailed this phase",
+        "centralAirConditioning": true,
+        "childSpecificDesign": false,
+        "tvWall": "as clean as possible",
+        "livingLighting": "no central main luminaire",
+        "concealedLightLocations": [
+          "curtain",
+          "cabinet"
+        ],
+        "diningLighting": "independent diffuse pendant"
+      },
+      "ceiling": {
+        "finishedPlaneMm": 2750,
+        "status": "provisional visual plane inherited, not measured structure or confirmed AC clearance",
+        "modelSkinThicknessMm": 18,
+        "constructionVoidMm": null,
+        "structureHeightMm": null,
+        "beamBottomMm": null,
+        "acUnitModel": null,
+        "acUnitPosition": null,
+        "acSupplyReturnFinalized": false,
+        "intent": "coordinate equipment, return, supply and accessible service panels before final ceiling shop drawings",
+        "publicModelScope": "common matte ceiling plane; other private finishes unchanged",
+        "acCoordination": {
+          "status": "schematic candidate zones, not equipment or duct sizing",
+          "serviceBandPlanMm": [
+            3500,
+            5100,
+            4500,
+            800
+          ],
+          "supplyCandidatePlanMm": [
+            1000,
+            4810,
+            1900,
+            90
+          ],
+          "returnCandidatePlanMm": [
+            3900,
+            5800,
+            1800,
+            90
+          ],
+          "visualIntent": "straight narrow white face at corridor/living transition; keep the main ceiling quiet and access outside tall cabinets",
+          "requires": [
+            "structure/beam survey",
+            "equipment selection and capacity",
+            "static pressure and duct routing",
+            "condensate route and slope",
+            "manufacturer service access",
+            "supply/return separation and seated draft check"
+          ],
+          "diningBranch": "separate branch/zone subject to load and equipment coordination; no invented vent dimensions",
+          "source": "designer candidate layout, not HVAC engineering approval"
+        }
+      },
+      "changedFurniture": [
+        "side-table",
+        "dining-table",
+        "double-desk",
+        "sofa-modular",
+        "ottoman",
+        "bookcase",
+        "dining-chair-1",
+        "dining-chair-2",
+        "dining-chair-3",
+        "dining-chair-4"
+      ],
+      "allLatestPlacementsPreserved": true,
+      "cleanTVWallRemovedIds": [
+        "v12-tv-background",
+        "v12-tv-frame-left",
+        "v12-tv-frame-right",
+        "v12-tv-frame-top",
+        "v12-tv-fine-line-0",
+        "v12-tv-fine-line-1"
+      ],
+      "bookcase": {
+        "heightMm": 2750,
+        "baseClosedHeightMm": 800,
+        "openBandMm": [
+          800,
+          2150
+        ],
+        "newClosedTopMm": [
+          2150,
+          2750
+        ],
+        "openBays": 6,
+        "displayBooks": 18
+      },
+      "dining": {
+        "pendantMm": [
+          600,
+          350,
+          240
+        ],
+        "pendantBottomMm": 1500,
+        "tableGapMm": 750,
+        "artMm": [
+          900,
+          600
+        ]
+      },
+      "paletteRule": "warm white and pale oak dominate; deep walnut limited to recesses and bases, sage/navy in small textile/art areas; milk-yellow corridor lower doors retained",
+      "placementChoicePending": false,
+      "layoutTrials": [
+        {
+          "ids": [
+            "double-desk",
+            "office-chair-1"
+          ],
+          "dx": -200,
+          "dz": 0,
+          "chairRearGapBeforeMm": 408,
+          "chairRearGapAfterMm": 608,
+          "sofaDeskGapAfterMm": 100
+        },
+        {
+          "ids": [
+            "dining-table",
+            "dining-chair-1",
+            "dining-chair-2",
+            "dining-chair-3",
+            "dining-chair-4"
+          ],
+          "dx": 0,
+          "dz": -200,
+          "doorEndGapBeforeMm": 285,
+          "doorEndGapAfterMm": 485
+        }
+      ],
+      "laundryCurtainGapMm": 10,
+      "laundryUnchangedPendingEquipmentCoordination": true,
+      "noBudgetConstraint": true,
+      "placementDecision": "owner confirmed retain every current position on 2026-11-04; 200mm trials not applied",
+      "layoutTrialsStatus": "not adopted; historical comparison only"
     }
   },
   "dimensions": [
@@ -2078,27 +2225,31 @@
       "id": "ottoman-base",
       "parent": "ottoman",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 3220.0,
       "z": 4470.0,
       "w": 810,
       "d": 610,
       "y": 80,
       "h": 210,
-      "material": "fabric-dark"
+      "material": "fabric-dark",
+      "radiusMm": 45,
+      "bevelMm": 45
     },
     {
       "id": "ottoman-cushion",
       "parent": "ottoman",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 3200.0,
       "z": 4450.0,
       "w": 850,
       "d": 650,
       "y": 290,
       "h": 140,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 45,
+      "bevelMm": 35.0
     },
     {
       "id": "ottoman-foot-2070-4120",
@@ -2322,929 +2473,6 @@
       "material": "metal"
     },
     {
-      "id": "bookcase-north-tower-body",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1176.0,
-      "w": 350,
-      "d": 800,
-      "y": 0,
-      "h": 2400,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-north-tower-top",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1176.0,
-      "w": 350,
-      "d": 800,
-      "y": 2380,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-north-tower-door-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1180.0,
-      "w": 18,
-      "d": 392.0,
-      "y": 4,
-      "h": 2372,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-north-tower-handle-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1331.0,
-      "w": 3,
-      "d": 90,
-      "y": 1488.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-north-tower-door-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1580.0,
-      "w": 18,
-      "d": 392.0,
-      "y": 4,
-      "h": 2372,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-north-tower-handle-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1731.0,
-      "w": 3,
-      "d": 90,
-      "y": 1488.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-south-tower-body",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3976.0,
-      "w": 350,
-      "d": 800,
-      "y": 0,
-      "h": 2400,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-south-tower-top",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3976.0,
-      "w": 350,
-      "d": 800,
-      "y": 2380,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-south-tower-door-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3980.0,
-      "w": 18,
-      "d": 392.0,
-      "y": 4,
-      "h": 2372,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-south-tower-handle-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 4131.0,
-      "w": 3,
-      "d": 90,
-      "y": 1488.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-south-tower-door-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 4380.0,
-      "w": 18,
-      "d": 392.0,
-      "y": 4,
-      "h": 2372,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-south-tower-handle-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 4531.0,
-      "w": 3,
-      "d": 90,
-      "y": 1488.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-lower-case-body",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 0,
-      "h": 800,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-lower-case-top",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 780,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-lower-case-door-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1980.0,
-      "w": 18,
-      "d": 492.0,
-      "y": 4,
-      "h": 772,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-lower-case-handle-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 2181.0,
-      "w": 3,
-      "d": 90,
-      "y": 496.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-lower-case-door-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 2480.0,
-      "w": 18,
-      "d": 492.0,
-      "y": 4,
-      "h": 772,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-lower-case-handle-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 2681.0,
-      "w": 3,
-      "d": 90,
-      "y": 496.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-lower-case-door-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 2980.0,
-      "w": 18,
-      "d": 492.0,
-      "y": 4,
-      "h": 772,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-lower-case-handle-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3181.0,
-      "w": 3,
-      "d": 90,
-      "y": 496.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-lower-case-door-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3480.0,
-      "w": 18,
-      "d": 492.0,
-      "y": 4,
-      "h": 772,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-lower-case-handle-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3681.0,
-      "w": 3,
-      "d": 90,
-      "y": 496.0,
-      "h": 10,
-      "material": "metal"
-    },
-    {
-      "id": "bookcase-back",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 7168.0,
-      "z": 1976.0,
-      "w": 20,
-      "d": 2000,
-      "y": 800,
-      "h": 1600,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-partition-2000",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 330,
-      "d": 18,
-      "y": 800,
-      "h": 1600,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-partition-2991",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 2967.0,
-      "w": 330,
-      "d": 18,
-      "y": 800,
-      "h": 1600,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-partition-3982",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 3958.0,
-      "w": 330,
-      "d": 18,
-      "y": 800,
-      "h": 1600,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-shelf-800",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 800,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-shelf-1200",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 1200,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-shelf-1600",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 1600,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-shelf-2000",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 2000,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-shelf-2380",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6838.0,
-      "z": 1976.0,
-      "w": 350,
-      "d": 2000,
-      "y": 2380,
-      "h": 20,
-      "material": "wood"
-    },
-    {
-      "id": "bookcase-book-0-0-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2066.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-0-0-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2191.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-0-0-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2316.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-0-0-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2441.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 240,
-      "material": "navy"
-    },
-    {
-      "id": "bookcase-book-0-0-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2566.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-0-1-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3066.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-0-1-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3191.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-0-1-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3316.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-0-1-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3441.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 240,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-0-1-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3566.0,
-      "w": 230,
-      "d": 70,
-      "y": 820,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-1-0-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2066.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-1-0-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2191.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-1-0-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2316.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-1-0-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2441.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 240,
-      "material": "navy"
-    },
-    {
-      "id": "bookcase-book-1-0-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2566.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-1-1-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3066.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-1-1-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3191.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-1-1-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3316.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-1-1-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3441.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 240,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-1-1-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3566.0,
-      "w": 230,
-      "d": 70,
-      "y": 1220,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-2-0-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2066.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-2-0-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2191.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-2-0-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2316.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-2-0-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2441.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 240,
-      "material": "navy"
-    },
-    {
-      "id": "bookcase-book-2-0-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2566.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-2-1-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3066.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-2-1-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3191.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-2-1-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3316.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-2-1-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3441.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 240,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-2-1-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3566.0,
-      "w": 230,
-      "d": 70,
-      "y": 1620,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-3-0-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2066.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-3-0-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2191.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-3-0-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2316.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-3-0-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2441.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 240,
-      "material": "navy"
-    },
-    {
-      "id": "bookcase-book-3-0-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 2566.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-3-1-0",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3066.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 240,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-3-1-1",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3191.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 275,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-3-1-2",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3316.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 310,
-      "material": "cabinet"
-    },
-    {
-      "id": "bookcase-book-3-1-3",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3441.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 240,
-      "material": "book"
-    },
-    {
-      "id": "bookcase-book-3-1-4",
-      "parent": "bookcase",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 6870.0,
-      "z": 3566.0,
-      "w": 230,
-      "d": 70,
-      "y": 2020,
-      "h": 275,
-      "material": "cabinet"
-    },
-    {
       "id": "television-body",
       "parent": "television",
       "kind": "furniture",
@@ -3274,144 +2502,166 @@
       "id": "sofa-modular-back",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4860.0,
       "z": 1400.0,
       "w": 140,
       "d": 3000,
       "y": 280,
       "h": 570,
-      "material": "fabric-dark"
+      "material": "fabric-dark",
+      "radiusMm": 35.0,
+      "bevelMm": 35.0
     },
     {
       "id": "sofa-modular-main-base",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4070.0,
       "z": 2400.0,
       "w": 910,
       "d": 1980,
       "y": 100,
       "h": 190,
-      "material": "fabric-dark"
+      "material": "fabric-dark",
+      "radiusMm": 45,
+      "bevelMm": 45
     },
     {
       "id": "sofa-modular-chaise-base",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 3120.0,
       "z": 1420.0,
       "w": 1740,
       "d": 960,
       "y": 100,
       "h": 190,
-      "material": "fabric-dark"
+      "material": "fabric-dark",
+      "radiusMm": 45,
+      "bevelMm": 45
     },
     {
       "id": "sofa-modular-chaise-cushion",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 3100.0,
       "z": 1540.0,
       "w": 1760,
       "d": 850,
       "y": 290,
       "h": 140,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 45,
+      "bevelMm": 35.0
     },
     {
       "id": "sofa-modular-chaise-back-cushion",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4750.0,
       "z": 1550.0,
       "w": 110,
       "d": 820,
       "y": 430,
       "h": 350,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 27.5,
+      "bevelMm": 27.5
     },
     {
       "id": "sofa-modular-seat-0",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4050.0,
       "z": 2410.0,
       "w": 800,
       "d": 905,
       "y": 290,
       "h": 140,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 45,
+      "bevelMm": 35.0
     },
     {
       "id": "sofa-modular-back-cushion-0",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4750.0,
       "z": 2414.0,
       "w": 110,
       "d": 897,
       "y": 430,
       "h": 350,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 27.5,
+      "bevelMm": 27.5
     },
     {
       "id": "sofa-modular-seat-1",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4050.0,
       "z": 3335.0,
       "w": 800,
       "d": 905,
       "y": 290,
       "h": 140,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 45,
+      "bevelMm": 35.0
     },
     {
       "id": "sofa-modular-back-cushion-1",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4750.0,
       "z": 3339.0,
       "w": 110,
       "d": 897,
       "y": 430,
       "h": 350,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 27.5,
+      "bevelMm": 27.5
     },
     {
       "id": "sofa-modular-north-arm",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 3100.0,
       "z": 1400.0,
       "w": 1900,
       "d": 140,
       "y": 280,
       "h": 350,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 35.0,
+      "bevelMm": 35.0
     },
     {
       "id": "sofa-modular-south-arm",
       "parent": "sofa-modular",
       "kind": "furniture",
-      "shape": "box",
+      "shape": "rounded_box",
       "x": 4050.0,
       "z": 4260.0,
       "w": 950,
       "d": 140,
       "y": 280,
       "h": 350,
-      "material": "fabric"
+      "material": "fabric",
+      "radiusMm": 35.0,
+      "bevelMm": 35.0
     },
     {
       "id": "sofa-modular-foot-2970-1370",
@@ -3530,7 +2780,7 @@
       "d": 40,
       "y": 0,
       "h": 370,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "side-table-leg-2690-4070",
@@ -3543,7 +2793,7 @@
       "d": 40,
       "y": 0,
       "h": 370,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "side-table-leg-3270-2790",
@@ -3556,7 +2806,7 @@
       "d": 40,
       "y": 0,
       "h": 370,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "side-table-leg-3270-4070",
@@ -3569,7 +2819,7 @@
       "d": 40,
       "y": 0,
       "h": 370,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "double-desk-top",
@@ -3596,7 +2846,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "double-desk-leg-5340-4310",
@@ -3609,7 +2859,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "double-desk-leg-5910-2040",
@@ -3622,7 +2872,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "double-desk-leg-5910-4310",
@@ -3635,7 +2885,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "double-desk-rail",
@@ -3648,7 +2898,7 @@
       "d": 2320,
       "y": 645,
       "h": 55,
-      "material": "metal"
+      "material": "walnut"
     },
     {
       "id": "dining-table-top",
@@ -3675,7 +2925,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "wood"
+      "material": "walnut"
     },
     {
       "id": "dining-table-leg-2332-8800",
@@ -3688,7 +2938,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "wood"
+      "material": "walnut"
     },
     {
       "id": "dining-table-leg-2982-7350",
@@ -3701,7 +2951,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "wood"
+      "material": "walnut"
     },
     {
       "id": "dining-table-leg-2982-8800",
@@ -3714,319 +2964,7 @@
       "d": 50,
       "y": 0,
       "h": 720,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-1-seat",
-      "parent": "dining-chair-1",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1832.0,
-      "z": 7550.0,
-      "w": 450,
-      "d": 450,
-      "y": 420,
-      "h": 40,
-      "material": "sage"
-    },
-    {
-      "id": "dining-chair-1-back",
-      "parent": "dining-chair-1",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1832.0,
-      "z": 7550.0,
-      "w": 55,
-      "d": 450,
-      "y": 460,
-      "h": 390,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-1-leg-1852-7570",
-      "parent": "dining-chair-1",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1852.0,
-      "z": 7570.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-1-leg-1852-7930",
-      "parent": "dining-chair-1",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1852.0,
-      "z": 7930.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-1-leg-2212-7570",
-      "parent": "dining-chair-1",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2212.0,
-      "z": 7570.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-1-leg-2212-7930",
-      "parent": "dining-chair-1",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2212.0,
-      "z": 7930.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-2-seat",
-      "parent": "dining-chair-2",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1832.0,
-      "z": 8200.0,
-      "w": 450,
-      "d": 450,
-      "y": 420,
-      "h": 40,
-      "material": "sage"
-    },
-    {
-      "id": "dining-chair-2-back",
-      "parent": "dining-chair-2",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1832.0,
-      "z": 8200.0,
-      "w": 55,
-      "d": 450,
-      "y": 460,
-      "h": 390,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-2-leg-1852-8220",
-      "parent": "dining-chair-2",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1852.0,
-      "z": 8220.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-2-leg-1852-8580",
-      "parent": "dining-chair-2",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 1852.0,
-      "z": 8580.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-2-leg-2212-8220",
-      "parent": "dining-chair-2",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2212.0,
-      "z": 8220.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-2-leg-2212-8580",
-      "parent": "dining-chair-2",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2212.0,
-      "z": 8580.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-3-seat",
-      "parent": "dining-chair-3",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2457.0,
-      "z": 6850.0,
-      "w": 450,
-      "d": 450,
-      "y": 420,
-      "h": 40,
-      "material": "fabric"
-    },
-    {
-      "id": "dining-chair-3-back",
-      "parent": "dining-chair-3",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2457.0,
-      "z": 6850.0,
-      "w": 450,
-      "d": 55,
-      "y": 460,
-      "h": 390,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-3-leg-2477-6870",
-      "parent": "dining-chair-3",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2477.0,
-      "z": 6870.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-3-leg-2477-7230",
-      "parent": "dining-chair-3",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2477.0,
-      "z": 7230.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-3-leg-2837-6870",
-      "parent": "dining-chair-3",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2837.0,
-      "z": 6870.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-3-leg-2837-7230",
-      "parent": "dining-chair-3",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2837.0,
-      "z": 7230.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-4-seat",
-      "parent": "dining-chair-4",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2457.0,
-      "z": 8900.0,
-      "w": 450,
-      "d": 450,
-      "y": 420,
-      "h": 40,
-      "material": "fabric"
-    },
-    {
-      "id": "dining-chair-4-back",
-      "parent": "dining-chair-4",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2457.0,
-      "z": 9295.0,
-      "w": 450,
-      "d": 55,
-      "y": 460,
-      "h": 390,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-4-leg-2477-8920",
-      "parent": "dining-chair-4",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2477.0,
-      "z": 8920.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-4-leg-2477-9280",
-      "parent": "dining-chair-4",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2477.0,
-      "z": 9280.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-4-leg-2837-8920",
-      "parent": "dining-chair-4",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2837.0,
-      "z": 8920.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
-    },
-    {
-      "id": "dining-chair-4-leg-2837-9280",
-      "parent": "dining-chair-4",
-      "kind": "furniture",
-      "shape": "box",
-      "x": 2837.0,
-      "z": 9280.0,
-      "w": 50,
-      "d": 50,
-      "y": 0,
-      "h": 420,
-      "material": "wood"
+      "material": "walnut"
     },
     {
       "id": "sofa-modular-pillow-green",
@@ -4040,8 +2978,8 @@
       "y": 430,
       "h": 380,
       "material": "sage",
-      "radiusMm": 60,
-      "bevelMm": 70
+      "radiusMm": 40.0,
+      "bevelMm": 40.0
     },
     {
       "id": "sofa-modular-pillow-navy",
@@ -4055,8 +2993,8 @@
       "y": 430,
       "h": 380,
       "material": "navy",
-      "radiusMm": 60,
-      "bevelMm": 70
+      "radiusMm": 40.0,
+      "bevelMm": 40.0
     },
     {
       "id": "double-desk-monitor-base-34",
@@ -8816,6 +7754,1821 @@
       "bevelMm": 1,
       "pianoKey": true,
       "keyOpen": false
+    },
+    {
+      "id": "v19-desk-cable-tray",
+      "parent": "double-desk",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 5360,
+      "z": 3100,
+      "w": 110,
+      "d": 1150,
+      "y": 665,
+      "h": 35,
+      "material": "metal",
+      "bevelMm": 2,
+      "radiusMm": 8
+    },
+    {
+      "id": "dining-chair-1-seat",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1832.0,
+      "z": 7550.0,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "sage",
+      "bevelMm": 2,
+      "radiusMm": 45
+    },
+    {
+      "id": "dining-chair-1-leg-1852-7570",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1852.0,
+      "z": 7570.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-1-leg-1852-7940",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1852.0,
+      "z": 7940.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-1-leg-2222-7570",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2222.0,
+      "z": 7570.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-1-leg-2222-7940",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2222.0,
+      "z": 7940.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-1-back-support-0",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1871.0,
+      "z": 7570.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-1-back-support-1",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1871.0,
+      "z": 7950.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-1-back",
+      "parent": "dining-chair-1",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1832.0,
+      "z": 7550.0,
+      "w": 67,
+      "d": 450,
+      "y": 680,
+      "h": 170,
+      "material": "walnut",
+      "bevelMm": 2,
+      "planProfileLocalMm": [
+        [
+          45.0,
+          0.0
+        ],
+        [
+          36.45,
+          22.5
+        ],
+        [
+          28.800000000000004,
+          45.0
+        ],
+        [
+          22.049999999999997,
+          67.5
+        ],
+        [
+          16.200000000000003,
+          90.0
+        ],
+        [
+          11.25,
+          112.5
+        ],
+        [
+          7.200000000000003,
+          135.0
+        ],
+        [
+          4.050000000000001,
+          157.5
+        ],
+        [
+          1.8000000000000007,
+          180.0
+        ],
+        [
+          0.4499999999999993,
+          202.5
+        ],
+        [
+          0.0,
+          225.0
+        ],
+        [
+          0.4499999999999993,
+          247.5
+        ],
+        [
+          1.8000000000000007,
+          270.0
+        ],
+        [
+          4.050000000000001,
+          292.5
+        ],
+        [
+          7.199999999999996,
+          315.0
+        ],
+        [
+          11.25,
+          337.5
+        ],
+        [
+          16.200000000000003,
+          360.0
+        ],
+        [
+          22.049999999999997,
+          382.5
+        ],
+        [
+          28.800000000000004,
+          405.0
+        ],
+        [
+          36.449999999999996,
+          427.5
+        ],
+        [
+          45.0,
+          450.0
+        ],
+        [
+          67.0,
+          450.0
+        ],
+        [
+          58.449999999999996,
+          427.5
+        ],
+        [
+          50.800000000000004,
+          405.0
+        ],
+        [
+          44.05,
+          382.5
+        ],
+        [
+          38.2,
+          360.0
+        ],
+        [
+          33.25,
+          337.5
+        ],
+        [
+          29.199999999999996,
+          315.0
+        ],
+        [
+          26.05,
+          292.5
+        ],
+        [
+          23.8,
+          270.0
+        ],
+        [
+          22.45,
+          247.5
+        ],
+        [
+          22.0,
+          225.0
+        ],
+        [
+          22.45,
+          202.5
+        ],
+        [
+          23.8,
+          180.0
+        ],
+        [
+          26.05,
+          157.5
+        ],
+        [
+          29.200000000000003,
+          135.0
+        ],
+        [
+          33.25,
+          112.5
+        ],
+        [
+          38.2,
+          90.0
+        ],
+        [
+          44.05,
+          67.5
+        ],
+        [
+          50.800000000000004,
+          45.0
+        ],
+        [
+          58.45,
+          22.5
+        ],
+        [
+          67.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "id": "dining-chair-2-seat",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1832.0,
+      "z": 8200.0,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "sage",
+      "bevelMm": 2,
+      "radiusMm": 45
+    },
+    {
+      "id": "dining-chair-2-leg-1852-8220",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1852.0,
+      "z": 8220.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-2-leg-1852-8590",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1852.0,
+      "z": 8590.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-2-leg-2222-8220",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2222.0,
+      "z": 8220.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-2-leg-2222-8590",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2222.0,
+      "z": 8590.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-2-back-support-0",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1871.0,
+      "z": 8220.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-2-back-support-1",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1871.0,
+      "z": 8600.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-2-back",
+      "parent": "dining-chair-2",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 1832.0,
+      "z": 8200.0,
+      "w": 67,
+      "d": 450,
+      "y": 680,
+      "h": 170,
+      "material": "walnut",
+      "bevelMm": 2,
+      "planProfileLocalMm": [
+        [
+          45.0,
+          0.0
+        ],
+        [
+          36.45,
+          22.5
+        ],
+        [
+          28.800000000000004,
+          45.0
+        ],
+        [
+          22.049999999999997,
+          67.5
+        ],
+        [
+          16.200000000000003,
+          90.0
+        ],
+        [
+          11.25,
+          112.5
+        ],
+        [
+          7.200000000000003,
+          135.0
+        ],
+        [
+          4.050000000000001,
+          157.5
+        ],
+        [
+          1.8000000000000007,
+          180.0
+        ],
+        [
+          0.4499999999999993,
+          202.5
+        ],
+        [
+          0.0,
+          225.0
+        ],
+        [
+          0.4499999999999993,
+          247.5
+        ],
+        [
+          1.8000000000000007,
+          270.0
+        ],
+        [
+          4.050000000000001,
+          292.5
+        ],
+        [
+          7.199999999999996,
+          315.0
+        ],
+        [
+          11.25,
+          337.5
+        ],
+        [
+          16.200000000000003,
+          360.0
+        ],
+        [
+          22.049999999999997,
+          382.5
+        ],
+        [
+          28.800000000000004,
+          405.0
+        ],
+        [
+          36.449999999999996,
+          427.5
+        ],
+        [
+          45.0,
+          450.0
+        ],
+        [
+          67.0,
+          450.0
+        ],
+        [
+          58.449999999999996,
+          427.5
+        ],
+        [
+          50.800000000000004,
+          405.0
+        ],
+        [
+          44.05,
+          382.5
+        ],
+        [
+          38.2,
+          360.0
+        ],
+        [
+          33.25,
+          337.5
+        ],
+        [
+          29.199999999999996,
+          315.0
+        ],
+        [
+          26.05,
+          292.5
+        ],
+        [
+          23.8,
+          270.0
+        ],
+        [
+          22.45,
+          247.5
+        ],
+        [
+          22.0,
+          225.0
+        ],
+        [
+          22.45,
+          202.5
+        ],
+        [
+          23.8,
+          180.0
+        ],
+        [
+          26.05,
+          157.5
+        ],
+        [
+          29.200000000000003,
+          135.0
+        ],
+        [
+          33.25,
+          112.5
+        ],
+        [
+          38.2,
+          90.0
+        ],
+        [
+          44.05,
+          67.5
+        ],
+        [
+          50.800000000000004,
+          45.0
+        ],
+        [
+          58.45,
+          22.5
+        ],
+        [
+          67.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "id": "dining-chair-3-seat",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2457.0,
+      "z": 6850.0,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "fabric",
+      "bevelMm": 2,
+      "radiusMm": 45
+    },
+    {
+      "id": "dining-chair-3-leg-2477-6870",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2477.0,
+      "z": 6870.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-3-leg-2477-7240",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2477.0,
+      "z": 7240.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-3-leg-2847-6870",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2847.0,
+      "z": 6870.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-3-leg-2847-7240",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2847.0,
+      "z": 7240.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-3-back-support-0",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2477.0,
+      "z": 6889.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-3-back-support-1",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2857.0,
+      "z": 6889.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-3-back",
+      "parent": "dining-chair-3",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2457.0,
+      "z": 6850.0,
+      "w": 450,
+      "d": 67,
+      "y": 680,
+      "h": 170,
+      "material": "walnut",
+      "bevelMm": 2,
+      "planProfileLocalMm": [
+        [
+          0.0,
+          45.0
+        ],
+        [
+          22.5,
+          36.45
+        ],
+        [
+          45.0,
+          28.800000000000004
+        ],
+        [
+          67.5,
+          22.049999999999997
+        ],
+        [
+          90.0,
+          16.200000000000003
+        ],
+        [
+          112.5,
+          11.25
+        ],
+        [
+          135.0,
+          7.200000000000003
+        ],
+        [
+          157.5,
+          4.050000000000001
+        ],
+        [
+          180.0,
+          1.8000000000000007
+        ],
+        [
+          202.5,
+          0.4499999999999993
+        ],
+        [
+          225.0,
+          0.0
+        ],
+        [
+          247.5,
+          0.4499999999999993
+        ],
+        [
+          270.0,
+          1.8000000000000007
+        ],
+        [
+          292.5,
+          4.050000000000001
+        ],
+        [
+          315.0,
+          7.199999999999996
+        ],
+        [
+          337.5,
+          11.25
+        ],
+        [
+          360.0,
+          16.200000000000003
+        ],
+        [
+          382.5,
+          22.049999999999997
+        ],
+        [
+          405.0,
+          28.800000000000004
+        ],
+        [
+          427.5,
+          36.449999999999996
+        ],
+        [
+          450.0,
+          45.0
+        ],
+        [
+          450.0,
+          67.0
+        ],
+        [
+          427.5,
+          58.449999999999996
+        ],
+        [
+          405.0,
+          50.800000000000004
+        ],
+        [
+          382.5,
+          44.05
+        ],
+        [
+          360.0,
+          38.2
+        ],
+        [
+          337.5,
+          33.25
+        ],
+        [
+          315.0,
+          29.199999999999996
+        ],
+        [
+          292.5,
+          26.05
+        ],
+        [
+          270.0,
+          23.8
+        ],
+        [
+          247.5,
+          22.45
+        ],
+        [
+          225.0,
+          22.0
+        ],
+        [
+          202.5,
+          22.45
+        ],
+        [
+          180.0,
+          23.8
+        ],
+        [
+          157.5,
+          26.05
+        ],
+        [
+          135.0,
+          29.200000000000003
+        ],
+        [
+          112.5,
+          33.25
+        ],
+        [
+          90.0,
+          38.2
+        ],
+        [
+          67.5,
+          44.05
+        ],
+        [
+          45.0,
+          50.800000000000004
+        ],
+        [
+          22.5,
+          58.45
+        ],
+        [
+          0.0,
+          67.0
+        ]
+      ]
+    },
+    {
+      "id": "dining-chair-4-seat",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2457.0,
+      "z": 8900.0,
+      "w": 450,
+      "d": 450,
+      "y": 420,
+      "h": 40,
+      "material": "fabric",
+      "bevelMm": 2,
+      "radiusMm": 45
+    },
+    {
+      "id": "dining-chair-4-leg-2477-8920",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2477.0,
+      "z": 8920.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-4-leg-2477-9290",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2477.0,
+      "z": 9290.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-4-leg-2847-8920",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2847.0,
+      "z": 8920.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-4-leg-2847-9290",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2847.0,
+      "z": 9290.0,
+      "w": 40,
+      "d": 40,
+      "y": 0,
+      "h": 420,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 10
+    },
+    {
+      "id": "dining-chair-4-back-support-0",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2477.0,
+      "z": 9288.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-4-back-support-1",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2857.0,
+      "z": 9288.0,
+      "w": 26,
+      "d": 26,
+      "y": 460,
+      "h": 270,
+      "material": "walnut",
+      "bevelMm": 2,
+      "radiusMm": 7
+    },
+    {
+      "id": "dining-chair-4-back",
+      "parent": "dining-chair-4",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 2457.0,
+      "z": 9283.0,
+      "w": 450,
+      "d": 67,
+      "y": 680,
+      "h": 170,
+      "material": "walnut",
+      "bevelMm": 2,
+      "planProfileLocalMm": [
+        [
+          0.0,
+          22.0
+        ],
+        [
+          22.5,
+          30.549999999999997
+        ],
+        [
+          45.0,
+          38.199999999999996
+        ],
+        [
+          67.5,
+          44.95
+        ],
+        [
+          90.0,
+          50.8
+        ],
+        [
+          112.5,
+          55.75
+        ],
+        [
+          135.0,
+          59.8
+        ],
+        [
+          157.5,
+          62.95
+        ],
+        [
+          180.0,
+          65.2
+        ],
+        [
+          202.5,
+          66.55
+        ],
+        [
+          225.0,
+          67.0
+        ],
+        [
+          247.5,
+          66.55
+        ],
+        [
+          270.0,
+          65.2
+        ],
+        [
+          292.5,
+          62.95
+        ],
+        [
+          315.0,
+          59.800000000000004
+        ],
+        [
+          337.5,
+          55.75
+        ],
+        [
+          360.0,
+          50.8
+        ],
+        [
+          382.5,
+          44.95
+        ],
+        [
+          405.0,
+          38.199999999999996
+        ],
+        [
+          427.5,
+          30.550000000000004
+        ],
+        [
+          450.0,
+          22.0
+        ],
+        [
+          450.0,
+          0.0
+        ],
+        [
+          427.5,
+          8.550000000000004
+        ],
+        [
+          405.0,
+          16.199999999999996
+        ],
+        [
+          382.5,
+          22.950000000000003
+        ],
+        [
+          360.0,
+          28.799999999999997
+        ],
+        [
+          337.5,
+          33.75
+        ],
+        [
+          315.0,
+          37.800000000000004
+        ],
+        [
+          292.5,
+          40.95
+        ],
+        [
+          270.0,
+          43.2
+        ],
+        [
+          247.5,
+          44.55
+        ],
+        [
+          225.0,
+          45.0
+        ],
+        [
+          202.5,
+          44.55
+        ],
+        [
+          180.0,
+          43.2
+        ],
+        [
+          157.5,
+          40.95
+        ],
+        [
+          135.0,
+          37.8
+        ],
+        [
+          112.5,
+          33.75
+        ],
+        [
+          90.0,
+          28.799999999999997
+        ],
+        [
+          67.5,
+          22.950000000000003
+        ],
+        [
+          45.0,
+          16.199999999999996
+        ],
+        [
+          22.5,
+          8.549999999999997
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "id": "v19-book-balcony-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6858,
+      "z": 1176,
+      "w": 330,
+      "d": 800,
+      "y": 0,
+      "h": 2750,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-balcony-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1180,
+      "w": 18,
+      "d": 392,
+      "y": 4,
+      "h": 2692,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-balcony-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1580,
+      "w": 18,
+      "d": 392,
+      "y": 4,
+      "h": 2692,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-balcony-scribe",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1176,
+      "w": 18,
+      "d": 800,
+      "y": 2700,
+      "h": 50,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-hall-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6858,
+      "z": 3976,
+      "w": 330,
+      "d": 800,
+      "y": 0,
+      "h": 2750,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-hall-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 3980,
+      "w": 18,
+      "d": 392,
+      "y": 4,
+      "h": 2692,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-hall-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 4380,
+      "w": 18,
+      "d": 392,
+      "y": 4,
+      "h": 2692,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-hall-scribe",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 3976,
+      "w": 18,
+      "d": 800,
+      "y": 2700,
+      "h": 50,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-base-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6858,
+      "z": 1976,
+      "w": 330,
+      "d": 2000,
+      "y": 0,
+      "h": 780,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-base-top",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 780,
+      "h": 20,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-base-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1980,
+      "w": 18,
+      "d": 492,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-base-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 2480,
+      "w": 18,
+      "d": 492,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-base-door-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 2980,
+      "w": 18,
+      "d": 492,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-base-door-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 3480,
+      "w": 18,
+      "d": 492,
+      "y": 4,
+      "h": 772,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-open-back",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 7168,
+      "z": 1976,
+      "w": 20,
+      "d": 2000,
+      "y": 800,
+      "h": 1350,
+      "material": "walnut",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-partition-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6850,
+      "z": 1976,
+      "w": 318,
+      "d": 18,
+      "y": 800,
+      "h": 1350,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-partition-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6850,
+      "z": 2967,
+      "w": 318,
+      "d": 18,
+      "y": 800,
+      "h": 1350,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-partition-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6850,
+      "z": 3958,
+      "w": 318,
+      "d": 18,
+      "y": 800,
+      "h": 1350,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-shelf-800",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 800,
+      "h": 20,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-shelf-1250",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 1250,
+      "h": 20,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-shelf-1700",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 1700,
+      "h": 20,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-shelf-2130",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1976,
+      "w": 350,
+      "d": 2000,
+      "y": 2130,
+      "h": 20,
+      "material": "wood",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-upper-body",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6858,
+      "z": 1976,
+      "w": 330,
+      "d": 2000,
+      "y": 2150,
+      "h": 600,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-upper-door-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1980,
+      "w": 18,
+      "d": 492,
+      "y": 2154,
+      "h": 542,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-upper-door-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 2480,
+      "w": 18,
+      "d": 492,
+      "y": 2154,
+      "h": 542,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-upper-door-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 2980,
+      "w": 18,
+      "d": 492,
+      "y": 2154,
+      "h": 542,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-upper-door-3",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 3480,
+      "w": 18,
+      "d": 492,
+      "y": 2154,
+      "h": 542,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-upper-scribe",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6838,
+      "z": 1976,
+      "w": 18,
+      "d": 2000,
+      "y": 2700,
+      "h": 50,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-0-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2076,
+      "w": 180,
+      "d": 38,
+      "y": 820,
+      "h": 235,
+      "material": "book",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-0-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2131,
+      "w": 180,
+      "d": 38,
+      "y": 820,
+      "h": 270,
+      "material": "navy",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-0-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2186,
+      "w": 180,
+      "d": 38,
+      "y": 820,
+      "h": 220,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-0-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3067,
+      "w": 180,
+      "d": 38,
+      "y": 820,
+      "h": 235,
+      "material": "book",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-0-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3122,
+      "w": 180,
+      "d": 38,
+      "y": 820,
+      "h": 270,
+      "material": "navy",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-0-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3177,
+      "w": 180,
+      "d": 38,
+      "y": 820,
+      "h": 220,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-1-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2076,
+      "w": 180,
+      "d": 38,
+      "y": 1270,
+      "h": 235,
+      "material": "book",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-1-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2131,
+      "w": 180,
+      "d": 38,
+      "y": 1270,
+      "h": 270,
+      "material": "navy",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-1-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2186,
+      "w": 180,
+      "d": 38,
+      "y": 1270,
+      "h": 220,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-1-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3067,
+      "w": 180,
+      "d": 38,
+      "y": 1270,
+      "h": 235,
+      "material": "book",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-1-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3122,
+      "w": 180,
+      "d": 38,
+      "y": 1270,
+      "h": 270,
+      "material": "navy",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-1-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3177,
+      "w": 180,
+      "d": 38,
+      "y": 1270,
+      "h": 220,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-2-0-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2076,
+      "w": 180,
+      "d": 38,
+      "y": 1720,
+      "h": 235,
+      "material": "book",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-2-0-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2131,
+      "w": 180,
+      "d": 38,
+      "y": 1720,
+      "h": 270,
+      "material": "navy",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-2-0-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 2186,
+      "w": 180,
+      "d": 38,
+      "y": 1720,
+      "h": 220,
+      "material": "cabinet",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-2-1-0",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3067,
+      "w": 180,
+      "d": 38,
+      "y": 1720,
+      "h": 235,
+      "material": "book",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-2-1-1",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3122,
+      "w": 180,
+      "d": 38,
+      "y": 1720,
+      "h": 270,
+      "material": "navy",
+      "bevelMm": 2
+    },
+    {
+      "id": "v19-book-prop-2-1-2",
+      "parent": "bookcase",
+      "kind": "furniture",
+      "shape": "rounded_box",
+      "x": 6908,
+      "z": 3177,
+      "w": 180,
+      "d": 38,
+      "y": 1720,
+      "h": 220,
+      "material": "cabinet",
+      "bevelMm": 2
     }
   ],
   "furnitureObjects": [
@@ -8937,8 +9690,8 @@
         "x": 3100.0,
         "z": 1400.0,
         "y": 0,
-        "w": 1900,
-        "d": 3000,
+        "w": 1900.0,
+        "d": 3000.0,
         "h": 850
       },
       "placement_revision_13_delta_mm": {
@@ -8966,8 +9719,8 @@
         "x": 3200.0,
         "z": 4450.0,
         "y": 0,
-        "w": 850,
-        "d": 650,
+        "w": 850.0,
+        "d": 650.0,
         "h": 430
       },
       "dimensionsMm": {
@@ -9005,8 +9758,8 @@
         "x": 2550.0,
         "z": 2850.0,
         "y": 0,
-        "w": 700,
-        "d": 1400,
+        "w": 700.0,
+        "d": 1400.0,
         "h": 400
       },
       "placement_revision_13_delta_mm": {
@@ -9040,8 +9793,8 @@
         "x": 5300.0,
         "z": 2000.0,
         "y": 0,
-        "w": 700,
-        "d": 2400,
+        "w": 700.0,
+        "d": 2400.0,
         "h": 1270
       },
       "monitorCount": 1,
@@ -9087,26 +9840,26 @@
       "z": 1176.0,
       "w": 350,
       "d": 3600,
-      "h": 2400,
-      "detail": "黄 A：3600×350×2400；两端各800高柜，中部2000，上开放书架、下封闭柜。",
+      "h": 2750,
+      "detail": "3600长×350深×2750高到顶；原800高封闭底柜保留，中央800–2150深木背板与六格浅木开放层板，2150以上新增封闭储物；两端白色高柜。无裸露顶缝，实际封板/板厚/跨度加强及容量待深化。",
       "label": true,
       "labelRotate": -90,
       "facing": "negative-x",
       "placement_source": "03_layout/widget-layout-v04-latest.json",
-      "visualHeight": 2400,
+      "visualHeight": 2750,
       "baseHeightMm": 0,
       "meshBoundsMm": {
-        "x": 6838.0,
-        "z": 1176.0,
+        "x": 6838,
+        "z": 1176,
         "y": 0,
         "w": 350,
         "d": 3600,
-        "h": 2400
+        "h": 2750
       },
       "dimensionsMm": {
         "length": 3600,
         "width": 350,
-        "height": 2400
+        "height": 2750
       }
     },
     {
@@ -9134,8 +9887,8 @@
         "x": 2282.0,
         "z": 7300.0,
         "y": 0,
-        "w": 800,
-        "d": 1600,
+        "w": 800.0,
+        "d": 1600.0,
         "h": 750
       }
     },
@@ -9149,7 +9902,7 @@
       "w": 450,
       "d": 450,
       "h": 850,
-      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "detail": "四张餐椅保留原位，450×450×850 mm；座高460，细腿、弧形短靠背；两张苔绿、两张米灰细织座面。椅背使用空间仍需解决，造型变薄不等于净空合格。",
       "label": false,
       "labelRotate": 0,
       "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
@@ -9165,8 +9918,8 @@
         "x": 1832.0,
         "z": 7550.0,
         "y": 0,
-        "w": 450,
-        "d": 450,
+        "w": 450.0,
+        "d": 450.0,
         "h": 850
       }
     },
@@ -9180,7 +9933,7 @@
       "w": 450,
       "d": 450,
       "h": 850,
-      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "detail": "四张餐椅保留原位，450×450×850 mm；座高460，细腿、弧形短靠背；两张苔绿、两张米灰细织座面。椅背使用空间仍需解决，造型变薄不等于净空合格。",
       "label": false,
       "labelRotate": 0,
       "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
@@ -9196,8 +9949,8 @@
         "x": 1832.0,
         "z": 8200.0,
         "y": 0,
-        "w": 450,
-        "d": 450,
+        "w": 450.0,
+        "d": 450.0,
         "h": 850
       }
     },
@@ -9211,7 +9964,7 @@
       "w": 450,
       "d": 450,
       "h": 850,
-      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "detail": "四张餐椅保留原位，450×450×850 mm；座高460，细腿、弧形短靠背；两张苔绿、两张米灰细织座面。椅背使用空间仍需解决，造型变薄不等于净空合格。",
       "label": false,
       "labelRotate": 0,
       "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
@@ -9227,8 +9980,8 @@
         "x": 2457.0,
         "z": 6850.0,
         "y": 0,
-        "w": 450,
-        "d": 450,
+        "w": 450.0,
+        "d": 450.0,
         "h": 850
       }
     },
@@ -9242,7 +9995,7 @@
       "w": 450,
       "d": 450,
       "h": 850,
-      "detail": "四人餐桌的活动餐椅，座高420 mm；不设靠墙侧座位。",
+      "detail": "四张餐椅保留原位，450×450×850 mm；座高460，细腿、弧形短靠背；两张苔绿、两张米灰细织座面。椅背使用空间仍需解决，造型变薄不等于净空合格。",
       "label": false,
       "labelRotate": 0,
       "placement_source": "user furniture revision v06; previous manual positions retained unless affected by resized assembly",
@@ -9258,8 +10011,8 @@
         "x": 2457.0,
         "z": 8900.0,
         "y": 0,
-        "w": 450,
-        "d": 450,
+        "w": 450.0,
+        "d": 450.0,
         "h": 850
       }
     },
@@ -9951,20 +10704,50 @@
         1
       ],
       "roughness": 0.8
+    },
+    "paper": {
+      "color": [
+        0.8549926081242338,
+        0.83879901174074,
+        0.768151147247507,
+        1
+      ],
+      "roughness": 0.85,
+      "conceptSRGB": "#EEECE3"
+    },
+    "art-sage": {
+      "color": [
+        0.3662525955988395,
+        0.4232676699860717,
+        0.35153259950043936,
+        1
+      ],
+      "roughness": 0.85,
+      "conceptSRGB": "#A3AEA0"
+    },
+    "art-navy": {
+      "color": [
+        0.09305896284668745,
+        0.14995978981060856,
+        0.21586050011389926,
+        1
+      ],
+      "roughness": 0.85,
+      "conceptSRGB": "#566C80"
     }
   },
-  "project_revision": "v18-entry-piano",
+  "project_revision": "v19-public-refinement",
   "provenance": {
-    "baseline": "02_geometry/presentation-layout-v16.json",
-    "layout": "v16 latest furniture preserved except the two entry storage assemblies; one integrated bench group added",
+    "baseline": "02_geometry/geometry-master-v18.json",
+    "layout": "all 28 latest absolute positions retained; source styles and fixed detailing changed",
     "geometry_units": "mm",
     "blender_units": "m",
     "blender_axis_mapping": "(plan x, -plan z, height) -> (Blender X, Blender Y, Blender Z); mm / 1000",
     "geographic_orientation": "user diagram: up south, down north, left east, right west; not a surveyed bearing",
     "imported_at": "2026-10-30T10:38:40.317267+00:00",
     "dimension_status": "unverified sketch reconstruction; not a closed measured CAD",
-    "baseline_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
-    "revision": 18,
+    "baseline_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+    "revision": 19,
     "sources": [
       {
         "path": "00_sources/v07-placement-annotation.png",
@@ -10204,7 +10987,8 @@
     12,
     13,
     14,
-    16
+    16,
+    18
   ],
   "placementBaselinesByRevision": {
     "4": {
@@ -11222,9 +12006,123 @@
         "x": 9323,
         "z": 5350
       }
+    },
+    "18": {
+      "tv-low": {
+        "x": 0.0,
+        "z": 1800.0
+      },
+      "tv-high": {
+        "x": 0.0,
+        "z": 5000.0
+      },
+      "television": {
+        "x": 30.0,
+        "z": 2450.0
+      },
+      "sofa-modular": {
+        "x": 3100,
+        "z": 1400
+      },
+      "ottoman": {
+        "x": 3200,
+        "z": 4450
+      },
+      "side-table": {
+        "x": 2550,
+        "z": 2850
+      },
+      "double-desk": {
+        "x": 5300.0,
+        "z": 2000.0
+      },
+      "office-chair-1": {
+        "x": 5900.0,
+        "z": 2335.0
+      },
+      "bookcase": {
+        "x": 6838.0,
+        "z": 1176.0
+      },
+      "dining-table": {
+        "x": 2282.0,
+        "z": 7300.0
+      },
+      "dining-chair-1": {
+        "x": 1832.0,
+        "z": 7550.0
+      },
+      "dining-chair-2": {
+        "x": 1832.0,
+        "z": 8200.0
+      },
+      "dining-chair-3": {
+        "x": 2457.0,
+        "z": 6850.0
+      },
+      "dining-chair-4": {
+        "x": 2457.0,
+        "z": 8900.0
+      },
+      "entry-shoe-cabinet": {
+        "x": 0,
+        "z": 10818
+      },
+      "plant-balcony-tall": {
+        "x": 150.0,
+        "z": 120.0
+      },
+      "plant-tv-medium": {
+        "x": 100.0,
+        "z": 1030.0
+      },
+      "plant-balcony-low": {
+        "x": 1100.0,
+        "z": 200.0
+      },
+      "washer": {
+        "x": 6488.0,
+        "z": 170.0
+      },
+      "dryer": {
+        "x": 6488.0,
+        "z": 170.0
+      },
+      "balcony-tea-table": {
+        "x": 3300,
+        "z": 270
+      },
+      "balcony-tea-chair-1": {
+        "x": 2580,
+        "z": 320
+      },
+      "balcony-tea-chair-2": {
+        "x": 4160,
+        "z": 320
+      },
+      "master-bed": {
+        "x": 8645,
+        "z": 1826
+      },
+      "master-wardrobe": {
+        "x": 7328,
+        "z": 1272
+      },
+      "master-vanity": {
+        "x": 10345,
+        "z": 4196
+      },
+      "master-toilet": {
+        "x": 9323,
+        "z": 5350
+      },
+      "entry-piano-bench": {
+        "x": 0,
+        "z": 8500
+      }
     }
   },
-  "style": "modern-japanese-v18-entry",
+  "style": "modern-japanese-v19",
   "windowParts": [
     {
       "id": "balcony-outer-left",
@@ -12193,34 +13091,6 @@
       "material": "shadow",
       "collidable": false,
       "assembly": "public-detail-v10"
-    },
-    {
-      "id": "v10-living-cove-lip",
-      "kind": "finish",
-      "shape": "box",
-      "x": 6970,
-      "z": 1550,
-      "w": 150,
-      "d": 2850,
-      "y": 2600,
-      "h": 100,
-      "material": "wall-finish",
-      "collidable": false,
-      "assembly": "public-detail-v10"
-    },
-    {
-      "id": "v10-hall-cove-lip",
-      "kind": "finish",
-      "shape": "box",
-      "x": 3500,
-      "z": 5200,
-      "w": 5300,
-      "d": 150,
-      "y": 2600,
-      "h": 100,
-      "material": "wall-finish",
-      "collidable": false,
-      "assembly": "public-detail-v10"
     }
   ],
   "referenceParts": [
@@ -12237,87 +13107,6 @@
       "material": "mirror",
       "collidable": true,
       "radiusMm": 8
-    },
-    {
-      "id": "v12-tv-background",
-      "kind": "reference-finish",
-      "shape": "rounded_box",
-      "x": 4,
-      "z": 1800,
-      "w": 16,
-      "d": 3200,
-      "y": 500,
-      "h": 1870,
-      "material": "wall-finish",
-      "collidable": false
-    },
-    {
-      "id": "v12-tv-frame-left",
-      "kind": "reference-finish",
-      "shape": "rounded_box",
-      "x": 4,
-      "z": 1800,
-      "w": 46,
-      "d": 40,
-      "y": 480,
-      "h": 1890,
-      "material": "wood",
-      "collidable": false,
-      "radiusMm": 12
-    },
-    {
-      "id": "v12-tv-frame-right",
-      "kind": "reference-finish",
-      "shape": "rounded_box",
-      "x": 4,
-      "z": 4960,
-      "w": 46,
-      "d": 40,
-      "y": 480,
-      "h": 1890,
-      "material": "wood",
-      "collidable": false,
-      "radiusMm": 12
-    },
-    {
-      "id": "v12-tv-frame-top",
-      "kind": "reference-finish",
-      "shape": "rounded_box",
-      "x": 4,
-      "z": 1800,
-      "w": 46,
-      "d": 3200,
-      "y": 2370,
-      "h": 60,
-      "material": "wood",
-      "collidable": false,
-      "radiusMm": 12
-    },
-    {
-      "id": "v12-tv-fine-line-0",
-      "kind": "reference-finish",
-      "shape": "rounded_box",
-      "x": 21,
-      "z": 4800,
-      "w": 4,
-      "d": 3,
-      "y": 600,
-      "h": 1600,
-      "material": "metal",
-      "collidable": false
-    },
-    {
-      "id": "v12-tv-fine-line-1",
-      "kind": "reference-finish",
-      "shape": "rounded_box",
-      "x": 21,
-      "z": 4860,
-      "w": 4,
-      "d": 3,
-      "y": 600,
-      "h": 1600,
-      "material": "metal",
-      "collidable": false
     },
     {
       "id": "v12-curtain-pelmet",
@@ -12371,6 +13160,98 @@
       "y": 2700,
       "h": 18,
       "material": "wall-finish",
+      "collidable": false
+    },
+    {
+      "id": "v19-dining-pendant-shade",
+      "kind": "reference-finish",
+      "shape": "ellipsoid",
+      "x": 2507,
+      "z": 7800,
+      "w": 350,
+      "d": 600,
+      "y": 1500,
+      "h": 240,
+      "material": "paper",
+      "collidable": false
+    },
+    {
+      "id": "v19-dining-pendant-cord",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 2680,
+      "z": 8098,
+      "w": 4,
+      "d": 4,
+      "y": 1740,
+      "h": 1000,
+      "material": "metal",
+      "collidable": false
+    },
+    {
+      "id": "v19-dining-pendant-canopy",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 2632,
+      "z": 8050,
+      "w": 100,
+      "d": 100,
+      "y": 2735,
+      "h": 15,
+      "material": "wall-finish",
+      "collidable": false,
+      "radiusMm": 30
+    },
+    {
+      "id": "v19-dining-art-frame",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 3058,
+      "z": 7650,
+      "w": 24,
+      "d": 900,
+      "y": 1200,
+      "h": 600,
+      "material": "walnut",
+      "collidable": false
+    },
+    {
+      "id": "v19-dining-art-ground",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 3055,
+      "z": 7662,
+      "w": 3,
+      "d": 876,
+      "y": 1212,
+      "h": 576,
+      "material": "paper",
+      "collidable": false
+    },
+    {
+      "id": "v19-dining-art-sage",
+      "kind": "reference-finish",
+      "shape": "ellipsoid",
+      "x": 3053,
+      "z": 7740,
+      "w": 2,
+      "d": 330,
+      "y": 1280,
+      "h": 350,
+      "material": "art-sage",
+      "collidable": false
+    },
+    {
+      "id": "v19-dining-art-navy",
+      "kind": "reference-finish",
+      "shape": "ellipsoid",
+      "x": 3052,
+      "z": 8100,
+      "w": 2,
+      "d": 250,
+      "y": 1330,
+      "h": 220,
+      "material": "art-navy",
       "collidable": false
     }
   ],
@@ -13851,5 +14732,118 @@
   ],
   "base_architecture_revision": 14,
   "base_geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
-  "presentation_snapshot_only": false
+  "presentation_snapshot_only": false,
+  "retiredReferencePartsV19": [
+    {
+      "id": "v12-tv-background",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 4,
+      "z": 1800,
+      "w": 16,
+      "d": 3200,
+      "y": 500,
+      "h": 1870,
+      "material": "wall-finish",
+      "collidable": false
+    },
+    {
+      "id": "v12-tv-frame-left",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 4,
+      "z": 1800,
+      "w": 46,
+      "d": 40,
+      "y": 480,
+      "h": 1890,
+      "material": "wood",
+      "collidable": false,
+      "radiusMm": 12
+    },
+    {
+      "id": "v12-tv-frame-right",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 4,
+      "z": 4960,
+      "w": 46,
+      "d": 40,
+      "y": 480,
+      "h": 1890,
+      "material": "wood",
+      "collidable": false,
+      "radiusMm": 12
+    },
+    {
+      "id": "v12-tv-frame-top",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 4,
+      "z": 1800,
+      "w": 46,
+      "d": 3200,
+      "y": 2370,
+      "h": 60,
+      "material": "wood",
+      "collidable": false,
+      "radiusMm": 12
+    },
+    {
+      "id": "v12-tv-fine-line-0",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 21,
+      "z": 4800,
+      "w": 4,
+      "d": 3,
+      "y": 600,
+      "h": 1600,
+      "material": "metal",
+      "collidable": false
+    },
+    {
+      "id": "v12-tv-fine-line-1",
+      "kind": "reference-finish",
+      "shape": "rounded_box",
+      "x": 21,
+      "z": 4860,
+      "w": 4,
+      "d": 3,
+      "y": 600,
+      "h": 1600,
+      "material": "metal",
+      "collidable": false
+    }
+  ],
+  "retiredDetailPartsV19": [
+    {
+      "id": "v10-living-cove-lip",
+      "kind": "finish",
+      "shape": "box",
+      "x": 6970,
+      "z": 1550,
+      "w": 150,
+      "d": 2850,
+      "y": 2600,
+      "h": 100,
+      "material": "wall-finish",
+      "collidable": false,
+      "assembly": "public-detail-v10"
+    },
+    {
+      "id": "v10-hall-cove-lip",
+      "kind": "finish",
+      "shape": "box",
+      "x": 3500,
+      "z": 5200,
+      "w": 5300,
+      "d": 150,
+      "y": 2600,
+      "h": 100,
+      "material": "wall-finish",
+      "collidable": false,
+      "assembly": "public-detail-v10"
+    }
+  ]
 }

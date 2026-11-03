@@ -1,0 +1,19 @@
+{
+  "revision": 19,
+  "before_active_model_sha256": "c7bfcb12dc2fb6879a6ba48dcc882b488f4ecdf51ed854f1c77f9257ca2fc359",
+  "active_model_sha256": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+  "before_finish_skin_bounds_mm": [
+    2731.800079345703,
+    2749.799966812134
+  ],
+  "final_finish_skin_bounds_mm": [
+    2749.799966812134,
+    2767.7998542785645
+  ],
+  "repair": "18 mm visual skin moved to the void side of the existing nominal2750mm finish; all furniture positions, walls, glass and cameras unchanged",
+  "ai_concept_anchors": "07_renders/v19-deepening",
+  "ai_anchor_ceiling_difference_mm": 18,
+  "ai_anchor_exact_source_model": "06_blender/home-v19-render-source.blend",
+  "final_native_renders": "07_renders/v19-final-native",
+  "finished_height_is_still_provisional": true
+}

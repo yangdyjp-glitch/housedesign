@@ -1,0 +1,87 @@
+{
+  "model_sha256": "5d4e86d0ea666b62f1611a930ea3bb9c0748c87dacaaa27a75790e2c53ffd261",
+  "geometry_sha256": "fd23112e78d27f344aae9d27f92e0a44d8421807efa0d8039b223035bc28d6fa",
+  "images": [
+    {
+      "id": "entry-left",
+      "path": "07_renders/v19-deepening/entry-left-native.png",
+      "sha256": "81e4e27465d002bba1ea255cbf29ad847acf60d6b03a8cc35ee6282a93c245ce",
+      "resolution": [
+        1200,
+        1800
+      ],
+      "mode": 0,
+      "seconds": 11.8
+    },
+    {
+      "id": "entry-right",
+      "path": "07_renders/v19-deepening/entry-right-native.png",
+      "sha256": "b31896a01009c0a5fc006cbf15db85b0eab975293b6d35466281aa1ea3f6f2f9",
+      "resolution": [
+        1200,
+        1800
+      ],
+      "mode": 0,
+      "seconds": 11.3
+    },
+    {
+      "id": "living",
+      "path": "07_renders/v19-deepening/living-native.png",
+      "sha256": "b394223762d7d4bc3fbef8cd73f6099ebdb2ad9bca2d1891ddac7e4321d1f59f",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 0,
+      "seconds": 14.3
+    },
+    {
+      "id": "dining",
+      "path": "07_renders/v19-deepening/dining-native.png",
+      "sha256": "1f145b9fa55a498da5afd1fd4ef35c6d3e4a2130b80f88a897469e077ff47e26",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 0,
+      "seconds": 15.4
+    },
+    {
+      "id": "balcony",
+      "path": "07_renders/v19-deepening/balcony-native.png",
+      "sha256": "fc17a8b2eb1b251c7189571e33cf4346c47bf50d57b92798d40c1c4146f1a559",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 0,
+      "seconds": 19.4
+    },
+    {
+      "id": "living-night",
+      "path": "07_renders/v19-deepening/living-night-native.png",
+      "sha256": "bbc703ae408982b91aed532c61ddfe8aec443e26f7994eee03ca084b9947521e",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 1,
+      "seconds": 28.0
+    },
+    {
+      "id": "dining-night",
+      "path": "07_renders/v19-deepening/dining-night-native.png",
+      "sha256": "9844add778ff0e629db4491fadb5420ffafed3a378d1751b2c3487db0c5f0926",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 2,
+      "seconds": 32.2
+    }
+  ],
+  "render_source_model": "06_blender/home-v19-render-source.blend",
+  "compatible_active_model_sha256": "c7bfcb12dc2fb6879a6ba48dcc882b488f4ecdf51ed854f1c77f9257ca2fc359",
+  "visual_fingerprint": "6d8e65a8bb6580ad1b092f8fe4314427da4a4eb3692ceace2387d0c887888c92",
+  "metadata_confirmation": "logs/v19-metadata-confirmation.json"
+}

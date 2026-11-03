@@ -1,0 +1,29 @@
+{
+  "revision": 19,
+  "date": "2026-11-04",
+  "model_sha256": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+  "geometry_sha256": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+  "style_sha256": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+  "furniture_count": 28,
+  "all_positions_retained": true,
+  "native_reopen_and_envelopes": true,
+  "changed_native_and_widget_moves_verified": 10,
+  "vr_tests": 16,
+  "perspectives": 7,
+  "spheres": 4,
+  "sphere_native_size": [
+    1774,
+    887
+  ],
+  "imagegen_mode": "built-in image_gen",
+  "imagegen_originals": "logs/v19-imagegen-outputs.json",
+  "gallery": "09_delivery/v19-deepening/index.html",
+  "tour": "09_delivery/vr-tour-v05/打开360全景漫游.html",
+  "package": "09_delivery/v19-四区深化与全景.zip",
+  "package_bytes": 24231007,
+  "package_sha256": "44196e8c346e687ef8f3a67f5fadac911fa1813f8a093554c158d345c034e06b",
+  "main_model_not_embedded_in_viewing_zip": true,
+  "ac_schematic_only": true,
+  "headset_tested": false,
+  "master_bath_v17_alignment_still_pending": true
+}

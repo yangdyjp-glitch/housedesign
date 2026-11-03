@@ -1963,4 +1963,31 @@ Connected to client: ('127.0.0.1', 11702)
 Client handler started
 Client disconnected
 Client handler stopped
-Connected to client: ('127.0.0.1', 11705)
+Connected to client: ('127.0.0.1', 11705)BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}
+BlenderMCP addon registered
+BlenderMCP addon unregistered
+BlenderMCP addon registered
+HOMEDESIGN_BRIDGE_STARTUP {"background": false, "port": 9876, "telemetry": false}

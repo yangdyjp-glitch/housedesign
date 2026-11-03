@@ -1,15 +1,15 @@
 {
-  "presentation_revision": 18,
-  "geometry_revision": 18,
+  "presentation_revision": 19,
+  "geometry_revision": 19,
   "base_architecture_revision": 14,
-  "model": "06_blender/home-main-v18.blend",
-  "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
-  "geometry": "02_geometry/geometry-master-v18.json",
-  "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
-  "style": "05_style/modern-japanese-v18.json",
-  "style_sha256": "24647782994ae53de73f05b94513152f97159df5ea7a804eee79fa03b2f301ff",
-  "tour": "09_delivery/vr-tour-v04/打开360全景漫游.html",
-  "method": "Same verified native v18 main model + built-in imagegen photographic concept treatment",
+  "model": "06_blender/home-main-v19.blend",
+  "model_sha256": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+  "geometry": "02_geometry/geometry-master-v19.json",
+  "geometry_sha256": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+  "style": "05_style/modern-japanese-v19.json",
+  "style_sha256": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+  "tour": "09_delivery/vr-tour-v05/打开360全景漫游.html",
+  "method": "Verified v19 geometry; native anchors plus built-in imagegen photographic concepts. Late preference metadata confirmation preserved all render-visible data.",
   "resolution": [
     1774,
     887
@@ -21,52 +21,164 @@
   ],
   "view_count": 4,
   "projection": "monoscopic equirectangular 360x180",
-  "placement_snapshot": "03_layout/widget-layout-v18-initial.json",
+  "placement_snapshot": "03_layout/widget-layout-v19-initial.json",
   "source_layout_furniture_count": 28,
+  "all_latest_positions_retained": true,
   "native_anchors_match_latest_placements": true,
   "ai_image_details_are_conceptual": true,
   "exterior_is_illustrative": true,
   "main_editable_model_preserved": true,
   "previous_native_8k_tour": "09_delivery/vr-tour-v02/打开360全景漫游.html",
-  "perspective_gallery": "09_delivery/v18-entry/index.html",
-  "entry": {
-    "status": "applied-concept",
-    "direction": "Enter from plan left at x0,z10150, heading +x; right is +z/north/image-bottom, left is -z/south/image-top",
-    "right": {
-      "id": "entry-shoe-cabinet",
-      "wall": "left-step-return-end",
-      "widthMm": 1271,
-      "depthMm": 350,
+  "perspective_gallery": "09_delivery/v19-deepening/index.html",
+  "render_source_model": "06_blender/home-v19-render-source.blend",
+  "render_source_model_sha256": "5d4e86d0ea666b62f1611a930ea3bb9c0748c87dacaaa27a75790e2c53ffd261",
+  "metadata_confirmation": "logs/v19-metadata-confirmation.json",
+  "deepening": {
+    "status": "design development concept",
+    "userConfirmed": {
+      "atmosphere": "natural modern Japanese with deep timber, green and blue accents",
+      "ceiling": "full-home suspended-ceiling intent; public areas detailed this phase",
+      "centralAirConditioning": true,
+      "childSpecificDesign": false,
+      "tvWall": "as clean as possible",
+      "livingLighting": "no central main luminaire",
+      "concealedLightLocations": [
+        "curtain",
+        "cabinet"
+      ],
+      "diningLighting": "independent diffuse pendant"
+    },
+    "ceiling": {
+      "finishedPlaneMm": 2750,
+      "status": "provisional visual plane inherited, not measured structure or confirmed AC clearance",
+      "modelSkinThicknessMm": 18,
+      "constructionVoidMm": null,
+      "structureHeightMm": null,
+      "beamBottomMm": null,
+      "acUnitModel": null,
+      "acUnitPosition": null,
+      "acSupplyReturnFinalized": false,
+      "intent": "coordinate equipment, return, supply and accessible service panels before final ceiling shop drawings",
+      "publicModelScope": "common matte ceiling plane; other private finishes unchanged",
+      "acCoordination": {
+        "status": "schematic candidate zones, not equipment or duct sizing",
+        "serviceBandPlanMm": [
+          3500,
+          5100,
+          4500,
+          800
+        ],
+        "supplyCandidatePlanMm": [
+          1000,
+          4810,
+          1900,
+          90
+        ],
+        "returnCandidatePlanMm": [
+          3900,
+          5800,
+          1800,
+          90
+        ],
+        "visualIntent": "straight narrow white face at corridor/living transition; keep the main ceiling quiet and access outside tall cabinets",
+        "requires": [
+          "structure/beam survey",
+          "equipment selection and capacity",
+          "static pressure and duct routing",
+          "condensate route and slope",
+          "manufacturer service access",
+          "supply/return separation and seated draft check"
+        ],
+        "diningBranch": "separate branch/zone subject to load and equipment coordination; no invented vent dimensions",
+        "source": "designer candidate layout, not HVAC engineering approval"
+      }
+    },
+    "changedFurniture": [
+      "side-table",
+      "dining-table",
+      "double-desk",
+      "sofa-modular",
+      "ottoman",
+      "bookcase",
+      "dining-chair-1",
+      "dining-chair-2",
+      "dining-chair-3",
+      "dining-chair-4"
+    ],
+    "allLatestPlacementsPreserved": true,
+    "cleanTVWallRemovedIds": [
+      "v12-tv-background",
+      "v12-tv-frame-left",
+      "v12-tv-frame-right",
+      "v12-tv-frame-top",
+      "v12-tv-fine-line-0",
+      "v12-tv-fine-line-1"
+    ],
+    "bookcase": {
       "heightMm": 2750,
-      "bottomGapMm": 160,
-      "keyNicheHeightMm": [
-        1200,
-        1400
+      "baseClosedHeightMm": 800,
+      "openBandMm": [
+        800,
+        2150
+      ],
+      "newClosedTopMm": [
+        2150,
+        2750
+      ],
+      "openBays": 6,
+      "displayBooks": 18
+    },
+    "dining": {
+      "pendantMm": [
+        600,
+        350,
+        240
+      ],
+      "pendantBottomMm": 1500,
+      "tableGapMm": 750,
+      "artMm": [
+        900,
+        600
       ]
     },
-    "left": {
-      "id": "entry-piano-bench",
-      "integratedCabinetEndZ": [
-        8500,
-        9500
-      ],
-      "lengthMm": 1000,
-      "depthMm": 400,
-      "seatHeightMm": 450,
-      "totalHeightMm": 2750,
-      "pianoKeyRows": 3,
-      "pianoKeyColumns": 20,
-      "keysOpenForIllustration": 4,
-      "keysBeyondBenchProjection": false
-    },
-    "entryOpeningPlanZ": [
-      9535,
-      10765
+    "paletteRule": "warm white and pale oak dominate; deep walnut limited to recesses and bases, sage/navy in small textile/art areas; milk-yellow corridor lower doors retained",
+    "placementChoicePending": false,
+    "layoutTrials": [
+      {
+        "ids": [
+          "double-desk",
+          "office-chair-1"
+        ],
+        "dx": -200,
+        "dz": 0,
+        "chairRearGapBeforeMm": 408,
+        "chairRearGapAfterMm": 608,
+        "sofaDeskGapAfterMm": 100
+      },
+      {
+        "ids": [
+          "dining-table",
+          "dining-chair-1",
+          "dining-chair-2",
+          "dining-chair-3",
+          "dining-chair-4"
+        ],
+        "dx": 0,
+        "dz": -200,
+        "doorEndGapBeforeMm": 285,
+        "doorEndGapAfterMm": 485
+      }
     ],
-    "cabinetEndGapToOpeningMm": 35,
-    "openingAndSwingVerified": false,
-    "no_new_floor_footprint": true,
-    "reference": "https://www.peruse.be/piano",
-    "referenceUse": "foldable timber-key principle only; no exact product selection or copied dimensions"
-  }
+    "laundryCurtainGapMm": 10,
+    "laundryUnchangedPendingEquipmentCoordination": true,
+    "noBudgetConstraint": true,
+    "placementDecision": "owner confirmed retain every current position on 2026-11-04; 200mm trials not applied",
+    "layoutTrialsStatus": "not adopted; historical comparison only"
+  },
+  "final_native_verification": [
+    "logs/v19-final-perspectives.json",
+    "logs/v19-final-panorama-anchors.json"
+  ],
+  "ceiling_skin_repair": "logs/v19-ceiling-repair.json",
+  "ai_anchor_known_difference": "Concept source ceiling skin was18mm below finish; final editable model corrected above finish and re-rendered natively. Furniture positions, walls, windows and cameras unchanged."
 }

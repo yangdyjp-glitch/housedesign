@@ -1,0 +1,94 @@
+{
+  "model_sha256": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+  "geometry_sha256": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+  "images": [
+    {
+      "id": "entry-left",
+      "path": "07_renders/v19-final-native/entry-left-native.png",
+      "sha256": "4e988a75067db0ff6881e6e8dd43dae446af097660a6b8cc9d7394c84fe4b65e",
+      "resolution": [
+        1200,
+        1800
+      ],
+      "mode": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "entry-right",
+      "path": "07_renders/v19-final-native/entry-right-native.png",
+      "sha256": "0cde440f080a708b841787e86fc9f20d5efc2265c92e77ff8c305f4ddcd84c23",
+      "resolution": [
+        1200,
+        1800
+      ],
+      "mode": 0,
+      "seconds": 7.8
+    },
+    {
+      "id": "living",
+      "path": "07_renders/v19-final-native/living-native.png",
+      "sha256": "895e53f2c809d9bede68aebe371b62aca3eb61fd68e6b937b77d3ac7cd7377f7",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 0,
+      "seconds": 9.7
+    },
+    {
+      "id": "dining",
+      "path": "07_renders/v19-final-native/dining-native.png",
+      "sha256": "b3d2b171f0649c2c4b812c44df54df5b141141f29bf4bf520349801325228ebf",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 0,
+      "seconds": 10.2
+    },
+    {
+      "id": "balcony",
+      "path": "07_renders/v19-final-native/balcony-native.png",
+      "sha256": "2ad7096eb8c03730dd4d3e211def7eb14c8a5adf25d911e7678dbdba6b97038b",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 0,
+      "seconds": 8.4
+    },
+    {
+      "id": "living-night",
+      "path": "07_renders/v19-final-native/living-night-native.png",
+      "sha256": "892734bbf358344187dad789ddf55f65e235f044afa402f2705f3d16bc9a2b8a",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 1,
+      "seconds": 9.4
+    },
+    {
+      "id": "dining-night",
+      "path": "07_renders/v19-final-native/dining-night-native.png",
+      "sha256": "c91ed4b80c65025495abb8ea057458d61e470b5d13698a84ba5be1fb4e956c76",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 2,
+      "seconds": 10.6
+    },
+    {
+      "id": "living-clean",
+      "path": "07_renders/v19-final-native/living-clean-native.png",
+      "sha256": "1477dd63ab0bb4649e065f39d46cde7b026abd5ed238d82722ef5ac2add2a20c",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "mode": 3,
+      "seconds": 9.7
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "photos": {
+    "entry-left": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-91d42eb4-f022-4c54-afee-24777ae43cad.png",
+    "entry-right": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-50094a66-dbfb-4f28-b3c0-06c45b9e9723.png",
+    "living": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a965bc93-5957-4535-bdc4-4592f8162ada.png",
+    "dining": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-e66d4858-d73a-4b18-be7e-f578bbea291d.png",
+    "balcony": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a203a8fc-d109-4361-a510-8998c887ebf8.png",
+    "living-night": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-9a3d3435-bd47-4227-90ee-d41ee3d64aad.png",
+    "dining-night": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-76c9e4d5-bc46-45ef-9cc6-8791a588aec6.png"
+  },
+  "panoramas": {
+    "living": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-292f5e12-0c1d-432f-9ba6-e0cf361884e6.png",
+    "dining": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-7c8cad0c-2a45-4c1b-adb1-67d48f4fe3d6.png",
+    "balcony": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-23630cd7-da8f-47fe-828b-00029e7eb260.png",
+    "entry": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-a00a09b0-aa04-4fb7-ae24-b76c32e49f8b.png"
+  },
+  "rejected": [
+    {
+      "id": "balcony-first",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-cf8e6b4c-37da-44f9-b33a-23278e78725b.png",
+      "reason": "Failed to preserve the source balcony close-up camera; replaced with one targeted regeneration."
+    },
+    {
+      "id": "living-sphere-first",
+      "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-3290e52c-9984-4855-9aa9-c1b5cbfc7a30.png",
+      "reason": "Removed spurious timber hook/slat board at TV-side meridian; preserve native plain TV wall."
+    }
+  ]
+}
