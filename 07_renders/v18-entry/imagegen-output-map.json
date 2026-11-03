@@ -1,0 +1,16 @@
+{
+  "mode": "built-in image_gen",
+  "photos": {
+    "entry-left": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-ad6eb5ca-0ab0-4ef8-aa55-46b00f1c9bdf.png",
+    "entry-right": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-b0ff0943-28e1-4052-bccd-7b8d1e0ff92a.png",
+    "living": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-d2501dca-81ad-44a7-b239-9bc9aa919675.png",
+    "dining": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-e0f9cc93-c51f-4ad5-b555-c71ba76ff242.png",
+    "balcony": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-d1cf7ccd-8b4b-4e85-b3cf-7584a979b9a1.png"
+  },
+  "panoramas": {
+    "living": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-be4fd796-f917-402c-91c2-9fdc6f235b55.png",
+    "dining": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-d5001231-ca57-484b-bbbe-1c635823e4a6.png",
+    "balcony": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-78dad5b8-1609-4d25-a537-29a50922268d.png",
+    "entry": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-709e87ba-d2ea-4dc3-b99e-f170388d5d7b.png"
+  }
+}

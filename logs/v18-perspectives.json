@@ -1,0 +1,56 @@
+{
+  "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
+  "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+  "images": [
+    {
+      "id": "entry-left",
+      "path": "07_renders/v18-entry/entry-left-native.png",
+      "sha256": "42e6814e529dd0ca75f4d38f124572f12bf977b58dd0e9dbb7e1fc6f97d47683",
+      "resolution": [
+        1200,
+        1800
+      ],
+      "seconds": 11.9
+    },
+    {
+      "id": "entry-right",
+      "path": "07_renders/v18-entry/entry-right-native.png",
+      "sha256": "4e54603fc19624cf45b7d7cc463ea0af7989d3d6479332a425e695fcb94b945a",
+      "resolution": [
+        1200,
+        1800
+      ],
+      "seconds": 12.0
+    },
+    {
+      "id": "living",
+      "path": "07_renders/v18-entry/living-native.png",
+      "sha256": "0a765388953bcf8f545c2d3cb4dd7633409114e01cbe83e52553af7625e0014f",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "seconds": 17.4
+    },
+    {
+      "id": "dining",
+      "path": "07_renders/v18-entry/dining-native.png",
+      "sha256": "14ce924913a491f1c15a9e77d40b30eed0d8098d072db46709d847f51ba18cef",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "seconds": 17.8
+    },
+    {
+      "id": "balcony",
+      "path": "07_renders/v18-entry/balcony-native.png",
+      "sha256": "a4512558ad39c936c3c9c05cb8f59fe4308f8f45f92248fce0a735fba493ef94",
+      "resolution": [
+        2100,
+        1400
+      ],
+      "seconds": 12.7
+    }
+  ]
+}

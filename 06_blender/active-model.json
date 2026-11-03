@@ -1,13 +1,13 @@
 {
-  "revision": 14,
-  "filename": "home-main-v14.blend",
-  "geometry": "02_geometry/geometry-master-v14.json",
-  "geometry_sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa",
-  "style": "05_style/modern-japanese-v10.json",
-  "style_sha256": "9a294029c6f75c14c9ea66cd960c87c42a2fb2204659004c3d835b1ce9a18089",
-  "style_revision": "modern-japanese-v10",
-  "previous_active_filename": "home-main-v13.blend",
-  "furniture_count": 27,
+  "revision": 18,
+  "filename": "home-main-v18.blend",
+  "geometry": "02_geometry/geometry-master-v18.json",
+  "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+  "style": "05_style/modern-japanese-v18.json",
+  "style_sha256": "24647782994ae53de73f05b94513152f97159df5ea7a804eee79fa03b2f301ff",
+  "style_revision": "modern-japanese-v18-entry",
+  "previous_active_filename": "home-main-v14.blend",
+  "furniture_count": 28,
   "live_session_verified": true,
   "cabinet_selection": "C, lower navy replaced with milk yellow",
   "cabinet_top_gap_mm": 0,
@@ -69,8 +69,8 @@
   "budget_considered": false,
   "master_bath_study_only": false,
   "private_room_boundaries_changed": true,
-  "model_sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752",
-  "panorama_tour": "09_delivery/vr-tour-v03/打开360全景漫游.html",
+  "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
+  "panorama_tour": "09_delivery/vr-tour-v04/打开360全景漫游.html",
   "panorama_nodes": 4,
   "panorama_resolution": [
     1774,
@@ -145,23 +145,23 @@
     "publicFurnitureUnchanged": 23,
     "budgetConsidered": false
   },
-  "panorama_model_revision": 16,
+  "panorama_model_revision": 18,
   "panorama_stale_for_current_master_suite": false,
-  "current_perspective_renders": "09_delivery/vr-tour-v03-预览",
-  "interactive_model": "09_delivery/house-v14-preview.html",
-  "panorama_presentation_revision": 16,
+  "current_perspective_renders": "09_delivery/v18-entry/index.html",
+  "interactive_model": "09_delivery/house-v18-preview.html",
+  "panorama_presentation_revision": 18,
   "photoreal_presentation": {
-    "presentation_revision": 16,
-    "geometry_revision": 16,
+    "presentation_revision": 18,
+    "geometry_revision": 18,
     "base_architecture_revision": 14,
-    "model": "06_blender/home-v16-reference-anchor.blend",
-    "model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
-    "geometry": "02_geometry/presentation-layout-v16.json",
-    "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
-    "style": "05_style/photographic-reference-v16.json",
-    "style_sha256": "0dfa4a5e3cbfb15ba7cd700cd8e1fded77e4a94ab361e8a205d7504936ccd564",
-    "tour": "09_delivery/vr-tour-v03/打开360全景漫游.html",
-    "method": "Native verified geometry anchors + built-in imagegen photographic light and realism treatment",
+    "model": "06_blender/home-main-v18.blend",
+    "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
+    "geometry": "02_geometry/geometry-master-v18.json",
+    "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+    "style": "05_style/modern-japanese-v18.json",
+    "style_sha256": "24647782994ae53de73f05b94513152f97159df5ea7a804eee79fa03b2f301ff",
+    "tour": "09_delivery/vr-tour-v04/打开360全景漫游.html",
+    "method": "Same verified native v18 main model + built-in imagegen photographic concept treatment",
     "resolution": [
       1774,
       887
@@ -173,15 +173,105 @@
     ],
     "view_count": 4,
     "projection": "monoscopic equirectangular 360x180",
-    "placement_snapshot": "03_layout/widget-layout-v16-snapshot.json",
-    "source_layout_furniture_count": 27,
+    "placement_snapshot": "03_layout/widget-layout-v18-initial.json",
+    "source_layout_furniture_count": 28,
     "native_anchors_match_latest_placements": true,
     "ai_image_details_are_conceptual": true,
     "exterior_is_illustrative": true,
     "main_editable_model_preserved": true,
-    "previous_native_8k_tour": "09_delivery/vr-tour-v02/打开360全景漫游.html"
+    "previous_native_8k_tour": "09_delivery/vr-tour-v02/打开360全景漫游.html",
+    "perspective_gallery": "09_delivery/v18-entry/index.html",
+    "entry": {
+      "status": "applied-concept",
+      "direction": "Enter from plan left at x0,z10150, heading +x; right is +z/north/image-bottom, left is -z/south/image-top",
+      "right": {
+        "id": "entry-shoe-cabinet",
+        "wall": "left-step-return-end",
+        "widthMm": 1271,
+        "depthMm": 350,
+        "heightMm": 2750,
+        "bottomGapMm": 160,
+        "keyNicheHeightMm": [
+          1200,
+          1400
+        ]
+      },
+      "left": {
+        "id": "entry-piano-bench",
+        "integratedCabinetEndZ": [
+          8500,
+          9500
+        ],
+        "lengthMm": 1000,
+        "depthMm": 400,
+        "seatHeightMm": 450,
+        "totalHeightMm": 2750,
+        "pianoKeyRows": 3,
+        "pianoKeyColumns": 20,
+        "keysOpenForIllustration": 4,
+        "keysBeyondBenchProjection": false
+      },
+      "entryOpeningPlanZ": [
+        9535,
+        10765
+      ],
+      "cabinetEndGapToOpeningMm": 35,
+      "openingAndSwingVerified": false,
+      "no_new_floor_footprint": true,
+      "reference": "https://www.peruse.be/piano",
+      "referenceUse": "foldable timber-key principle only; no exact product selection or copied dimensions"
+    }
   },
-  "panorama_master_suite_note": "v14 suite retained in the native anchor; latest public furniture positions supplied by the interactive snapshot, four public views only",
-  "latest_layout_snapshot": "03_layout/widget-layout-v16-snapshot.json",
-  "latest_presentation_geometry": "02_geometry/presentation-layout-v16.json"
+  "panorama_master_suite_note": "v14 suite boundaries retained; v17 front-wall alignment still awaits a workable door decision. Public four points use the current v18 entry and placements.",
+  "latest_layout_snapshot": "03_layout/widget-layout-v18-initial.json",
+  "latest_presentation_geometry": "02_geometry/geometry-master-v18.json",
+  "entry": {
+    "status": "applied-concept",
+    "direction": "Enter from plan left at x0,z10150, heading +x; right is +z/north/image-bottom, left is -z/south/image-top",
+    "right": {
+      "id": "entry-shoe-cabinet",
+      "wall": "left-step-return-end",
+      "widthMm": 1271,
+      "depthMm": 350,
+      "heightMm": 2750,
+      "bottomGapMm": 160,
+      "keyNicheHeightMm": [
+        1200,
+        1400
+      ]
+    },
+    "left": {
+      "id": "entry-piano-bench",
+      "integratedCabinetEndZ": [
+        8500,
+        9500
+      ],
+      "lengthMm": 1000,
+      "depthMm": 400,
+      "seatHeightMm": 450,
+      "totalHeightMm": 2750,
+      "pianoKeyRows": 3,
+      "pianoKeyColumns": 20,
+      "keysOpenForIllustration": 4,
+      "keysBeyondBenchProjection": false
+    },
+    "entryOpeningPlanZ": [
+      9535,
+      10765
+    ],
+    "cabinetEndGapToOpeningMm": 35,
+    "openingAndSwingVerified": false,
+    "no_new_floor_footprint": true,
+    "reference": "https://www.peruse.be/piano",
+    "referenceUse": "foldable timber-key principle only; no exact product selection or copied dimensions"
+  },
+  "wall_alignment_v17": {
+    "request": "主卫朝走廊墙面以书柜墙为基准收回200mm",
+    "status": "pending door arrangement; no owner choice received",
+    "options": [
+      "diagonal doorway, full swing still requires verification",
+      "keep straight door, adjust bed/head partition"
+    ],
+    "currentMainWallsRemainV14": true
+  }
 }

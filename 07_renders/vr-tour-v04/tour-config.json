@@ -1,0 +1,88 @@
+{
+  "title": "右鞋柜 · 左钢琴键换鞋区 · 四区360°",
+  "revision": 18,
+  "geometry": "02_geometry/geometry-master-v18.json",
+  "model": "06_blender/home-main-v18.blend",
+  "modelSha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
+  "defaultScene": "living",
+  "northPlanDirection": "down",
+  "panoramas": [
+    {
+      "id": "living",
+      "label": "客厅",
+      "image": "07_renders/vr-tour-v04/living-day.jpg",
+      "positionPlanMm": [
+        1800,
+        4500
+      ],
+      "eyeHeightMm": 1600,
+      "initialYawDeg": -50,
+      "initialPitchDeg": -10,
+      "initialFovDeg": 70,
+      "headingAtImageCenterDeg": 0
+    },
+    {
+      "id": "dining",
+      "label": "餐厅",
+      "image": "07_renders/vr-tour-v04/dining-day.jpg",
+      "positionPlanMm": [
+        1100,
+        8000
+      ],
+      "eyeHeightMm": 1600,
+      "initialYawDeg": 3.6214847041173397,
+      "initialPitchDeg": -19.157541221291375,
+      "initialFovDeg": 60,
+      "headingAtImageCenterDeg": 0
+    },
+    {
+      "id": "balcony",
+      "label": "阳台",
+      "image": "07_renders/vr-tour-v04/balcony-day.jpg",
+      "positionPlanMm": [
+        2050,
+        850
+      ],
+      "eyeHeightMm": 1600,
+      "initialYawDeg": -8.180229882497523,
+      "initialPitchDeg": -26.33139202949461,
+      "initialFovDeg": 60,
+      "headingAtImageCenterDeg": 0
+    },
+    {
+      "id": "entry",
+      "label": "门厅",
+      "image": "07_renders/vr-tour-v04/entry-day.jpg",
+      "positionPlanMm": [
+        635,
+        10100
+      ],
+      "eyeHeightMm": 1600,
+      "initialYawDeg": -90,
+      "initialPitchDeg": -12,
+      "initialFovDeg": 95,
+      "headingAtImageCenterDeg": 0
+    }
+  ],
+  "renderSource": "Verified v18 native4096x2048 full spherical anchors + built-in imagegen photographic concept treatment; no upscaling",
+  "scope": "Four fixed standing viewpoints; mono 360x180, not stereoscopic or free walking",
+  "presentationRevision": 18,
+  "exterior": "Illustrative distant treetops and skyline, not actual site photographs",
+  "materialSources": "08_assets/photoreal-v15/asset-manifest.json",
+  "baseArchitectureRevision": 14,
+  "minimumPanoramaWidth": 1536,
+  "reference": "00_sources/photographic-style-reference-v16.png",
+  "imagegenPrompts": "07_renders/vr-tour-v04/imagegen-prompts.json",
+  "nativeImageResolution": [
+    1774,
+    887
+  ],
+  "geometricPrecision": "Editable v18 model is authoritative for exact geometry; AI details, sunlight and exterior are conceptual",
+  "entryRevision": 18,
+  "nativeImageResolutions": [
+    [
+      1774,
+      887
+    ]
+  ]
+}

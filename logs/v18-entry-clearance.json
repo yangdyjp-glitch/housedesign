@@ -1,0 +1,12 @@
+{
+  "revision": 18,
+  "changed_assemblies": [
+    "entry-piano-bench",
+    "entry-shoe-cabinet",
+    "tv-high"
+  ],
+  "actual_part_boxes_vs_other_furniture_source_walls_glass_and_closed_kitchen_door_intersections": [],
+  "entry_door_swing_not_known": true,
+  "cabinet_end_to_provisional_opening_mm": 35,
+  "construction_accuracy_not_claimed": true
+}

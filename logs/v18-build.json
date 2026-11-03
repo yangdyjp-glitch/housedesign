@@ -1,0 +1,14 @@
+{
+  "revision": 18,
+  "source_live_model_sha256": "5d51ed74a3a3cfbed89b8eb59b184911884b783dc1b320402e2c1ddd2caafe22",
+  "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
+  "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+  "style_sha256": "24647782994ae53de73f05b94513152f97159df5ea7a804eee79fa03b2f301ff",
+  "furniture_count": 28,
+  "right": "entry-shoe-cabinet",
+  "left": "entry-piano-bench",
+  "piano_keys": 60,
+  "shown_open": 4,
+  "entry_door_not_relocated": true,
+  "wall_alignment_pending": true
+}

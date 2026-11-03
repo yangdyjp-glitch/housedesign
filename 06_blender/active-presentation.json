@@ -1,15 +1,15 @@
 {
-  "presentation_revision": 16,
-  "geometry_revision": 16,
+  "presentation_revision": 18,
+  "geometry_revision": 18,
   "base_architecture_revision": 14,
-  "model": "06_blender/home-v16-reference-anchor.blend",
-  "model_sha256": "68d87f60ab59d06585d2bb20c7e4fad7aac554adc339986da82b2deaf83d4ee4",
-  "geometry": "02_geometry/presentation-layout-v16.json",
-  "geometry_sha256": "bbddcc18d8100e6439409f04f230c8a3f63c404bc4689caab4acf22ef88e4b0e",
-  "style": "05_style/photographic-reference-v16.json",
-  "style_sha256": "0dfa4a5e3cbfb15ba7cd700cd8e1fded77e4a94ab361e8a205d7504936ccd564",
-  "tour": "09_delivery/vr-tour-v03/打开360全景漫游.html",
-  "method": "Native verified geometry anchors + built-in imagegen photographic light and realism treatment",
+  "model": "06_blender/home-main-v18.blend",
+  "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
+  "geometry": "02_geometry/geometry-master-v18.json",
+  "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+  "style": "05_style/modern-japanese-v18.json",
+  "style_sha256": "24647782994ae53de73f05b94513152f97159df5ea7a804eee79fa03b2f301ff",
+  "tour": "09_delivery/vr-tour-v04/打开360全景漫游.html",
+  "method": "Same verified native v18 main model + built-in imagegen photographic concept treatment",
   "resolution": [
     1774,
     887
@@ -21,11 +21,52 @@
   ],
   "view_count": 4,
   "projection": "monoscopic equirectangular 360x180",
-  "placement_snapshot": "03_layout/widget-layout-v16-snapshot.json",
-  "source_layout_furniture_count": 27,
+  "placement_snapshot": "03_layout/widget-layout-v18-initial.json",
+  "source_layout_furniture_count": 28,
   "native_anchors_match_latest_placements": true,
   "ai_image_details_are_conceptual": true,
   "exterior_is_illustrative": true,
   "main_editable_model_preserved": true,
-  "previous_native_8k_tour": "09_delivery/vr-tour-v02/打开360全景漫游.html"
+  "previous_native_8k_tour": "09_delivery/vr-tour-v02/打开360全景漫游.html",
+  "perspective_gallery": "09_delivery/v18-entry/index.html",
+  "entry": {
+    "status": "applied-concept",
+    "direction": "Enter from plan left at x0,z10150, heading +x; right is +z/north/image-bottom, left is -z/south/image-top",
+    "right": {
+      "id": "entry-shoe-cabinet",
+      "wall": "left-step-return-end",
+      "widthMm": 1271,
+      "depthMm": 350,
+      "heightMm": 2750,
+      "bottomGapMm": 160,
+      "keyNicheHeightMm": [
+        1200,
+        1400
+      ]
+    },
+    "left": {
+      "id": "entry-piano-bench",
+      "integratedCabinetEndZ": [
+        8500,
+        9500
+      ],
+      "lengthMm": 1000,
+      "depthMm": 400,
+      "seatHeightMm": 450,
+      "totalHeightMm": 2750,
+      "pianoKeyRows": 3,
+      "pianoKeyColumns": 20,
+      "keysOpenForIllustration": 4,
+      "keysBeyondBenchProjection": false
+    },
+    "entryOpeningPlanZ": [
+      9535,
+      10765
+    ],
+    "cabinetEndGapToOpeningMm": 35,
+    "openingAndSwingVerified": false,
+    "no_new_floor_footprint": true,
+    "reference": "https://www.peruse.be/piano",
+    "referenceUse": "foldable timber-key principle only; no exact product selection or copied dimensions"
+  }
 }

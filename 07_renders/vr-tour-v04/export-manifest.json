@@ -1,0 +1,50 @@
+[
+  {
+    "id": "living",
+    "source": "07_renders/vr-tour-v04/living-ai-final.png",
+    "source_sha256": "e7b80afdeeb17c83192ca86106dd4bb53ac6827b78ced2f09ea5e47088fb7f45",
+    "image": "07_renders/vr-tour-v04/living-day.jpg",
+    "sha256": "3c5147f942dfb83cb51aefa09dd8157066fde7c05498952db1df14297cda308f",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  },
+  {
+    "id": "dining",
+    "source": "07_renders/vr-tour-v04/dining-ai-final.png",
+    "source_sha256": "7229da34a1508d441c06c77e127ab37dfb3ecab5bef728e2f8773d809fbddee8",
+    "image": "07_renders/vr-tour-v04/dining-day.jpg",
+    "sha256": "45a667a3b5df79c3c323da1db04b0d3761d6f155aa6b87ba166e4d886fa6cb61",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  },
+  {
+    "id": "balcony",
+    "source": "07_renders/vr-tour-v04/balcony-ai-final.png",
+    "source_sha256": "1402d0b4205d51532c809c8e2eaa9df2b080e075db12e2cbc6c06f5c92f7849b",
+    "image": "07_renders/vr-tour-v04/balcony-day.jpg",
+    "sha256": "374ded2110c95fc78bf6c9e5f7f7a792a7fd5884450378a4f7042e70d05dfa14",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  },
+  {
+    "id": "entry",
+    "source": "07_renders/vr-tour-v04/entry-ai-final.png",
+    "source_sha256": "653d2df1711c2811c6c9d17ce0d8993a33d18c37bee7309c8898b1297a92b71a",
+    "image": "07_renders/vr-tour-v04/entry-day.jpg",
+    "sha256": "a4823883da1292db9a6ccf761ed8b3965dde11e6ee56405f2f10e4d2793c5c5b",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false
+  }
+]

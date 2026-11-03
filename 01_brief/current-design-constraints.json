@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-10-31",
+  "updated_date": "2026-11-04",
   "timezone": "Asia/Shanghai",
   "source": "direct homeowner instruction in current conversation",
   "instruction": "之后的所有内容不考虑预算，只考虑设计",
@@ -38,7 +38,7 @@
       "客厅",
       "阳台"
     ],
-    "version": 16,
+    "version": 18,
     "projection": "monoscopic equirectangular 360x180",
     "nodes": 4,
     "resolution": [
@@ -46,15 +46,15 @@
       887
     ],
     "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim",
-    "current_master_revision": 14,
-    "status": "Selected-reference photographic light and realism preview, native AI resolution honestly retained",
-    "presentation_revision": 16,
+    "current_master_revision": 18,
+    "status": "Current v18 right-shoe/left-piano-bench model, photographic four-point concept preview; original native dimensions retained",
+    "presentation_revision": 18,
     "photorealistic": true,
     "exterior_is_illustrative": true,
     "base_architecture_revision": 14,
     "upscaled": false,
     "ai_assisted": true,
-    "latest_placement_snapshot": "03_layout/widget-layout-v16-snapshot.json"
+    "latest_placement_snapshot": "03_layout/widget-layout-v18-initial.json"
   },
   "master_suite": {
     "applied_model_revision": 14,
@@ -125,5 +125,54 @@
       "publicFurnitureUnchanged": 23,
       "budgetConsidered": false
     }
+  },
+  "entry_v18": {
+    "status": "applied-concept",
+    "direction": "Enter from plan left at x0,z10150, heading +x; right is +z/north/image-bottom, left is -z/south/image-top",
+    "right": {
+      "id": "entry-shoe-cabinet",
+      "wall": "left-step-return-end",
+      "widthMm": 1271,
+      "depthMm": 350,
+      "heightMm": 2750,
+      "bottomGapMm": 160,
+      "keyNicheHeightMm": [
+        1200,
+        1400
+      ]
+    },
+    "left": {
+      "id": "entry-piano-bench",
+      "integratedCabinetEndZ": [
+        8500,
+        9500
+      ],
+      "lengthMm": 1000,
+      "depthMm": 400,
+      "seatHeightMm": 450,
+      "totalHeightMm": 2750,
+      "pianoKeyRows": 3,
+      "pianoKeyColumns": 20,
+      "keysOpenForIllustration": 4,
+      "keysBeyondBenchProjection": false
+    },
+    "entryOpeningPlanZ": [
+      9535,
+      10765
+    ],
+    "cabinetEndGapToOpeningMm": 35,
+    "openingAndSwingVerified": false,
+    "no_new_floor_footprint": true,
+    "reference": "https://www.peruse.be/piano",
+    "referenceUse": "foldable timber-key principle only; no exact product selection or copied dimensions"
+  },
+  "wall_alignment_v17": {
+    "request": "主卫朝走廊墙面以书柜墙为基准收回200mm",
+    "status": "pending door arrangement; no owner choice received",
+    "options": [
+      "diagonal doorway, full swing still requires verification",
+      "keep straight door, adjust bed/head partition"
+    ],
+    "currentMainWallsRemainV14": true
   }
 }

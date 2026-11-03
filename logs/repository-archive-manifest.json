@@ -1,25 +1,25 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-04",
   "repository": "https://github.com/yangdyjp-glitch/housedesign",
   "repository_visibility_at_upload": "public",
-  "active_model_revision": 14,
+  "active_model_revision": 18,
   "scope": "All current project sources, references, historical models, renders, panoramas, deliveries, scripts and design/review records selected by .gitignore",
-  "new_advice_status": "Public-area refinement advice remains unselected; master-suite concept applied in v14, site feasibility unverified",
+  "new_advice_status": "v18 right-shoe/left-piano-bench entry applied; v14 suite retained, v17 wall alignment awaiting door decision; remaining public refinement advice unselected",
   "excluded": [
     "Local tools/runtime software and Python environments",
     "Downloaded third-party software installers",
     "Interpreter/browser/tool caches and machine credentials"
   ],
   "manifest_self_excluded_from_entries": true,
-  "files": 1059,
-  "bytes": 1140637472,
+  "files": 1186,
+  "bytes": 1316540426,
   "largest": {
     "path": "09_delivery/四区写实360全景-v15.zip",
     "bytes": 37332297,
     "sha256": "e1402c251d16098293deabf87e93dc69b1f72905fb70f01e2f3facf3d80e1ab0"
   },
   "exact_bytes_preserved": true,
-  "current_model_sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752",
+  "current_model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc",
   "interactive_source_matches_durable": true,
   "archives": [
     {
@@ -65,6 +65,11 @@
     {
       "path": "09_delivery/v13-餐厅门厅客厅阳台360全景漫游.zip",
       "entries": 41,
+      "credential_filenames": []
+    },
+    {
+      "path": "09_delivery/v18-门厅与四区全景.zip",
+      "entries": 23,
       "credential_filenames": []
     },
     {
@@ -210,19 +215,24 @@
       "sha256": "80c4e614e0bf363c014470d9c70b88c259c59dc3ad36e99ba562f25317fa60a9"
     },
     {
+      "path": "00_sources/wall-alignment-markup-v17.png",
+      "bytes": 5938,
+      "sha256": "8052e892e295e51a4a07126ca821b9c8a8e73dd8049d5c3eae39c2e68a712e4b"
+    },
+    {
       "path": "01_brief/assumptions.md",
-      "bytes": 11025,
-      "sha256": "4d59fcd0ac37825ccf2aa3fb6980fbc553d1c3db68791c6c4587102649b1559b"
+      "bytes": 11377,
+      "sha256": "b73d9ff3d7ee220f4b062f73ee18f5b50f94839b846214837d63e82adcffac69"
     },
     {
       "path": "01_brief/current-design-constraints.json",
-      "bytes": 5005,
-      "sha256": "0738155e5a51ef97eed638e5d9a5915e766fbd3b3ed2e165956a6bcc8fb6c7ae"
+      "bytes": 6543,
+      "sha256": "5b19749cea78f8a98a7a45e99ea7da4b805ad1926fbac9944b83afef4d81dd6d"
     },
     {
       "path": "01_brief/decisions.md",
-      "bytes": 16450,
-      "sha256": "0c9ab58a6d7d67297a659615b3aefcb484053017b297bfa052ee6f62a31a9585"
+      "bytes": 16748,
+      "sha256": "8975c660a8635f2d19258227563fd987b253a5e848f8b30770f9b5c534a5d294"
     },
     {
       "path": "01_brief/detail-interview-v10.json",
@@ -236,8 +246,8 @@
     },
     {
       "path": "01_brief/project-brief.md",
-      "bytes": 7215,
-      "sha256": "b7a8da783255047d38814545ee9087e28d8de6055ec221af466d28b86deaa219"
+      "bytes": 7747,
+      "sha256": "645bcee9e3f828a5017c0a76a7b8e87676ac8e012b2090ab669c9d24cb6f2e87"
     },
     {
       "path": "02_geometry/existing-plan/house-plan.dxf",
@@ -310,9 +320,14 @@
       "sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa"
     },
     {
+      "path": "02_geometry/geometry-master-v18.json",
+      "bytes": 312534,
+      "sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b"
+    },
+    {
       "path": "02_geometry/geometry-master.json",
-      "bytes": 286464,
-      "sha256": "3d1c17ed7b848aef651df8dd809acc62906aaa6b8dcb429b7815f40dd7121eaa"
+      "bytes": 312534,
+      "sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b"
     },
     {
       "path": "02_geometry/presentation-layout-v16.json",
@@ -368,6 +383,11 @@
       "path": "03_layout/blender-layout-v14.json",
       "bytes": 5200,
       "sha256": "d34fd5335e158f472a410b382f2ab6f32a0c3bd66fa6e3cc5260a48e5b41a88c"
+    },
+    {
+      "path": "03_layout/blender-layout-v18.json",
+      "bytes": 2508,
+      "sha256": "f9736dad27beab805593152bd2f802127ccac43550389c9edf31048020b1c211"
     },
     {
       "path": "03_layout/widget-layout-v04-latest.json",
@@ -435,6 +455,11 @@
       "sha256": "9e88312f21c053ba7fed5cda6e6afbb63a640a985b15274a345c85152018028e"
     },
     {
+      "path": "03_layout/widget-layout-v18-initial.json",
+      "bytes": 3339,
+      "sha256": "eea8df441dbb02422b5bd5d401f49f508e4427b51d94181de1971eb7f23b49f5"
+    },
+    {
       "path": "04_reviews/v07审美与实用性.md",
       "bytes": 3035,
       "sha256": "977768f3cfb0ed25383bad46a072a196fa384247ebb0ddd9988af66617404917"
@@ -483,6 +508,16 @@
       "path": "04_reviews/v16摄影感与实用性复核.md",
       "bytes": 3042,
       "sha256": "f5500551f12f0104f919c7f81529564ce59b4a213e8b93ced871b8741ada1654"
+    },
+    {
+      "path": "04_reviews/v18实用性.md",
+      "bytes": 2599,
+      "sha256": "442b2384772deffb65356bbadcfe84f216b5cddf7b93ba1b86db291265a777d8"
+    },
+    {
+      "path": "04_reviews/v18审美.md",
+      "bytes": 2611,
+      "sha256": "be4f52e3255b051246fe8b57c689054724b2eb58bec5e66540eb5787cfe357b8"
     },
     {
       "path": "04_reviews/四区美观与实用性深化建议-待选.md",
@@ -575,6 +610,11 @@
       "sha256": "9a294029c6f75c14c9ea66cd960c87c42a2fb2204659004c3d835b1ce9a18089"
     },
     {
+      "path": "05_style/modern-japanese-v18.json",
+      "bytes": 18932,
+      "sha256": "24647782994ae53de73f05b94513152f97159df5ea7a804eee79fa03b2f301ff"
+    },
+    {
       "path": "05_style/photographic-reference-v16.json",
       "bytes": 1971,
       "sha256": "0dfa4a5e3cbfb15ba7cd700cd8e1fded77e4a94ab361e8a205d7504936ccd564"
@@ -586,13 +626,13 @@
     },
     {
       "path": "06_blender/active-model.json",
-      "bytes": 6671,
-      "sha256": "aa9b32832478ebb82535ce437044705aa334bc5d4c5c535c62b32a5d888bce74"
+      "bytes": 9463,
+      "sha256": "396f59e2e07a84c5e1b5b4933ae1f835c88900c4994418649a7b90cb18d8c257"
     },
     {
       "path": "06_blender/active-presentation.json",
-      "bytes": 1284,
-      "sha256": "71be20e421543de7c2711d5e578fa9d57159c6b7c279cafe1fa591a83784b29a"
+      "bytes": 2462,
+      "sha256": "12c6e4027c87bddc9887c17664831396df9a2478e5bb031d3cfb12c3e5991517"
     },
     {
       "path": "06_blender/baseline-v04-house-structure.glb",
@@ -623,6 +663,11 @@
       "path": "06_blender/cabinet-option-c-navy-walnut.blend",
       "bytes": 6132989,
       "sha256": "2a65cd709462366afa95b516c13a086da3f05a1ebfcf09b3779be65cd69ed424"
+    },
+    {
+      "path": "06_blender/home-live-before-v18-20261103.blend",
+      "bytes": 13613067,
+      "sha256": "5d51ed74a3a3cfbed89b8eb59b184911884b783dc1b320402e2c1ddd2caafe22"
     },
     {
       "path": "06_blender/home-main-v05.blend",
@@ -676,8 +721,18 @@
     },
     {
       "path": "06_blender/home-main-v14.blend",
+      "bytes": 13608603,
+      "sha256": "bab337ecb9c5f89e5a72c7bc0ee9447adc4990949d2f9c54d3251869651b6dce"
+    },
+    {
+      "path": "06_blender/home-main-v14.blend1",
       "bytes": 13581579,
       "sha256": "91ae96c65fe10ec24f9c97927eaae63cc3781261fe8f8be8d9b1daac1c787752"
+    },
+    {
+      "path": "06_blender/home-main-v18.blend",
+      "bytes": 17597350,
+      "sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc"
     },
     {
       "path": "06_blender/home-v06-japanese-v02.blend",
@@ -1260,6 +1315,86 @@
       "sha256": "07e4e84231c7f57c08237aba8db3ca587e5a26120145a8a10163c4eb3ec319bb"
     },
     {
+      "path": "07_renders/v18-entry/balcony-anchor.png",
+      "bytes": 8434992,
+      "sha256": "1a144ca6ee874bb178a237c00a0aca85a674bb7dbc55762dc804c0107ba30c30"
+    },
+    {
+      "path": "07_renders/v18-entry/balcony-native.png",
+      "bytes": 3423857,
+      "sha256": "a4512558ad39c936c3c9c05cb8f59fe4308f8f45f92248fce0a735fba493ef94"
+    },
+    {
+      "path": "07_renders/v18-entry/balcony-realistic.png",
+      "bytes": 2548434,
+      "sha256": "1ed4acf0cc8a71ec951abe0ef1f070b7ed012438d4bd918ced80ac838c65a144"
+    },
+    {
+      "path": "07_renders/v18-entry/dining-anchor.png",
+      "bytes": 7680294,
+      "sha256": "d89ece6e0069378a57140514dd2c39896e5d6ad9e235e9d758c018d6493387ab"
+    },
+    {
+      "path": "07_renders/v18-entry/dining-native.png",
+      "bytes": 2800349,
+      "sha256": "14ce924913a491f1c15a9e77d40b30eed0d8098d072db46709d847f51ba18cef"
+    },
+    {
+      "path": "07_renders/v18-entry/dining-realistic.png",
+      "bytes": 2019121,
+      "sha256": "2f64efeb96f28200e25960f36df174c29b9b4b920f44b86df89cd6acef59c6fe"
+    },
+    {
+      "path": "07_renders/v18-entry/entry-anchor.png",
+      "bytes": 8029572,
+      "sha256": "cafcf6e5b62b5decf463c4a1c331224fb67f9e79b199fa376312a71910951637"
+    },
+    {
+      "path": "07_renders/v18-entry/entry-left-native.png",
+      "bytes": 2073233,
+      "sha256": "42e6814e529dd0ca75f4d38f124572f12bf977b58dd0e9dbb7e1fc6f97d47683"
+    },
+    {
+      "path": "07_renders/v18-entry/entry-left-realistic.png",
+      "bytes": 2112763,
+      "sha256": "643b3ba96ec95326d220762d9b75b9b530741a17b59b321b8ed92baa0fba335c"
+    },
+    {
+      "path": "07_renders/v18-entry/entry-right-native.png",
+      "bytes": 1922093,
+      "sha256": "4e54603fc19624cf45b7d7cc463ea0af7989d3d6479332a425e695fcb94b945a"
+    },
+    {
+      "path": "07_renders/v18-entry/entry-right-realistic.png",
+      "bytes": 1767205,
+      "sha256": "b7ccfd257707794d4bd1121b0dd43653eb994bb5f3afab80aff9506907111b9e"
+    },
+    {
+      "path": "07_renders/v18-entry/imagegen-output-map.json",
+      "bytes": 1461,
+      "sha256": "19619a3fd07ddd4a18824a48077fdc867e053181c0a76edea0bb9e4435ca0182"
+    },
+    {
+      "path": "07_renders/v18-entry/imagegen-prompts.json",
+      "bytes": 16777,
+      "sha256": "690c8aa021e230eb27c3f90ed5666284b2f2e58cd148ed813a3c178cf5759e27"
+    },
+    {
+      "path": "07_renders/v18-entry/living-anchor.png",
+      "bytes": 7891459,
+      "sha256": "5e91611300c09c738311ef578bc3bfc72ed8d231c37319520447315ae7f9f72f"
+    },
+    {
+      "path": "07_renders/v18-entry/living-native.png",
+      "bytes": 2997182,
+      "sha256": "0a765388953bcf8f545c2d3cb4dd7633409114e01cbe83e52553af7625e0014f"
+    },
+    {
+      "path": "07_renders/v18-entry/living-realistic.png",
+      "bytes": 2195721,
+      "sha256": "a3326f8eeaea05633d574264aa38320f80b1de8e892c8ff9be3d614cd3bf7a86"
+    },
+    {
       "path": "07_renders/vr-tour-v01/axis-calibration.png",
       "bytes": 172584,
       "sha256": "aea7c558abfb963ec37925cb024c52785da776c26b636de32c7e453b6093a3c0"
@@ -1558,6 +1693,61 @@
       "path": "07_renders/vr-tour-v03/摄影感四区预览.jpg",
       "bytes": 131679,
       "sha256": "e0662bf01c349329e5890105fd4ef73c842e3664a26725fc1fa12bc50561a7cf"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/balcony-ai-final.png",
+      "bytes": 2052975,
+      "sha256": "1402d0b4205d51532c809c8e2eaa9df2b080e075db12e2cbc6c06f5c92f7849b"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/balcony-day.jpg",
+      "bytes": 503981,
+      "sha256": "374ded2110c95fc78bf6c9e5f7f7a792a7fd5884450378a4f7042e70d05dfa14"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/dining-ai-final.png",
+      "bytes": 1884385,
+      "sha256": "7229da34a1508d441c06c77e127ab37dfb3ecab5bef728e2f8773d809fbddee8"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/dining-day.jpg",
+      "bytes": 399568,
+      "sha256": "45a667a3b5df79c3c323da1db04b0d3761d6f155aa6b87ba166e4d886fa6cb61"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/entry-ai-final.png",
+      "bytes": 1983380,
+      "sha256": "653d2df1711c2811c6c9d17ce0d8993a33d18c37bee7309c8898b1297a92b71a"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/entry-day.jpg",
+      "bytes": 466948,
+      "sha256": "a4823883da1292db9a6ccf761ed8b3965dde11e6ee56405f2f10e4d2793c5c5b"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/export-manifest.json",
+      "bytes": 1593,
+      "sha256": "344f346e98c7d79dafe35e4c1e206cfa4635ea868dfdf77b67de901eda3f5813"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/imagegen-prompts.json",
+      "bytes": 15281,
+      "sha256": "1160048758cf4395d0ec86013d6378387eb3fe880752ec698924d4db462b24af"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/living-ai-final.png",
+      "bytes": 1896330,
+      "sha256": "e7b80afdeeb17c83192ca86106dd4bb53ac6827b78ced2f09ea5e47088fb7f45"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/living-day.jpg",
+      "bytes": 423990,
+      "sha256": "3c5147f942dfb83cb51aefa09dd8157066fde7c05498952db1df14297cda308f"
+    },
+    {
+      "path": "07_renders/vr-tour-v04/tour-config.json",
+      "bytes": 2692,
+      "sha256": "f5dc40a474675227f799f8e9cc796293b39837ba6df28cddec3d62053211a953"
     },
     {
       "path": "07_renders/widget-v06-3d-hover.png",
@@ -2015,9 +2205,19 @@
       "sha256": "0e0791f0ed23824359fe89e4ffc6fe677ed0b0fbc4371a8a3e3658550a0bc023"
     },
     {
+      "path": "09_delivery/house-v18-fragment.html",
+      "bytes": 365599,
+      "sha256": "a70094974b1701e9b80f5a6cc85fcc1d0c926f0a85b5396e946149b07d4462d0"
+    },
+    {
+      "path": "09_delivery/house-v18-preview.html",
+      "bytes": 586138,
+      "sha256": "f54e204501fa474a61cc8179010d0627d00b7ee7f372a8802a7ac2c76b33b3b6"
+    },
+    {
       "path": "09_delivery/index.html",
-      "bytes": 10320,
-      "sha256": "5591a3c606bc56c5642bf2c26199176c27d239a9e64a15ea1ffc451d09ca0202"
+      "bytes": 10430,
+      "sha256": "d6d060c8afb82171cc8f9ca252f3d102b106d716f4d1c950b469dee4614f12cc"
     },
     {
       "path": "09_delivery/master-suite-study-01/study-data.json",
@@ -2153,6 +2353,51 @@
       "path": "09_delivery/v14-master-suite/调整说明.md",
       "bytes": 2002,
       "sha256": "fd6efb13a99af1b728f49bb932e91dd8d6171b28f9941b79c876199e64fe4958"
+    },
+    {
+      "path": "09_delivery/v17-alignment-study/对齐与门口关系.png",
+      "bytes": 80013,
+      "sha256": "da2c349a306496f656f0cf27096aa44cf28b1782d860d9936ae737cef2eeedb1"
+    },
+    {
+      "path": "09_delivery/v18-entry/balcony-realistic.png",
+      "bytes": 2548434,
+      "sha256": "1ed4acf0cc8a71ec951abe0ef1f070b7ed012438d4bd918ced80ac838c65a144"
+    },
+    {
+      "path": "09_delivery/v18-entry/dining-realistic.png",
+      "bytes": 2019121,
+      "sha256": "2f64efeb96f28200e25960f36df174c29b9b4b920f44b86df89cd6acef59c6fe"
+    },
+    {
+      "path": "09_delivery/v18-entry/entry-left-realistic.png",
+      "bytes": 2112763,
+      "sha256": "643b3ba96ec95326d220762d9b75b9b530741a17b59b321b8ed92baa0fba335c"
+    },
+    {
+      "path": "09_delivery/v18-entry/entry-right-realistic.png",
+      "bytes": 1767205,
+      "sha256": "b7ccfd257707794d4bd1121b0dd43653eb994bb5f3afab80aff9506907111b9e"
+    },
+    {
+      "path": "09_delivery/v18-entry/index.html",
+      "bytes": 2393,
+      "sha256": "4300ac59849cc692a422c474f0c1bae9a51b55b75ca30046c2db95acf330406d"
+    },
+    {
+      "path": "09_delivery/v18-entry/living-realistic.png",
+      "bytes": 2195721,
+      "sha256": "a3326f8eeaea05633d574264aa38320f80b1de8e892c8ff9be3d614cd3bf7a86"
+    },
+    {
+      "path": "09_delivery/v18-门厅与四区全景.zip",
+      "bytes": 19666912,
+      "sha256": "8dd4fe7c70533528d922e909d0fd2c71de9298c7c96813d65184659a0361a11b"
+    },
+    {
+      "path": "09_delivery/v18门厅调整说明.md",
+      "bytes": 2919,
+      "sha256": "261c26cacc5f3a1547095002d1f718c924c46cd19f9f5153bb29f8cdad09af0a"
     },
     {
       "path": "09_delivery/vr-tour-v01-draft/viewer-manifest.json",
@@ -2480,6 +2725,76 @@
       "sha256": "bbc4fa567a5e82df80a69736622727e6223b6b3761f9f709f35d174b6b283b46"
     },
     {
+      "path": "09_delivery/vr-tour-v04-预览/balcony.png",
+      "bytes": 1787764,
+      "sha256": "aaac75b7f802f16068b75135b0e9b8325a33eb3370d76e9fe8e6d03d488c2f17"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04-预览/dining.png",
+      "bytes": 1010550,
+      "sha256": "3446ca3995eeb1197ae628ed4072244429d2b687cefbc7b04e5f656b9aa41572"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04-预览/entry.png",
+      "bytes": 1478934,
+      "sha256": "fccc099a59d7e88367f369da53a237ad655da7bed611eefa3de3205a35ebad15"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04-预览/living.png",
+      "bytes": 1707099,
+      "sha256": "04b4d4cc53e5d2d7b6a0e3e989709ae4ec37f6d50e7f6184bf94a07ade87e3e7"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/viewer-manifest.json",
+      "bytes": 2702,
+      "sha256": "78cc30514db348249914e917a0a977437767c8483e78345aced14843ea55f046"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/viewer.template.html",
+      "bytes": 22542,
+      "sha256": "a7ab954976f98055a0b215f7dc36626724d21a750657f26aa635c04192f0282a"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/使用说明.txt",
+      "bytes": 941,
+      "sha256": "d46462dbbca3588bc0053698a578a8969828bcd7cc13043d45f3de0c45264dea"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/全景原图/balcony-day.jpg",
+      "bytes": 503981,
+      "sha256": "374ded2110c95fc78bf6c9e5f7f7a792a7fd5884450378a4f7042e70d05dfa14"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/全景原图/dining-day.jpg",
+      "bytes": 399568,
+      "sha256": "45a667a3b5df79c3c323da1db04b0d3761d6f155aa6b87ba166e4d886fa6cb61"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/全景原图/entry-day.jpg",
+      "bytes": 466948,
+      "sha256": "a4823883da1292db9a6ccf761ed8b3965dde11e6ee56405f2f10e4d2793c5c5b"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/全景原图/living-day.jpg",
+      "bytes": 423990,
+      "sha256": "3c5147f942dfb83cb51aefa09dd8157066fde7c05498952db1df14297cda308f"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/打开360全景漫游.html",
+      "bytes": 2419685,
+      "sha256": "f9d84a7c02ae2d2cab7cadb99e9f5005eb264ad26f57c7cf6dc79af8e9ca9e5e"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/摄影感全景说明.md",
+      "bytes": 507,
+      "sha256": "163a6526f4f2d84101fee2450e9326466eca05ad613cad5196f9772501c05cb3"
+    },
+    {
+      "path": "09_delivery/vr-tour-v04/漫游机位与来源.json",
+      "bytes": 7754,
+      "sha256": "6fb9bee714ea644adcc01cc0fddd3462615b470b07e188e7774f47c0e973311a"
+    },
+    {
       "path": "09_delivery/使用说明.md",
       "bytes": 3360,
       "sha256": "5f92936921d146b1b748296a46b613829f28e2934f2e14ae8cffb92c2cf39be5"
@@ -2521,8 +2836,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9105,
-      "sha256": "82584c4d7bf3435a04df7e551c33f0ea10d0ca4f9c4309b9030b14d406ee616b"
+      "bytes": 9143,
+      "sha256": "e7d3d566580efc0085ab59f099b87a8efeb85d9d6725a7af40a0058e127c25a3"
     },
     {
       "path": "Staticfile",
@@ -2532,12 +2847,12 @@
     {
       "path": "logs/blender-bridge-process.json",
       "bytes": 167,
-      "sha256": "7f3a8e11db118ae6c415476dd9205157301d34e2cf2bb88e5224fa7bc855dbf1"
+      "sha256": "44605c06a212f67c8a2b6830eb085f33826e64d4cee7e0c801dc8bb87ae955d5"
     },
     {
       "path": "logs/blender-bridge.log",
-      "bytes": 48034,
-      "sha256": "fbc02b0c98d9f0a8d98a6f90e732ec1784fa017bb01bc5f2951481ee64ec0e1f"
+      "bytes": 69493,
+      "sha256": "d75114ee2da71158a521f2ad16352b3120ea7b9e2b93dbc6de5b515791c59fd8"
     },
     {
       "path": "logs/blender-userpref-before-20261030-190013.blend",
@@ -2846,8 +3161,8 @@
     },
     {
       "path": "logs/project-status.md",
-      "bytes": 22578,
-      "sha256": "c1b10a8a7994089b0883b837b7cbc9d98a3a0256535317af40174980bbebce35"
+      "bytes": 23097,
+      "sha256": "e4529b97da5de576a58506f10f7ebb9bb4e79b9b2e2f3cd1affdb2ce41bca523"
     },
     {
       "path": "logs/render-v07-console.txt",
@@ -3638,6 +3953,191 @@
       "path": "logs/v16-spherical-view-captures.json",
       "bytes": 2130,
       "sha256": "06e80d78047f98f5eb32baa7c66a469474d0910b44a65f03cad58c47bf1bf8c9"
+    },
+    {
+      "path": "logs/v18-balcony-nadir.png",
+      "bytes": 753207,
+      "sha256": "b91cc4af411cd87405d8c8542408421dec9727236120b242115162c3ca0f8716"
+    },
+    {
+      "path": "logs/v18-balcony-seam-left.png",
+      "bytes": 451661,
+      "sha256": "4019225c41e29aca3bed4555dc2e8c88540a8eb6044665b3e5f90a5d86cb5ef1"
+    },
+    {
+      "path": "logs/v18-balcony-seam-right.png",
+      "bytes": 450306,
+      "sha256": "e7c232110decbe883fe804928607e22e7fd1807a38a2eb0b8e388fa3f0741885"
+    },
+    {
+      "path": "logs/v18-balcony-zenith.png",
+      "bytes": 444076,
+      "sha256": "ab78830dd7a495307b8f1656f8c1f109d2708c9e9ce0f5b71e38d5c543bde31f"
+    },
+    {
+      "path": "logs/v18-build-process.txt",
+      "bytes": 287,
+      "sha256": "11417636cc6cda8015ac91f2f42575397f34abadb45d91c5c4ca2071de9d423c"
+    },
+    {
+      "path": "logs/v18-build.json",
+      "bytes": 592,
+      "sha256": "8e1c5c761b443ba4335476405b38ac4fdf0a2a27a22ffb3bcfcfc420a3e486a6"
+    },
+    {
+      "path": "logs/v18-delivery-verification.json",
+      "bytes": 982,
+      "sha256": "5b28f3aa65800eb92dc7c0f84f7c351bc7fd7d3bcebc7245cb38a4fc8d2d6f09"
+    },
+    {
+      "path": "logs/v18-dining-nadir.png",
+      "bytes": 685497,
+      "sha256": "c895d687a5156986bf9340567a064ca9ea14ea882eca2aa368e85ef0e49c2566"
+    },
+    {
+      "path": "logs/v18-dining-seam-left.png",
+      "bytes": 332769,
+      "sha256": "528f310b1b663b78c005243c0aaf13ade8d53f86283499bdfa0660d4205124fd"
+    },
+    {
+      "path": "logs/v18-dining-seam-right.png",
+      "bytes": 328398,
+      "sha256": "b7b9661ad6434e992f32b062dce5c87d33220632fdfbc41e21bf5ff760fa2a74"
+    },
+    {
+      "path": "logs/v18-dining-zenith.png",
+      "bytes": 445881,
+      "sha256": "754be2762bb8961d4f31283238082f01d341f3a30477a88947a9ecd217603470"
+    },
+    {
+      "path": "logs/v18-entry-angle-115.png",
+      "bytes": 827674,
+      "sha256": "50123b0fe3ee423013a4e25b1f86434a792ea9d331322c51c3c5994c60077978"
+    },
+    {
+      "path": "logs/v18-entry-angle-140.png",
+      "bytes": 834128,
+      "sha256": "310d4ade82b09f1a90e13fee3c9dacab78cdd0b09b9366f8ebb47f2d28bf45a4"
+    },
+    {
+      "path": "logs/v18-entry-angle-90.png",
+      "bytes": 739727,
+      "sha256": "272a1a982afcd6a22eb55e9dadace5a61bd42746eac1747e29af9566c5e5e977"
+    },
+    {
+      "path": "logs/v18-entry-clearance.json",
+      "bytes": 362,
+      "sha256": "a5d8040fcd89262951b085aa8c92d318850699e40f6ec4a913461254243d2bd1"
+    },
+    {
+      "path": "logs/v18-entry-nadir.png",
+      "bytes": 692787,
+      "sha256": "aeaf469ef7e3092ad52be66d0e926ba351641d0f9735ef92ec3c5cc8c89b6a6f"
+    },
+    {
+      "path": "logs/v18-entry-seam-left.png",
+      "bytes": 642664,
+      "sha256": "5392957522d133e4b49a9523640608dcecf9d68d88685af1978a750a10f962bf"
+    },
+    {
+      "path": "logs/v18-entry-seam-right.png",
+      "bytes": 640048,
+      "sha256": "ad3fab920c28dcc859b466e8b03c0db37b29ec9fcd4132ca29388ecf5d24263e"
+    },
+    {
+      "path": "logs/v18-entry-verification.json",
+      "bytes": 247,
+      "sha256": "99f041f9651db3ae8446e2a97cb7bec4fbb42eedcbe21cf7d7c5bc4430a3fe12"
+    },
+    {
+      "path": "logs/v18-entry-zenith.png",
+      "bytes": 445616,
+      "sha256": "075ea33ddea7e24f02b9ddec819e771571e61d5016f60aa231e7649dfc70918f"
+    },
+    {
+      "path": "logs/v18-imagegen-outputs.json",
+      "bytes": 3898,
+      "sha256": "5b8932149a012f1f87fb8cfcc37d5d878f65ad411a73d3c0632ef9a110fb08e4"
+    },
+    {
+      "path": "logs/v18-living-nadir.png",
+      "bytes": 699939,
+      "sha256": "f55b5e2de6f7fe75bcd79089d31452727c499fe733e92b423680298fdff942c4"
+    },
+    {
+      "path": "logs/v18-living-seam-left.png",
+      "bytes": 384813,
+      "sha256": "a34f6197bd17d599a1ccef314b8c58b3d65f8d12677997b2fa224524a7e70676"
+    },
+    {
+      "path": "logs/v18-living-seam-right.png",
+      "bytes": 393553,
+      "sha256": "054b2b91cc18cc4912653bafb6e14dcbc6817b602b4232375c4847c02c83405a"
+    },
+    {
+      "path": "logs/v18-living-zenith.png",
+      "bytes": 393070,
+      "sha256": "08018b35fd1593047d5b0850b43034a75dd0241b71c5a7013c1db9d7998d800d"
+    },
+    {
+      "path": "logs/v18-model-3d.png",
+      "bytes": 211907,
+      "sha256": "5de5174c569039cb6097168359768eccf4d82efeaa906efb247337b250a642e3"
+    },
+    {
+      "path": "logs/v18-model-plan.png",
+      "bytes": 91604,
+      "sha256": "6a09de8b3717f19bbb7e7cf07bee042c8aa59c50ef3e3c5cae0e848758e85fea"
+    },
+    {
+      "path": "logs/v18-model-verification.json",
+      "bytes": 4725,
+      "sha256": "a6d1870bab335db20b0376bfacfedcbf302d326404446be4782d83c4cbd38edd"
+    },
+    {
+      "path": "logs/v18-native-mcp-verification.json",
+      "bytes": 492,
+      "sha256": "847e15c1002a11574dab5380bfcaee1db40ce89771995fab540541d5c6c84078"
+    },
+    {
+      "path": "logs/v18-pano-process.txt",
+      "bytes": 628031,
+      "sha256": "6153eedc8dd200143b7e8efaaa3c47c42e73425fde749670dec5b126c8332249"
+    },
+    {
+      "path": "logs/v18-panorama-anchors.json",
+      "bytes": 1262,
+      "sha256": "128813b1b91b2767e96a09f37a5f8edfdad98ea0a7220a0494d94e04fe9018a9"
+    },
+    {
+      "path": "logs/v18-perspective-process.txt",
+      "bytes": 768724,
+      "sha256": "25806e36b4cd7b09b419831b7893f8fd78397e499ba24fe97aed740e2763be61"
+    },
+    {
+      "path": "logs/v18-perspectives.json",
+      "bytes": 1547,
+      "sha256": "87ab38c3bc53b5729556f481e56e77462c528b8825c9e2dc82db4d6c24af6408"
+    },
+    {
+      "path": "logs/v18-spherical-qa-contact.png",
+      "bytes": 1653815,
+      "sha256": "677a8215e909b27b64c8a6acff16ac18ce9e11772618ba7353e80190745486f7"
+    },
+    {
+      "path": "logs/v18-spherical-view-captures.json",
+      "bytes": 2130,
+      "sha256": "2dd33e16fd8735af3815caf48d9ba6a346e3665ec87d108f3484f763bf7a2787"
+    },
+    {
+      "path": "logs/v18-tour-build-process.txt",
+      "bytes": 1477,
+      "sha256": "553ac6d10b8612579ab4babdf088c2035042807f5051e9796d600927c740e8dc"
+    },
+    {
+      "path": "logs/v18-widget-verification.json",
+      "bytes": 398,
+      "sha256": "1efbcfcbc2432b85043a3ec457897f2caa2ed1b0fe30722e11f12fea2ed214f6"
     },
     {
       "path": "logs/vendor-audit/blender45-index.html",
@@ -4560,6 +5060,61 @@
       "sha256": "132e1b7de3b6bcdafd106f632977568732c1be2a3f60f9305c142a62b6d95319"
     },
     {
+      "path": "logs/vr-tour-v04-balcony-perspective.png",
+      "bytes": 1787764,
+      "sha256": "aaac75b7f802f16068b75135b0e9b8325a33eb3370d76e9fe8e6d03d488c2f17"
+    },
+    {
+      "path": "logs/vr-tour-v04-desktop.png",
+      "bytes": 1019185,
+      "sha256": "0b1c5e97b441c888cceccd5ca6ac6f1e4a9f24ddd5ba7ba02762c96690c62878"
+    },
+    {
+      "path": "logs/vr-tour-v04-dining-perspective.png",
+      "bytes": 1010550,
+      "sha256": "3446ca3995eeb1197ae628ed4072244429d2b687cefbc7b04e5f656b9aa41572"
+    },
+    {
+      "path": "logs/vr-tour-v04-entry-perspective.png",
+      "bytes": 1478934,
+      "sha256": "fccc099a59d7e88367f369da53a237ad655da7bed611eefa3de3205a35ebad15"
+    },
+    {
+      "path": "logs/vr-tour-v04-final-nadir.png",
+      "bytes": 831826,
+      "sha256": "7f25a89ed34ba2d1647bc5dff36c097c131d4bd5b1c4f05d4767cd27a3516207"
+    },
+    {
+      "path": "logs/vr-tour-v04-final-seam-left.png",
+      "bytes": 447614,
+      "sha256": "c1428d077fd9f5911b2e3c0685466e5276d348c585ca165935543c13de28225c"
+    },
+    {
+      "path": "logs/vr-tour-v04-final-seam-right.png",
+      "bytes": 458046,
+      "sha256": "243fcd47f28f438ac6427c6a756f83613bcfab91b35f6cc2bcff7078da3e5a40"
+    },
+    {
+      "path": "logs/vr-tour-v04-final-zenith.png",
+      "bytes": 457361,
+      "sha256": "d7fc863dae874c2aa0128dac515728732a3c623730ea3ca65313063e0042b54f"
+    },
+    {
+      "path": "logs/vr-tour-v04-living-perspective.png",
+      "bytes": 1707099,
+      "sha256": "04b4d4cc53e5d2d7b6a0e3e989709ae4ec37f6d50e7f6184bf94a07ade87e3e7"
+    },
+    {
+      "path": "logs/vr-tour-v04-mobile.png",
+      "bytes": 267569,
+      "sha256": "12dc910871f94af9ce061f7a5a8972db72080d76fa92f603213d00112b94326f"
+    },
+    {
+      "path": "logs/vr-tour-v04-verification.json",
+      "bytes": 4243,
+      "sha256": "f73095b2c4c17f0e4eb03b7b2a9cd32811001189371692484badb9526719572e"
+    },
+    {
       "path": "logs/vr-viewer-calibration-desktop.png",
       "bytes": 371620,
       "sha256": "980fcffbfb798af4c15319a7ecb91be33ca7cb56536f843bc493e0c5e5ac6881"
@@ -4760,6 +5315,11 @@
       "sha256": "a422406f340a2afad7afec40eb943a878f2e7fe00ec7997741b104e32b04ed51"
     },
     {
+      "path": "tools/build_entry_v18.py",
+      "bytes": 8365,
+      "sha256": "b14e420c01fb220a75dc839a85720b097693f39ce99b4e3a6dfd8c2926094f86"
+    },
+    {
       "path": "tools/build_photoreal_v15.py",
       "bytes": 18370,
       "sha256": "9a070c28c7c78fff2f5562c6100ef4951e2a64385e93b387810e529b659b3a14"
@@ -4778,6 +5338,11 @@
       "path": "tools/calibrate_panorama_v13.py",
       "bytes": 2313,
       "sha256": "4954a17c13805c3a0eedbeae697b2a6b22e3a2c5dac1946772eea819df37dac7"
+    },
+    {
+      "path": "tools/capture_entry_views_v18.cjs",
+      "bytes": 1450,
+      "sha256": "e282cfddd6e5ed0337d443b54a0adc2b74e3cdb4af7d688f434fd28ac91483c4"
     },
     {
       "path": "tools/check_view_v06.cjs",
@@ -4825,6 +5390,16 @@
       "sha256": "8c5aa535e13f7f7ce6924d2ea359f2d9fd95a340158dd211c2491ed32fbaee8e"
     },
     {
+      "path": "tools/check_view_v18.cjs",
+      "bytes": 4792,
+      "sha256": "e72003975239c024cd048a555d848e37b6477bbf9c42a3aaff45651a82cb4869"
+    },
+    {
+      "path": "tools/collect_v18_imagegen.py",
+      "bytes": 1184,
+      "sha256": "99f36e06462838c027c0895ec6fb73f3b2c82c5d608dc52859ab274452d387a3"
+    },
+    {
       "path": "tools/configure_panorama_v13.py",
       "bytes": 1619,
       "sha256": "a4377db1c64dd59cf661d905a2d9041bfc77ea39f589d01183a2e68426ae8099"
@@ -4858,6 +5433,11 @@
       "path": "tools/fetch_sources.py",
       "bytes": 5480,
       "sha256": "6512801ccd3bbccfa4654dac9f422544eaf9ce81ec0f82254adad7330f9aa3c3"
+    },
+    {
+      "path": "tools/finalize_entry_v18.py",
+      "bytes": 14187,
+      "sha256": "1904406240a35228a90ffa4e784a73f979cd65636c446b5df7330039c134bc10"
     },
     {
       "path": "tools/finalize_master_suite_v14.py",
@@ -4975,6 +5555,11 @@
       "sha256": "7779a90a7f4ae25cff685fb88f18b70bc5ca08ad9151761e5064a3553f1879ac"
     },
     {
+      "path": "tools/house-view-v18.template.html",
+      "bytes": 52541,
+      "sha256": "5b4b5ca7b5f67c5fd852fba56f4b1af8f27b4649d4d28a8fc7116978379049cf"
+    },
+    {
       "path": "tools/import_existing_model.py",
       "bytes": 4158,
       "sha256": "706f1c53db368246f310365d244a25b22ca941963b92181767267fb841f88f76"
@@ -5060,6 +5645,16 @@
       "sha256": "f254178b5da5cc1fe6b9a48ed8c4659a4689e05ac88735784451d3d2ab3499c3"
     },
     {
+      "path": "tools/prepare_entry_v18.py",
+      "bytes": 7656,
+      "sha256": "6720178af62ba57983d5c30e43be2bf300e29631443e10067465d7053428a92a"
+    },
+    {
+      "path": "tools/prepare_imagegen_v18.py",
+      "bytes": 5627,
+      "sha256": "87b37022dd37bf98c4069b9362dce3c2cf304602404f61ecda4abd522587fb5a"
+    },
+    {
       "path": "tools/prepare_master_suite_v14.py",
       "bytes": 12867,
       "sha256": "4ee83eeeda2840d5f3ed5f0889a8cb4455c52a96c522f641146db30c1074d551"
@@ -5071,8 +5666,8 @@
     },
     {
       "path": "tools/prepare_repository_archive.py",
-      "bytes": 3057,
-      "sha256": "98478ccc8b59be79aa229f4f78eb0a41d9c620701c41db2a0dc1a70d9f4c5dbe"
+      "bytes": 3149,
+      "sha256": "12733d4915f78cb58ce62c371606580139e663a75fd5d22867c0eb26f24e0ab9"
     },
     {
       "path": "tools/prepare_tour_v02.py",
@@ -5083,6 +5678,11 @@
       "path": "tools/prepare_tour_v03.py",
       "bytes": 3900,
       "sha256": "d24ac968a80dad863cc04f63162117d1d93e2b8182615865ec99cb30dd7918bb"
+    },
+    {
+      "path": "tools/prepare_tour_v04.py",
+      "bytes": 3591,
+      "sha256": "059c0367655b7ed6bcb7a7dde9b2232a8fc1cca0cc86a1a6b9b9c75b97b189b2"
     },
     {
       "path": "tools/probe_mcp.py",
@@ -5135,6 +5735,16 @@
       "sha256": "1a596c982bcf5ad8109c0cc433433e8f5f88e675f5bd9a070f62335af665ce95"
     },
     {
+      "path": "tools/publish_view_v18.py",
+      "bytes": 895,
+      "sha256": "5d184f121972d67dbbfed9d8038762bd399587676938d8b77d27e4d183f6ba53"
+    },
+    {
+      "path": "tools/qa_entry_v18.py",
+      "bytes": 1800,
+      "sha256": "62e4b798772ade599a52437226cec0efd15e7362ffb73b356c219527acb43e95"
+    },
+    {
       "path": "tools/read_live_for_v15.py",
       "bytes": 2095,
       "sha256": "5d099d9e09cfa43e55edd2ba1685c9b75a586475604ef26578b60a469efbc7c7"
@@ -5158,6 +5768,11 @@
       "path": "tools/render_bath_study_v10.cjs",
       "bytes": 705,
       "sha256": "7c4bacccc895ad799ea5d4d5e16237cb4657dfa45162506c409bce9dcaf4ab27"
+    },
+    {
+      "path": "tools/render_entry_v18.py",
+      "bytes": 3790,
+      "sha256": "a98c86eb9f9fc5e037df4504c184d49375f0ca9158b8a75a244f958f2c93fd54"
     },
     {
       "path": "tools/render_master_suite_study_01.cjs",
@@ -5250,6 +5865,11 @@
       "sha256": "b06e7dc67f625cba396b7abefea5cb25170b1191b77c14ea17e6ab1213e4eb6c"
     },
     {
+      "path": "tools/review_sphere_v18.cjs",
+      "bytes": 1752,
+      "sha256": "0170d39c4175ba1d44785b25bcb97026af02ce9c55c90268dea506808a0013e6"
+    },
+    {
       "path": "tools/revise_furniture_v06.py",
       "bytes": 10791,
       "sha256": "a1e1cd2f5c01b5abfa4304012a5daa8bf11033b0b053c16779635a00fd8c8231"
@@ -5293,6 +5913,11 @@
       "path": "tools/study_master_bath_expansion_01.py",
       "bytes": 13442,
       "sha256": "34ce90cc25accddeff02f6a5570bb4cc613c33b7f6215d0f800dc9483b304a74"
+    },
+    {
+      "path": "tools/study_wall_alignment_v17.py",
+      "bytes": 3007,
+      "sha256": "ea91892ba4e0e32bae4d8207b3354b4017f2fce98bd5726ce3824fd12595ccee"
     },
     {
       "path": "tools/test_furniture_movement.py",
@@ -5345,6 +5970,11 @@
       "sha256": "e7ef03459b8431297ad7934af1ca71a70a57204449965b28e56a3abc07e804ab"
     },
     {
+      "path": "tools/verify_archive_index.py",
+      "bytes": 979,
+      "sha256": "085f070b497bf70a94f48b6b30bdaa09c674c9d074c0c8ec4a7125d0ed05dd2a"
+    },
+    {
       "path": "tools/verify_cabinet_options_v08.py",
       "bytes": 3506,
       "sha256": "154291ac2f7a506d012a6dd18645423f67d93c5a563c4a599a6abc3a97d0eb2e"
@@ -5353,6 +5983,11 @@
       "path": "tools/verify_entry_v16.cjs",
       "bytes": 1834,
       "sha256": "4a005c7f4582bf6eac4c806a25d04a725c89faf80c026a7c19872120c6955f26"
+    },
+    {
+      "path": "tools/verify_entry_v18.cjs",
+      "bytes": 2499,
+      "sha256": "155f4d0ca62eb89f1778f18b1b32c8c6d39745acf98bab0f94399089524dd51d"
     },
     {
       "path": "tools/verify_japanese_v02.py",
@@ -5378,6 +6013,11 @@
       "path": "tools/verify_vr_tour_v03.cjs",
       "bytes": 12076,
       "sha256": "6039d8466218a4d403c9999db7ed56a22129934dfbd32603a216394ffff339d3"
+    },
+    {
+      "path": "tools/verify_vr_tour_v04.cjs",
+      "bytes": 12076,
+      "sha256": "1f2501f700b56b2a6d0559c6e8fde220b2c580efc495fe5fa1c8e6fd34a327cd"
     }
   ]
 }

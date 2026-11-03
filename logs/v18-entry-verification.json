@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "homepage_opens_current_tour": true,
+  "homepage_opens_28_item_model": true,
+  "gallery_five_images_decode": true,
+  "native_image_dimensions": [
+    1774,
+    887
+  ],
+  "mobile_390px_no_overflow": true,
+  "errors": []
+}

@@ -1,0 +1,15 @@
+{
+  "revision": 18,
+  "file": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v18.blend",
+  "furniture_count": 28,
+  "all_28_positions_match": true,
+  "actual_100mm_moves_restored": [
+    "tv-high",
+    "entry-shoe-cabinet",
+    "entry-piano-bench"
+  ],
+  "piano_keys": 60,
+  "keys_shown_open": 4,
+  "geometry_sha256": "567692f8fcef090e351951d773c9ed8f761bcbd01c9e503fd81c0c3aa1ca0b9b",
+  "model_sha256": "e8af4b761f5cb93902f36879db32139e6f4875332e36be158068cc605e53dcbc"
+}
