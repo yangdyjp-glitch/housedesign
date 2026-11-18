@@ -1,0 +1,171 @@
+{
+  "status": "passed",
+  "root": "D:\\AI-Yang.cn\\HomeDesign",
+  "mode": "handoff-baseline",
+  "git": {
+    "head": "323f294aecf255b77f2262af95bf626e17d09b87",
+    "working_tree_clean": false,
+    "remote": "https://github.com/yangdyjp-glitch/housedesign.git"
+  },
+  "checks": [
+    {
+      "check": "model_hash_matches_active",
+      "passed": true,
+      "detail": {
+        "path": "06_blender/home-main-v20-complete.blend",
+        "sha256": "0be76a9211d7130e1ad52aa642049a48ede6e5cb468f04dd2eee097825bec450"
+      }
+    },
+    {
+      "check": "model_matches_handoff_baseline",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "geometry_hash_matches_active",
+      "passed": true,
+      "detail": {
+        "path": "02_geometry/geometry-master-v20-complete.json",
+        "sha256": "d0e845b52223128eefbb7636a9c1ad105479d8aef9917a5d98b56d68dd9fbb6c"
+      }
+    },
+    {
+      "check": "geometry_matches_handoff_baseline",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "style_hash_matches_active",
+      "passed": true,
+      "detail": {
+        "path": "05_style/modern-japanese-v20-complete.json",
+        "sha256": "42c9fc094e271d5f816061513ec804835c1fffe6094bfbe8b4d60c30b364390b"
+      }
+    },
+    {
+      "check": "style_matches_handoff_baseline",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unique_furniture_assemblies",
+      "passed": true,
+      "detail": 28
+    },
+    {
+      "check": "furniture_count_matches_active",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "millimetre_units",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "geometry_alias_matches_active",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "complete_v20_not_early_integration",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "baseline_28_furniture",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "baseline_63_source_walls",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "check": "baseline_12_glass",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "baseline_furniture_positions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "active_delivery_exists",
+      "passed": true,
+      "detail": "09_delivery/house-v20-complete-preview.html"
+    },
+    {
+      "check": "active_delivery_exists",
+      "passed": true,
+      "detail": "09_delivery/v20-complete/index.html"
+    },
+    {
+      "check": "active_delivery_exists",
+      "passed": true,
+      "detail": "09_delivery/vr-tour-v07/打开360全景漫游.html"
+    },
+    {
+      "check": "handoff_deliverable_exists",
+      "passed": true,
+      "detail": "09_delivery/master-suite-plans-20261110/主卧主卫-修改前.png"
+    },
+    {
+      "check": "handoff_deliverable_exists",
+      "passed": true,
+      "detail": "09_delivery/master-suite-plans-20261110/主卧主卫-修改后-v20.png"
+    },
+    {
+      "check": "handoff_deliverable_exists",
+      "passed": true,
+      "detail": "09_delivery/house-v20-complete-fragment.html"
+    },
+    {
+      "check": "presentation_metadata_readable",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "native_pano_exists",
+      "passed": true,
+      "detail": "living"
+    },
+    {
+      "check": "native_pano_exists",
+      "passed": true,
+      "detail": "dining"
+    },
+    {
+      "check": "native_pano_exists",
+      "passed": true,
+      "detail": "balcony"
+    },
+    {
+      "check": "native_pano_exists",
+      "passed": true,
+      "detail": "entry"
+    },
+    {
+      "check": "git_checkout_readable",
+      "passed": true,
+      "detail": "323f294aecf255b77f2262af95bf626e17d09b87"
+    },
+    {
+      "check": "not_shallow_clone",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "contains_uploaded_complete_design_commit",
+      "passed": true,
+      "detail": "323f294aecf255b77f2262af95bf626e17d09b87"
+    }
+  ],
+  "limits": "Read-only hashes, source counts, positions and file existence; no Blender connection, render, browser or headset test.",
+  "handoff_documents_local_links": "passed",
+  "design_skills_archive": "6 skills / 109 source files, ZIP CRC and per-file SHA256 verified",
+  "date": "2026-11-18",
+  "github_design_commit_verified": "323f294aecf255b77f2262af95bf626e17d09b87"
+}
