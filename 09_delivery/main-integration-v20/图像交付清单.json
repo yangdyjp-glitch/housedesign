@@ -1,0 +1,90 @@
+[
+  {
+    "id": "living",
+    "kind": "photo",
+    "path": "07_renders/v20-photographic/living-photo.png",
+    "deliveryPath": "09_delivery/main-integration-v20/photos/living.png",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "sha256": "ea605fca3b1d10bbb49ddbaacd6865d3b504c9ef5993d4b1cbcd3ac815573ac6"
+  },
+  {
+    "id": "living",
+    "kind": "pano",
+    "path": "07_renders/v20-photographic/living-pano.png",
+    "deliveryPath": "09_delivery/vr-tour-v06/全景原图/living.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "4334c2efc65d9c12105e20663b4aa63cb0caf47f295581d572575fa0e6fdd9c1"
+  },
+  {
+    "id": "dining",
+    "kind": "photo",
+    "path": "07_renders/v20-photographic/dining-photo.png",
+    "deliveryPath": "09_delivery/main-integration-v20/photos/dining.png",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "sha256": "243ff56d48262510f80b5fc77a6a3fdf2539f6380950e688c67d5b4059df5693"
+  },
+  {
+    "id": "dining",
+    "kind": "pano",
+    "path": "07_renders/v20-photographic/dining-pano.png",
+    "deliveryPath": "09_delivery/vr-tour-v06/全景原图/dining.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "00f4a2694ae56e5b1e4bacc55f70e9eec35f5f62c515a3b3dae9e94d987f79e3"
+  },
+  {
+    "id": "balcony",
+    "kind": "photo",
+    "path": "07_renders/v20-photographic/balcony-photo.png",
+    "deliveryPath": "09_delivery/main-integration-v20/photos/balcony.png",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "sha256": "2cc0de7bad66d4f8f26155c982caf354dd156a5e6d3488164d2db08818673de9"
+  },
+  {
+    "id": "balcony",
+    "kind": "pano",
+    "path": "07_renders/v20-photographic/balcony-pano.png",
+    "deliveryPath": "09_delivery/vr-tour-v06/全景原图/balcony.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "7e37e683ee95d2a371b0f53fa20c6dd12ba79975b06d11959962b746acff4f48"
+  },
+  {
+    "id": "entry",
+    "kind": "photo",
+    "path": "07_renders/v20-photographic/entry-photo.png",
+    "deliveryPath": "09_delivery/main-integration-v20/photos/entry.png",
+    "resolution": [
+      1106,
+      1422
+    ],
+    "sha256": "218468331ffb440775781e6f05641b3748bac44afdbb170d88ac9dcc06ce7a97"
+  },
+  {
+    "id": "entry",
+    "kind": "pano",
+    "path": "07_renders/v20-photographic/entry-pano.png",
+    "deliveryPath": "09_delivery/vr-tour-v06/全景原图/entry.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "1c7dc20165d7d8b6da3e163730cc633a5ae787d8993c89400fc17f631a7fad48"
+  }
+]

@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-05",
+  "status": "independent shape/seating study; user has not selected seating mode",
+  "main_model_modified": false,
+  "v20_started": false,
+  "units": "mm",
+  "source_wall": "v19/lower-narrow-left-end",
+  "coordinate_mapping": "u=global z-6090-72.5; v=3082-global x",
+  "user_markup": "yellow=wall sideboard; red=fridge at living end; blue=compound L top",
+  "wall_length": 3545,
+  "room_width": 3082,
+  "opposite_existing_cabinet_depth": 400,
+  "fridge": {
+    "zone": [
+      0,
+      1200
+    ],
+    "body": [
+      920,
+      750,
+      1850
+    ],
+    "bbox": {
+      "u": 140,
+      "v": 50,
+      "w": 920,
+      "d": 750
+    },
+    "selected_model": null
+  },
+  "sideboard": {
+    "wall_range": [
+      1200,
+      3400
+    ],
+    "width": 2200,
+    "lower_depth": 450,
+    "upper_depth": 350,
+    "thin_depth": 220,
+    "counter_height": 880,
+    "doors": "opaque; no glass",
+    "four_stages_retained": true
+  },
+  "dining_L": {
+    "outline": [
+      [
+        1350,
+        300
+      ],
+      [
+        1700,
+        300
+      ],
+      [
+        1700,
+        1250
+      ],
+      [
+        2850,
+        1250
+      ],
+      [
+        2850,
+        1850
+      ],
+      [
+        1350,
+        1850
+      ]
+    ],
+    "corner_radius": 60,
+    "short_arm": [
+      1550,
+      350
+    ],
+    "long_arm": [
+      1500,
+      600
+    ],
+    "height": 750,
+    "thickness": 30,
+    "overall_bbox": {
+      "u": [
+        1350,
+        2850
+      ],
+      "v": [
+        300,
+        1850
+      ]
+    },
+    "connection": "first150 overlaps450deep wall cabinet; fixed350wide stem"
+  },
+  "chairs": [
+    {
+      "id": "short-arm-chair",
+      "u": 980,
+      "v": 1360,
+      "w": 520,
+      "d": 480,
+      "face": "plus-u",
+      "role": "daily"
+    },
+    {
+      "id": "inside-chair-1",
+      "u": 1710,
+      "v": 880,
+      "w": 480,
+      "d": 520,
+      "face": "plus-v",
+      "role": "daily"
+    },
+    {
+      "id": "inside-chair-2",
+      "u": 2310,
+      "v": 880,
+      "w": 480,
+      "d": 520,
+      "face": "plus-v",
+      "role": "daily"
+    },
+    {
+      "id": "outside-chair-4",
+      "u": 2010,
+      "v": 1700,
+      "w": 480,
+      "d": 520,
+      "face": "minus-v",
+      "role": "fourth-seat-trial"
+    }
+  ],
+  "full_chair_size": [
+    520,
+    480,
+    850
+  ],
+  "extra_pullout": 250,
+  "clearances": {
+    "outer_walkway_with_three_daily_seats": 832,
+    "outer_walkway_with_four_seated": 462,
+    "outer_walkway_fourth_pulled250": 212,
+    "free_end_to_kitchen_boundary": 622.5,
+    "inner_table_edge_to_cabinet": 800,
+    "inside_occupied_chair_back_to_cabinet": 430,
+    "inside_chair_pulled250_to_cabinet": 180
+  },
+  "verdict": "L form fits as furniture. Four permanent occupied seats leave only462 at main passage with opposite cabinet retained. Three daily plus a temporary fourth is a conditional designer alternative, not an accepted owner decision.",
+  "options": [
+    "Keep opposite cabinet: three daily seats maintain832; fourth seat temporarily narrows passage to462",
+    "Four permanent seats: requires extra plan change. Removing opposite400deep cabinet in the matching strip would give862 when seated; not authorized or applied"
+  ],
+  "limitations": [
+    "Selected wall/room sizes still provisional",
+    "Kitchen turn only622.5, not a generous entry apron",
+    "Actual fridge hinge/drawer sweep and ventilation unverified",
+    "520x480 are assumed full chair envelopes; human movement and knee space not certified",
+    "Chair pullout and lower drawer access cannot all be simultaneous",
+    "Opposite long cabinet and entry bench retained; no removal applied"
+  ]
+}

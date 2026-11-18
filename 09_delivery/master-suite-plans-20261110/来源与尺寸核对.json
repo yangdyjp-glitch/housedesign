@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-10",
+  "purpose": "separate read-only master bedroom and bath plan comparison",
+  "before": {
+    "path": "D:\\AI-Yang.cn\\HomeDesign\\02_geometry\\geometry-master-v13.json",
+    "sha256": "50821200f2667b368324364e860df49b09962f80910bf035743246fd7613655f",
+    "meaning": "pre-bath-expansion v13 boundaries; no owner-confirmed private furniture or fixtures at that stage"
+  },
+  "after": {
+    "path": "D:\\AI-Yang.cn\\HomeDesign\\02_geometry\\geometry-master-v20-complete.json",
+    "sha256": "d0e845b52223128eefbb7636a9c1ad105479d8aef9917a5d98b56d68dd9fbb6c",
+    "meaning": "active complete v20; all four master-suite furniture positions preserved"
+  },
+  "units": "mm",
+  "plan_orientation": "up south, down north, left east, right west",
+  "same_scale": true,
+  "scale_px_per_mm": 0.19,
+  "drawn_cut": "solid walls with y<=510mm except bay and window sills symbolized as openings",
+  "door_display": "existing entry/original bath door openings: closed line, no unverified swing; current diagonal bifold: true closed profile",
+  "before_bath_mm": [
+    1472,
+    2014
+  ],
+  "after_bath_rect_mm": [
+    1472,
+    2814
+  ],
+  "after_diagonal_dry_pocket_included": true,
+  "after_furniture_positions": {
+    "master-bed": {
+      "x": 8645,
+      "z": 1826,
+      "w": 2150,
+      "d": 2150
+    },
+    "master-wardrobe": {
+      "x": 7328,
+      "z": 1272,
+      "w": 600,
+      "d": 2500
+    },
+    "master-vanity": {
+      "x": 10345,
+      "z": 4196,
+      "w": 450,
+      "d": 800
+    },
+    "master-toilet": {
+      "x": 9323,
+      "z": 5350,
+      "w": 680,
+      "d": 400
+    }
+  },
+  "source_models_unchanged": true,
+  "outputs": [
+    {
+      "name": "主卧主卫-修改前",
+      "resolution": [
+        1200,
+        1960
+      ],
+      "png_sha256": "95af282a3629daa7642baa9778f7a63fee9a8965af0861a7c8d3f883bfb1d814",
+      "svg_sha256": "58457596d0e927c8315a738c9f20f8536faf92308ac68a65e07725c16ac7ceba"
+    },
+    {
+      "name": "主卧主卫-修改后-v20",
+      "resolution": [
+        1200,
+        1960
+      ],
+      "png_sha256": "cee936342ce4e4c51e59c1c16af1179141a400a3e069b2a59ea9dc2237e11af8",
+      "svg_sha256": "0fcafbf99a9d0af87d445284f6d9f127e4299dc45d3741b5d59979051c8a6f61"
+    },
+    {
+      "name": "主卧主卫-修改前后对照",
+      "resolution": [
+        2480,
+        1960
+      ],
+      "png_sha256": "4fb951293c1f5d159ed5325d48b99609052f5df2b46ad55c1dd46f3cd8a955da",
+      "svg_sha256": "3301fe08d35c3bbfddfe3fc145adaa9f79a960041bf8474d59c4539bba3ef59c"
+    }
+  ],
+  "text_bounds_passed": true,
+  "visual_inspection_pending": false,
+  "visual_inspection": "Before and after individually inspected; combined final inspected. No clipped labels; same source scale; changed and retained wall coloring distinguished.",
+  "svg_xml_parse_passed": true
+}

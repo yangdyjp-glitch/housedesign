@@ -1,0 +1,461 @@
+{
+  "status": "passed",
+  "revision": 20,
+  "officeVariant": "B",
+  "officeVariantStatus": "provisional",
+  "modelSha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+  "furnitureCount": 26,
+  "savedReopened": true,
+  "objects": [
+    {
+      "id": "tv-low",
+      "origin": [
+        0.0,
+        1800.0
+      ],
+      "bounds": {
+        "x": 0.0,
+        "z": 1800.0,
+        "y": 0.0,
+        "w": 400.0,
+        "d": 3200.0,
+        "h": 450.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "tv-high",
+      "origin": [
+        0.0,
+        5000.0
+      ],
+      "bounds": {
+        "x": 0.0,
+        "z": 5000.0,
+        "y": 0.0,
+        "w": 400.0,
+        "d": 3500.0,
+        "h": 2750.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "television",
+      "origin": [
+        30.0,
+        2450.0
+      ],
+      "bounds": {
+        "x": 30.0,
+        "z": 2450.0,
+        "y": 600.0,
+        "w": 70.0,
+        "d": 1900.0,
+        "h": 1100.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "sofa-modular",
+      "origin": [
+        3100,
+        1400
+      ],
+      "bounds": {
+        "x": 3100.0,
+        "z": 1400.0,
+        "y": 0.0,
+        "w": 1900.0,
+        "d": 3000.0,
+        "h": 850.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "ottoman",
+      "origin": [
+        3200,
+        4450
+      ],
+      "bounds": {
+        "x": 3200.0,
+        "z": 4450.0,
+        "y": 0.0,
+        "w": 850.0,
+        "d": 650.0,
+        "h": 430.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "side-table",
+      "origin": [
+        2550,
+        2850
+      ],
+      "bounds": {
+        "x": 2550.0,
+        "z": 2850.0,
+        "y": 0.0,
+        "w": 700.0,
+        "d": 1400.0,
+        "h": 400.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "double-desk",
+      "origin": [
+        5300.0,
+        2000.0
+      ],
+      "bounds": {
+        "x": 5300.0,
+        "z": 2000.0,
+        "y": 0.0,
+        "w": 700.0,
+        "d": 2400.0,
+        "h": 1270.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "office-chair-1",
+      "origin": [
+        5900.0,
+        2335.0
+      ],
+      "bounds": {
+        "x": 5870.0,
+        "z": 2320.0,
+        "y": 0.0,
+        "w": 560.0,
+        "d": 560.0,
+        "h": 950.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "bookcase",
+      "origin": [
+        6838.0,
+        1176.0
+      ],
+      "bounds": {
+        "x": 6838.0,
+        "z": 1176.0,
+        "y": 0.0,
+        "w": 350.0,
+        "d": 3600.0,
+        "h": 2750.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "origin": [
+        0,
+        10818
+      ],
+      "bounds": {
+        "x": 0.0,
+        "z": 10818.0,
+        "y": 0.0,
+        "w": 1271.0,
+        "d": 350.0,
+        "h": 2750.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "plant-balcony-tall",
+      "origin": [
+        150.0,
+        120.0
+      ],
+      "bounds": {
+        "x": 240.175,
+        "z": 206.494,
+        "y": 0.0,
+        "w": 522.208,
+        "d": 527.007,
+        "h": 1558.5
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "plant-tv-medium",
+      "origin": [
+        100.0,
+        1030.0
+      ],
+      "bounds": {
+        "x": 170.852,
+        "z": 1097.96,
+        "y": 0.0,
+        "w": 410.306,
+        "d": 414.077,
+        "h": 1036.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "plant-balcony-low",
+      "origin": [
+        1100.0,
+        200.0
+      ],
+      "bounds": {
+        "x": 1164.411,
+        "z": 261.782,
+        "y": 0.0,
+        "w": 373.006,
+        "d": 376.433,
+        "h": 671.5
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "washer",
+      "origin": [
+        6488.0,
+        170.0
+      ],
+      "bounds": {
+        "x": 6488.0,
+        "z": 170.0,
+        "y": 0.0,
+        "w": 650.0,
+        "d": 600.0,
+        "h": 880.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "dryer",
+      "origin": [
+        6488.0,
+        170.0
+      ],
+      "bounds": {
+        "x": 6488.0,
+        "z": 170.0,
+        "y": 880.0,
+        "w": 650.0,
+        "d": 600.0,
+        "h": 850.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "balcony-tea-table",
+      "origin": [
+        3300,
+        270
+      ],
+      "bounds": {
+        "x": 3300.0,
+        "z": 270.0,
+        "y": 0.0,
+        "w": 700.0,
+        "d": 700.0,
+        "h": 494.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "balcony-tea-chair-1",
+      "origin": [
+        2580,
+        320
+      ],
+      "bounds": {
+        "x": 2580.0,
+        "z": 320.0,
+        "y": 0.0,
+        "w": 520.0,
+        "d": 600.0,
+        "h": 580.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "balcony-tea-chair-2",
+      "origin": [
+        4160,
+        320
+      ],
+      "bounds": {
+        "x": 4200.0,
+        "z": 320.0,
+        "y": 0.0,
+        "w": 520.0,
+        "d": 600.0,
+        "h": 580.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-bed",
+      "origin": [
+        8645,
+        1826
+      ],
+      "bounds": {
+        "x": 8645.0,
+        "z": 1826.0,
+        "y": 100.0,
+        "w": 2150.0,
+        "d": 2150.0,
+        "h": 950.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-wardrobe",
+      "origin": [
+        7328,
+        1272
+      ],
+      "bounds": {
+        "x": 7328.0,
+        "z": 1272.0,
+        "y": 0.0,
+        "w": 600.0,
+        "d": 2500.0,
+        "h": 2750.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-vanity",
+      "origin": [
+        10345,
+        4196
+      ],
+      "bounds": {
+        "x": 10345.0,
+        "z": 4196.0,
+        "y": 250.0,
+        "w": 450.0,
+        "d": 800.0,
+        "h": 1880.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-toilet",
+      "origin": [
+        9323,
+        5350
+      ],
+      "bounds": {
+        "x": 9323.0,
+        "z": 5350.0,
+        "y": 0.0,
+        "w": 680.0,
+        "d": 400.0,
+        "h": 800.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "entry-piano-bench",
+      "origin": [
+        0,
+        8500
+      ],
+      "bounds": {
+        "x": 0.0,
+        "z": 8500.0,
+        "y": 0.0,
+        "w": 400.0,
+        "d": 1000.0,
+        "h": 2750.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "refrigerator",
+      "origin": [
+        2282,
+        6302.5
+      ],
+      "bounds": {
+        "x": 2261.0,
+        "z": 6302.5,
+        "y": 0.0,
+        "w": 771.0,
+        "d": 920.0,
+        "h": 1850.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "dining-sideboard-island",
+      "origin": [
+        1132,
+        6162.5
+      ],
+      "bounds": {
+        "x": 1132.0,
+        "z": 6162.5,
+        "y": 0.0,
+        "w": 1950.0,
+        "d": 3400.0,
+        "h": 2750.0
+      },
+      "move100AndRestore": true
+    },
+    {
+      "id": "office-divider",
+      "origin": [
+        5100,
+        2000
+      ],
+      "bounds": {
+        "x": 5100.0,
+        "z": 2000.0,
+        "y": 0.0,
+        "w": 1735.0,
+        "d": 2600.0,
+        "h": 950.0
+      },
+      "move100AndRestore": true
+    }
+  ],
+  "walls": 62,
+  "glass": 12,
+  "architectureUnchanged": true,
+  "v19Unchanged": true,
+  "sourceCounts": {
+    "dining": {
+      "refrigerator": 6,
+      "dining-sideboard-island": 119,
+      "dining-pendant": 2
+    },
+    "office": {
+      "double-desk": 26,
+      "bookcase": 54,
+      "office-divider": 8
+    }
+  },
+  "retiredIds": [
+    "dining-table",
+    "dining-chair-1",
+    "dining-chair-2",
+    "dining-chair-3",
+    "dining-chair-4"
+  ],
+  "sourceFiles": {
+    "dining": {
+      "path": "09_delivery/sideboard-U-study-11/短连接长餐台-胡桃白冰箱圆边-独立11.blend",
+      "sha256": "550c093dfc600121e486044424033bb11c451965dd8e072e476fa3432b185387"
+    },
+    "office": {
+      "path": "09_delivery/office-study-02/B/办公区-B-近端半墙远端敞开-独立02.blend",
+      "sha256": "6e54cfa4465ff0175d881c03151b340a6a58179c1e3f5343cc7f20812c2faa41"
+    }
+  },
+  "presentationMetadataConfirmed": true
+}

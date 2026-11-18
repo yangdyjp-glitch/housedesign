@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "promotedToActive": true,
+  "implementationPhase": "full-design",
+  "modelSha256": "0be76a9211d7130e1ad52aa642049a48ede6e5cb468f04dd2eee097825bec450",
+  "geometrySha256": "d0e845b52223128eefbb7636a9c1ad105479d8aef9917a5d98b56d68dd9fbb6c",
+  "styleSha256": "42c9fc094e271d5f816061513ec804835c1fffe6094bfbe8b4d60c30b364390b",
+  "furnitureCount": 28,
+  "retainedOriginsChanged": 0,
+  "localLinksChecked": 29,
+  "photographicImagesChecked": 8,
+  "nativeImagesChecked": 16,
+  "spheres": 4,
+  "oldModelGeometryAndStylePreserved": true,
+  "activeInlineSha256": "64a23c8b8c10fba23729eeceea51f07f42101a37688ca6c50fdcb7c238d7892f",
+  "nativeAndInteractiveAndPanoramaLogicPassed": true,
+  "liveBlenderMoveVerified": true,
+  "realBrowserVisualQA": false,
+  "headsetTested": false,
+  "actualCurtainRotationGapMm": 35.461
+}

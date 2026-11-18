@@ -1,0 +1,62 @@
+{
+  "main_unchanged": true,
+  "main_sha256": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "local_links_valid": true,
+  "diagram_pixels": [
+    2400,
+    1520
+  ],
+  "source": "current v19 wall and detached04 geometry",
+  "geometry_readback": {
+    "table": {
+      "x": [
+        1900.0,
+        2650.0
+      ],
+      "y_depth": [
+        300.0,
+        1700.0
+      ],
+      "height": [
+        720.0,
+        750.0
+      ]
+    },
+    "right_panel": {
+      "x": [
+        1182.0,
+        1200.0
+      ],
+      "y_depth": [
+        -0.0,
+        450.0
+      ],
+      "height": [
+        0.0,
+        2750.0
+      ]
+    },
+    "opaque_doors": [
+      "right-opaque-door-05",
+      "right-opaque-top-door-05",
+      "right-opaque-door-05.001",
+      "right-opaque-top-door-05.001"
+    ],
+    "model": "无玻璃餐边柜-L尺寸修订.blend",
+    "kind": "actual detached Blender object bounds; main model unchanged"
+  },
+  "no_new_ai_render": true,
+  "review": "same assistant; geometry and diagram reviewed",
+  "unsolved": [
+    "site measurement",
+    "actual fridge ventilation and door/drawer sweep",
+    "actual chair selection and body movement",
+    "lower drawer access with chairs in place"
+  ]
+}

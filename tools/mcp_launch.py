@@ -1,10 +1,9 @@
-"""Local MCP entrypoint: ensure the managed Blender bridge, then run upstream MCP."""
+"""Local MCP entrypoint: start Blender only when a live request needs it."""
 from pathlib import Path
 import json, os, socket, subprocess, sys, time
 
 ROOT=Path(__file__).resolve().parents[1]
 BLENDER=ROOT/'tools/runtime/blender/blender-4.5.15-windows-x64/blender.exe'
-SERVER=ROOT/'tools/runtime/mcp-env/Scripts/mcp-for-blender.exe'
 ENV=os.environ.copy()
 ENV.update(DISABLE_TELEMETRY='true',BLENDER_MCP_SAFE_MODE='1',BLENDERMCP_NO_UPDATE_CHECK='1',BLENDER_HOST='127.0.0.1',BLENDER_PORT='9876',PYTHONUTF8='1')
 
@@ -36,10 +35,34 @@ def ensure_bridge():
         time.sleep(0.3)
     raise RuntimeError('Blender bridge did not listen on 127.0.0.1:9876 within 30 seconds')
 
+def run_mcp():
+    # Set these before importing upstream modules, which read settings at import.
+    os.environ.update(ENV)
+    os.chdir(ROOT)
+    from blender_mcp import server
+
+    connect = server.BlenderConnection.connect
+
+    def connect_on_demand(connection):
+        if connection.sock:
+            return True
+        try:
+            # MCP discovery and the startup probe have no request context.
+            # Only tools/resources that actually connect may launch Blender.
+            server.mcp.get_context().request_context
+        except ValueError:
+            return False
+        ensure_bridge()
+        return connect(connection)
+
+    server.BlenderConnection.connect = connect_on_demand
+    server.main()
+
+
 if __name__=='__main__':
-    ensure_bridge()
     if '--bridge-only' in sys.argv:
+        ensure_bridge()
         print('Blender bridge ready at 127.0.0.1:9876')
     else:
         # Do not print to stdout: it belongs exclusively to the MCP transport.
-        raise SystemExit(subprocess.call([str(SERVER),'--host','127.0.0.1','--port','9876'],env=ENV,cwd=ROOT))
+        run_mcp()

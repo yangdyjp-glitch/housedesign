@@ -1,0 +1,352 @@
+{
+  "date": "2026-11-06",
+  "status": "independent09; owner-selected U, same colour880-high surfaces, full uppers with pull-down access",
+  "user_confirmed": [
+    "L内侧只作取物，椅子放外侧",
+    "三把常用，第四把备用，优先保留通道",
+    "餐边柜与冰箱门面齐平，允许重新设计L餐岛尺寸和座位分布",
+    "置物台与餐岛等高880",
+    "整个置物区与餐岛呈U字型、统一颜色",
+    "红框处延续置物区样式",
+    "蓝框不可用高位区取消独立分格",
+    "保留完整上柜，配下拉收纳，让高处也能取物"
+  ],
+  "designer_proposal": true,
+  "main_model_modified": false,
+  "v20_started": false,
+  "units": "mm",
+  "coordinate_mapping": "u=global z-6090-72.5; v=3082-global x; Blender=(u,-v,height)/1000",
+  "source_wall": "v19/lower-narrow-left-end",
+  "wall_length": 3545,
+  "room_width": 3082,
+  "measurements_provisional": true,
+  "opposite_existing_cabinet_depth": 400,
+  "fridge": {
+    "zone": [
+      0,
+      1200
+    ],
+    "body": [
+      920,
+      750,
+      1850
+    ],
+    "bbox": {
+      "u": 140,
+      "v": 50,
+      "w": 920,
+      "d": 750
+    },
+    "front_plane_v": 800,
+    "selected_model": null,
+    "type": "ordinary two vertical doors",
+    "ventilation_and_full_door_sweep": "unverified until a model is selected; 140 side zones are not certified installation clearances"
+  },
+  "sideboard": {
+    "wall_range": [
+      1200,
+      3400
+    ],
+    "width": 2200,
+    "overall_depth": 800,
+    "height": 2750,
+    "former_base_depth": 450,
+    "base_depth_increase": 350,
+    "front_plane_v": 800,
+    "upper_usable_depth": 350,
+    "upper_back_plane_v": 450,
+    "upper_door_front_v": 800,
+    "closed_thin_band_depth": 220,
+    "closed_thin_front_v": 800,
+    "counter_height": 880,
+    "niche_height": 600,
+    "niche_back_plane_v": 450,
+    "niche_usable_depth": 332,
+    "upper_stages": [
+      {
+        "name": "base",
+        "z": [
+          0,
+          880
+        ]
+      },
+      {
+        "name": "open-niche",
+        "z": [
+          880,
+          1480
+        ]
+      },
+      {
+        "name": "closed-thin-flap",
+        "z": [
+          1480,
+          1730
+        ]
+      },
+      {
+        "name": "upper",
+        "z": [
+          1730,
+          2700
+        ]
+      }
+    ],
+    "ceiling_closure": [
+      2700,
+      2750
+    ],
+    "doors": "opaque; no glass",
+    "horizontal_drawer_count": 3,
+    "drawer_bank_wall_range": [
+      2700,
+      3400
+    ],
+    "drawer_front_width": 694,
+    "drawer_box_depth": 550,
+    "upper_storage_rule": "only movable trays carry stored items; no separate unreachable fixed top shelf or independent high door",
+    "connection": {
+      "wall_range": [
+        1600,
+        2050
+      ],
+      "fixed_support_top": 850,
+      "rule": "support and front loading zone, not a fake operable blind cupboard"
+    },
+    "left_400_module": "fixed panel and fridge-side buffer; not advertised as an accessible cupboard behind the chairs",
+    "original_reference_retained": [
+      "four stages",
+      "slim closed flap band",
+      "three horizontal drawers",
+      "dark walnut middle",
+      "light opaque doors",
+      "handleless"
+    ],
+    "niche_full_width": 2200,
+    "right_tall_column_removed": true,
+    "thin_band_full_width": 2200,
+    "niche_clear_width_to_end_panel": 2182,
+    "complete_upper_modules": [
+      {
+        "u": 1200,
+        "w": 600
+      },
+      {
+        "u": 1800,
+        "w": 500
+      },
+      {
+        "u": 2300,
+        "w": 500
+      },
+      {
+        "u": 2800,
+        "w": 600
+      }
+    ],
+    "upper_clear_inside_depth": 313,
+    "upper_clear_inside_height": 934
+  },
+  "chairs": [
+    {
+      "id": "outside-living-chair-1",
+      "u": 1230,
+      "v": 860,
+      "w": 520,
+      "d": 480,
+      "face": "plus-u",
+      "role": "daily"
+    },
+    {
+      "id": "outside-living-chair-2",
+      "u": 1230,
+      "v": 1460,
+      "w": 520,
+      "d": 480,
+      "face": "plus-u",
+      "role": "daily"
+    },
+    {
+      "id": "outside-kitchen-chair-3",
+      "u": 2250,
+      "v": 1460,
+      "w": 520,
+      "d": 480,
+      "face": "minus-u",
+      "role": "daily"
+    }
+  ],
+  "full_chair_size": [
+    520,
+    480,
+    980
+  ],
+  "extra_pullout": 250,
+  "spare_chair": {
+    "count": 1,
+    "visible_in_default": false,
+    "stored_location_mm": null,
+    "rule": "spare stored separately; no imaginary cabinet garage or unverified deployment position"
+  },
+  "clearances": {
+    "inner_retrieval_closed_front": 600,
+    "outer_continuous_furniture_gap": 682,
+    "kitchen_end_chair_back_to_boundary": 702.5,
+    "kitchen_end_chair_pulled250_to_boundary": 452.5,
+    "living_end_chair_back_to_fridge_u_end": 170,
+    "between_living_chairs": 120,
+    "obsolete07_outer832": false
+  },
+  "evaluation": {
+    "layout": "compact trade-off, not generous circulation",
+    "no_chair_in_retrieval_strip": true,
+    "outer_long_edge_has_no_chair": true,
+    "retrieval": "inner600 is closed-front furniture gap only; basket deployed is a temporary retrieval operation, not a through route",
+    "drawers": "700-wide drawer bank is beyond L free end u2400; 550 extension still needs a person-use check near end chair",
+    "fridge": "body no-overlap verified, door sweep and ventilation not certified",
+    "aesthetic": "continuous pale-oak U and full-width illuminated niche; no separate high right door",
+    "unknowns": [
+      "site dimensions",
+      "selected refrigerator installation manual",
+      "chair model and human movement",
+      "drawer/door hardware",
+      "ceiling finished level"
+    ],
+    "no_unreachable_storage_promised": "all upper stored items assigned to moving trays; product selection and reach still pending"
+  },
+  "main_baseline_sha256": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "chair_seat_height": 600,
+  "chair_footrest_height": 210,
+  "colour_rule": "continuous U tabletop, niche back and closed thin band pale oak; upper/lower opaque fronts warm white; walnut chair frames and sage/navy seats retained",
+  "supersedes": [
+    "08 height750 versus880 step",
+    "08 right closed tall column",
+    "08 separate right high cupboard"
+  ],
+  "source_annotation": "references/业主U形与收纳批注.png",
+  "dining_U": {
+    "outline": [
+      [
+        1200,
+        0
+      ],
+      [
+        3400,
+        0
+      ],
+      [
+        3400,
+        800
+      ],
+      [
+        2050,
+        800
+      ],
+      [
+        2050,
+        1400
+      ],
+      [
+        2400,
+        1400
+      ],
+      [
+        2400,
+        2000
+      ],
+      [
+        1600,
+        2000
+      ],
+      [
+        1600,
+        800
+      ],
+      [
+        1200,
+        800
+      ]
+    ],
+    "top_height": 880,
+    "top_underside": 850,
+    "thickness": 30,
+    "continuous_object": "continuous-U-top-880-09",
+    "island_corner_radius": 60,
+    "wall_side": [
+      2200,
+      800
+    ],
+    "connecting_arm_outside_cabinet": [
+      1200,
+      450
+    ],
+    "outside_dining_arm": [
+      800,
+      600
+    ],
+    "inward_opening": "kitchen end; unequal U legs inherited to protect entry turn",
+    "inner_clear_width": 600,
+    "material": "pale oak; same material slot throughout",
+    "cabinet_table_step": 0
+  },
+  "pull_down": {
+    "owner_confirmed": true,
+    "modules_nominal_widths": [
+      600,
+      500,
+      500,
+      600
+    ],
+    "installation_concept": "two moving trays per module, full upper doors; no fixed high storage layer",
+    "reference": "iMove-type 500/600 double tray; no specific order selected",
+    "internal_depth": 313,
+    "internal_height": 934,
+    "schematic_forward_translation": 385,
+    "schematic_down_translation": 385,
+    "closed_tray_levels": [
+      1890,
+      2114
+    ],
+    "illustrative_deployed_tray_levels": [
+      1505,
+      1729
+    ],
+    "animation_frames": {
+      "closed": 1,
+      "right_door_open": 30,
+      "right_basket_forward": 45,
+      "right_basket_deployed": 60
+    },
+    "verified": "basic cabinet envelope compared with manufacturer guidance; not installation approval",
+    "pending": [
+      "specific hardware revision",
+      "mount position and payload clearance",
+      "actual stroke and swept volume",
+      "user reach and side-access station beside connecting arm",
+      "upper door opening and lighting profiles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kesseboehmer.com/en/storage-solutions/kitchen/wall-units/imove",
+        "checked": "2026-11-06",
+        "fact": "pulls contents down and forward; double from710 cabinet height"
+      },
+      {
+        "url": "https://shop.hettich.com/pl_EN/Further-products/Interior-Fittings/Wall-unit-interior-fittings/iMove-Double,-2-tier,-565-mm,-Silber/p/9207569",
+        "checked": "2026-11-06",
+        "fact": "example600 nominal, inside562–568, product depth267 and height565; min inside height710"
+      },
+      {
+        "url": "https://kesseboehmer.world/download/iMove-EN.pdf",
+        "checked": "2026-11-06",
+        "fact": "500/600 nominal and minimum270 inside depth in example hinged configuration; historical brochure, not a current order specification"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": "reviewed",
+  "photographicViews": 8,
+  "nativeViews": 16,
+  "savedPhotographicFilesOpened": true,
+  "sourceMethod": "built-in image_gen anchored to same-version native renders",
+  "corrections": [
+    "dining panorama pendant restored and invented exterior seating removed",
+    "balcony close/photo and sphere: extra tea-area rug removed",
+    "entry sphere: invented external furniture / washer reflection removed"
+  ],
+  "remainingConceptualDifferences": [
+    "wood/cloth/plant microdetail",
+    "illustrative distant view and daylight",
+    "small perspective, reflection and prop variations"
+  ],
+  "edgeStatistics": [
+    {
+      "id": "living",
+      "edgeMeanAbsoluteDifference": 8.732,
+      "note": "descriptive pixel comparison only; not headset or seamlessness certification"
+    },
+    {
+      "id": "dining",
+      "edgeMeanAbsoluteDifference": 8.404,
+      "note": "descriptive pixel comparison only; not headset or seamlessness certification"
+    },
+    {
+      "id": "balcony",
+      "edgeMeanAbsoluteDifference": 7.279,
+      "note": "descriptive pixel comparison only; not headset or seamlessness certification"
+    },
+    {
+      "id": "entry",
+      "edgeMeanAbsoluteDifference": 9.647,
+      "note": "descriptive pixel comparison only; not headset or seamlessness certification"
+    }
+  ],
+  "browserVisualQA": false,
+  "headsetTested": false
+}

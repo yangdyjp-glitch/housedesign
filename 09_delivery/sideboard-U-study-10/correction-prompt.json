@@ -1,0 +1,9 @@
+{
+  "tool": "built-in image_gen",
+  "reason": "Remove the apparent raised overlap at the otherwise coplanar880mm U root; preserve shape and no-seating state.",
+  "references": [
+    "开关灯概念-接缝待修初稿.png",
+    "端头起步加长U-实体关系参考.png"
+  ],
+  "prompt": "Precise local geometry correction to Input1 (the OFF/ON photographic diptych). Input2 is the authoritative one-piece U geometry.\nChange ONLY the countertop junction near the refrigerator / beneath the small wooden tray. Input1 incorrectly shows the projecting cross arm layered ON TOP of the rear worktop, with a raised lip/overlap line at the root. Remove that raised seam and double thickness in BOTH panels. The complete U must be coplanar at exactly880mm: rear worktop, cross arm and long dining return all share the same top plane. One30mm thickness, continuous same pale oak. A hairline flush join is permissible, never a vertical ledge, step or overlapping plank.\nPreserve exactly: root at the cabinet left end immediately beside fridge; larger U with1400mm outside return and open600×950 inner notch; all rounded edges; two slim wood support legs; full-width oak niche and band; complete white closed uppers without extra high-right door; two-door closed fridge/louver; three right drawers; floor/ceiling/camera/exposure/props. NO chairs, stools, benches or people.\nKeep the same photographic OFF-left/ON-right layout: paper pendant remains in both, daylight in both, niche and pendant illuminated only on right. No text beyond OFF/ON. Do not shrink or move the U or reintroduce the old400mm inset start.\nDistinctive marker: U10-FLUSH-JOIN-CORRECTION-ONLY."
+}

@@ -1,0 +1,11 @@
+{
+  "mode": "built-in image_gen",
+  "reason": "Far-crosspiece removal accidentally erased upholstered chaise arm; restore this invariant only.",
+  "prompt": "Use case: precise-object-edit. Repair ONE accidental change in image1, the C two-panel board: the previous edit erased the cream upholstered raised arm/back across the BALCONY END OF THE CHAISE SOFA. Restore that UPHOLSTERED SOFA ARM, as in image2 and the native geometry in image3. It is the cream fabric-padded horizontal member directly behind the chaise cushion, not a separate ledge or beam. It belongs to the sofa. Restore ONLY this upholstered sofa arm in both OFF and ON panels, preserving tactile cream fabric. Keep the floor/glass beyond it OPEN; do not restore any separate timber or ivory furniture beam behind the arm and do not create any crossbar or end cabinet in the office entry. Preserve image1's foreground warm-white SOLID HALF-WALL and matching ivory cap extending to right bookcase, retained LONG sofa-back ivory ledge,750 worktop,all furniture coordinates,one34-inch monitor,one chair,props,exact crop,window,exterior guardrail,daylight and left OFF/right ON lights and labels. Do not remove or reshape any other sofa part. No other changes.",
+  "referenced_image_paths": [
+    "C:/Users/Administrator/.codex/generated_images/01a187d1-69cc-73a1-805e-834e8e8bb476/exec-7836db6d-f4f4-4da5-8aff-45cddd94b250.png",
+    "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/C/C-半墙初稿.png",
+    "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/C/C-OFF-半墙敞开端实体参考.png"
+  ],
+  "transparent_background": false
+}

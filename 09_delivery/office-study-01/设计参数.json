@@ -1,0 +1,143 @@
+{
+  "common": {
+    "units": "mm",
+    "status": "independent proposals; not applied to main v19; v20 not started",
+    "sourceGeometry": "02_geometry/geometry-master-v19.json",
+    "sourceSha256": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "axisMapping": "main plan (x,z,height) mm -> Blender (x/1000,-z/1000,height/1000) m",
+    "workingTop": {
+      "x": 5300,
+      "z": 2000,
+      "widthX": 700,
+      "lengthZ": 2400,
+      "topHeight": 750,
+      "thickness": 30,
+      "planCornerRadius": 60
+    },
+    "longLedge": {
+      "x": 5100,
+      "z": 1800,
+      "widthX": 200,
+      "lengthZ": 2600,
+      "topHeight": 950
+    },
+    "shortReturn": {
+      "x": 5270,
+      "z": 1800,
+      "widthX": 730,
+      "lengthZ": 200,
+      "topHeight": 950,
+      "fullLengthIncludingLongLedge": 900,
+      "overlapWithLongLedge": 30,
+      "nominalExposedReturnBeyondLongLedge": 700
+    },
+    "overallFootprint": {
+      "x": 5100,
+      "z": 1800,
+      "widthX": 900,
+      "lengthZ": 2600
+    },
+    "sofaBackMaxX": 5000,
+    "sofaToLedgeGap": 100,
+    "ledgeToWorkingTopHeightDifference": 200,
+    "chairUnchanged": {
+      "id": "office-chair-1",
+      "origin": [
+        5900,
+        2335
+      ],
+      "meshBounds": {
+        "x": 5870,
+        "z": 2320,
+        "w": 560,
+        "d": 560,
+        "h": 950
+      }
+    },
+    "bookcaseFrontX": 6838,
+    "chairRearFurnitureGap": 408,
+    "deskEdgeToBookcaseGap": 838,
+    "monitor": {
+      "count": 1,
+      "diagonalInches": 34,
+      "conceptBodyMm": [
+        810,
+        87,
+        370
+      ],
+      "placement": "on seated 750 mm desktop, never on raised ledge",
+      "facing": "positive-x, user faces negative-x toward TV"
+    },
+    "commonLighting": {
+      "ledgeStripCctK": 3000,
+      "taskLampSuggestedCctK": [
+        3500,
+        4000
+      ],
+      "ambientCctK": 3000,
+      "independentCircuits": [
+        "concealed ledge light",
+        "adjustable task lamp",
+        "existing ambient/cove"
+      ],
+      "targetWorkplaneLux": [
+        300,
+        500
+      ],
+      "luxStatus": "design target, not measured or photometrically calculated"
+    },
+    "assumptions": [
+      "950 high ledge is a designer proposal, not a measured requirement",
+      "100 gap behind sofa needs end access or removable ledge for cleaning",
+      "408 chair rear furniture gap is inherited; not an approved occupied circulation route",
+      "no new rear partition or overhead cabinet; existing bookcase and bedroom boundary retained",
+      "all top supports and wiring are design intent, no structural certification",
+      "OFF means all artificial lighting off with same daylight retained; monitor screen also non-emissive"
+    ]
+  },
+  "variants": [
+    {
+      "id": "A",
+      "title": "浅木薄片",
+      "ledgeThickness": 30,
+      "ledgeRadius": 35,
+      "ledgeFinish": "pale natural oak matte",
+      "desktopFinish": "pale natural oak matte",
+      "accent": "sage textile chair, small navy lamp",
+      "support": "three slim pale-oak supports at sofa edge, one rounded end panel",
+      "storage": "one shallow suspended drawer at unused end, 500 x 400 x 100; no drawer across primary knee zone",
+      "design": "the quietest continuation of pale oak and warm-white room; thin L ledge with recessed light line"
+    },
+    {
+      "id": "B",
+      "title": "深木框景",
+      "ledgeThickness": 45,
+      "ledgeRadius": 45,
+      "ledgeFinish": "matte smoked walnut",
+      "desktopFinish": "pale natural oak matte",
+      "accent": "muted sage end cabinet, navy task lamp",
+      "support": "walnut portal supports, sage storage body under short return",
+      "storage": "short-return shallow cabinet 500 x 200 x 720 overall; for small objects, not deep A4 files",
+      "design": "dark walnut outlines the whole raised L, sage closed end cabinet balances depth without a new wall"
+    },
+    {
+      "id": "C",
+      "title": "奶油圆弧",
+      "ledgeThickness": 35,
+      "ledgeRadius": 80,
+      "ledgeFinish": "matte warm-ivory solid surface",
+      "desktopFinish": "pale natural oak matte",
+      "accent": "navy shallow drawer and ivory supports, green plant",
+      "support": "matching ivory rounded posts with a concealed dark under-top frame",
+      "storage": "one navy suspended drawer 500 x 400 x 100 at unused end",
+      "design": "a smooth ivory ribbon with large rounded exposed ends contrasts with the pale-wood seated worktop"
+    }
+  ],
+  "baselineHashes": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  }
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4250 3450" role="img">
+<defs><pattern id="vents" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 10H20" stroke="#7b7c78" stroke-width="4"/></pattern></defs>
+<rect width="4250" height="3450" fill="#faf9f5"/>
+<style>text{font-family:Microsoft YaHei,Arial,sans-serif;fill:#303832}.dim{stroke:#70786d;stroke-width:3;fill:none}.join{stroke:#7a8076;stroke-width:2}</style>
+<text x="240" y="100" text-anchor="start" font-size="54">B  灰苔绿 × 浅橡木｜独立立面参数，非加工图</text>
+<text x="240" y="165" text-anchor="start" font-size="32">单位 mm · 2750为模型暂拟完成面 · 左靠客厅，右靠餐厨门</text>
+<rect x="240" y="300" width="3400" height="2750" fill="#ebe8df" stroke="#777f73" stroke-width="3"/>
+<rect x="240" y="300" width="50" height="2750" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="3590" y="300" width="50" height="2750" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="290" y="850" width="1200" height="2200" fill="#646a65" stroke="#777f73" stroke-width="3"/>
+<rect x="308" y="850" width="1164" height="2200" fill="#515952" stroke="#777f73" stroke-width="3"/>
+<rect x="430" y="1200" width="920" height="1850" fill="#414747" stroke="#777f73" stroke-width="3"/>
+<rect x="888" y="1200" width="4" height="1850" fill="#171f1d" stroke="#777f73" stroke-width="3"/>
+<rect x="308" y="850" width="1164" height="350" fill="url(#vents)" stroke="#777f73" stroke-width="3"/>
+<rect x="290" y="350" width="1200" height="500" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="889" y="350" width="2" height="500" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="240" y="300" width="3400" height="50" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2970" width="2100" height="80" fill="#73776d" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2170" width="2100" height="800" fill="#8e9d8b" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2150" width="2100" height="20" fill="#d8d5cc" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="1500" width="2100" height="650" fill="#c9b18d" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="1250" width="2100" height="250" fill="#bfa581" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="350" width="2100" height="900" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="1909.0" y="350" width="2" height="900" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2329.0" y="350" width="2" height="900" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2749.0" y="350" width="2" height="900" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="3169.0" y="350" width="2" height="900" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2189.0" y="1250" width="2" height="250" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2889.0" y="1250" width="2" height="250" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2190" y="2170" width="2" height="800" fill="#6c7f69" stroke="#777f73" stroke-width="3"/>
+<rect x="2890" y="2170" width="2" height="800" fill="#6c7f69" stroke="#777f73" stroke-width="3"/>
+<rect x="3490" y="2170" width="2" height="800" fill="#6c7f69" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2701.3333333333335" width="700" height="2" fill="#8b8d80" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2434.6666666666665" width="700" height="2" fill="#8b8d80" stroke="#777f73" stroke-width="3"/>
+<text x="890.0" y="3230" text-anchor="middle" font-size="35">冰箱模块 1200</text>
+<text x="2540.0" y="3230" text-anchor="middle" font-size="35">操作收纳 2100</text>
+<path class="dim" d="M240 3300H3640M240 3265V3335M3640 3265V3335"/>
+<text x="1940" y="3400" text-anchor="middle" font-size="38">总宽3400（含两端各50收口/调整带）</text>
+<text x="890" y="3110" text-anchor="middle" font-size="31">冰箱机身920×750×1850</text>
+<text x="890" y="3160" text-anchor="middle" font-size="31">洞口净1164宽 / 2200高</text>
+<text x="2540.0" y="3110" text-anchor="middle" font-size="33">台面深450 / 上柜深320 / 薄柜深250</text>
+<path class="dim" d="M3840 300V350M3822 300H3858M3822 350H3858"/>
+<text x="3885" y="337.0" text-anchor="start" font-size="31">顶部收口 50</text>
+<path class="dim" d="M3840 350V1250M3822 350H3858M3822 1250H3858"/>
+<text x="3885" y="812.0" text-anchor="start" font-size="31">上柜 900</text>
+<path class="dim" d="M3840 1250V1500M3822 1250H3858M3822 1500H3858"/>
+<text x="3885" y="1387.0" text-anchor="start" font-size="31">薄柜 250</text>
+<path class="dim" d="M3840 1500V2150M3822 1500H3858M3822 2150H3858"/>
+<text x="3885" y="1837.0" text-anchor="start" font-size="31">操作净高 650</text>
+<path class="dim" d="M3840 2150V3050M3822 2150H3858M3822 3050H3858"/>
+<text x="3885" y="2612.0" text-anchor="start" font-size="31">台面完成高 900</text>
+</svg>

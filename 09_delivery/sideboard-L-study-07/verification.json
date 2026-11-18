@@ -1,0 +1,57 @@
+{
+  "owner_confirmed": "三把常用，第四把备用，优先保留通道",
+  "main_unchanged": true,
+  "main_sha256": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "images": [
+    {
+      "file": "三椅日常-开关灯概念对照.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "4f1d058a2f6917e6478bdc04f08b65b747979a19c3927ce726280d677883edb0"
+    },
+    {
+      "file": "三常用一备用-默认平面.png",
+      "size": [
+        1300,
+        1700
+      ],
+      "sha256": "52d3c0e77c55c31e34a8919b05309a5afb33f3cb317d67479e58a7b8b5c741ad"
+    },
+    {
+      "file": "三椅日常-实体关系参考.png",
+      "size": [
+        1600,
+        1200
+      ],
+      "sha256": "ce969507d95321a6eae836855c68045ace20ae1a5a36df4646a5be09c8b9ab52"
+    }
+  ],
+  "local_links_valid": 10,
+  "model_readback": {
+    "source": "saved independent07 reopened",
+    "visible_seat_count": 3,
+    "spare_parts_hidden": [
+      "outside-chair-4-seat",
+      "outside-chair-4-back",
+      "outside-chair-4-leg",
+      "outside-chair-4-leg.001",
+      "outside-chair-4-leg.002",
+      "outside-chair-4-leg.003"
+    ],
+    "storage_location_unselected": true,
+    "main_model_modified": false
+  },
+  "visible_chairs": 3,
+  "stored_spare_model_retained": true,
+  "spare_storage_position_unselected": true,
+  "scope": "independent proposal07 only; no v20",
+  "review": "same assistant; images inspected and detached model saved/reopened"
+}

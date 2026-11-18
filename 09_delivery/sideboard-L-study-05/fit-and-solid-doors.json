@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-05",
+  "status": "independent dimension-led revision, three styling candidates remain unselected",
+  "units": "mm",
+  "source_wall": "geometry-master-v19.json/lower-narrow-left-end",
+  "wall_length": 3545,
+  "dining_width": 3082,
+  "opposite_cabinet_depth": 400,
+  "wall_span_offset": 72.5,
+  "run_width": 3400,
+  "run": {
+    "fridge_zone": [
+      0,
+      1200
+    ],
+    "sideboard": [
+      1200,
+      3400
+    ]
+  },
+  "latest_owner_requirement": "No glass sideboard doors; applies to A/B/C. Retain four stages, three drawers, opaque fronts; supersedes glass detail from original reference.",
+  "table": {
+    "size": [
+      1400,
+      750,
+      750
+    ],
+    "x": [
+      1900,
+      2650
+    ],
+    "y": [
+      300,
+      1700
+    ],
+    "connection_shift_towards_kitchen": 250,
+    "embedded_mm": 150
+  },
+  "chairs": [
+    {
+      "id": "chair05-fridge-1",
+      "x": 1530,
+      "y": 550,
+      "w": 520,
+      "d": 480,
+      "facing_x": 1
+    },
+    {
+      "id": "chair05-fridge-2",
+      "x": 1530,
+      "y": 1150,
+      "w": 520,
+      "d": 480,
+      "facing_x": 1
+    },
+    {
+      "id": "chair05-kitchen-1",
+      "x": 2500,
+      "y": 550,
+      "w": 520,
+      "d": 480,
+      "facing_x": -1
+    },
+    {
+      "id": "chair05-kitchen-2",
+      "x": 2500,
+      "y": 1150,
+      "w": 520,
+      "d": 480,
+      "facing_x": -1
+    }
+  ],
+  "chair_full_size": [
+    520,
+    480,
+    850
+  ],
+  "under_table_insertion": 150,
+  "extra_pullout_trial": 250,
+  "fridge": {
+    "body": [
+      920,
+      750,
+      1850
+    ],
+    "box": {
+      "x": 140,
+      "y": 50,
+      "w": 920,
+      "d": 750
+    },
+    "right_side_panel_depth": 450,
+    "ventilation": "Actual model clearances, free area and doors still unverified; no universal zero-gap claim"
+  },
+  "measured_clearances": {
+    "table_end_bypass": 982,
+    "table_edge_to_fridge_body": 840,
+    "table_edge_to_kitchen_boundary": 822.5,
+    "occupied_chair_back_to_fridge": 470,
+    "occupied_chair_back_to_kitchen_boundary": 452.5,
+    "extra250pullout_fridge": 220,
+    "extra250pullout_kitchen": 202.5
+  },
+  "old_issue": {
+    "fridge_side_chair_back_to700deep_panel": 150,
+    "pullout250_collision": true,
+    "overlap_mm2": 4500
+  },
+  "verdict": "1400x750 tabletop fits current provisional room. Original four-chair placement has a deterministic pull-out clash. Corrected L connection and shorter fridge-side panel allow the assumed compact four chairs, but not simultaneous passage behind pulled chairs.",
+  "limits": [
+    "Wall/dining dimensions are provisional, not field survey",
+    "Full chair envelope selected520x480, actual product must be checked",
+    "Keep main passage at table free end; side clearances are seating space, not walking lanes",
+    "Three lower drawers and part of lower storage need adjacent chair moved before access",
+    "Refrigerator door/drawer sweep, real ventilation, kitchen door net opening and human body trials not yet validated",
+    "No glass sideboard doors; dining-kitchen glass sliding door and balcony glazing remain outside this change"
+  ],
+  "main_model_modified": false,
+  "v20_started": false,
+  "sources": [
+    {
+      "title": "IKEA dining guide",
+      "url": "https://www.ikea.com/sg/en/rooms/dining/dining-room-guide-pub21ad8080/",
+      "use": "800 table-edge clearance and600 seating width as design guidance, not local mandatory standard"
+    }
+  ]
+}

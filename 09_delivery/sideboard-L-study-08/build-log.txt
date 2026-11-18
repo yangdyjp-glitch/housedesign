@@ -1,0 +1,149 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Fra:1 Mem:21.30M (Peak 23.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | wall
+Fra:1 Mem:21.30M (Peak 23.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-body
+Fra:1 Mem:21.30M (Peak 23.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-two-door
+Fra:1 Mem:23.41M (Peak 23.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-two-door.001
+Fra:1 Mem:23.42M (Peak 23.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-centre-reveal
+Fra:1 Mem:23.44M (Peak 23.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-pull
+Fra:1 Mem:23.44M (Peak 23.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-pull.001
+Fra:1 Mem:23.43M (Peak 23.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left-end-panel
+Fra:1 Mem:23.47M (Peak 23.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-right-side-panel
+Fra:1 Mem:23.54M (Peak 23.54M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-service-dark-back
+Fra:1 Mem:23.63M (Peak 23.63M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre
+Fra:1 Mem:23.64M (Peak 23.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.001
+Fra:1 Mem:23.66M (Peak 23.66M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.002
+Fra:1 Mem:23.66M (Peak 23.66M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.003
+Fra:1 Mem:23.73M (Peak 23.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.004
+Fra:1 Mem:23.80M (Peak 23.80M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.005
+Fra:1 Mem:23.80M (Peak 23.80M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.006
+Fra:1 Mem:23.84M (Peak 23.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.007
+Fra:1 Mem:23.87M (Peak 23.87M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.008
+Fra:1 Mem:23.92M (Peak 23.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.009
+Fra:1 Mem:23.94M (Peak 23.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.010
+Fra:1 Mem:23.99M (Peak 23.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.012
+Fra:1 Mem:23.97M (Peak 23.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.013
+Fra:1 Mem:24.15M (Peak 24.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | niche-led-profile
+Fra:1 Mem:24.13M (Peak 24.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.014
+Fra:1 Mem:24.10M (Peak 24.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pendant-paper-shade
+Fra:1 Mem:24.21M (Peak 24.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.016
+Fra:1 Mem:24.16M (Peak 24.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.017
+Fra:1 Mem:24.21M (Peak 24.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.018
+Fra:1 Mem:24.27M (Peak 24.27M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.019
+Fra:1 Mem:24.30M (Peak 24.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.020
+Fra:1 Mem:24.37M (Peak 24.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-ceiling-closure
+Fra:1 Mem:24.36M (Peak 24.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-back
+Fra:1 Mem:24.39M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-plinth
+Fra:1 Mem:24.35M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-vertical
+Fra:1 Mem:24.35M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-vertical.002
+Fra:1 Mem:24.37M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | connection-end-low-vertical
+Fra:1 Mem:24.34M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-floor
+Fra:1 Mem:24.38M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left-fridge-buffer-fixed-front
+Fra:1 Mem:24.34M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | connection-rear-counter-body
+Fra:1 Mem:24.37M (Peak 24.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-solid-door
+Fra:1 Mem:24.51M (Peak 24.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-solid-door.001
+Fra:1 Mem:24.62M (Peak 24.62M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-front-storage-shelf
+Fra:1 Mem:24.69M (Peak 24.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-front-storage-shelf.001
+Fra:1 Mem:24.68M (Peak 24.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pendant-stem
+Fra:1 Mem:24.69M (Peak 24.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front
+Fra:1 Mem:24.69M (Peak 24.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | artificial-pendant
+Fra:1 Mem:24.69M (Peak 24.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box
+Fra:1 Mem:24.75M (Peak 24.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front.001
+Fra:1 Mem:24.81M (Peak 24.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box.001
+Fra:1 Mem:24.78M (Peak 24.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front.002
+Fra:1 Mem:24.84M (Peak 24.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box.002
+Fra:1 Mem:24.83M (Peak 24.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter-left
+Fra:1 Mem:24.89M (Peak 24.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | artificial-niche
+Fra:1 Mem:24.89M (Peak 24.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fill
+Fra:1 Mem:24.90M (Peak 24.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | daylight
+Fra:1 Mem:24.94M (Peak 24.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | small-tray
+Fra:1 Mem:24.95M (Peak 24.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ceramic-cup.001
+Fra:1 Mem:24.95M (Peak 24.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ceramic-cup
+Fra:1 Mem:24.94M (Peak 24.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter-rear-at-table
+Fra:1 Mem:24.94M (Peak 24.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | coffee-machine-drip-tray
+Fra:1 Mem:24.96M (Peak 24.96M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter-working
+Fra:1 Mem:25.08M (Peak 25.08M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | walnut-niche-back
+Fra:1 Mem:25.09M (Peak 25.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | closed-slim-band-body
+Fra:1 Mem:25.05M (Peak 25.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | closed-slim-flap-front
+Fra:1 Mem:25.07M (Peak 25.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | closed-slim-flap-front.001
+Fra:1 Mem:25.09M (Peak 25.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-usable-350-deep
+Fra:1 Mem:25.11M (Peak 25.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-solid-door
+Fra:1 Mem:25.19M (Peak 25.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-solid-door.001
+Fra:1 Mem:25.21M (Peak 25.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right-solid-upper-body
+Fra:1 Mem:25.21M (Peak 25.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right-solid-upper-door
+Fra:1 Mem:25.26M (Peak 25.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right-solid-upper-door.001
+Fra:1 Mem:25.31M (Peak 25.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sideboard-right-end
+Fra:1 Mem:25.31M (Peak 25.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sideboard-ceiling-closure
+Fra:1 Mem:25.38M (Peak 25.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | actual-compact-L-top-08
+Fra:1 Mem:25.35M (Peak 25.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | hidden-connection-steel
+Fra:1 Mem:25.36M (Peak 25.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L-recessed-round-pedestal
+Fra:1 Mem:25.51M (Peak 25.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L-pedestal-top-plate
+Fra:1 Mem:25.51M (Peak 25.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-1-back
+Fra:1 Mem:25.54M (Peak 25.54M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-1-leg
+Fra:1 Mem:25.60M (Peak 25.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-1-seat
+Fra:1 Mem:25.65M (Peak 25.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-1-leg.002
+Fra:1 Mem:25.55M (Peak 25.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-1-leg.003
+Fra:1 Mem:25.66M (Peak 25.66M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-2-seat
+Fra:1 Mem:25.72M (Peak 25.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-kitchen-chair-3-leg.003
+Fra:1 Mem:25.69M (Peak 25.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-2-back
+Fra:1 Mem:25.69M (Peak 25.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-kitchen-chair-3-leg.002
+Fra:1 Mem:25.76M (Peak 25.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-kitchen-chair-3-leg.001
+Fra:1 Mem:25.76M (Peak 25.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-kitchen-chair-3-leg
+Fra:1 Mem:25.78M (Peak 25.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-2-leg.001
+Fra:1 Mem:25.78M (Peak 25.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-kitchen-chair-3-back
+Fra:1 Mem:25.77M (Peak 25.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-living-chair-2-leg.003
+Fra:1 Mem:25.80M (Peak 25.80M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outside-kitchen-chair-3-seat
+Fra:1 Mem:25.91M (Peak 25.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:19.78M (Peak 25.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:19.78M (Peak 25.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:19.78M (Peak 25.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:19.78M (Peak 25.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:19.87M (Peak 25.91M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:19.87M (Peak 25.91M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:19.87M (Peak 25.91M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:19.87M (Peak 25.91M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:19.87M (Peak 25.91M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:19.87M (Peak 25.91M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:19.90M (Peak 25.91M) | Time:00:00.01 | Mem:0.03M, Peak:0.03M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:19.90M (Peak 25.91M) | Time:00:00.01 | Mem:0.03M, Peak:0.03M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:19.90M (Peak 25.91M) | Time:00:00.01 | Mem:0.03M, Peak:0.03M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:19.90M (Peak 25.91M) | Time:00:00.01 | Mem:0.03M, Peak:0.03M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:19.90M (Peak 25.91M) | Time:00:00.01 | Mem:0.03M, Peak:0.03M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:20.36M (Peak 25.91M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:20.35M (Peak 25.91M) | Time:00:00.01 | Mem:0.48M, Peak:0.48M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:20.35M (Peak 25.91M) | Time:00:00.01 | Mem:0.48M, Peak:0.48M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:20.35M (Peak 25.91M) | Time:00:00.01 | Mem:1.21M, Peak:1.21M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:20.35M (Peak 25.91M) | Time:00:00.02 | Mem:2.09M, Peak:2.82M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:20.35M (Peak 25.91M) | Time:00:00.02 | Mem:2.09M, Peak:2.82M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:2.09M, Peak:2.82M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.35M, Peak:3.35M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.35M, Peak:3.35M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.35M, Peak:3.35M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.35M, Peak:3.35M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.35M, Peak:3.35M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.43M, Peak:3.43M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.43M, Peak:3.43M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.43M, Peak:3.43M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.43M, Peak:3.43M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.35M, Peak:3.43M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.44M, Peak:3.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:21.61M (Peak 25.91M) | Time:00:00.02 | Mem:3.44M, Peak:3.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:21.62M (Peak 25.91M) | Time:00:00.02 | Mem:3.44M, Peak:3.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:21.62M (Peak 25.91M) | Time:00:00.02 | Mem:3.44M, Peak:3.44M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:198.02M (Peak 198.02M) | Time:00:00.44 | Remaining:00:06.27 | Mem:179.56M, Peak:179.56M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:272.18M (Peak 383.42M) | Time:00:10.06 | Mem:179.56M, Peak:179.56M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:272.18M (Peak 383.42M) | Time:00:10.06 | Mem:179.56M, Peak:179.56M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-L-study-08\齐平柜与外端三椅-实体关系参考.png'
+Time: 00:10.32 (Saving: 00:00.26)
+
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-L-study-08\齐平餐边柜-外端三椅L餐岛.blend"
+Fra:1 Mem:121.70M (Peak 125.57M) | Time:00:00.54 | Rendering 1 / 64 samples
+Fra:1 Mem:121.70M (Peak 125.57M) | Time:00:00.54 | Rendering 25 / 64 samples
+Fra:1 Mem:121.70M (Peak 125.57M) | Time:00:00.55 | Rendering 50 / 64 samples
+Fra:1 Mem:121.70M (Peak 125.57M) | Time:00:00.55 | Rendering 64 / 64 samples
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-L-study-08\齐平柜-三椅全外置尺寸图.png'
+Time: 00:00.75 (Saving: 00:00.12)
+
+Info: Saved as "齐平餐边柜-外端三椅L餐岛.blend"
+{"output": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\sideboard-L-study-08", "readback": "passed", "chair_count": 3, "main_unchanged": true}
+
+Blender quit

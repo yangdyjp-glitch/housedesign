@@ -1,0 +1,147 @@
+{
+  "source": "saved independent09 reopened",
+  "default_frame": 1,
+  "top": {
+    "u": [
+      1200.0,
+      3400.0
+    ],
+    "v": [
+      -0.0,
+      2000.0
+    ],
+    "h": [
+      850.0,
+      880.0
+    ]
+  },
+  "top_material": "pale oak",
+  "seat_count": 3,
+  "seats": {
+    "outside-living-chair-1-seat": {
+      "u": [
+        1230.0,
+        1750.0
+      ],
+      "v": [
+        860.0,
+        1340.0
+      ],
+      "h": [
+        560.0,
+        600.0
+      ]
+    },
+    "outside-living-chair-2-seat": {
+      "u": [
+        1230.0,
+        1750.0
+      ],
+      "v": [
+        1460.0,
+        1940.0
+      ],
+      "h": [
+        560.0,
+        600.0
+      ]
+    },
+    "outside-kitchen-chair-3-seat": {
+      "u": [
+        2250.0,
+        2770.0
+      ],
+      "v": [
+        1460.0,
+        1940.0
+      ],
+      "h": [
+        560.0,
+        600.0
+      ]
+    }
+  },
+  "upper_complete_door_count": 4,
+  "upper_door_bounds": [
+    {
+      "u": [
+        1203.0,
+        1797.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        1733.0,
+        2697.0
+      ]
+    },
+    {
+      "u": [
+        1803.0,
+        2297.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        1733.0,
+        2697.0
+      ]
+    },
+    {
+      "u": [
+        2303.0,
+        2797.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        1733.0,
+        2697.0
+      ]
+    },
+    {
+      "u": [
+        2803.0,
+        3397.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        1733.0,
+        2697.0
+      ]
+    }
+  ],
+  "no_old_right_tall_column": true,
+  "open_niche": {
+    "u": [
+      1200.0,
+      3382.0
+    ],
+    "v": [
+      450.0,
+      468.0
+    ],
+    "h": [
+      880.0,
+      1480.0
+    ]
+  },
+  "old_table_step_removed": true,
+  "upper_tray_count": 8,
+  "main_baseline_sha256_after": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  }
+}

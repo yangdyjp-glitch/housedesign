@@ -1,0 +1,286 @@
+{
+  "study_id": "sideboard-study-01",
+  "date": "2026-11-05",
+  "status": "three independent unselected design proposals",
+  "not_merged_into_master": true,
+  "v20_triggered": false,
+  "units": "mm",
+  "brief": {
+    "wall": "餐桌后方、客卫外侧，用户最新红框墙",
+    "fridge": "普通左右对开的双门冰箱，未指定型号",
+    "scope": "只做柜体设计及参数，每套同视角全开灯与全关灯；不改当前家具"
+  },
+  "wall": {
+    "source": "geometry-master-v19.json / lower-narrow-left-end",
+    "x": 3082,
+    "z": 6090,
+    "length": 3545,
+    "height": 2750,
+    "dimensions_status": "模型暂拟，非现场实测",
+    "cabinet_length": 3400,
+    "remaining_total": 145,
+    "nominal_end_allowance_each": 72.5
+  },
+  "fridge": {
+    "appliance_envelope": [
+      920,
+      750,
+      1850
+    ],
+    "envelope_order": "W,D,H",
+    "is_product_selection": false,
+    "module_width": 1200,
+    "side_panel_thickness": 18,
+    "clear_opening_width": 1164,
+    "clear_opening_height": 2200,
+    "surround_side_depth": 700,
+    "depth_to_closed_appliance_front": 800,
+    "rear_gap_assumption": 50,
+    "door_projection_past_surround": 100,
+    "side_gaps_each_at_920_width": 122,
+    "top_gap_at_1850_height": 350,
+    "approach": "普通冰箱半围合，保留外露机门；非全嵌门板冰箱、非零嵌承诺。散热通道不封死，顶柜自2200以上开始；机型说明书决定最终净空和开门包络。"
+  },
+  "common_parameters": {
+    "base_depth": 450,
+    "upper_depth": 320,
+    "flap_depth": 250,
+    "ceiling_scribe_height": 50,
+    "plinth_height": 80,
+    "plinth_recess": 60,
+    "counter_thickness": 20,
+    "panel_thickness": 18,
+    "counter_edge_radius": 40,
+    "door_reveal_target": 2,
+    "exposed_end_fixed_curve_radius": 70,
+    "lighting_cct_kelvin": 3000,
+    "lighting_cri_target": 90,
+    "lighting_control": "工作、展示/局部洗墙、低位三组独立调光；不可见灯点；驱动器可检修",
+    "lighting_render_comparison": "左全关，右全开；关闭全部人工照明时保留相同自然光，非日夜替换"
+  },
+  "schemes": [
+    {
+      "id": "A",
+      "name": "暖白 × 胡桃木",
+      "mood": "干净温润，最贴合当前整体",
+      "width": 3400,
+      "height": 2750,
+      "coffee": 1600,
+      "display": 500,
+      "counter": 880,
+      "niche": 620,
+      "flap": 240,
+      "upper": 960,
+      "base": "#efede7",
+      "back": "#6f4c39",
+      "dark": "#674630",
+      "upperColor": "#f1efe9",
+      "displayBack": "#e5e0d5",
+      "materials": "暖白哑光门板、棕灰胡桃木壁龛与薄柜、浅暖灰哑光石英石；展示格用低铁玻璃及细暖灰金属框。",
+      "baseLayout": "操作区左800双开门＋右800三抽；右侧500展示柜下方封闭。",
+      "tradeoff": "适合延续现有风格，深木增加层次；木色集中在凹位，避免整面偏暗。",
+      "lights": [
+        "L1 壁龛工作光1600 mm",
+        "L2 展示层板3 × 约460 mm",
+        "L3 操作柜低位光1600 mm"
+      ],
+      "modules": [
+        [
+          "余量/收口",
+          50
+        ],
+        [
+          "冰箱模块",
+          1200
+        ],
+        [
+          "操作收纳",
+          1600
+        ],
+        [
+          "玻璃展示",
+          500
+        ],
+        [
+          "余量/收口",
+          50
+        ]
+      ]
+    },
+    {
+      "id": "B",
+      "name": "灰苔绿 × 浅橡木",
+      "mood": "最鲜明的自然日式，柔和有生气",
+      "width": 3400,
+      "height": 2750,
+      "coffee": 2100,
+      "display": 0,
+      "counter": 900,
+      "niche": 650,
+      "flap": 250,
+      "upper": 900,
+      "base": "#8e9d8b",
+      "back": "#c9b18d",
+      "dark": "#bfa581",
+      "upperColor": "#f1efe9",
+      "displayBack": "#c9b18d",
+      "materials": "低饱和灰苔绿下柜、暖白上柜、浅橡木壁龛及薄柜、浅灰白哑光石英石；取消玻璃展示，减少视觉碎片。",
+      "baseLayout": "2100操作区分为700三抽＋700双开门＋600收纳及100固定圆弧端；柜内可调层板。",
+      "tradeoff": "台面最长、封闭容量最大；绿色成为局部主角，与原绿色餐椅相呼应。",
+      "lights": [
+        "L1 壁龛工作光2100 mm",
+        "L2 圆弧木背板局部柔洗光，与工作光分控",
+        "L3 操作柜低位光约2000 mm"
+      ],
+      "modules": [
+        [
+          "余量/收口",
+          50
+        ],
+        [
+          "冰箱模块",
+          1200
+        ],
+        [
+          "操作收纳",
+          2100
+        ],
+        [
+          "余量/收口",
+          50
+        ]
+      ]
+    },
+    {
+      "id": "C",
+      "name": "浅木 × 深蓝展示",
+      "mood": "层次最鲜明，保留轻盈留白",
+      "width": 3400,
+      "height": 2750,
+      "coffee": 1500,
+      "display": 600,
+      "counter": 880,
+      "niche": 650,
+      "flap": 220,
+      "upper": 950,
+      "base": "#cfb590",
+      "back": "#e9e6dd",
+      "dark": "#36546a",
+      "upperColor": "#f1efe9",
+      "displayBack": "#36546a",
+      "materials": "浅橡木下柜、暖白上柜、浅暖灰石英石壁龛；薄柜和600展示格背板使用低饱和深蓝，金属框用暖灰。",
+      "baseLayout": "操作区750双开门＋750三抽；600展示格下方保留封闭收纳，展示占比控制在整柜约18%。",
+      "tradeoff": "蓝色集中成一条细竖带及薄柜，适合希望餐厅辨识度更强的情况；少量展示，避免酒柜化。",
+      "lights": [
+        "L1 壁龛工作光1500 mm",
+        "L2 展示格侧后方竖向光约1250 mm，层板采用透光玻璃",
+        "L3 操作及展示柜低位光2100 mm"
+      ],
+      "modules": [
+        [
+          "余量/收口",
+          50
+        ],
+        [
+          "冰箱模块",
+          1200
+        ],
+        [
+          "操作收纳",
+          1500
+        ],
+        [
+          "玻璃展示",
+          600
+        ],
+        [
+          "余量/收口",
+          50
+        ]
+      ]
+    }
+  ],
+  "fit_review": {
+    "table_current_bounds": {
+      "x": 2282,
+      "z": 7300,
+      "w": 800,
+      "d": 1600
+    },
+    "opposite_cabinet_projection": 400,
+    "main_cabinet_front_x": 2632,
+    "known_table_overlap_depth": 450,
+    "simple_move_cannot_be_claimed_solved": true,
+    "work_access_test": {
+      "room_width": 3082,
+      "opposite_cabinet": 400,
+      "chair": 450,
+      "table": 800,
+      "service_gap_target": 900,
+      "sideboard": 450,
+      "remainder": 82
+    },
+    "interpretation": "现桌贴墙，新柜与桌确定重叠。仅横移不能同时获得宽松椅后通行及柜前工作区；后续须独立研究餐桌朝向/位置、对侧柜范围、取物关系及冰箱开门，不在本次改主模型。900为设计试算，非规范结论。"
+  },
+  "sources": [
+    {
+      "title": "伊莱克斯ESE6600B-B官方规格",
+      "url": "https://www.electrolux.com.cn/appliances/refrigerators/ese6600b-b/",
+      "use": "911W×746D×1780H、90度开门深1205，仅为普通对开体量实例，不是已选产品"
+    },
+    {
+      "title": "博世KAN系列官方说明书",
+      "url": "https://media3.bosch-home.com/Documents/8001142358_B.pdf",
+      "use": "说明普通机型可要求两侧100、顶部300等较大散热空隙；不能把零嵌尺寸套用到普通机型"
+    },
+    {
+      "title": "ERCO餐厨照明设计",
+      "url": "https://www.erco.com/en_us/knowledge/fundamentals/the-best-light-for-living-and-working-learning-path-2/cooking-and-dining/",
+      "use": "暖白可调光、区分工作与氛围，控制柜面反射眩光"
+    }
+  ],
+  "master_sha256_before": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "image_generation": {
+    "tool": "built-in image_gen",
+    "type": "photorealistic concept comparison diptychs",
+    "exact_dimensions_governed_by": "JSON parameters and SVG elevations, not inferred pixels",
+    "ai_images_are_not_shop_drawings": true
+  },
+  "master_sha256_after": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "master_unchanged_verified": true,
+  "image_files": [
+    {
+      "scheme": "A",
+      "file": "A-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "e3051be7d01fc4bfe1c24a170df608088eb1f7f8c0945ba5d4912b2bcab47eaa"
+    },
+    {
+      "scheme": "B",
+      "file": "B-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "0e6487a715847858450cb77914291d2bb6450ee07d2c5e3d8edb00ffd3a6d464"
+    },
+    {
+      "scheme": "C",
+      "file": "C-开关灯对照.png",
+      "width": 1983,
+      "height": 793,
+      "sha256": "3fc9310b68608c0a42b45787036ad2608b7e766c94eec62ba2d6b6d057005227"
+    }
+  ]
+}

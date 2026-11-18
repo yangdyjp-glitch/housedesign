@@ -1,0 +1,164 @@
+[
+  {
+    "id": "living",
+    "path": "07_renders/v20-complete-native/living-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 7.2,
+    "lightingMode": 0
+  },
+  {
+    "id": "living-evening",
+    "path": "07_renders/v20-complete-native/living-evening-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 8.4,
+    "lightingMode": 1
+  },
+  {
+    "id": "dining",
+    "path": "07_renders/v20-complete-native/dining-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 8.0,
+    "lightingMode": 2
+  },
+  {
+    "id": "balcony",
+    "path": "07_renders/v20-complete-native/balcony-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 7.1,
+    "lightingMode": 0
+  },
+  {
+    "id": "entry",
+    "path": "07_renders/v20-complete-native/entry-native.png",
+    "resolution": [
+      1400,
+      1800
+    ],
+    "seconds": 6.7,
+    "lightingMode": 0
+  },
+  {
+    "id": "office",
+    "path": "07_renders/v20-complete-native/office-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 7.5,
+    "lightingMode": 1
+  },
+  {
+    "id": "laundry",
+    "path": "07_renders/v20-complete-native/laundry-native.png",
+    "resolution": [
+      1600,
+      1800
+    ],
+    "seconds": 7.6,
+    "lightingMode": 0
+  },
+  {
+    "id": "living-pano",
+    "path": "07_renders/v20-complete-native/living-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 22.3,
+    "lightingMode": 0
+  },
+  {
+    "id": "dining-pano",
+    "path": "07_renders/v20-complete-native/dining-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 21.8,
+    "lightingMode": 0
+  },
+  {
+    "id": "balcony-pano",
+    "path": "07_renders/v20-complete-native/balcony-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 22.0,
+    "lightingMode": 0
+  },
+  {
+    "id": "entry-pano",
+    "path": "07_renders/v20-complete-native/entry-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 20.7,
+    "lightingMode": 0
+  },
+  {
+    "id": "overview-observation",
+    "path": "07_renders/v20-complete-native/overview-observation-native.png",
+    "resolution": [
+      2200,
+      1800
+    ],
+    "seconds": 4.8,
+    "lightingMode": 0
+  },
+  {
+    "id": "bath-aligned-closed-observation",
+    "path": "07_renders/v20-complete-native/bath-aligned-closed-observation-native.png",
+    "resolution": [
+      1800,
+      1800
+    ],
+    "seconds": 5.8,
+    "lightingMode": 0
+  },
+  {
+    "id": "bath-aligned-open-observation",
+    "path": "07_renders/v20-complete-native/bath-aligned-open-observation-native.png",
+    "resolution": [
+      1800,
+      1800
+    ],
+    "seconds": 5.6,
+    "lightingMode": 0
+  },
+  {
+    "id": "ceiling",
+    "path": "07_renders/v20-complete-native/ceiling-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "lightingMode": 3,
+    "seconds": 7.9,
+    "reason": "camera moved out of fridge proxy; no geometry change"
+  },
+  {
+    "id": "entry-shoe",
+    "path": "07_renders/v20-complete-native/entry-shoe-native.png",
+    "resolution": [
+      1400,
+      1800
+    ],
+    "lightingMode": 0,
+    "seconds": 7.1,
+    "reason": "right shoe cabinet counterpart to left bench view"
+  }
+]

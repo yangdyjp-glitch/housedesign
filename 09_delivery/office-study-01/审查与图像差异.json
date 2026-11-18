@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-06",
+  "reviewMethod": "same native camera; manual visual checks on saved imagegen images, independent qualitative aesthetic and practical checks",
+  "proposalOnly": true,
+  "selectedOption": null,
+  "recommendedByDesigner": "B",
+  "mainApplied": false,
+  "aestheticBasis": [
+    "natural modern Japanese",
+    "warm white and pale oak with limited walnut/green/navy",
+    "open sofa-back work area and coherent raised L ledge"
+  ],
+  "aestheticDimensions": {
+    "colorHarmony": 1,
+    "contemporaryCharacter": 1,
+    "composition": 1,
+    "visualHierarchy": 1,
+    "visibleAccessibility": 1,
+    "visibleUsability": 1
+  },
+  "aestheticScoring": "qualitative only; equal dimensions, no invented expert or objective score",
+  "variants": [
+    {
+      "id": "A",
+      "firstImpression": "quiet, light, continuous pale wood",
+      "visibleEvidence": "slim pale-wood L, sage chair and navy props; long and short raised ledges share finish; artificial under-ledge glow absent in corrected OFF panel",
+      "tradeoff": "most pale wood; reduce warm-strip brightness to avoid overall yellow cast",
+      "correction": "removed remaining OFF short-return light glow and replaced technical title",
+      "remainingDrift": [
+        "low inner apron added by imagegen compared with open-support proxy",
+        "task-lamp lit state less explicit than B/C; use separate lighting circuit in design",
+        "AI background window and outdoor scenery are atmosphere only"
+      ]
+    },
+    {
+      "id": "B",
+      "firstImpression": "clear walnut outline, sage storage, layered warm light",
+      "visibleEvidence": "dark L at same proposed height, pale desktop and sage shallow end cabinet; one screen/one chair; extra mouse removed",
+      "tradeoff": "strongest visible boundary, avoid extending dark veneer into a full rear wall",
+      "correction": "removed duplicated mouse and added Chinese title",
+      "remainingDrift": [
+        "right ON label was dropped during correction; board and page explicitly define left OFF/right ON",
+        "imagegen adds low inner apron and stylises supports/cabinet division",
+        "AI balcony-window segmentation and scenery not measured"
+      ]
+    },
+    {
+      "id": "C",
+      "firstImpression": "soft ivory ribbon, restrained navy accent",
+      "visibleEvidence": "broad rounded ivory ends, lower oak desktop, navy near-end drawer; lamp and L lights clearly OFF/ON",
+      "tradeoff": "more finish interfaces; detail ivory/oak joint and service access",
+      "correction": "replaced technical title with Chinese title",
+      "remainingDrift": [
+        "ivory return visually blends with sunlit surroundings; height verified only in native model",
+        "drawer appearance and support form simplified by imagegen",
+        "AI window/outdoor context not authoritative"
+      ]
+    }
+  ],
+  "practicalReview": {
+    "geometryVersion": 19,
+    "deskMm": [
+      2400,
+      700,
+      750
+    ],
+    "longLedgeMm": [
+      2600,
+      200,
+      950
+    ],
+    "shortLedgeMm": [
+      900,
+      200,
+      950
+    ],
+    "bothLedgeTopHeightsMm": 950,
+    "deskAndLedgeDifferenceMm": 200,
+    "monitorCount": 1,
+    "monitorInches": 34,
+    "chairCount": 1,
+    "chairRearFurnitureGapMm": 408,
+    "deskEdgeToBookcaseMm": 838,
+    "sofaToLedgeMm": 100,
+    "chairGapResult": "tight, not accepted as occupied circulation width",
+    "unchangedExistingPlacements": [
+      "sofa-modular",
+      "double-desk",
+      "office-chair-1",
+      "bookcase"
+    ],
+    "remainingChecks": [
+      "selected chair pullback and bookcase doors",
+      "actual finish samples",
+      "raised-ledge support/frame connection",
+      "cleaning access in 100mm sofa gap",
+      "lamp glare at seated monitor position and measured workplane illuminance"
+    ]
+  },
+  "imageAuthority": "concept appearance only; exact footprint/heights come from parameter SVG and saved native models",
+  "browserVisualQA": "not performed; offline link/XML checks only",
+  "webReferences": [
+    {
+      "title": "OSHA workstation environment",
+      "url": "https://www.osha.gov/etools/computer-workstations/workstation-environment",
+      "usedFor": "diffuse lighting, glare control and balancing screen/background brightness"
+    },
+    {
+      "title": "OSHA monitors",
+      "url": "https://www.osha.gov/etools/computer-workstations/components/monitors",
+      "usedFor": "viewing distance and adjusting monitor top height; not local construction certification"
+    }
+  ]
+}

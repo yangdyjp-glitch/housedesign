@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "revision": 20,
+  "modelSha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+  "geometrySha256": "1a666b7428654737fa63e8ccad8fbc55e39b24e38aa9eceb10f82470942d5136",
+  "styleSha256": "58810ceb96c7e6f5f23689f97af764fae41eb2082ac436cfbe05d52932ba5cf4",
+  "localLinksChecked": 24,
+  "imagesChecked": 8,
+  "nativeImages": 10,
+  "mainSavedReopened": true,
+  "meshBoundsAnd100mmMovementVerified": 26,
+  "interactiveHoverMoveUndoAndLegacyMigration": true,
+  "vrSceneSwitchesAndZoomLogicVerified": true,
+  "vrActualWebGLBrowserQA": false,
+  "browserVisualQA": false,
+  "rasterImagesVisuallyInspected": true,
+  "mainAndRenderSourceGeometryUnchangedByPresentationMetadata": true,
+  "v19ModelGeometryStylePreserved": true,
+  "scope": "completed dining11 and office02 merged; wider v20 construction/MEP refinement pending",
+  "officeVariant": "B provisional, owner choice pending",
+  "furnitureCount": 26,
+  "panoramaResolution": [
+    1774,
+    887
+  ],
+  "nativePanoramaAnchorResolution": [
+    4096,
+    2048
+  ],
+  "imageMode": "built-in image_gen photographic concepts, no raster upscaling",
+  "promotedToActive": true,
+  "activeModelMetadataMatches": true,
+  "activeInlineFragmentSha256": "803755b40a8c58cae5595b2f3c49d929516f5ec9bfa863ad066749e22f12b89d"
+}

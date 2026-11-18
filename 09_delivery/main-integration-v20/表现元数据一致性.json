@@ -1,0 +1,18 @@
+[
+  {
+    "file": "06_blender/home-main-v20.blend",
+    "beforeSha256": "f67a85708270cbf99a9c9b9ba7a322f0262d5c1104308334c73727f92177eedb",
+    "afterSha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+    "beforeVisualFingerprint": "ee3349d87e6860977fc16c83e0158c75d7dd4156d4e90dd0df2e74dcb6168d32",
+    "afterVisualFingerprint": "ee3349d87e6860977fc16c83e0158c75d7dd4156d4e90dd0df2e74dcb6168d32",
+    "renderVisibleDataUnchanged": true
+  },
+  {
+    "file": "06_blender/home-v20-render-source.blend",
+    "beforeSha256": "cf49368e6b1fb1a6543d7e872bd6b73bed8d67dd7cc712d47ba2863e9602c99b",
+    "afterSha256": "fbae426344d802fa4a99e10e1936ecc1e4ef95a19b04f1558ac3e6408ae8fd01",
+    "beforeVisualFingerprint": "870c41c9768e5bb18571361c9bd6a0e869a560f1a21b744e06146fe28a203715",
+    "afterVisualFingerprint": "870c41c9768e5bb18571361c9bd6a0e869a560f1a21b744e06146fe28a203715",
+    "renderVisibleDataUnchanged": true
+  }
+]

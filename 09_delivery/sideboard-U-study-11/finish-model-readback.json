@@ -1,0 +1,143 @@
+{
+  "saved_reopened": true,
+  "style": "walnut/white-fridge/R100 right end",
+  "top": {
+    "u": [
+      1000.0,
+      3400.0
+    ],
+    "v": [
+      -0.0,
+      1950.0
+    ],
+    "h": [
+      850.0,
+      880.0
+    ]
+  },
+  "top_manifold": true,
+  "rounded_ends": {
+    "rounded-right-end-lower-R100-11": {
+      "bounds": {
+        "u": [
+          3300.0,
+          3400.0
+        ],
+        "v": [
+          -0.0,
+          799.91
+        ],
+        "h": [
+          0.0,
+          850.0
+        ]
+      },
+      "manifold": true
+    },
+    "rounded-right-end-upper-R100-11": {
+      "bounds": {
+        "u": [
+          3300.0,
+          3400.0
+        ],
+        "v": [
+          -0.0,
+          799.91
+        ],
+        "h": [
+          880.0,
+          2750.0
+        ]
+      },
+      "manifold": true
+    }
+  },
+  "last_upper_door": {
+    "u": [
+      2803.0,
+      3297.0
+    ],
+    "v": [
+      781.0,
+      800.0
+    ],
+    "h": [
+      1733.0,
+      2697.0
+    ]
+  },
+  "drawers": {
+    "horizontal-drawer-front": {
+      "u": [
+        2703.0,
+        3297.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        99.0,
+        341.0
+      ]
+    },
+    "horizontal-drawer-front.001": {
+      "u": [
+        2703.0,
+        3297.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        349.0,
+        591.0
+      ]
+    },
+    "horizontal-drawer-front.002": {
+      "u": [
+        2703.0,
+        3297.0
+      ],
+      "v": [
+        781.0,
+        800.0
+      ],
+      "h": [
+        599.0,
+        841.0
+      ]
+    }
+  },
+  "visible_seat_count": 0,
+  "fridge_materials": {
+    "fridge-body": [
+      "white refrigerator enamel"
+    ],
+    "fridge-two-door": [
+      "white refrigerator enamel"
+    ],
+    "fridge-two-door.001": [
+      "white refrigerator enamel"
+    ]
+  },
+  "baseline_after": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "flush_root": {
+    "top_mesh_count": 1,
+    "raw_mesh_vertex_height_levels_mm": [
+      850.0,
+      880.0
+    ],
+    "step_height_mm": 0,
+    "material": "walnut",
+    "no_separate_counter_tops": true
+  },
+  "latest_blend_sha256": "550c093dfc600121e486044424033bb11c451965dd8e072e476fa3432b185387"
+}

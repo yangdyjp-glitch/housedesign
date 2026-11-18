@@ -1,0 +1,106 @@
+{
+  "images": [
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\A\\A-OFF-native.png",
+      "format": "PNG",
+      "size": [
+        1600,
+        1300
+      ],
+      "bytes": 2431532,
+      "sha256": "a147173c1ce6e05247ac7e03dc216b59d0a5a490b52bd3caab7f7c8b7e34f4e2"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\A\\A-ON-native.png",
+      "format": "PNG",
+      "size": [
+        1600,
+        1300
+      ],
+      "bytes": 2401006,
+      "sha256": "325cea6ed7c4d0894e3e02abb8df2196f7fbee959859339a0fb9fd66bf50b67c"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\A\\A-开关灯对照.png",
+      "format": "PNG",
+      "size": [
+        1774,
+        887
+      ],
+      "bytes": 2126854,
+      "sha256": "0e578d3f443982258edf01b62c4db5fc28cb5628a9c4dd8d00f2a4861531065b"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\B\\B-OFF-native.png",
+      "format": "PNG",
+      "size": [
+        1600,
+        1300
+      ],
+      "bytes": 2430756,
+      "sha256": "665d536b3b30d29c53cf2859955dcbc23f6fde82de84e70511eb3c57565369bd"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\B\\B-ON-native.png",
+      "format": "PNG",
+      "size": [
+        1600,
+        1300
+      ],
+      "bytes": 2403086,
+      "sha256": "13e20bcd18d3f3fda294c698822a556e2b10984df39476cdb5e8e3784797e0ca"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\B\\B-开关灯对照.png",
+      "format": "PNG",
+      "size": [
+        1774,
+        887
+      ],
+      "bytes": 2142424,
+      "sha256": "64125700fb3d672e9f1addf41b2aaed249f94fcbb1887f3dad8d6fe2d16264c6"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\C\\C-OFF-native.png",
+      "format": "PNG",
+      "size": [
+        1600,
+        1300
+      ],
+      "bytes": 2405503,
+      "sha256": "8059f4230b3a6cdd242d25508cbe65d3219e07c7cb0abe31d8609453edc239d3"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\C\\C-ON-native.png",
+      "format": "PNG",
+      "size": [
+        1600,
+        1300
+      ],
+      "bytes": 2375802,
+      "sha256": "064c6d65c35704c665a4eac724c7d3bf85f3de40b64a24211e68f4aad956242e"
+    },
+    {
+      "path": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-01\\C\\C-开关灯对照.png",
+      "format": "PNG",
+      "size": [
+        1774,
+        887
+      ],
+      "bytes": 2005901,
+      "sha256": "3b1c84a2bcc2a20db5e1b8729dcdc13103924b7af563bbb34e467d992e747aea"
+    }
+  ],
+  "savedImagesVisuallyInspected": true,
+  "imageViewCounts": {
+    "conceptBoards": 3,
+    "conceptViews": 6,
+    "nativeReferences": 6
+  },
+  "localLinksChecked": 30,
+  "missingLinks": [],
+  "svgXmlValid": true,
+  "nativeModelReadbackPassed": true,
+  "mainUnchangedAtNativeVerification": true,
+  "browserVisualQA": false
+}

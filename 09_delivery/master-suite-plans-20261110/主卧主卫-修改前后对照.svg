@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2480" height="1960" viewBox="0 0 2480 1960" role="img" aria-label="主卧主卫修改前后对照">
+<style>text{font-family:Microsoft YaHei,Noto Sans CJK SC,sans-serif}</style>
+<rect width="2480" height="1960" fill="#FFFFFF"/>
+<text x="78.000" y="64.000" text-anchor="start" dominant-baseline="central" font-size="46" font-weight="500" fill="#263C39">主卧与主卫 · 布局平面图</text>
+<text x="78.000" y="113.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">上南 · 下北 · 左东 · 右西    /    单位 mm    /    同比例对照</text>
+<polyline points="78.000,142.000 2402.000,142.000" fill="none" stroke="#D5DEDA" stroke-width="2"/>
+<text x="78.000" y="1907.000" text-anchor="start" dominant-baseline="central" font-size="25" font-weight="400" fill="#667571">模型方案尺寸，尚未现场复尺；墙体、排水及门窗安装条件待核。</text>
+<polyline points="1240.000,170.000 1240.000,1842.000" fill="none" stroke="#D5DEDA" stroke-width="2"/>
+<text x="78.000" y="176.000" text-anchor="start" dominant-baseline="central" font-size="42" font-weight="500" fill="#263C39">修改前</text>
+<text x="280.000" y="178.000" text-anchor="start" dominant-baseline="central" font-size="28" font-weight="400" fill="#667571">扩卫前原始边界 · v13</text>
+<rect x="176.320" y="389.680" width="658.730" height="703.760" rx="0.000" fill="#F6F2EA" stroke="none" stroke-width="2"/>
+<rect x="76.000" y="1116.240" width="456.570" height="123.500" rx="0.000" fill="#F4F6F4" stroke="none" stroke-width="2"/>
+<rect x="555.370" y="1116.240" width="279.680" height="382.660" rx="0.000" fill="#EAF2EF" stroke="none" stroke-width="2"/>
+<polygon points="149.720,344.080 275.310,344.080 275.310,389.680 149.720,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="745.560,344.080 880.650,344.080 880.650,389.680 745.560,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="275.310,294.680 294.310,294.680 294.310,389.680 275.310,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="726.560,294.680 745.560,294.680 745.560,389.680 726.560,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="275.310,275.680 294.310,275.680 294.310,294.680 275.310,294.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="726.560,275.680 745.560,275.680 745.560,294.680 726.560,294.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="835.050,389.680 880.650,389.680 880.650,1159.750 835.050,1159.750" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="835.050,1324.860 880.650,1324.860 880.650,1521.700 835.050,1521.700" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="149.720,389.680 176.320,389.680 176.320,1116.240 149.720,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="98.040,1093.440 184.300,1093.440 184.300,1116.240 98.040,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="348.840,1093.440 631.560,1093.440 631.560,1116.240 348.840,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="801.040,1093.440 835.050,1093.440 835.050,1116.240 801.040,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="532.570,1116.240 555.370,1116.240 555.370,1521.700 532.570,1521.700" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="532.570,1498.900 835.050,1498.900 835.050,1521.700 532.570,1521.700" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="555.370,1432.210 608.570,1432.210 608.570,1498.900 555.370,1498.900" fill="#BBC4BF" stroke="none" stroke-width="2"/>
+<rect x="294.310" y="294.680" width="432.250" height="95.000" rx="0.000" fill="#DBC8AA" stroke="#A58E70" stroke-width="1"/>
+<rect x="294.310" y="275.680" width="432.250" height="19.000" rx="0.000" fill="#EEF6F6" stroke="#669AA7" stroke-width="2"/>
+<polyline points="294.310,285.180 726.560,285.180" fill="none" stroke="#669AA7" stroke-width="2"/>
+<text x="510.340" y="341.800" text-anchor="middle" dominant-baseline="central" font-size="29" font-weight="400" fill="#263C39">飘窗</text>
+<rect x="835.050" y="1159.750" width="45.600" height="165.110" rx="0.000" fill="#EEF6F6" stroke="#669AA7" stroke-width="2"/>
+<polyline points="857.850,1159.750 857.850,1324.860" fill="none" stroke="#669AA7" stroke-width="2"/>
+<polyline points="176.320,238.250 835.050,238.250" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="170.620,232.550 182.020,243.950" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="176.320,247.750 176.320,341.800" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="829.350,232.550 840.750,243.950" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="835.050,247.750 835.050,341.800" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<text x="505.685" y="220.200" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">净宽 3467</text>
+<polyline points="184.300,1104.840 348.840,1104.840" fill="none" stroke="#A58E70" stroke-width="4"/>
+<polyline points="184.300,1099.140 184.300,1110.540" fill="none" stroke="#A58E70" stroke-width="3"/>
+<polyline points="348.840,1099.140 348.840,1110.540" fill="none" stroke="#A58E70" stroke-width="3"/>
+<text x="264.100" y="1159.750" text-anchor="middle" dominant-baseline="central" font-size="27" font-weight="400" fill="#263C39">主卧入口</text>
+<text x="275.500" y="1213.900" text-anchor="middle" dominant-baseline="central" font-size="25" font-weight="400" fill="#667571">公共走廊</text>
+<text x="513.000" y="699.000" text-anchor="middle" dominant-baseline="central" font-size="40" font-weight="500" fill="#263C39">原主卧</text>
+<text x="513.000" y="759.800" text-anchor="middle" dominant-baseline="central" font-size="27" font-weight="400" fill="#667571">未布置家具</text>
+<polyline points="631.560,1104.840 801.040,1104.840" fill="none" stroke="#A58E70" stroke-width="4"/>
+<text x="690.650" y="1181.600" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#667571">原门洞 892</text>
+<text x="695.400" y="1286.100" text-anchor="middle" dominant-baseline="central" font-size="36" font-weight="500" fill="#263C39">原主卫</text>
+<text x="695.400" y="1348.800" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">1472 × 2014</text>
+<text x="695.400" y="1402.000" text-anchor="middle" dominant-baseline="central" font-size="25" font-weight="400" fill="#667571">洁具未排布</text>
+<polyline points="934.800,389.680 934.800,1093.440" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="929.100,383.980 940.500,395.380" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="880.650,389.680 925.300,389.680" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="929.100,1087.740 940.500,1099.140" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="880.650,1093.440 925.300,1093.440" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<rect x="882.800" y="721.560" width="104.000" height="40.000" rx="0.000" fill="#FFFFFF" stroke="none" stroke-width="2"/>
+<text x="934.800" y="741.560" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">3704</text>
+<polyline points="934.800,1116.240 934.800,1498.900" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="929.100,1110.540 940.500,1121.940" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="880.650,1116.240 925.300,1116.240" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="929.100,1493.200 940.500,1504.600" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="880.650,1498.900 925.300,1498.900" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<rect x="882.800" y="1287.570" width="104.000" height="40.000" rx="0.000" fill="#FFFFFF" stroke="none" stroke-width="2"/>
+<text x="934.800" y="1307.570" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">2014</text>
+<polyline points="555.370,1574.900 835.050,1574.900" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="549.670,1569.200 561.070,1580.600" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="555.370,1584.400 555.370,1525.500" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="829.350,1569.200 840.750,1580.600" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="835.050,1584.400 835.050,1525.500" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<text x="695.210" y="1556.850" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">1472</text>
+<text x="78.000" y="1694.000" text-anchor="start" dominant-baseline="central" font-size="27" font-weight="500" fill="#263C39">布局说明</text>
+<text x="78.000" y="1744.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">主卧净宽3467；原主卫暂拟1472 × 2014。</text>
+<text x="78.000" y="1787.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">保留扩卫前边界与两个原有门洞；开向未定。</text>
+<text x="78.000" y="1830.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">原始毛坯未确定床、衣柜及洁具，不补画布置。</text>
+<text x="1358.000" y="176.000" text-anchor="start" dominant-baseline="central" font-size="42" font-weight="500" fill="#263C39">修改后</text>
+<text x="1560.000" y="178.000" text-anchor="start" dominant-baseline="central" font-size="28" font-weight="400" fill="#667571">当前 v20 布局</text>
+<rect x="1456.320" y="389.680" width="658.730" height="703.760" rx="0.000" fill="#F6F2EA" stroke="none" stroke-width="2"/>
+<rect x="1356.000" y="1116.240" width="456.570" height="123.500" rx="0.000" fill="#F4F6F4" stroke="none" stroke-width="2"/>
+<polygon points="1835.370,964.240 2115.050,964.240 2115.050,1432.210 1835.370,1432.210" fill="#EAF2EF" stroke="none" stroke-width="2"/>
+<polygon points="1888.570,1432.210 2115.050,1432.210 2115.050,1498.900 1888.570,1498.900" fill="#EAF2EF" stroke="none" stroke-width="2"/>
+<polygon points="1835.370,1327.900 2115.050,1327.900 2115.050,1432.210 1835.370,1432.210" fill="#DCECE8" stroke="none" stroke-width="2"/>
+<polygon points="1888.570,1432.210 2115.050,1432.210 2115.050,1498.900 1888.570,1498.900" fill="#DCECE8" stroke="none" stroke-width="2"/>
+<polygon points="1812.570,964.240 1835.370,964.240 1835.370,1116.240 1683.370,1116.240 1683.370,1093.440" fill="#EAF2EF" stroke="none" stroke-width="2"/>
+<polygon points="1456.320,941.440 1706.550,941.440 1706.550,964.240 1812.570,964.240 1683.370,1093.440 1456.320,1093.440" fill="#F6F2EA" stroke="none" stroke-width="2"/>
+<polygon points="1429.720,344.080 1555.310,344.080 1555.310,389.680 1429.720,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="2025.560,344.080 2160.650,344.080 2160.650,389.680 2025.560,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1555.310,294.680 1574.310,294.680 1574.310,389.680 1555.310,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="2006.560,294.680 2025.560,294.680 2025.560,389.680 2006.560,389.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1555.310,275.680 1574.310,275.680 1574.310,294.680 1555.310,294.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="2006.560,275.680 2025.560,275.680 2025.560,294.680 2006.560,294.680" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="2115.050,389.680 2160.650,389.680 2160.650,1159.750 2115.050,1159.750" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="2115.050,1324.860 2160.650,1324.860 2160.650,1521.700 2115.050,1521.700" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1429.720,389.680 1456.320,389.680 1456.320,1116.240 1429.720,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1378.040,1093.440 1464.300,1093.440 1464.300,1116.240 1378.040,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1812.570,1498.900 2115.050,1498.900 2115.050,1521.700 1812.570,1521.700" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1835.370,1432.210 1888.570,1432.210 1888.570,1498.900 1835.370,1498.900" fill="#BBC4BF" stroke="none" stroke-width="2"/>
+<polygon points="1706.550,941.440 2115.050,941.440 2115.050,964.240 1706.550,964.240" fill="#347B70" stroke="none" stroke-width="2"/>
+<polygon points="1812.570,964.240 1805.852,970.958 1821.974,987.080 1828.692,980.362" fill="#347B70" stroke="none" stroke-width="2"/>
+<polygon points="1812.570,1116.240 1835.370,1116.240 1835.370,1521.700 1812.570,1521.700" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1628.840,1093.440 1651.640,1093.440 1651.640,1116.240 1628.840,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1628.840,1093.440 1835.370,1093.440 1835.370,1116.240 1628.840,1116.240" fill="#424E4A" stroke="none" stroke-width="2"/>
+<polygon points="1690.311,1086.499 1683.370,1093.440 1699.492,1109.562 1706.433,1102.621" fill="#347B70" stroke="none" stroke-width="2"/>
+<rect x="1574.310" y="294.680" width="432.250" height="95.000" rx="0.000" fill="#DBC8AA" stroke="#A58E70" stroke-width="1"/>
+<rect x="1574.310" y="275.680" width="432.250" height="19.000" rx="0.000" fill="#EEF6F6" stroke="#669AA7" stroke-width="2"/>
+<polyline points="1574.310,285.180 2006.560,285.180" fill="none" stroke="#669AA7" stroke-width="2"/>
+<text x="1790.340" y="341.800" text-anchor="middle" dominant-baseline="central" font-size="29" font-weight="400" fill="#263C39">飘窗</text>
+<rect x="2115.050" y="1159.750" width="45.600" height="165.110" rx="0.000" fill="#EEF6F6" stroke="#669AA7" stroke-width="2"/>
+<polyline points="2137.850,1159.750 2137.850,1324.860" fill="none" stroke="#669AA7" stroke-width="2"/>
+<polyline points="1456.320,238.250 2115.050,238.250" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="1450.620,232.550 1462.020,243.950" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="1456.320,247.750 1456.320,341.800" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="2109.350,232.550 2120.750,243.950" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2115.050,247.750 2115.050,341.800" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<text x="1785.685" y="220.200" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">净宽 3467</text>
+<polyline points="1464.300,1104.840 1628.840,1104.840" fill="none" stroke="#A58E70" stroke-width="4"/>
+<polyline points="1464.300,1099.140 1464.300,1110.540" fill="none" stroke="#A58E70" stroke-width="3"/>
+<polyline points="1628.840,1099.140 1628.840,1110.540" fill="none" stroke="#A58E70" stroke-width="3"/>
+<text x="1544.100" y="1159.750" text-anchor="middle" dominant-baseline="central" font-size="27" font-weight="400" fill="#263C39">主卧入口</text>
+<text x="1555.500" y="1213.900" text-anchor="middle" dominant-baseline="central" font-size="25" font-weight="400" fill="#667571">公共走廊</text>
+<rect x="1456.320" y="427.680" width="114.000" height="475.000" rx="0.000" fill="#DBC8AA" stroke="#A58E70" stroke-width="2"/>
+<polyline points="1456.320,522.680 1570.320,522.680" fill="none" stroke="#A58E70" stroke-width="1"/>
+<polyline points="1456.320,617.680 1570.320,617.680" fill="none" stroke="#A58E70" stroke-width="1"/>
+<polyline points="1456.320,712.680 1570.320,712.680" fill="none" stroke="#A58E70" stroke-width="1"/>
+<polyline points="1456.320,807.680 1570.320,807.680" fill="none" stroke="#A58E70" stroke-width="1"/>
+<text x="1513.700" y="412.100" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#263C39">衣柜</text>
+<rect x="1706.550" y="532.940" width="408.500" height="408.500" rx="8.550" fill="#DBC8AA" stroke="#A58E70" stroke-width="1.3"/>
+<rect x="1720.800" y="542.440" width="380.000" height="380.000" rx="8.550" fill="#FDFCF8" stroke="#A58E70" stroke-width="1.3"/>
+<rect x="1706.550" y="926.240" width="408.500" height="15.200" rx="8.550" fill="#DBC8AA" stroke="#A58E70" stroke-width="1.3"/>
+<rect x="1720.800" y="542.440" width="380.000" height="260.300" rx="8.550" fill="#DBE5DA" stroke="#A58E70" stroke-width="1.3"/>
+<rect x="1741.700" y="827.440" width="152.000" height="79.800" rx="8.550" fill="#FDFCF8" stroke="#A58E70" stroke-width="1.3"/>
+<rect x="1922.200" y="827.440" width="152.000" height="79.800" rx="8.550" fill="#FDFCF8" stroke="#A58E70" stroke-width="1.3"/>
+<text x="1910.800" y="678.100" text-anchor="middle" dominant-baseline="central" font-size="37" font-weight="500" fill="#263C39">2米床</text>
+<text x="1910.800" y="733.200" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#263C39">床垫 2000 × 2000</text>
+<text x="1910.800" y="767.400" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#667571">床头在图下方 · 北</text>
+<polyline points="1570.320,771.200 1706.550,771.200" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="1564.620,765.500 1576.020,776.900" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="1700.850,765.500 1712.250,776.900" fill="none" stroke="#667571" stroke-width="2"/>
+<text x="1638.435" y="753.150" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">717</text>
+<text x="1638.435" y="809.200" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="400" fill="#667571">净距</text>
+<rect x="2029.550" y="983.240" width="85.500" height="152.000" rx="8.550" fill="#DBC8AA" stroke="#A58E70" stroke-width="1.5"/>
+<ellipse cx="2072.300" cy="1059.240" rx="34.200" ry="52.250" fill="#FDFCF8" stroke="#667571" stroke-width="2"/>
+<ellipse cx="2071.350" cy="1058.100" rx="24.700" ry="34.200" fill="#EEF6F6" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="2106.500,1049.930 2083.700,1049.930" fill="none" stroke="#667571" stroke-width="3"/>
+<text x="2072.300" y="1118.900" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#263C39">洗手台</text>
+<ellipse cx="1912.320" cy="1240.500" rx="52.250" ry="38.000" fill="#FDFCF8" stroke="#667571" stroke-width="2"/>
+<ellipse cx="1914.220" cy="1240.500" rx="29.450" ry="25.650" fill="none" stroke="#D5DEDA" stroke-width="2"/>
+<rect x="1835.370" y="1202.500" width="28.500" height="76.000" rx="4.750" fill="#FDFCF8" stroke="#667571" stroke-width="2"/>
+<text x="2036.200" y="1240.500" text-anchor="middle" dominant-baseline="central" font-size="30" font-weight="400" fill="#263C39">马桶</text>
+<polyline points="1835.370,1327.900 1975.210,1327.900" fill="none" stroke="#669AA7" stroke-width="5"/>
+<polyline points="1975.210,1331.700 2115.050,1331.700" fill="none" stroke="#669AA7" stroke-width="5"/>
+<polyline points="1983.000,1324.860 1983.000,1338.160" fill="none" stroke="#669AA7" stroke-width="4"/>
+<text x="1975.400" y="1295.600" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#667571">淋浴移门</text>
+<polyline points="2105.550,1415.300 2062.800,1415.300" fill="none" stroke="#667571" stroke-width="3"/>
+<ellipse cx="2062.800" cy="1417.200" rx="17.100" ry="17.100" fill="#FDFCF8" stroke="#667571" stroke-width="2"/>
+<rect x="2050.450" y="1479.900" width="53.200" height="4.560" rx="0.000" fill="#667571" stroke="none" stroke-width="2"/>
+<text x="1964.000" y="1417.200" text-anchor="middle" dominant-baseline="central" font-size="31" font-weight="500" fill="#263C39">淋浴区</text>
+<text x="1964.000" y="1468.500" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#667571">进深 900</text>
+<polygon points="1802.897,979.287 1803.501,978.500 1803.880,977.584 1804.010,976.600 1803.880,975.617 1803.501,974.700 1802.897,973.913 1802.110,973.309 1801.193,972.930 1800.210,972.800 1799.226,972.930 1798.310,973.309 1797.523,973.913 1748.351,1023.085 1747.747,1023.872 1747.367,1024.789 1747.238,1025.772 1747.367,1026.756 1747.747,1027.672 1748.351,1028.459 1749.138,1029.063 1750.054,1029.443 1751.038,1029.572 1752.021,1029.443 1752.938,1029.063 1753.725,1028.459" fill="#DBC8AA" stroke="#A58E70" stroke-width="1.8"/>
+<polygon points="1747.813,1034.371 1748.417,1033.584 1748.797,1032.667 1748.926,1031.684 1748.797,1030.700 1748.417,1029.784 1747.813,1028.997 1747.026,1028.393 1746.110,1028.013 1745.126,1027.884 1744.143,1028.013 1743.226,1028.393 1742.439,1028.997 1693.267,1078.169 1692.663,1078.956 1692.284,1079.873 1692.154,1080.856 1692.284,1081.840 1692.663,1082.756 1693.267,1083.543 1694.054,1084.147 1694.971,1084.527 1695.954,1084.656 1696.938,1084.527 1697.854,1084.147 1698.641,1083.543" fill="#DBC8AA" stroke="#A58E70" stroke-width="1.8"/>
+<text x="1557.400" y="1031.500" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#667571">卧室内通道</text>
+<polyline points="1749.300,1037.200 1718.900,1166.400 1694.200,1166.400" fill="none" stroke="#347B70" stroke-width="1.8"/>
+<text x="1688.500" y="1168.300" text-anchor="end" dominant-baseline="central" font-size="25" font-weight="400" fill="#347B70">双折门</text>
+<text x="1730.300" y="1212.950" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="400" fill="#667571">门洞 860 · 提案</text>
+<polyline points="1837.650,1116.240 2011.500,1116.240" fill="none" stroke="#B87459" stroke-width="2.5" stroke-dasharray="8 7"/>
+<text x="1920.300" y="1153.100" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="400" fill="#B87459">原主卫分界</text>
+<polyline points="2214.800,389.680 2214.800,941.440" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="2209.100,383.980 2220.500,395.380" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2160.650,389.680 2205.300,389.680" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="2209.100,935.740 2220.500,947.140" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2160.650,941.440 2205.300,941.440" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<rect x="2162.800" y="645.560" width="104.000" height="40.000" rx="0.000" fill="#FFFFFF" stroke="none" stroke-width="2"/>
+<text x="2214.800" y="665.560" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">2904</text>
+<text x="2214.800" y="626.800" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#667571">床区</text>
+<polyline points="2214.800,964.240 2214.800,1498.900" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="2209.100,958.540 2220.500,969.940" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2160.650,964.240 2205.300,964.240" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="2209.100,1493.200 2220.500,1504.600" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2160.650,1498.900 2205.300,1498.900" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<rect x="2162.800" y="1211.570" width="104.000" height="40.000" rx="0.000" fill="#FFFFFF" stroke="none" stroke-width="2"/>
+<text x="2214.800" y="1231.570" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">2814</text>
+<polyline points="1835.370,1574.900 2115.050,1574.900" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="1829.670,1569.200 1841.070,1580.600" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="1835.370,1584.400 1835.370,1525.500" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<polyline points="2109.350,1569.200 2120.750,1580.600" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2115.050,1584.400 2115.050,1525.500" fill="none" stroke="#D5DEDA" stroke-width="1"/>
+<text x="1975.210" y="1556.850" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">1472</text>
+<polyline points="2296.500,964.240 2296.500,1116.240" fill="none" stroke="#667571" stroke-width="1.5"/>
+<polyline points="2290.800,958.540 2302.200,969.940" fill="none" stroke="#667571" stroke-width="2"/>
+<polyline points="2290.800,1110.540 2302.200,1121.940" fill="none" stroke="#667571" stroke-width="2"/>
+<rect x="2244.500" y="1020.240" width="104.000" height="40.000" rx="0.000" fill="#FFFFFF" stroke="none" stroke-width="2"/>
+<text x="2296.500" y="1040.240" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">800</text>
+<text x="2296.500" y="940.300" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="400" fill="#347B70">扩入</text>
+<text x="1358.000" y="1694.000" text-anchor="start" dominant-baseline="central" font-size="27" font-weight="500" fill="#263C39">布局说明</text>
+<text x="1358.000" y="1744.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">主卫向主卧扩入800；入口 → 台盆 → 马桶 → 淋浴。</text>
+<text x="1358.000" y="1787.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">衣柜2500 × 600；床架2150 × 2150；台盆800 × 450。</text>
+<text x="1358.000" y="1830.000" text-anchor="start" dominant-baseline="central" font-size="26" font-weight="400" fill="#667571">绿色为新增隔墙；虚线为原主卫分界；门型为提案。</text>
+</svg>

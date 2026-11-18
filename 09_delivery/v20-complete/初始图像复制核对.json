@@ -1,0 +1,98 @@
+[
+  {
+    "id": "living-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-eabe412d-46c2-490c-9b5e-86614723dac0.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/living-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/living-photo.png",
+    "sha256": "4573173d234572e6f0fb5683a3b9ebdd49154fe5320d2658ebfcb46bd7a9103e"
+  },
+  {
+    "id": "living-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-df8b8b40-a9ac-48eb-aa62-139412fff359.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/living-pano-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1774,
+      887
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/living-pano.png",
+    "sha256": "6b8e30fdefd4254c324be2b05195c997173cdb7690e26362bf6a51544b1b9f3e"
+  },
+  {
+    "id": "dining-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-9b5b7cdc-6850-4cba-8541-a37613824dd7.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/dining-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/dining-photo.png",
+    "sha256": "f14360c0ad2afd1fde2d131b2a33404629fa206609027766ef711bb1dfda185a"
+  },
+  {
+    "id": "dining-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-d679aa7f-6ef9-4802-98c6-984aba1942ec.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/dining-pano-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1774,
+      887
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/dining-pano.png",
+    "sha256": "9626d53dbc64aba1e157073c042af247ad650544bcfa3cc8dca2f374228626a0"
+  },
+  {
+    "id": "balcony-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-1fc7f542-11cf-46f0-b551-ea5b51ea2ea2.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/balcony-photo.png",
+    "sha256": "618a9b64315737b50db64973f5844bb5a9ff2dc4448cd06fc7da6b1d67f9cac7"
+  },
+  {
+    "id": "balcony-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-27e2fd37-d446-4fef-8ff5-c19f9855ff21.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-pano-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1774,
+      887
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/balcony-pano.png",
+    "sha256": "cc027e2c67f1462229466f181dc2f86cf21d7cdd6d58a38251e2b683e2d9fbca"
+  },
+  {
+    "id": "entry-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-edc24fca-8e94-41c3-bdee-68a23c9ecc68.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/entry-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1106,
+      1422
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/entry-photo.png",
+    "sha256": "2a067955a73e2840acd2f4cab89d86f8712e07d9b88a763f0521ec8857ab3106"
+  },
+  {
+    "id": "entry-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-4f308e07-ce5d-42e5-be86-deef40728fe1.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/entry-pano-native.png",
+    "method": "built-in image_gen",
+    "resolution": [
+      1774,
+      887
+    ],
+    "copiedPath": "07_renders/v20-complete-photographic/entry-pano.png",
+    "sha256": "7c173296a0d0934f5f4d2fd606fb41963c9519b6c6f9afce5b581b7286301c3d"
+  }
+]

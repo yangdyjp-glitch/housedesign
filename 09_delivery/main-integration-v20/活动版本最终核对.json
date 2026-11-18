@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "activeRevision": 20,
+  "furniture": 26,
+  "activeModelHashMatches": true,
+  "geometryAliasMatches": true,
+  "inlineModelMatches": true,
+  "homepageLocalTargets": 5,
+  "gallery": "09_delivery/main-integration-v20/index.html",
+  "tour": "09_delivery/vr-tour-v06/打开360全景漫游.html"
+}

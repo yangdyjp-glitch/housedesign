@@ -1,0 +1,72 @@
+{
+  "saved_reopened": true,
+  "frame": 1,
+  "top": {
+    "u": [
+      1000.0,
+      3400.0
+    ],
+    "v": [
+      -0.0,
+      1950.0
+    ],
+    "h": [
+      850.0,
+      880.0
+    ]
+  },
+  "raw_top_manifold": true,
+  "visible_seat_count": 0,
+  "supports": {
+    "inset-dining-leg-11": {
+      "u": [
+        1250.0,
+        1310.0
+      ],
+      "v": [
+        1545.0,
+        1605.0
+      ],
+      "h": [
+        0.0,
+        850.0
+      ]
+    },
+    "inset-dining-leg-11.001": {
+      "u": [
+        2570.0,
+        2630.0
+      ],
+      "v": [
+        1545.0,
+        1605.0
+      ],
+      "h": [
+        0.0,
+        850.0
+      ]
+    }
+  },
+  "main_baseline_sha256_after": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "fridge90_proxy": {
+    "u": [
+      1020.0,
+      1060.0
+    ],
+    "v": [
+      800.0,
+      1257.0
+    ],
+    "h": [
+      30.0,
+      1840.0
+    ]
+  },
+  "fridge90_to_blue_gap_v": 143.0
+}

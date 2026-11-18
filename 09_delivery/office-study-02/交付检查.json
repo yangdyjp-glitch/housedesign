@@ -1,0 +1,272 @@
+{
+  "status": "passed",
+  "localLinks": [
+    {
+      "target": "A/A-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "A/A-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "A/A-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "A/办公区-A-近端半墙远端敞开-独立02.blend",
+      "exists": true
+    },
+    {
+      "target": "A/A-OFF-半墙敞开端实体参考.png",
+      "exists": true
+    },
+    {
+      "target": "A/A-ON-半墙敞开端实体参考.png",
+      "exists": true
+    },
+    {
+      "target": "B/B-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "B/B-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "B/B-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "B/办公区-B-近端半墙远端敞开-独立02.blend",
+      "exists": true
+    },
+    {
+      "target": "B/B-OFF-半墙敞开端实体参考.png",
+      "exists": true
+    },
+    {
+      "target": "B/B-ON-半墙敞开端实体参考.png",
+      "exists": true
+    },
+    {
+      "target": "C/C-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "C/C-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "C/C-半墙修正-开关灯对照.png",
+      "exists": true
+    },
+    {
+      "target": "C/办公区-C-近端半墙远端敞开-独立02.blend",
+      "exists": true
+    },
+    {
+      "target": "C/C-OFF-半墙敞开端实体参考.png",
+      "exists": true
+    },
+    {
+      "target": "C/C-ON-半墙敞开端实体参考.png",
+      "exists": true
+    },
+    {
+      "target": "半墙与阳台入口尺寸.svg",
+      "exists": true
+    },
+    {
+      "target": "半墙与阳台入口尺寸.svg",
+      "exists": true
+    },
+    {
+      "target": "设计参数.json",
+      "exists": true
+    },
+    {
+      "target": "references/业主红半墙蓝敞开批注.png",
+      "exists": true
+    },
+    {
+      "target": "模型回读.json",
+      "exists": true
+    },
+    {
+      "target": "审查与图像差异.json",
+      "exists": true
+    },
+    {
+      "target": "出图提示词.json",
+      "exists": true
+    },
+    {
+      "target": "横条残留修正提示词.json",
+      "exists": true
+    },
+    {
+      "target": "C/恢复误删沙发扶手提示词.json",
+      "exists": true
+    },
+    {
+      "target": "交付检查.json",
+      "exists": true
+    }
+  ],
+  "images": [
+    {
+      "path": "A\\A-OFF-半墙敞开端实体参考.png",
+      "format": "PNG",
+      "pixels": [
+        1600,
+        1300
+      ],
+      "sha256": "8b9d97c97fccfbecafe0ec5d336c25632ca2b5d7b1609527bcb8a0d2a1e04970"
+    },
+    {
+      "path": "A\\A-ON-半墙敞开端实体参考.png",
+      "format": "PNG",
+      "pixels": [
+        1600,
+        1300
+      ],
+      "sha256": "4e766c1db339a58ce5a652d815b940f219b8d03f0ee22cf38134fffef3e7bc5f"
+    },
+    {
+      "path": "A\\A-半墙修正-开关灯对照.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "e14f1849d5fe8c49b561d63e84a513420c31c6abe003c71566f4b76523586bf4"
+    },
+    {
+      "path": "A\\A-半墙初稿.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "1cc590ee902368170c0f40d926d203f28c63909e7c1781d4b9664b65a30ff903"
+    },
+    {
+      "path": "B\\B-OFF-半墙敞开端实体参考.png",
+      "format": "PNG",
+      "pixels": [
+        1600,
+        1300
+      ],
+      "sha256": "1b1fbc0d67e248ef468df431d3d36ccb9059e4440679baecb571b024881f1986"
+    },
+    {
+      "path": "B\\B-ON-半墙敞开端实体参考.png",
+      "format": "PNG",
+      "pixels": [
+        1600,
+        1300
+      ],
+      "sha256": "f909c9cbdbe5ffda28ee8a346070227ecc2d1ff8d33cf8f96d2e586037c76cca"
+    },
+    {
+      "path": "B\\B-半墙修正-开关灯对照.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "438faf260f2d23989d2f41ec52496fe714976b273fd824f76b55884aabd3a590"
+    },
+    {
+      "path": "B\\B-半墙初稿.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "fa004eb9995667b2c237746579f4e5fa7a0e38cbc5aaa18747f6a9983388ca1a"
+    },
+    {
+      "path": "C\\C-OFF-半墙敞开端实体参考.png",
+      "format": "PNG",
+      "pixels": [
+        1600,
+        1300
+      ],
+      "sha256": "95bc7809711eef8b62dcf2c940960518e99fbb5a9d46fc657d7196a66d9fbcfa"
+    },
+    {
+      "path": "C\\C-ON-半墙敞开端实体参考.png",
+      "format": "PNG",
+      "pixels": [
+        1600,
+        1300
+      ],
+      "sha256": "3446b0507886d6142dfb8212c591d14be4c1aae29daeac80198c42a963e734e4"
+    },
+    {
+      "path": "C\\C-半墙修正-开关灯对照.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "0870b20979f879ea2356cd7c266634c69140aa9936cf22ed68eb97d4ec61476f"
+    },
+    {
+      "path": "C\\C-半墙初稿.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "b492b4ccafdc5e058738ef9678c73b2f246add989488f3da5f824106891cdb25"
+    },
+    {
+      "path": "C\\C-横条修正但扶手误删-弃用.png",
+      "format": "PNG",
+      "pixels": [
+        1774,
+        887
+      ],
+      "sha256": "093fdecd7f225dfb1e643bb2f33ab1a0c34b353e8fa8decac1b75b651a48c035"
+    },
+    {
+      "path": "references\\业主红半墙蓝敞开批注.png",
+      "format": "PNG",
+      "pixels": [
+        1252,
+        1126
+      ],
+      "sha256": "d3d9a0308a849b819af36ae08e661348cf5d792c188333e8184b1b54a0a9d934"
+    }
+  ],
+  "nativeModelsSavedReopened": 3,
+  "nearHalfwallCap": [
+    1735,
+    200,
+    950
+  ],
+  "solidBodyThickness": 120,
+  "farReturns": 0,
+  "farEndCabinets": 0,
+  "ownerConfirmedEndpoint": "right bookcase, entry from balcony",
+  "mainBefore": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "mainAfter": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "mainUnchanged": true,
+  "browserVisualQA": "not performed; offline link check, XML parse and raster visual inspection only",
+  "imageMode": "built-in image_gen; photographic concepts, not metric evidence"
+}

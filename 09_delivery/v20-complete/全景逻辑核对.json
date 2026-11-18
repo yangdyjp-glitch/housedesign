@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "mode": "offline JS VM with simulated DOM/Image/WebGL; not real browser or shader visual QA",
+  "revision": 20,
+  "sceneSwitches": 12,
+  "actualPngHeadersDecoded": true,
+  "activeTextureCountAfterEachSwitch": 1,
+  "zoomAndKeyLook": true,
+  "mapToggle": true,
+  "diningViewpointInOuterPassage": [
+    770,
+    8850
+  ],
+  "networkDependencies": 0,
+  "shaderCodeUnchangedFromPriorViewer": true
+}

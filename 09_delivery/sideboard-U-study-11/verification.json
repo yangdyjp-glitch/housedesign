@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-06",
+  "status": "verified independent proposal; not applied to main",
+  "current_model": "短连接长餐台-胡桃白冰箱圆边-独立11.blend",
+  "images": [
+    {
+      "file": "短连接长餐台-开关灯概念对照.png",
+      "size": [
+        1774,
+        887
+      ],
+      "format": "PNG",
+      "sha256": "32a8e83b1d733d6f52f6382579394136733b424db0cd263bd90cc5f28354e61c"
+    },
+    {
+      "file": "胡桃白冰箱圆边-ON-实体参考.png",
+      "size": [
+        1800,
+        1350
+      ],
+      "format": "PNG",
+      "sha256": "5f08a977ccf49cbf41cb1ced06813e05b650b80d3a457b6b41188755c499f27a"
+    },
+    {
+      "file": "胡桃白冰箱圆边-OFF-实体参考.png",
+      "size": [
+        1800,
+        1350
+      ],
+      "format": "PNG",
+      "sha256": "e35a06f2cd75c52c2c08e1cca24e5610810bcca2c834a79e75655fb4f08a8ad5"
+    },
+    {
+      "file": "短连接长餐面-前后尺寸对照.png",
+      "size": [
+        2400,
+        1700
+      ],
+      "format": "PNG",
+      "sha256": "0a77d0ac2ff204956a763700c7aa6791a9193976303d54cf03a355dc174cbeaf"
+    }
+  ],
+  "native_checks": {
+    "reopened": true,
+    "tabletop": [
+      1800,
+      550,
+      880
+    ],
+    "connector_width": 350,
+    "connector_total_projection": 1150,
+    "inner_retrieval": 600,
+    "root_step": 0,
+    "right_end_radius": 100,
+    "cabinet_overall_width": 2200,
+    "visible_seats": 0,
+    "main_baseline_unchanged": true
+  },
+  "visual_review": {
+    "method": "direct inspection of saved native ON/OFF and final photographic board",
+    "aesthetic": [
+      "walnut niche and table unified",
+      "white refrigerator and warm-white cabinets create lighter background",
+      "right vertical end rounded",
+      "long dining rail visually dominant over narrow connector",
+      "same daylight and furnishings OFF/ON"
+    ],
+    "geometry_authority": "parameters and native model, not AI image pixels",
+    "concept_limits": [
+      "life-end200 overhang and support inset visually simplified by imagegen",
+      "some flap/reveal lines simplified",
+      "materials and light output are conceptual, not selected products or photometry"
+    ],
+    "numeric_aesthetic_score": null
+  },
+  "pending": [
+    "real site dimensions",
+    "fridge product/full opening/ventilation",
+    "drawer and pull-down use station after last module reduction",
+    "seat/body envelopes and occupied passages",
+    "support frame design"
+  ],
+  "raw_model_readback": "finish-model-readback.json",
+  "browser_visual_preview_performed": false,
+  "offline_html_links_checked": 14,
+  "missing_local_links": []
+}

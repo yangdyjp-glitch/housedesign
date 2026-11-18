@@ -1,0 +1,42 @@
+{
+  "source": "actual saved detached06 Blender file reopened",
+  "table_bounds_mm": {
+    "u": [
+      1350.000023841858,
+      2849.9999046325684
+    ],
+    "v": [
+      300.00001192092896,
+      1850.000023841858
+    ],
+    "z": [
+      720.0000286102295,
+      750.0
+    ]
+  },
+  "L_shape_probes": [
+    {
+      "u": 1500,
+      "v": 600,
+      "L_tabletop_hit": true
+    },
+    {
+      "u": 2200,
+      "v": 1500,
+      "L_tabletop_hit": true
+    },
+    {
+      "u": 2200,
+      "v": 600,
+      "L_tabletop_hit": false
+    }
+  ],
+  "opaque_doors": [
+    "right-opaque-door-05",
+    "right-opaque-top-door-05",
+    "right-opaque-door-05.001",
+    "right-opaque-top-door-05.001"
+  ],
+  "chair_count": 4,
+  "limits": "verifies modeled contour and counts only; no human, appliance or field certification"
+}

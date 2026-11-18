@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-11-04",
+  "updated_date": "2026-11-06",
   "timezone": "Asia/Shanghai",
   "source": "direct homeowner instruction in current conversation",
   "instruction": "之后的所有内容不考虑预算，只考虑设计",
@@ -38,7 +38,7 @@
       "客厅",
       "阳台"
     ],
-    "version": 19,
+    "version": 20,
     "projection": "monoscopic equirectangular 360x180",
     "nodes": 4,
     "resolution": [
@@ -46,15 +46,15 @@
       887
     ],
     "viewer": "offline browser, mouse/touch/keyboard; fixed nodes, no 6DOF or stereo claim",
-    "current_master_revision": 19,
-    "status": "v19 warm white/pale and dark timber/green-blue public refinement, unchanged placements, photographic concepts",
-    "presentation_revision": 19,
+    "current_master_revision": 20,
+    "status": "v20 full implementation four-point photographic concepts",
+    "presentation_revision": 20,
     "photorealistic": true,
     "exterior_is_illustrative": true,
     "base_architecture_revision": 14,
     "upscaled": false,
     "ai_assisted": true,
-    "latest_placement_snapshot": "03_layout/widget-layout-v19-initial.json"
+    "latest_placement_snapshot": "03_layout/widget-layout-v20-complete-initial.json"
   },
   "master_suite": {
     "applied_model_revision": 14,
@@ -316,5 +316,24 @@
     "noBudgetConstraint": true,
     "placementDecision": "owner confirmed retain every current position on 2026-11-04; 200mm trials not applied",
     "layoutTrialsStatus": "not adopted; historical comparison only"
+  },
+  "completed_design_integration": {
+    "source_instruction": "设计完成后，全部都加到主模型中",
+    "default": "Integrate completed designs into master, interactive model and same-version presentations; preserve history. Later explicit independent-only instructions take precedence.",
+    "active_model_revision": 20,
+    "dining_study": "11",
+    "office_study": "02",
+    "office_material": "B temporary preview; not homeowner-finalized",
+    "wider_v20_detail_work": "full design geometry and coordinated presentations implemented"
+  },
+  "v20_activation": {
+    "instruction": "实装v20",
+    "status": "implemented in design model",
+    "activeModel": "06_blender/home-main-v20-complete.blend",
+    "geometry": "02_geometry/geometry-master-v20-complete.json",
+    "publicFurnitureOriginChanges": 0,
+    "doorProposal": "diagonal inward bifold",
+    "officeMaterial": "B provisional",
+    "equipmentAndFieldConditions": "unverified"
   }
 }

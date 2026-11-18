@@ -1,0 +1,125 @@
+{
+  "status": "passed",
+  "file": "D:\\AI-Yang.cn\\HomeDesign\\06_blender\\home-main-v20-complete.blend",
+  "phase": "full-design",
+  "furnitureCount": 28,
+  "moveChecks": [
+    {
+      "id": "television",
+      "move100AndRestore": true
+    },
+    {
+      "id": "office-chair-1",
+      "move100AndRestore": true
+    },
+    {
+      "id": "washer",
+      "move100AndRestore": true
+    },
+    {
+      "id": "dryer",
+      "move100AndRestore": true
+    },
+    {
+      "id": "balcony-tea-table",
+      "move100AndRestore": true
+    },
+    {
+      "id": "balcony-tea-chair-1",
+      "move100AndRestore": true
+    },
+    {
+      "id": "balcony-tea-chair-2",
+      "move100AndRestore": true
+    },
+    {
+      "id": "tv-low",
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-bed",
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-wardrobe",
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-vanity",
+      "move100AndRestore": true
+    },
+    {
+      "id": "master-toilet",
+      "move100AndRestore": true
+    },
+    {
+      "id": "plant-tv-medium",
+      "move100AndRestore": true
+    },
+    {
+      "id": "plant-balcony-tall",
+      "move100AndRestore": true
+    },
+    {
+      "id": "plant-balcony-low",
+      "move100AndRestore": true
+    },
+    {
+      "id": "entry-piano-bench",
+      "move100AndRestore": true
+    },
+    {
+      "id": "side-table",
+      "move100AndRestore": true
+    },
+    {
+      "id": "sofa-modular",
+      "move100AndRestore": true
+    },
+    {
+      "id": "ottoman",
+      "move100AndRestore": true
+    },
+    {
+      "id": "refrigerator",
+      "move100AndRestore": true
+    },
+    {
+      "id": "office-divider",
+      "move100AndRestore": true
+    },
+    {
+      "id": "double-desk",
+      "move100AndRestore": true
+    },
+    {
+      "id": "tv-high",
+      "move100AndRestore": true
+    },
+    {
+      "id": "bookcase",
+      "move100AndRestore": true
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "move100AndRestore": true
+    },
+    {
+      "id": "dining-sideboard-island",
+      "move100AndRestore": true
+    },
+    {
+      "id": "living-rug",
+      "move100AndRestore": true
+    },
+    {
+      "id": "laundry-enclosure",
+      "move100AndRestore": true
+    }
+  ],
+  "laundryGroup": [
+    "washer",
+    "dryer",
+    "laundry-enclosure"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "main_unchanged": true,
+  "main_sha256": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "images": [
+    {
+      "file": "按批注L形餐岛-三人四人对照.png",
+      "width": 2300,
+      "height": 1650,
+      "sha256": "67126ebc3992fa80a8a953a01415c213bd486b4b01057493903e394035ad335b"
+    },
+    {
+      "file": "L形餐岛-实体关系参考.png",
+      "width": 1600,
+      "height": 1200,
+      "sha256": "fe7701b4cede5cd46acbde72290172698e5ce31e20d993d7bc0ad6743804384d"
+    },
+    {
+      "file": "L形餐岛-开关灯概念对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "155d9dc8de4fa1ef0076493c5212dda3f607b694fad9947b1564ea6880306ff5"
+    }
+  ],
+  "local_links_valid": 9,
+  "model_readback": {
+    "source": "actual saved detached06 Blender file reopened",
+    "table_bounds_mm": {
+      "u": [
+        1350.000023841858,
+        2849.9999046325684
+      ],
+      "v": [
+        300.00001192092896,
+        1850.000023841858
+      ],
+      "z": [
+        720.0000286102295,
+        750.0
+      ]
+    },
+    "L_shape_probes": [
+      {
+        "u": 1500,
+        "v": 600,
+        "L_tabletop_hit": true
+      },
+      {
+        "u": 2200,
+        "v": 1500,
+        "L_tabletop_hit": true
+      },
+      {
+        "u": 2200,
+        "v": 600,
+        "L_tabletop_hit": false
+      }
+    ],
+    "opaque_doors": [
+      "right-opaque-door-05",
+      "right-opaque-top-door-05",
+      "right-opaque-door-05.001",
+      "right-opaque-top-door-05.001"
+    ],
+    "chair_count": 4,
+    "limits": "verifies modeled contour and counts only; no human, appliance or field certification"
+  },
+  "chair_mode_not_selected": true,
+  "user_question": "Fourth chair permanent or occasional? Pending unless the owner answers; no deletion assumed.",
+  "audit": "same assistant, geometric and aesthetic checks recorded separately",
+  "geometry_review": "Actual saved L outline verified by bounds and positive/negative ray probes; four chairs and opaque doors verified.",
+  "aesthetic_review": "Compound L, four stages, opaque fronts, four chairs, pale oak, dark middle and matching OFF/ON fixtures visually checked.",
+  "known_limitations": [
+    "Selected wall/room sizes still provisional",
+    "Kitchen turn only622.5, not a generous entry apron",
+    "Actual fridge hinge/drawer sweep and ventilation unverified",
+    "520x480 are assumed full chair envelopes; human movement and knee space not certified",
+    "Chair pullout and lower drawer access cannot all be simultaneous",
+    "Opposite long cabinet and entry bench retained; no removal applied"
+  ],
+  "image_limitations": [
+    "AI details and proportions may drift; dimensioned plan is authoritative",
+    "Close concept image does not show full opposite cabinet or establish circulation clearance",
+    "Three seats used in comparison is a scenario, not accepted removal of fourth chair"
+  ]
+}

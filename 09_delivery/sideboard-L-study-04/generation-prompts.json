@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-05",
+  "tool": "built-in image_gen.imagegen",
+  "scope": "standalone proposals, main v19 unchanged, v20 not started",
+  "input_roles": [
+    {
+      "path": "D:/AI-Yang.cn/HomeDesign/09_delivery/sideboard-L-study-04/四段式餐边柜-L关系草模.png",
+      "role": "detached geometry anchor"
+    },
+    {
+      "path": "D:/AI-Yang.cn/HomeDesign/09_delivery/sideboard-study-01/references/ae7a83a2335cdb941f832e14710fbfd.jpg",
+      "role": "owner reference 1: four stages and three drawers"
+    },
+    {
+      "path": "D:/AI-Yang.cn/HomeDesign/09_delivery/sideboard-study-01/references/b3bec9257e67a128c2de5a02b6679c2.jpg",
+      "role": "owner reference 2: glass door, slim flap, shallow upper"
+    },
+    {
+      "path": "D:/AI-Yang.cn/HomeDesign/09_delivery/sideboard-study-01/references/2ea8021416ab025ed07355ded1dabe9.jpg",
+      "role": "owner reference 3: handleless, light fronts, dark middle; stool garage deliberately omitted"
+    }
+  ],
+  "variants": {
+    "A": {
+      "prompt": "Use case: sketch-to-render. Asset: photorealistic custom residential sideboard proposal, a two-panel diptych, left all electric lights OFF, right all electric lights ON. Both views must have IDENTICAL furniture, camera, objects and soft daylight. No room remodelling.\nINPUT ROLES: Image1 is the detached geometry anchor, authoritative for left fridge/outside-L relation, wall proportions, L dining top and FOUR chair positions. Images2,3,4 are the owner's actual three sideboard references, authoritative for FOUR-STAGE CABINET CONSTRUCTION and joinery details, NOT room layout, text, people, video graphics or exact dimensions. Adapt their details visibly into image1's design. This is a new proposal, not a photograph of an existing house.\nMUST visibly show the FOUR vertical stages of the 1500mm-wide working bay to the right of the fridge, from bottom upward: (1) light-coloured enclosed base, depth450, countertop height880; (2) open dark-walnut-backed working niche, clear height600, from880 to1480; (3) a DISTINCT 250-high dark walnut shallow CUP CABINET BAND, depth220, from1480 to1730, two CLOSED lift-up flap doors with fine seam and finger recess; this is real storage, NOT a black shadow, NOT another open shelf, NOT part of the plain backsplash; (4) warm white CLOSED upper cupboards, depth350, from1730 up to2700, then50 ceiling scribe to2750. Clearly differentiate the thin dark flap band from both the white tall upper doors above and the open niche below. The top cupboards are600+900mm modules with concealed pulls. Show the130mm depth offset between thin band and upper doors accurately.\nThe entire sideboard proper is2200wide:1500working/four-stage bay plus700wide full-height right glass-display column over the drawer base. Rightmost700 base has EXACTLY THREE HORIZONTAL DRAWERS with near-invisible45degree bevel finger pulls. Local glass door has restrained thin frame and a few ceramics. Other fronts closed. Deep middle with pale doors, just as the supplied references. No knobs, no black handle bands, no decorative excess. Do not eliminate uppers or thin cabinet to simplify the picture.\nFridge is LEFT, at living-room end, OUTSIDE the L, ordinary graphite TWO VERTICAL DOORS, envelope920W750D1850H, zone1200wide, do not turn into four-door fridge or panel-front fridge. The right sideboard is2200wide, whole run3400. The L is formed by the450-deep wall base plus an attached NORMAL HEIGHT750mm dining return emerging to the RIGHT of the fridge; table1400long x750wide, top30thick, rounded corners, long axis perpendicular to wall. Rear150mm slides into a FIXED connection segment in base; there is a deliberate130mm height step from880counter to750table. Connection segment under table has no pretend operating doors or trapped drawers. FOUR ordinary dining chairs ONLY, exactly two along each long side; no chair at free tip, no barstools or bench. Keep chair relationship from anchor, enough knees under thin top. No large island in addition to this table. No stools niche, sink, hob or oven.\nREALISM: replace the anchor's flat clay appearance with convincingly real interior architectural photography, fine wood grain, woven seat texture, matte reflections, detailed cabinet seams, physically plausible contact and indirect shadows, soft natural daylight from off-frame LEFT. Eye-level1450mm, mild35mm perspective from front-left showing fridge atleft, both long chair sides, complete cabinet full height and all four stages. No dollhouse, no overhead cutaway, no fisheye. Plain warm-white wall and light oak floor, discreet full ceiling. Do not invent a visible window/door or change this selected wall.\nLighting comparison: LEFT every pendant, task strip, display strip and toe-kick light completely OFF; daylight stays. RIGHT warm3000K concealed task LED UNDER thin flap band, soft vertical display LED and one appropriate dining pendant ON, controlled realistic brightness, no harsh yellow wash. Same scene props in both. No lamps glowing in off panel. Clean wide diptych around3072x1536, with a thin simple divider and tiny corner labels only 'A OFF'/'A ON' (change letter for scheme). No dimension arrows, no Chinese captions, no source video elements, people, logos or watermarks.\n\nSCHEME A: quiet Japanese joinery, a deep walnut framed working niche and dark walnut CLOSED slim flap band with continuous horizontal grain; matte warm white upper and lower fronts, softly rounded pale-oak L dining table on slim oval oak pedestal. Very fine warm-bronze framed clear glass display at far right, walnut back and shelves. Moss green and deep blue seat fabrics as tiny accents. Narrow frame-like walnut returns join niche to display elegantly, not fussy. One soft paper-fabric oval pendant. Above fridge there are NO storage cupboard doors and NO black rectangular empty hole: a continuous wall-coloured finely louvred REMOVABLE ventilation/service screen from fridge top toward ceiling, visually light and seamless with upper surround, no horizontal plain door-like high box. Fridge doors remain slightly proud of surround, breathable side reveals. Do not imply sealed-zero-gap appliance. Keep warm white, oak and dark walnut balanced, not yellow.",
+      "output": "A-开关灯对照.png",
+      "status": "generated and visually reviewed; standalone concept, not main implementation",
+      "refinement_record": null
+    },
+    "B": {
+      "output": "B-开关灯对照.png",
+      "status": "generated and visually reviewed; standalone concept, not main implementation",
+      "refinement_record": "generation-refinements.json"
+    },
+    "C": {
+      "output": "C-开关灯对照.png",
+      "status": "generated and visually reviewed; standalone concept, not main implementation",
+      "refinement_record": "generation-refinements.json"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "living-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-eabe412d-46c2-490c-9b5e-86614723dac0.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/living-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "living-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-df8b8b40-a9ac-48eb-aa62-139412fff359.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/living-pano-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "dining-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-9b5b7cdc-6850-4cba-8541-a37613824dd7.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/dining-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "dining-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-d679aa7f-6ef9-4802-98c6-984aba1942ec.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/dining-pano-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "balcony-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-1fc7f542-11cf-46f0-b551-ea5b51ea2ea2.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "balcony-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-27e2fd37-d446-4fef-8ff5-c19f9855ff21.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-pano-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "entry-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-edc24fca-8e94-41c3-bdee-68a23c9ecc68.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/entry-native.png",
+    "method": "built-in image_gen"
+  },
+  {
+    "id": "entry-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-4f308e07-ce5d-42e5-be86-deef40728fe1.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/entry-pano-native.png",
+    "method": "built-in image_gen"
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "savedReopenedModels": [
+    {
+      "variant": "A",
+      "parts": [
+        {
+          "name": "Seated desktop 2400x700 H750",
+          "part": "working-top",
+          "minX": 5300,
+          "maxX": 6000,
+          "minPlanZ": 2000,
+          "maxPlanZ": 4400,
+          "topHeight": 750
+        },
+        {
+          "name": "Long raised ledge 2600x200 H950",
+          "part": "long-raised-ledge",
+          "minX": 5100,
+          "maxX": 5300,
+          "minPlanZ": 1800,
+          "maxPlanZ": 4400,
+          "topHeight": 950
+        },
+        {
+          "name": "Short raised return to same H950",
+          "part": "short-raised-return",
+          "minX": 5270,
+          "maxX": 6000,
+          "minPlanZ": 1800,
+          "maxPlanZ": 2000,
+          "topHeight": 950
+        }
+      ],
+      "monitorScreenParts": 1,
+      "chairSourceGroupCount": 1
+    },
+    {
+      "variant": "B",
+      "parts": [
+        {
+          "name": "Seated desktop 2400x700 H750",
+          "part": "working-top",
+          "minX": 5300,
+          "maxX": 6000,
+          "minPlanZ": 2000,
+          "maxPlanZ": 4400,
+          "topHeight": 750
+        },
+        {
+          "name": "Long raised ledge 2600x200 H950",
+          "part": "long-raised-ledge",
+          "minX": 5100,
+          "maxX": 5300,
+          "minPlanZ": 1800,
+          "maxPlanZ": 4400,
+          "topHeight": 950
+        },
+        {
+          "name": "Short raised return to same H950",
+          "part": "short-raised-return",
+          "minX": 5270,
+          "maxX": 6000,
+          "minPlanZ": 1800,
+          "maxPlanZ": 2000,
+          "topHeight": 950
+        }
+      ],
+      "monitorScreenParts": 1,
+      "chairSourceGroupCount": 1
+    },
+    {
+      "variant": "C",
+      "parts": [
+        {
+          "name": "Seated desktop 2400x700 H750",
+          "part": "working-top",
+          "minX": 5300,
+          "maxX": 6000,
+          "minPlanZ": 2000,
+          "maxPlanZ": 4400,
+          "topHeight": 750
+        },
+        {
+          "name": "Long raised ledge 2600x200 H950",
+          "part": "long-raised-ledge",
+          "minX": 5100,
+          "maxX": 5300,
+          "minPlanZ": 1800,
+          "maxPlanZ": 4400,
+          "topHeight": 950
+        },
+        {
+          "name": "Short raised return to same H950",
+          "part": "short-raised-return",
+          "minX": 5270,
+          "maxX": 6000,
+          "minPlanZ": 1800,
+          "maxPlanZ": 2000,
+          "topHeight": 950
+        }
+      ],
+      "monitorScreenParts": 1,
+      "chairSourceGroupCount": 1
+    }
+  ],
+  "baselineHashesBefore": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "baselineHashesAfter": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "mainUnchanged": true,
+  "liveBlenderMcp": "unavailable; independent verified headless runtime used",
+  "sceneKind": "isolated furniture proposals with cropped existing context, not whole-house architectural models"
+}

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4250 3450" role="img">
+<defs><pattern id="vents" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 10H20" stroke="#7b7c78" stroke-width="4"/></pattern></defs>
+<rect width="4250" height="3450" fill="#faf9f5"/>
+<style>text{font-family:Microsoft YaHei,Arial,sans-serif;fill:#303832}.dim{stroke:#70786d;stroke-width:3;fill:none}.join{stroke:#7a8076;stroke-width:2}</style>
+<text x="240" y="100" text-anchor="start" font-size="54">A  暖白 × 胡桃木｜独立立面参数，非加工图</text>
+<text x="240" y="165" text-anchor="start" font-size="32">单位 mm · 2750为模型暂拟完成面 · 左靠客厅，右靠餐厨门</text>
+<rect x="240" y="300" width="3400" height="2750" fill="#ebe8df" stroke="#777f73" stroke-width="3"/>
+<rect x="240" y="300" width="50" height="2750" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="3590" y="300" width="50" height="2750" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="290" y="850" width="1200" height="2200" fill="#646a65" stroke="#777f73" stroke-width="3"/>
+<rect x="308" y="850" width="1164" height="2200" fill="#515952" stroke="#777f73" stroke-width="3"/>
+<rect x="430" y="1200" width="920" height="1850" fill="#414747" stroke="#777f73" stroke-width="3"/>
+<rect x="888" y="1200" width="4" height="1850" fill="#171f1d" stroke="#777f73" stroke-width="3"/>
+<rect x="308" y="850" width="1164" height="350" fill="url(#vents)" stroke="#777f73" stroke-width="3"/>
+<rect x="290" y="350" width="1200" height="500" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="889" y="350" width="2" height="500" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="240" y="300" width="3400" height="50" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2970" width="1600" height="80" fill="#73776d" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2190" width="1600" height="780" fill="#efede7" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="2170" width="1600" height="20" fill="#d8d5cc" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="1550" width="1600" height="620" fill="#6f4c39" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="1310" width="1600" height="240" fill="#674630" stroke="#777f73" stroke-width="3"/>
+<rect x="1490" y="350" width="1600" height="960" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<rect x="1889.0" y="350" width="2" height="960" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2289.0" y="350" width="2" height="960" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2689.0" y="350" width="2" height="960" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2289.0" y="1310" width="2" height="240" fill="#a5a79c" stroke="#777f73" stroke-width="3"/>
+<rect x="2290.0" y="2190" width="2" height="780" fill="#8b8d80" stroke="#777f73" stroke-width="3"/>
+<rect x="1890.0" y="2190" width="2" height="780" fill="#8b8d80" stroke="#777f73" stroke-width="3"/>
+<rect x="2290.0" y="2708.0" width="800.0" height="2" fill="#8b8d80" stroke="#777f73" stroke-width="3"/>
+<rect x="2290.0" y="2448.0" width="800.0" height="2" fill="#8b8d80" stroke="#777f73" stroke-width="3"/>
+<rect x="3090" y="2970" width="500" height="80" fill="#73776d" stroke="#777f73" stroke-width="3"/>
+<rect x="3090" y="2170" width="500" height="800" fill="#efede7" stroke="#777f73" stroke-width="3"/>
+<rect x="3090" y="850" width="500" height="1320" fill="#e5e0d5" stroke="#777f73" stroke-width="3"/>
+<rect x="3106" y="866" width="468" height="1288" fill="#d5e1dc80" stroke="#777f73" stroke-width="3"/>
+<rect x="3108" y="1831.0" width="464" height="9" fill="#aabfb7" stroke="#777f73" stroke-width="3"/>
+<rect x="3108" y="1501.0" width="464" height="9" fill="#aabfb7" stroke="#777f73" stroke-width="3"/>
+<rect x="3108" y="1171.0" width="464" height="9" fill="#aabfb7" stroke="#777f73" stroke-width="3"/>
+<rect x="3090" y="350" width="500" height="500" fill="#f1efe9" stroke="#777f73" stroke-width="3"/>
+<text x="890.0" y="3230" text-anchor="middle" font-size="35">冰箱模块 1200</text>
+<text x="2290.0" y="3230" text-anchor="middle" font-size="35">操作收纳 1600</text>
+<text x="3340.0" y="3230" text-anchor="middle" font-size="35">玻璃展示 500</text>
+<path class="dim" d="M240 3300H3640M240 3265V3335M3640 3265V3335"/>
+<text x="1940" y="3400" text-anchor="middle" font-size="38">总宽3400（含两端各50收口/调整带）</text>
+<text x="890" y="3110" text-anchor="middle" font-size="31">冰箱机身920×750×1850</text>
+<text x="890" y="3160" text-anchor="middle" font-size="31">洞口净1164宽 / 2200高</text>
+<text x="2290.0" y="3110" text-anchor="middle" font-size="33">台面深450 / 上柜深320 / 薄柜深250</text>
+<path class="dim" d="M3840 300V350M3822 300H3858M3822 350H3858"/>
+<text x="3885" y="337.0" text-anchor="start" font-size="31">顶部收口 50</text>
+<path class="dim" d="M3840 350V1310M3822 350H3858M3822 1310H3858"/>
+<text x="3885" y="842.0" text-anchor="start" font-size="31">上柜 960</text>
+<path class="dim" d="M3840 1310V1550M3822 1310H3858M3822 1550H3858"/>
+<text x="3885" y="1442.0" text-anchor="start" font-size="31">薄柜 240</text>
+<path class="dim" d="M3840 1550V2170M3822 1550H3858M3822 2170H3858"/>
+<text x="3885" y="1872.0" text-anchor="start" font-size="31">操作净高 620</text>
+<path class="dim" d="M3840 2170V3050M3822 2170H3858M3822 3050H3858"/>
+<text x="3885" y="2622.0" text-anchor="start" font-size="31">台面完成高 880</text>
+</svg>

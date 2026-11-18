@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-05",
+  "tool": "built-in image_gen.imagegen",
+  "input": "../sideboard-L-study-06/L形餐岛-开关灯概念对照.png",
+  "prompt": "Use case: precise-object-edit. In BOTH panels of this existing OFF/ON L-dining-island diptych, remove ONLY the outside chair nearest the viewer in the foreground: the chair with the deep-blue seat and beige fabric back crossing the lower foreground edge. Remove that one complete chair, all its legs/back/seat and only its own contact/cast shadow. Restore continuous pale-oak plank floor naturally underneath, keeping other furniture shadows intact. This is the owner's confirmed everyday arrangement: EXACTLY THREE dining chairs remain, namely the single moss-green chair at the left short-arm end and the TWO inside chairs between the L rail and wall cabinet. Do not remove or move either inside chair, even if its seat is blue. The fourth is a stored spare and must NOT be shown elsewhere in the picture or hidden under the table. Preserve absolutely every other detail: identical compound L tabletop, open inside corner, tabletop dimensions, cabinet four stages and solid opaque doors, dark walnut flap band and working niche, three drawers, graphite two-door fridge, coffee machine/cups, physical pendant/cord in both panels, pale-oak floor grain outside edited area, same camera, framing, labels and divider. Left panel all electric lights remain OFF, right panel pendant and concealed task light remain ON, daylight unchanged. No new objects, storage niche, bench, stool, glass door, plants, text or room redesign. This is a single-chair removal in each panel, not a new design.",
+  "output": "三椅日常-开关灯概念对照.png",
+  "scope": "owner-confirmed seating mode only; main v19 unchanged",
+  "status": "generated; three remaining chairs visually checked, OFF/ON fixtures and L shape retained"
+}

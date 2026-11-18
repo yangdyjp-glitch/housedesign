@@ -1,0 +1,472 @@
+{
+  "records": [
+    {
+      "variant": "A",
+      "model": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-02\\A\\办公区-A-近端半墙远端敞开-独立02.blend",
+      "nearSolidBody": {
+        "x": [
+          5100.0,
+          6835.0
+        ],
+        "z": [
+          4440.0,
+          4560.0
+        ],
+        "h": [
+          0.0,
+          920.0
+        ]
+      },
+      "nearCap": {
+        "x": [
+          5100.0,
+          6835.0
+        ],
+        "z": [
+          4400.0,
+          4600.0
+        ],
+        "h": [
+          920.0,
+          950.0
+        ]
+      },
+      "longLedge": {
+        "x": [
+          5100.0,
+          5300.0
+        ],
+        "z": [
+          2000.0,
+          4400.0
+        ],
+        "h": [
+          920.0,
+          950.0
+        ]
+      },
+      "monitorCount": 1,
+      "chairGroupCount": 1,
+      "farReturnCount": 0,
+      "farEndCabinetCount": 0,
+      "slidingDoorSamples": [
+        {
+          "frame": 1,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              3980.0,
+              4388.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        },
+        {
+          "frame": 20,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              4167.077,
+              4575.077
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        },
+        {
+          "frame": 40,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        }
+      ]
+    },
+    {
+      "variant": "B",
+      "model": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-02\\B\\办公区-B-近端半墙远端敞开-独立02.blend",
+      "nearSolidBody": {
+        "x": [
+          5100.0,
+          6835.0
+        ],
+        "z": [
+          4440.0,
+          4560.0
+        ],
+        "h": [
+          0.0,
+          905.0
+        ]
+      },
+      "nearCap": {
+        "x": [
+          5100.0,
+          6835.0
+        ],
+        "z": [
+          4400.0,
+          4600.0
+        ],
+        "h": [
+          905.0,
+          950.0
+        ]
+      },
+      "longLedge": {
+        "x": [
+          5100.0,
+          5300.0
+        ],
+        "z": [
+          2000.0,
+          4400.0
+        ],
+        "h": [
+          905.0,
+          950.0
+        ]
+      },
+      "monitorCount": 1,
+      "chairGroupCount": 1,
+      "farReturnCount": 0,
+      "farEndCabinetCount": 0,
+      "slidingDoorSamples": [
+        {
+          "frame": 1,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              3980.0,
+              4388.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        },
+        {
+          "frame": 20,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              4167.077,
+              4575.077
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        },
+        {
+          "frame": 40,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        }
+      ]
+    },
+    {
+      "variant": "C",
+      "model": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\office-study-02\\C\\办公区-C-近端半墙远端敞开-独立02.blend",
+      "nearSolidBody": {
+        "x": [
+          5100.0,
+          6835.0
+        ],
+        "z": [
+          4440.0,
+          4560.0
+        ],
+        "h": [
+          0.0,
+          915.0
+        ]
+      },
+      "nearCap": {
+        "x": [
+          5100.0,
+          6835.0
+        ],
+        "z": [
+          4400.0,
+          4600.0
+        ],
+        "h": [
+          915.0,
+          950.0
+        ]
+      },
+      "longLedge": {
+        "x": [
+          5100.0,
+          5300.0
+        ],
+        "z": [
+          2000.0,
+          4400.0
+        ],
+        "h": [
+          915.0,
+          950.0
+        ]
+      },
+      "monitorCount": 1,
+      "chairGroupCount": 1,
+      "farReturnCount": 0,
+      "farEndCabinetCount": 0,
+      "slidingDoorSamples": [
+        {
+          "frame": 1,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              3980.0,
+              4388.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        },
+        {
+          "frame": 20,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              4167.077,
+              4575.077
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        },
+        {
+          "frame": 40,
+          "front": {
+            "x": [
+              6838.0,
+              6856.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "rear": {
+            "x": [
+              6858.0,
+              6876.0
+            ],
+            "z": [
+              4364.0,
+              4772.0
+            ],
+            "h": [
+              4.0,
+              2696.0
+            ]
+          },
+          "wallToFrontLeafGapX": 3.0,
+          "leafTrackGapX": 2.0
+        }
+      ]
+    }
+  ],
+  "baselineBefore": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "baselineAfter": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "mainUnchanged": true
+}

@@ -1,0 +1,38 @@
+{
+  "table": {
+    "x": [
+      1900.0,
+      2650.0
+    ],
+    "y_depth": [
+      300.0,
+      1700.0
+    ],
+    "height": [
+      720.0,
+      750.0
+    ]
+  },
+  "right_panel": {
+    "x": [
+      1182.0,
+      1200.0
+    ],
+    "y_depth": [
+      -0.0,
+      450.0
+    ],
+    "height": [
+      0.0,
+      2750.0
+    ]
+  },
+  "opaque_doors": [
+    "right-opaque-door-05",
+    "right-opaque-top-door-05",
+    "right-opaque-door-05.001",
+    "right-opaque-top-door-05.001"
+  ],
+  "model": "无玻璃餐边柜-L尺寸修订.blend",
+  "kind": "actual detached Blender object bounds; main model unchanged"
+}

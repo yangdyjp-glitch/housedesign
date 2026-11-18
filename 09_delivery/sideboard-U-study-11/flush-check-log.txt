@@ -1,0 +1,6 @@
+Info: Saved as "短连接长餐台-胡桃白冰箱圆边-独立11.blend"
+FLUSH_ROOT_VERIFIED {"top_mesh_count": 1, "raw_mesh_vertex_height_levels_mm": [850.0, 880.0], "step_height_mm": 0, "material": "walnut", "no_separate_counter_tops": true}
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-11\短连接长餐台-胡桃白冰箱圆边-独立11.blend"
+
+Blender quit

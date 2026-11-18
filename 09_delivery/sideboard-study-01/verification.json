@@ -1,0 +1,47 @@
+{
+  "master_files_unchanged": true,
+  "before": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "after": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "dimensions_and_modules_checked": true,
+  "images": [
+    {
+      "scheme": "A",
+      "file": "A-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "e3051be7d01fc4bfe1c24a170df608088eb1f7f8c0945ba5d4912b2bcab47eaa"
+    },
+    {
+      "scheme": "B",
+      "file": "B-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "0e6487a715847858450cb77914291d2bb6450ee07d2c5e3d8edb00ffd3a6d464"
+    },
+    {
+      "scheme": "C",
+      "file": "C-开关灯对照.png",
+      "width": 1983,
+      "height": 793,
+      "sha256": "3fc9310b68608c0a42b45787036ad2608b7e766c94eec62ba2d6b6d057005227"
+    }
+  ],
+  "html_local_resources_checked": true,
+  "svg_xml_checked": true,
+  "images_saved_and_visually_inspected": true,
+  "lighting_pairs": "All three contain left artificial-off and right artificial-on views; daylight and view retained.",
+  "html_browser_preview": "Not performed: browser policy rejects file://; no alternative browser route attempted.",
+  "image_qa_note": "AI conceptual appearance; technical SVG/JSON governs dimensions. No claim of pixel-perfect proportional correspondence."
+}

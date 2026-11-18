@@ -1,0 +1,5 @@
+{
+  "prompt": "Use case: precise-object-edit. Make ONLY these local cleanups to this two-panel B office design. In BOTH panels, remove the extra computer mouse near the far upper-right end of the keyboard and inpaint natural matching oak grain. Retain the SINGLE mouse below/nearer the camera from the keyboard, same position in each panel. Do not remove or relocate the keyboard. Add a small centered Chinese title in the empty white top margin “方案B｜深木框景”, keeping panel labels B · 全关灯 / B · 全开灯. No English identifier. Preserve all geometry and positions, the 950-high smoked-walnut L ledge with its matching short return, 750-high lower pale oak desktop, sage shallow far end cabinet, sofa, right bookcase, one chair, one ultrawide monitor, one task lamp, plant, mug and pen cup. LEFT artificial lights fully OFF, daylight remains. RIGHT both raised L ledge strips, task lamp and environment lights ON. Same daylight, camera, crop, photo realism, shadow directions and material detail; change nothing else. No new wall or overhead cabinet.",
+  "target": "B-初稿.png",
+  "reason": "Remove duplicated mouse, add concise Chinese title"
+}

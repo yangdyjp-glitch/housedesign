@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1120">
+<rect width="1500" height="1120" fill="#faf9f5"/>
+<style>text{font-family:Microsoft YaHei,Arial,sans-serif;fill:#344235}.s{font-size:21px}.m{font-size:25px}</style>
+<text x="45" y="48" font-size="32">三套共用的四段式结构｜单位 mm</text>
+<text x="45" y="84" class="s">层高2750、墙长3545仍为模型暂拟值；不是加工图。</text>
+<rect x="120.6" y="393.5" width="266.79999999999995" height="536.5" fill="#87918b" stroke="#7f897c" stroke-width="1.5"/>
+<text x="164.1" y="654.5" font-size="26">冰箱</text>
+<text x="107.55" y="315.20000000000005" font-size="19">上方非日常储物</text>
+<text x="111.9" y="352.9000000000001" font-size="19">通风构造另核</text>
+<rect x="428.0" y="680.6" width="638.0" height="226.2" fill="#eeebe3" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="428.0" y="674.8" width="638.0" height="5.8" fill="#d2b68c" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="428.0" y="500.8" width="434.99999999999994" height="174.0" fill="#c6aa89" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="428.0" y="428.3" width="434.99999999999994" height="72.5" fill="#805f48" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="428.0" y="147.0" width="434.99999999999994" height="281.29999999999995" fill="#f1eee6" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="428.0" y="132.5" width="638.0" height="14.499999999999998" fill="#d8d7ce" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="292.0" width="203.0" height="382.79999999999995" fill="#bdc8ba" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="147.0" width="203.0" height="145.0" fill="#f1eee6" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="594.1800000000001" width="203.0" height="5.22" fill="#977c5e" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="498.48" width="203.0" height="5.22" fill="#977c5e" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="402.7800000000001" width="203.0" height="5.22" fill="#977c5e" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="830.53" width="203.0" height="0.8699999999999999" fill="#8a8172" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="863.0" y="755.13" width="203.0" height="0.8699999999999999" fill="#8a8172" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="602.0" y="428.3" width="1.16" height="72.5" fill="#5f4838" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="602.0" y="147.0" width="1.16" height="281.29999999999995" fill="#b1b0a5" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="558.5" y="712.5" width="217.49999999999997" height="8.7" fill="#d2b68c" stroke="#7f897c" stroke-width="1.5"/>
+<rect x="558.5" y="721.2" width="217.49999999999997" height="185.6" fill="#e0d2bf" stroke="#7f897c" stroke-width="1.5"/>
+<text x="1083.4" y="289.1" font-size="23">① 上柜 970</text>
+<text x="1083.4" y="466.00000000000006" font-size="23">② 薄柜 250</text>
+<text x="1083.4" y="590.7" font-size="23">③ 留空 600</text>
+<text x="1083.4" y="811.1" font-size="23">④ 下柜至台面 880</text>
+<text x="892.0" y="492.1" font-size="20">玻璃</text>
+<text x="883.3" y="541.4000000000001" font-size="20">展示门</text>
+<text x="883.3" y="802.4" font-size="20">三横抽</text>
+<text x="558.5" y="776.3" font-size="18">餐面连接段</text>
+<text x="85" y="983" class="m">冰箱区1200</text><text x="475" y="983" class="m">餐边柜2200（主操作段1500＋展示端700）</text>
+<text x="85" y="1025" class="s">深度：下柜450 ／ 上柜350 ／ 薄柜220；收顶50；操作台880与餐面750高低连接。</text>
+<text x="85" y="1065" class="s">冰箱上方开放或通风检修面为候选做法；不能用实心板封死散热空间。</text></svg>

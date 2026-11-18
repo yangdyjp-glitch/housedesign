@@ -1,0 +1,336 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-09\同色等高U形餐岛-完整下拉上柜.blend"
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | wall
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | floor
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-pull
+Fra:1 Mem:27.60M (Peak 27.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left-end-panel
+Fra:1 Mem:28.60M (Peak 28.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-service-dark-back
+Fra:1 Mem:28.60M (Peak 28.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre
+Fra:1 Mem:28.61M (Peak 28.61M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.004
+Fra:1 Mem:28.62M (Peak 28.62M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.008
+Fra:1 Mem:28.62M (Peak 28.62M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.009
+Fra:1 Mem:28.67M (Peak 28.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.010
+Fra:1 Mem:28.68M (Peak 28.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.011
+Fra:1 Mem:28.93M (Peak 28.93M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.012
+Fra:1 Mem:28.94M (Peak 28.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.014
+Fra:1 Mem:29.06M (Peak 29.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.015
+Fra:1 Mem:29.13M (Peak 29.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.016
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.017
+Fra:1 Mem:29.12M (Peak 29.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.018
+Fra:1 Mem:29.13M (Peak 29.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.019
+Fra:1 Mem:29.32M (Peak 29.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-U-leg-10.001
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.020
+Fra:1 Mem:29.29M (Peak 29.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-plinth
+Fra:1 Mem:29.30M (Peak 29.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-vertical.002
+Fra:1 Mem:29.33M (Peak 29.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-floor
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front
+Fra:1 Mem:29.36M (Peak 29.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-U-leg-10
+Fra:1 Mem:29.40M (Peak 29.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box
+Fra:1 Mem:29.43M (Peak 29.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front.001
+Fra:1 Mem:29.39M (Peak 29.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | hidden-longarm-steel-10
+Fra:1 Mem:29.43M (Peak 29.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front.002
+Fra:1 Mem:29.47M (Peak 29.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box.002
+Fra:1 Mem:29.56M (Peak 29.56M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sideboard-ceiling-closure
+Fra:1 Mem:29.61M (Peak 29.61M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | coffee-machine-body
+Fra:1 Mem:29.66M (Peak 29.66M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | coffee-machine-drip-tray
+Fra:1 Mem:29.71M (Peak 29.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ceramic-cup
+Fra:1 Mem:29.73M (Peak 29.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ceramic-cup.001
+Fra:1 Mem:29.73M (Peak 29.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | small-tray
+Fra:1 Mem:29.71M (Peak 29.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | daylight
+Fra:1 Mem:29.70M (Peak 29.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fill
+Fra:1 Mem:29.74M (Peak 29.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | artificial-niche
+Fra:1 Mem:29.75M (Peak 29.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | artificial-pendant
+Fra:1 Mem:29.71M (Peak 29.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pendant-stem
+Fra:1 Mem:29.72M (Peak 29.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pendant-paper-shade
+Fra:1 Mem:29.78M (Peak 29.78M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right-end-lower-09
+Fra:1 Mem:29.86M (Peak 29.86M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right-end-upper-09
+Fra:1 Mem:29.92M (Peak 29.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | continuous-oak-niche-back-09
+Fra:1 Mem:29.97M (Peak 29.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | hidden-crossarm-steel-10
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | continuous-slim-band-body-09
+Fra:1 Mem:30.18M (Peak 30.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-1-09
+Fra:1 Mem:30.28M (Peak 30.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-side-09
+Fra:1 Mem:30.28M (Peak 30.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-side-09.001
+Fra:1 Mem:30.30M (Peak 30.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-back-09
+Fra:1 Mem:30.24M (Peak 30.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-horizontal-09.001
+Fra:1 Mem:30.25M (Peak 30.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-1-09
+Fra:1 Mem:30.26M (Peak 30.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-1-09
+Fra:1 Mem:30.28M (Peak 30.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-tray
+Fra:1 Mem:30.32M (Peak 30.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-working-shelf-10.001
+Fra:1 Mem:30.34M (Peak 30.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-working-shelf-10
+Fra:1 Mem:30.38M (Peak 30.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-front-rail
+Fra:1 Mem:30.38M (Peak 30.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-tray.001
+Fra:1 Mem:30.43M (Peak 30.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-front-rail.001
+Fra:1 Mem:30.45M (Peak 30.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-side-mechanism
+Fra:1 Mem:30.45M (Peak 30.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-side-mechanism.001
+Fra:1 Mem:30.56M (Peak 30.56M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-handle
+Fra:1 Mem:30.57M (Peak 30.57M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-side-09.001
+Fra:1 Mem:30.63M (Peak 30.63M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-back-09
+Fra:1 Mem:30.68M (Peak 30.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-horizontal-09
+Fra:1 Mem:30.66M (Peak 30.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-horizontal-09.001
+Fra:1 Mem:30.65M (Peak 30.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-2-09
+Fra:1 Mem:30.66M (Peak 30.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-2-09
+Fra:1 Mem:30.76M (Peak 30.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-tray
+Fra:1 Mem:30.75M (Peak 30.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-front-rail
+Fra:1 Mem:30.87M (Peak 30.87M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-tray.001
+Fra:1 Mem:30.89M (Peak 30.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-front-rail.001
+Fra:1 Mem:30.85M (Peak 30.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-side-mechanism
+Fra:1 Mem:30.89M (Peak 30.89M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-side-mechanism.001
+Fra:1 Mem:30.95M (Peak 30.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-handle
+Fra:1 Mem:31.02M (Peak 31.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-3-09
+Fra:1 Mem:31.04M (Peak 31.04M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-side-09
+Fra:1 Mem:31.11M (Peak 31.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-side-09.001
+Fra:1 Mem:31.06M (Peak 31.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-back-09
+Fra:1 Mem:31.03M (Peak 31.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-horizontal-09
+Fra:1 Mem:31.02M (Peak 31.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-3-09
+Fra:1 Mem:31.07M (Peak 31.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-3-09
+Fra:1 Mem:31.16M (Peak 31.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-tray
+Fra:1 Mem:31.16M (Peak 31.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-front-rail
+Fra:1 Mem:31.27M (Peak 31.27M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | accessible-lower-door-10
+Fra:1 Mem:31.25M (Peak 31.27M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-tray.001
+Fra:1 Mem:31.30M (Peak 31.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-front-rail.001
+Fra:1 Mem:31.33M (Peak 31.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-side-mechanism
+Fra:1 Mem:31.38M (Peak 31.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-side-mechanism.001
+Fra:1 Mem:31.46M (Peak 31.46M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-handle
+Fra:1 Mem:31.47M (Peak 31.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-4-09
+Fra:1 Mem:31.47M (Peak 31.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-side-09
+Fra:1 Mem:31.51M (Peak 31.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-horizontal-09
+Fra:1 Mem:31.57M (Peak 31.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-horizontal-09.001
+Fra:1 Mem:31.55M (Peak 31.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-4-09
+Fra:1 Mem:31.57M (Peak 31.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-4-09
+Fra:1 Mem:31.52M (Peak 31.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-tray
+Fra:1 Mem:31.56M (Peak 31.58M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-root-vertical-10.001
+Fra:1 Mem:31.62M (Peak 31.63M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-front-rail
+Fra:1 Mem:31.64M (Peak 31.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-root-vertical-10
+Fra:1 Mem:31.65M (Peak 31.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fixed-root-front-10
+Fra:1 Mem:31.79M (Peak 31.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-tray.001
+Fra:1 Mem:31.76M (Peak 31.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-front-rail.001
+Fra:1 Mem:31.76M (Peak 31.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-side-mechanism
+Fra:1 Mem:31.82M (Peak 31.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-handle
+Fra:1 Mem:31.85M (Peak 31.85M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | niche-led-profile-09
+Fra:1 Mem:31.87M (Peak 31.87M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | continuous-U-top-start1200-end2600-10
+Fra:1 Mem:31.90M (Peak 31.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fixed-root-support-10
+Fra:1 Mem:32.02M (Peak 32.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.85M (Peak 32.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.85M (Peak 32.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.85M (Peak 32.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.85M (Peak 32.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.93M (Peak 32.02M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.93M (Peak 32.02M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.93M (Peak 32.02M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.93M (Peak 32.02M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.93M (Peak 32.02M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.93M (Peak 32.02M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.96M (Peak 32.02M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.96M (Peak 32.02M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.96M (Peak 32.02M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.96M (Peak 32.02M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.96M (Peak 32.02M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:24.61M (Peak 32.02M) | Time:00:00.01 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:24.59M (Peak 32.02M) | Time:00:00.01 | Mem:0.66M, Peak:0.66M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:24.60M (Peak 32.02M) | Time:00:00.01 | Mem:0.66M, Peak:0.66M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:24.60M (Peak 32.02M) | Time:00:00.01 | Mem:1.58M, Peak:1.58M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:24.60M (Peak 32.02M) | Time:00:00.02 | Mem:2.67M, Peak:3.59M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:24.60M (Peak 32.02M) | Time:00:00.02 | Mem:2.67M, Peak:3.59M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:2.67M, Peak:3.59M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.37M, Peak:4.37M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.37M, Peak:4.37M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.37M, Peak:4.37M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.37M, Peak:4.37M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.37M, Peak:4.37M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.45M, Peak:4.45M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.45M, Peak:4.45M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.45M, Peak:4.45M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:26.29M (Peak 32.02M) | Time:00:00.02 | Mem:4.45M, Peak:4.45M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:26.30M (Peak 32.02M) | Time:00:00.02 | Mem:4.37M, Peak:4.45M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:26.30M (Peak 32.02M) | Time:00:00.02 | Mem:4.46M, Peak:4.46M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:26.30M (Peak 32.02M) | Time:00:00.02 | Mem:4.46M, Peak:4.46M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:26.30M (Peak 32.02M) | Time:00:00.02 | Mem:4.46M, Peak:4.46M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:26.30M (Peak 32.02M) | Time:00:00.02 | Mem:4.46M, Peak:4.46M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:202.71M (Peak 202.71M) | Time:00:00.43 | Remaining:00:06.20 | Mem:180.58M, Peak:180.58M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:276.87M (Peak 388.11M) | Time:00:22.72 | Mem:180.58M, Peak:180.58M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:276.87M (Peak 388.11M) | Time:00:22.72 | Mem:180.58M, Peak:180.58M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-10\端头起步加长U-实体关系参考.png'
+Time: 00:23.16 (Saving: 00:00.42)
+
+Fra:120 Mem:28.71M (Peak 28.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | wall
+Fra:120 Mem:28.71M (Peak 28.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-body
+Fra:120 Mem:28.72M (Peak 28.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-two-door
+Fra:120 Mem:28.72M (Peak 28.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-two-door.001
+Fra:120 Mem:28.84M (Peak 28.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-centre-reveal
+Fra:120 Mem:28.83M (Peak 28.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-pull
+Fra:120 Mem:28.84M (Peak 28.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-pull.001
+Fra:120 Mem:28.91M (Peak 28.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left-end-panel
+Fra:120 Mem:28.95M (Peak 28.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-right-side-panel
+Fra:120 Mem:28.99M (Peak 28.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-service-dark-back
+Fra:120 Mem:29.03M (Peak 29.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre
+Fra:120 Mem:29.00M (Peak 29.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.001
+Fra:120 Mem:29.10M (Peak 29.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.002
+Fra:120 Mem:29.14M (Peak 29.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.003
+Fra:120 Mem:29.17M (Peak 29.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.004
+Fra:120 Mem:29.18M (Peak 29.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-U-leg-10.001
+Fra:120 Mem:29.19M (Peak 29.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-U-leg-10
+Fra:120 Mem:29.24M (Peak 29.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | hidden-longarm-steel-10
+Fra:120 Mem:29.27M (Peak 29.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.005
+Fra:120 Mem:29.32M (Peak 29.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.006
+Fra:120 Mem:29.30M (Peak 29.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | hidden-crossarm-steel-10
+Fra:120 Mem:29.37M (Peak 29.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.007
+Fra:120 Mem:29.44M (Peak 29.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-working-shelf-10.001
+Fra:120 Mem:29.45M (Peak 29.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower-working-shelf-10
+Fra:120 Mem:29.41M (Peak 29.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | accessible-lower-door-10.001
+Fra:120 Mem:29.41M (Peak 29.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.009
+Fra:120 Mem:29.55M (Peak 29.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | accessible-lower-door-10
+Fra:120 Mem:29.56M (Peak 29.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.010
+Fra:120 Mem:29.59M (Peak 29.59M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-root-vertical-10.001
+Fra:120 Mem:29.61M (Peak 29.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-root-vertical-10
+Fra:120 Mem:29.58M (Peak 29.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fixed-root-front-10
+Fra:120 Mem:29.59M (Peak 29.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.011
+Fra:120 Mem:29.66M (Peak 29.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fixed-root-support-10
+Fra:120 Mem:29.66M (Peak 29.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.012
+Fra:120 Mem:29.66M (Peak 29.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | continuous-U-top-start1200-end2600-10
+Fra:120 Mem:29.80M (Peak 29.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.013
+Fra:120 Mem:29.87M (Peak 29.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.014
+Fra:120 Mem:29.91M (Peak 29.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.015
+Fra:120 Mem:29.93M (Peak 29.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | niche-led-profile-09
+Fra:120 Mem:29.96M (Peak 29.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-handle
+Fra:120 Mem:29.96M (Peak 29.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.016
+Fra:120 Mem:29.99M (Peak 29.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-side-mechanism.001
+Fra:120 Mem:30.03M (Peak 30.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.017
+Fra:120 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-side-mechanism
+Fra:120 Mem:30.10M (Peak 30.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.018
+Fra:120 Mem:30.14M (Peak 30.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-front-rail.001
+Fra:120 Mem:30.17M (Peak 30.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.019
+Fra:120 Mem:30.21M (Peak 30.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-tray.001
+Fra:120 Mem:30.25M (Peak 30.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-upper-removable-louvre.020
+Fra:120 Mem:30.28M (Peak 30.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-front-rail
+Fra:120 Mem:30.31M (Peak 30.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fridge-ceiling-closure
+Fra:120 Mem:30.31M (Peak 30.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-4-tray
+Fra:120 Mem:30.31M (Peak 30.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-plinth
+Fra:120 Mem:30.32M (Peak 30.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-vertical.002
+Fra:120 Mem:30.35M (Peak 30.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | base-floor
+Fra:120 Mem:30.35M (Peak 30.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front
+Fra:120 Mem:30.39M (Peak 30.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-4-09
+Fra:120 Mem:30.42M (Peak 30.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box
+Fra:120 Mem:30.46M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-4-09
+Fra:120 Mem:30.50M (Peak 30.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front.001
+Fra:120 Mem:30.53M (Peak 30.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-horizontal-09.001
+Fra:120 Mem:30.53M (Peak 30.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-horizontal-09
+Fra:120 Mem:30.53M (Peak 30.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-back-09
+Fra:120 Mem:30.53M (Peak 30.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-4-side-09
+Fra:120 Mem:30.53M (Peak 30.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-4-09
+Fra:120 Mem:30.58M (Peak 30.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box.001
+Fra:120 Mem:30.61M (Peak 30.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-handle
+Fra:120 Mem:30.64M (Peak 30.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-front.002
+Fra:120 Mem:30.68M (Peak 30.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | horizontal-drawer-box.002
+Fra:120 Mem:30.72M (Peak 30.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-side-mechanism.001
+Fra:120 Mem:30.79M (Peak 30.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sideboard-ceiling-closure
+Fra:120 Mem:30.76M (Peak 30.79M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-side-mechanism
+Fra:120 Mem:30.75M (Peak 30.79M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | coffee-machine-body
+Fra:120 Mem:30.84M (Peak 30.84M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | coffee-machine-drip-tray
+Fra:120 Mem:30.89M (Peak 30.89M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-front-rail.001
+Fra:120 Mem:30.87M (Peak 30.89M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ceramic-cup
+Fra:120 Mem:30.92M (Peak 30.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ceramic-cup.001
+Fra:120 Mem:30.91M (Peak 30.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | small-tray
+Fra:120 Mem:30.92M (Peak 30.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | daylight
+Fra:120 Mem:30.92M (Peak 30.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | fill
+Fra:120 Mem:30.92M (Peak 30.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | artificial-niche
+Fra:120 Mem:30.93M (Peak 30.93M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | artificial-pendant
+Fra:120 Mem:30.94M (Peak 30.94M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pendant-stem
+Fra:120 Mem:30.96M (Peak 30.96M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pendant-paper-shade
+Fra:120 Mem:31.01M (Peak 31.01M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-tray.001
+Fra:120 Mem:31.01M (Peak 31.01M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right-end-upper-09
+Fra:120 Mem:31.12M (Peak 31.12M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-front-rail
+Fra:120 Mem:31.15M (Peak 31.15M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | continuous-oak-niche-back-09
+Fra:120 Mem:31.15M (Peak 31.15M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | continuous-slim-band-body-09
+Fra:120 Mem:31.15M (Peak 31.15M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-3-tray
+Fra:120 Mem:31.19M (Peak 31.19M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-1-09
+Fra:120 Mem:31.23M (Peak 31.23M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-3-09
+Fra:120 Mem:31.26M (Peak 31.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-side-09
+Fra:120 Mem:31.26M (Peak 31.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-side-09.001
+Fra:120 Mem:31.26M (Peak 31.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-back-09
+Fra:120 Mem:31.28M (Peak 31.28M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-horizontal-09
+Fra:120 Mem:31.26M (Peak 31.28M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-3-09
+Fra:120 Mem:31.27M (Peak 31.28M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-1-horizontal-09.001
+Fra:120 Mem:31.32M (Peak 31.32M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | complete-upper-door-1-09
+Fra:120 Mem:31.34M (Peak 31.34M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-horizontal-09.001
+Fra:120 Mem:31.34M (Peak 31.34M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-horizontal-09
+Fra:120 Mem:31.34M (Peak 31.34M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-back-09
+Fra:120 Mem:31.34M (Peak 31.34M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-side-09.001
+Fra:120 Mem:31.34M (Peak 31.34M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-3-side-09
+Fra:120 Mem:31.34M (Peak 31.34M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-3-09
+Fra:120 Mem:31.37M (Peak 31.37M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-1-09
+Fra:120 Mem:31.41M (Peak 31.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-tray
+Fra:120 Mem:31.42M (Peak 31.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-handle
+Fra:120 Mem:31.49M (Peak 31.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-front-rail
+Fra:120 Mem:31.52M (Peak 31.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-tray.001
+Fra:120 Mem:31.52M (Peak 31.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-side-mechanism.001
+Fra:120 Mem:31.62M (Peak 31.62M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-front-rail.001
+Fra:120 Mem:31.63M (Peak 31.63M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-side-mechanism
+Fra:120 Mem:31.59M (Peak 31.63M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-side-mechanism
+Fra:120 Mem:31.69M (Peak 31.69M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-front-rail.001
+Fra:120 Mem:31.70M (Peak 31.70M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-1-handle
+Fra:120 Mem:31.77M (Peak 31.77M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-tray.001
+Fra:120 Mem:31.84M (Peak 31.84M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | slim-flap-2-09
+Fra:120 Mem:31.88M (Peak 31.88M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-front-rail
+Fra:120 Mem:31.91M (Peak 31.91M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-side-09
+Fra:120 Mem:31.95M (Peak 31.95M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-side-09.001
+Fra:120 Mem:31.91M (Peak 31.95M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | pulldown-2-tray
+Fra:120 Mem:31.91M (Peak 31.95M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-back-09
+Fra:120 Mem:31.96M (Peak 31.96M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-horizontal-09
+Fra:120 Mem:31.97M (Peak 31.97M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-2-horizontal-09.001
+Fra:120 Mem:31.95M (Peak 31.97M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | upper-door-low-pull-2-09
+Fra:120 Mem:32.02M (Peak 32.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:120 Mem:23.85M (Peak 32.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:120 Mem:23.85M (Peak 32.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:120 Mem:23.85M (Peak 32.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:120 Mem:23.85M (Peak 32.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:120 Mem:23.93M (Peak 32.02M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:120 Mem:23.93M (Peak 32.02M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:120 Mem:23.93M (Peak 32.02M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:120 Mem:23.93M (Peak 32.02M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:120 Mem:23.93M (Peak 32.02M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:120 Mem:23.93M (Peak 32.02M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:120 Mem:23.96M (Peak 32.02M) | Time:00:00.04 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:120 Mem:23.96M (Peak 32.02M) | Time:00:00.04 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:120 Mem:23.97M (Peak 32.02M) | Time:00:00.04 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:120 Mem:23.97M (Peak 32.02M) | Time:00:00.04 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:120 Mem:23.97M (Peak 32.02M) | Time:00:00.04 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:120 Mem:24.61M (Peak 32.02M) | Time:00:00.04 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:120 Mem:24.59M (Peak 32.02M) | Time:00:00.04 | Mem:0.66M, Peak:0.66M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:120 Mem:24.60M (Peak 32.02M) | Time:00:00.04 | Mem:0.66M, Peak:0.66M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:120 Mem:24.60M (Peak 32.02M) | Time:00:00.04 | Mem:1.58M, Peak:1.58M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:120 Mem:24.60M (Peak 32.02M) | Time:00:00.05 | Mem:2.58M, Peak:3.49M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:120 Mem:24.60M (Peak 32.02M) | Time:00:00.05 | Mem:2.58M, Peak:3.49M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:2.58M, Peak:3.49M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.27M, Peak:4.27M | Scene, ViewLayer | Updating Objects Flags
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.27M, Peak:4.27M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.28M, Peak:4.28M | Scene, ViewLayer | Updating Images
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.28M, Peak:4.28M | Scene, ViewLayer | Updating Camera Volume
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.28M, Peak:4.28M | Scene, ViewLayer | Updating Lookup Tables
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Updating Lights
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Updating Integrator
+Fra:120 Mem:26.29M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Updating Film
+Fra:120 Mem:26.30M (Peak 32.02M) | Time:00:00.05 | Mem:4.28M, Peak:4.36M | Scene, ViewLayer | Updating Lookup Tables
+Fra:120 Mem:26.30M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Updating Baking
+Fra:120 Mem:26.30M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:120 Mem:26.30M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:120 Mem:26.30M (Peak 32.02M) | Time:00:00.05 | Mem:4.36M, Peak:4.36M | Scene, ViewLayer | Sample 0/16
+Fra:120 Mem:202.71M (Peak 202.71M) | Time:00:02.60 | Remaining:00:38.25 | Mem:180.49M, Peak:180.49M | Scene, ViewLayer | Sample 1/16
+Fra:120 Mem:202.71M (Peak 202.71M) | Time:00:22.15 | Remaining:00:17.19 | Mem:180.49M, Peak:180.49M | Scene, ViewLayer | Sample 9/16
+Fra:120 Mem:276.87M (Peak 388.11M) | Time:01:03.98 | Mem:180.49M, Peak:180.49M | Scene, ViewLayer | Sample 16/16
+Fra:120 Mem:276.87M (Peak 388.11M) | Time:01:03.98 | Mem:180.49M, Peak:180.49M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-10\冰箱右门90度-几何试排.png'
+Time: 01:04.29 (Saving: 00:00.29)
+
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-10\端头起步-加长U餐岛-暂不排椅凳.blend"
+Fra:1 Mem:150.68M (Peak 156.75M) | Time:00:00.68 | Rendering 1 / 64 samples
+Fra:1 Mem:150.68M (Peak 156.75M) | Time:00:00.68 | Rendering 25 / 64 samples
+Fra:1 Mem:150.68M (Peak 156.75M) | Time:00:00.70 | Rendering 50 / 64 samples
+Fra:1 Mem:150.68M (Peak 156.75M) | Time:00:00.71 | Rendering 64 / 64 samples
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-10\端头起步加长U-前后尺寸对照.png'
+Time: 00:01.02 (Saving: 00:00.20)
+
+Info: Saved as "端头起步-加长U餐岛-暂不排椅凳.blend"
+{"output": "D:\\AI-Yang.cn\\HomeDesign\\09_delivery\\sideboard-U-study-10", "readback": "passed", "main_unchanged": true}
+
+Blender quit

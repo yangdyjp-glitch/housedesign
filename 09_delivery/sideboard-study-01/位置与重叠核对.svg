@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 1120">
+<defs><pattern id="overlap" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#ad5649" stroke-width="4"/></pattern></defs>
+<rect width="1160" height="1120" fill="#faf9f5"/><style>text{font-family:Microsoft YaHei,Arial,sans-serif;fill:#303832;font-size:23px}.plan-label{font-size:85px}</style>
+<text x="45" y="50" font-size="32">位置核对｜独立叠加，不修改v19</text>
+<text x="45" y="88">上：客厅端　下：餐厨推拉门　左：通长柜　右：用户红框墙</text>
+<g transform="translate(105 125) scale(.24)">
+<rect x="-100" y="0" width="100" height="3545" fill="#93998d"/>
+<rect x="3082" y="0" width="120" height="3545" fill="#93998d"/>
+<rect x="0" y="0" width="400" height="3410" fill="#e3cda4" stroke="#9e956f" stroke-width="6"/>
+<rect x="2282" y="72.5" width="800" height="1250" fill="#929f9f" fill-opacity=".7" stroke="#586d6c" stroke-width="6"/>
+<rect x="2632" y="1322.5" width="450" height="2150" fill="#b4c6ac" fill-opacity=".8" stroke="#718967" stroke-width="6"/>
+<rect x="2282" y="1210" width="800" height="1600" fill="#ddc6a3" stroke="#6c604c" stroke-width="8"/>
+<rect x="2632" y="1322.5" width="450" height="1487.5" fill="url(#overlap)"/>
+<rect x="2282" y="1210" width="800" height="112.5" fill="url(#overlap)"/>
+<g fill="#ccd4c7" stroke="#6b7666" stroke-width="6"><rect x="1832" y="1460" width="450" height="450"/><rect x="1832" y="2110" width="450" height="450"/><rect x="2457" y="760" width="450" height="450"/><rect x="2457" y="2810" width="450" height="450"/></g>
+<path d="M1391 3545H3082" stroke="#7ba2ae" stroke-width="30"/>
+<rect x="2457" y="760" width="450" height="450" fill="url(#overlap)"/>
+<g><text class="plan-label" x="25" y="230">深400</text><text class="plan-label" x="2310" y="400">冰箱深800</text><text class="plan-label" x="2650" y="3400">柜深450</text><text class="plan-label" x="2300" y="2050">现餐桌</text></g></g>
+<text x="930" y="435" fill="#aa5349">确定重叠</text><text x="930" y="470" fill="#aa5349">450 mm</text>
+<text x="45" y="1040">柜体外形可容纳于墙长，但与现有餐桌不可直接叠放；图中未代表已经解决布局。</text>
+<text x="45" y="1080">模型长度3545 mm；现场尺寸及冰箱开门仍待核。参数以方案表为准。</text></svg>

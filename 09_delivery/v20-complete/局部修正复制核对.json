@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dining-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-c995fcbc-1d80-4cb6-a81a-2ae060a6369d.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/dining-pano-native.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "0ab7bc769da38236c1f15a8be3d67e31d3c1b0d1fe66d8f13f9ee5f079790e11"
+  },
+  {
+    "id": "balcony-photo",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-b4e71234-6bcf-47d5-850b-e82162c8d770.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-native.png",
+    "resolution": [
+      1536,
+      1024
+    ],
+    "sha256": "f2882fbdd52c207212957d652fbbfa28c4b4e326ef0f7cdfa364f7daeba43a72"
+  },
+  {
+    "id": "balcony-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-27111eb8-5bc9-43a7-93f9-213e12dcdacb.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-pano-native.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "9847bb8e1e1883f86453bf97dad5be9fd1177d1919f35eb3d013f071c3e4cff2"
+  },
+  {
+    "id": "entry-pano",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a187d1-69cc-73a1-805e-834e8e8bb476\\exec-3c0a14aa-ba6e-4ee9-ba18-2cd0b57ec18f.png",
+    "nativeAnchor": "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/entry-pano-native.png",
+    "resolution": [
+      1774,
+      887
+    ],
+    "sha256": "ced94d513d4bc7e915f24e6e003e5b8fd8a557dd79b8e88991ac536e7e48f007"
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-05",
+  "status": "three standalone candidates; not selected; master v19 unchanged",
+  "feedback_correction": "Retain substantial sideboard with lower storage, serving counter, middle niche and upper cabinets; do not replace it with a shallow console.",
+  "hard_constraints": [
+    "Fridge at living-room end of selected wall",
+    "Fridge outside L; island starts from cabinet on its right",
+    "4 ordinary-height dining chairs",
+    "Full-on/off views",
+    "Do not merge into master"
+  ],
+  "wall_length": 3545,
+  "overall_width": 3400,
+  "ceiling_provisional": 2750,
+  "fridge_zone_width": 1200,
+  "fridge_body": [
+    920,
+    750,
+    1850
+  ],
+  "sideboard": {
+    "width": 2200,
+    "lower_depth": 450,
+    "upper_depth": 350,
+    "counter_height": 880,
+    "niche_clear_height": 620,
+    "upper_bottom": 1500,
+    "upper_top": 2100,
+    "upper_height": 600,
+    "closed_upper_modules": [
+      600,
+      900
+    ],
+    "display_upper_width": 700,
+    "lower_independently_accessible_drawer_width": 700,
+    "left_lower_storage_width": 450,
+    "fixed_connection_width": 750,
+    "fixed_near_chair_panel_width": 300
+  },
+  "L_dining": {
+    "top_size": [
+      1400,
+      750
+    ],
+    "top_height": 750,
+    "top_local_y": [
+      300,
+      1700
+    ],
+    "embedded_connection_mm": 150,
+    "exposed_projection_from450base": 1250,
+    "base_step_height": 130,
+    "table_to_fridge_zone_along_wall": 450,
+    "seats": 4,
+    "knee_underside_height": 720
+  },
+  "review": {
+    "continuous_bypass_to_opposite_cab": 982,
+    "kitchen_end_occupied_chair_gap": 772.5,
+    "kitchen_end_with250pullout": 522.5,
+    "storage_connection_has_no_opening_front": true,
+    "upper_access_near_table_requires_unoccupied_chair_position": true,
+    "plate_storage": "450 deep lower drawer bank; upper closed modules350 deep, net sizes depend on hardware",
+    "fridge_screen": "If using ordinary appliance, screened ventilation is conditional on actual instructions and free area. No sealed filler or false universal zero-embedding claim.",
+    "high_storage": "No daily storage above fridge. Upper cabinet1500–2100: specify pull-down basket where height needs help, not a claim of hand reach."
+  },
+  "source_model": "independent study only, never main v19",
+  "blend_sha256": "26a982ae824428a6f7db763f327ddc3640fcc97274bede2adcbd50e7397dbbe3"
+}

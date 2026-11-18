@@ -1,0 +1,203 @@
+{
+  "common": {
+    "units": "mm",
+    "status": "independent02 correction; near halfwall confirmed to bookcase, balcony end open; main v19 untouched",
+    "sourceGeometry": "02_geometry/geometry-master-v19.json",
+    "sourceSha256": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "axisMapping": "main plan (x,z,height) mm -> Blender (x/1000,-z/1000,height/1000) m",
+    "workingTop": {
+      "x": 5300,
+      "z": 2000,
+      "widthX": 700,
+      "lengthZ": 2400,
+      "topHeight": 750,
+      "thickness": 30,
+      "planCornerRadius": 60
+    },
+    "longLedge": {
+      "x": 5100,
+      "z": 2000,
+      "widthX": 200,
+      "lengthZ": 2400,
+      "topHeight": 950
+    },
+    "overallFootprint": {
+      "x": 5100,
+      "z": 2000,
+      "widthX": 1735,
+      "lengthZ": 2600,
+      "note": "includes confirmed near-end halfwall, not only desktop"
+    },
+    "sofaBackMaxX": 5000,
+    "sofaToLedgeGap": 100,
+    "ledgeToWorkingTopHeightDifference": 200,
+    "chairUnchanged": {
+      "id": "office-chair-1",
+      "origin": [
+        5900,
+        2335
+      ],
+      "meshBounds": {
+        "x": 5870,
+        "z": 2320,
+        "w": 560,
+        "d": 560,
+        "h": 950
+      }
+    },
+    "bookcaseFrontX": 6838,
+    "chairRearFurnitureGap": 408,
+    "deskEdgeToBookcaseGap": 838,
+    "monitor": {
+      "count": 1,
+      "diagonalInches": 34,
+      "conceptBodyMm": [
+        810,
+        87,
+        370
+      ],
+      "placement": "on seated 750 mm desktop, never on raised ledge",
+      "facing": "positive-x, user faces negative-x toward TV"
+    },
+    "commonLighting": {
+      "ledgeStripCctK": 3000,
+      "taskLampSuggestedCctK": [
+        3500,
+        4000
+      ],
+      "ambientCctK": 3000,
+      "independentCircuits": [
+        "long ledge and near halfwall concealed light",
+        "adjustable task lamp",
+        "existing ambient/cove"
+      ],
+      "targetWorkplaneLux": [
+        300,
+        500
+      ],
+      "luxStatus": "design target, not measured or photometrically calculated",
+      "noFarEndStrip": true
+    },
+    "assumptions": [
+      "near solid halfwall to bookcase explicitly confirmed by owner",
+      "950 high,120 body,200 cap and3mm finish joint are designer proposals",
+      "desk/sofa/chair positions retained",
+      "chair rear furniture gap408 remains tight and is not accepted as a passage",
+      "north bookcase sliding doors are a proposed response to halfwall, not current main-model changes",
+      "no new wall or furniture rail at balcony end; fixed glazing and outdoor guardrail stay",
+      "OFF artificial lights off with daylight retained"
+    ],
+    "supersededFarReturn": {
+      "x": 5270,
+      "z": 1800,
+      "widthX": 730,
+      "lengthZ": 200,
+      "topHeight": 950,
+      "fullLengthIncludingLongLedge": 900,
+      "overlapWithLongLedge": 30,
+      "nominalExposedReturnBeyondLongLedge": 700,
+      "currentStatus": "removed"
+    },
+    "nearHalfwall": {
+      "x": 5100,
+      "endX": 6835,
+      "lengthX": 1735,
+      "bodyPlanZ": [
+        4440,
+        4560
+      ],
+      "bodyThickness": 120,
+      "capPlanZ": [
+        4400,
+        4600
+      ],
+      "capDepth": 200,
+      "topHeight": 950,
+      "bodyFinish": "matte warm white",
+      "capFinish": "matches sofa-back ledge in each option",
+      "endpoint": "right bookcase front,3mm finish joint",
+      "ownerConfirmedEndpoint": true
+    },
+    "farOpening": {
+      "planZ": 2000,
+      "raisedReturnCount": 0,
+      "endCabinetCount": 0,
+      "furnitureRailingCount": 0,
+      "entry": "from balcony/south end",
+      "existingWindowAndExteriorGuardrail": "retained; these are not the removed interior furniture beam"
+    },
+    "northBookcaseDoor": {
+      "modulePlanZ": [
+        3976,
+        4776
+      ],
+      "operation": "two-track sliding opaque leaves, owner wall creates need to replace former swing opening",
+      "leafWidth": 408,
+      "travel": 384,
+      "frontLeafX": [
+        6838,
+        6856
+      ],
+      "rearLeafX": [
+        6858,
+        6876
+      ],
+      "wallEndX": 6835,
+      "minimumWallToFrontLeafGap": 3,
+      "status": "designer interface proposal, not selected hardware or installation approval"
+    }
+  },
+  "variants": [
+    {
+      "id": "A",
+      "title": "浅木薄片",
+      "ledgeThickness": 30,
+      "ledgeRadius": 35,
+      "ledgeFinish": "pale natural oak matte",
+      "desktopFinish": "pale natural oak matte",
+      "accent": "sage textile chair, small navy lamp",
+      "support": "slim pale-oak ledge and desktop supports; full near-end warm-white halfwall",
+      "storage": "near-end shallow oak desktop drawer retained; no balcony-end cabinet",
+      "design": "near solid halfwall to bookcase plus sofa-back ledge; completely open balcony end; same option palette retained",
+      "halfwallBodyFinish": "matte warm white",
+      "halfwallCapFinish": "pale natural oak matte"
+    },
+    {
+      "id": "B",
+      "title": "深木框景",
+      "ledgeThickness": 45,
+      "ledgeRadius": 45,
+      "ledgeFinish": "matte smoked walnut",
+      "desktopFinish": "pale natural oak matte",
+      "accent": "sage textile chair and navy task lamp",
+      "support": "walnut ledge and desktop supports; full near-end warm-white halfwall",
+      "storage": "no new end cabinet or drawer; right bookcase retained",
+      "design": "near solid halfwall to bookcase plus sofa-back ledge; completely open balcony end; same option palette retained",
+      "halfwallBodyFinish": "matte warm white",
+      "halfwallCapFinish": "matte smoked walnut"
+    },
+    {
+      "id": "C",
+      "title": "奶油圆弧",
+      "ledgeThickness": 35,
+      "ledgeRadius": 80,
+      "ledgeFinish": "matte warm-ivory solid surface",
+      "desktopFinish": "pale natural oak matte",
+      "accent": "navy shallow drawer and ivory supports, green plant",
+      "support": "ivory ledge supports and concealed desktop frame; full near-end warm-white halfwall",
+      "storage": "near-end shallow navy desktop drawer retained; no balcony-end cabinet",
+      "design": "near solid halfwall to bookcase plus sofa-back ledge; completely open balcony end; same option palette retained",
+      "halfwallBodyFinish": "matte warm white",
+      "halfwallCapFinish": "matte warm-ivory solid surface"
+    }
+  ],
+  "baselineHashes": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "sourceStudy": "office-study-01",
+  "userCorrection": "red near end solid halfwall connected to bookcase; blue far/window end no furniture obstruction"
+}

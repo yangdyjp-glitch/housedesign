@@ -1,0 +1,5 @@
+{
+  "prompt": "Use case: text-localization. Change ONLY the large top-center English technical header “HOME-OFFICE-C-IVORY-CURVE-L-950-750” to the clean Chinese design title “方案C｜奶油圆弧”. Keep existing fine horizontal rules and the two labels “C · 全关灯” and “C · 全开灯”. Every pixel of the two interior photo panels should remain visually unchanged: exactly the same ivory 950-high L ledge and matching short return, pale-oak 750-high desk, navy shallow drawer, one monitor, one chair, lamp, plant, mug, pen cup, keyboard and mouse, sofa/bookcase/window, camera and daylight. LEFT artificial lights remain fully off, RIGHT remain on. Do not alter materials, positions, lighting or crops; no new objects.",
+  "target": "C-初稿.png",
+  "reason": "Replace unintended technical header with Chinese design title"
+}

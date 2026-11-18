@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-05",
+  "status": "three standalone candidates; not selected; master v19 unchanged",
+  "feedback_correction": "Original three references restored: four stages, slim flap cabinet, one glass showcase, three horizontal drawers, upper shallower than lower, deep middle/light fronts, handleless; retain L and fridge outside at living end.",
+  "hard_constraints": [
+    "Fridge at living-room end of selected wall",
+    "Fridge outside L; island starts from cabinet on its right",
+    "4 ordinary-height dining chairs",
+    "Full-on/off views",
+    "Do not merge into master"
+  ],
+  "wall_length": 3545,
+  "overall_width": 3400,
+  "ceiling_provisional": 2750,
+  "fridge_zone_width": 1200,
+  "fridge_body": [
+    920,
+    750,
+    1850
+  ],
+  "sideboard": {
+    "width": 2200,
+    "lower_depth": 450,
+    "upper_depth": 350,
+    "counter_height": 880,
+    "niche_clear_height": 600,
+    "upper_bottom": 1730,
+    "upper_top": 2700,
+    "upper_height": 970,
+    "closed_upper_modules": [
+      600,
+      900
+    ],
+    "display_upper_width": 700,
+    "lower_independently_accessible_drawer_width": 700,
+    "left_lower_storage_width": 450,
+    "fixed_connection_width": 750,
+    "fixed_near_chair_panel_width": 300,
+    "thin_cabinet_bottom": 1480,
+    "thin_cabinet_height": 250,
+    "thin_cabinet_depth": 220,
+    "ceiling_closure_height": 50
+  },
+  "L_dining": {
+    "top_size": [
+      1400,
+      750
+    ],
+    "top_height": 750,
+    "top_local_y": [
+      300,
+      1700
+    ],
+    "embedded_connection_mm": 150,
+    "exposed_projection_from450base": 1250,
+    "base_step_height": 130,
+    "table_to_fridge_zone_along_wall": 450,
+    "seats": 4,
+    "knee_underside_height": 720
+  },
+  "review": {
+    "continuous_bypass_to_opposite_cab": 982,
+    "kitchen_end_occupied_chair_gap": 772.5,
+    "kitchen_end_with250pullout": 522.5,
+    "storage_connection_has_no_opening_front": true,
+    "upper_access_near_table_requires_unoccupied_chair_position": true,
+    "plate_storage": "450 deep lower drawer bank; upper closed modules350 deep, net sizes depend on hardware",
+    "fridge_screen": "If using ordinary appliance, screened ventilation is conditional on actual instructions and free area. No sealed filler or false universal zero-embedding claim.",
+    "high_storage": "No daily overhead fridge storage. Sideboard upper600/900 modules use selected pull-down hardware for lower working shelves; highest stock is low-frequency, not claimed hand-reachable. Actual lift trajectory/product still unverified.",
+    "original_stool_bay": "Not included: owner cancelled banquette, requested four dining chairs and L table. Loose-chair plan does not automatically create an800x400stool garage."
+  },
+  "source_model": "standalone four-stage concept; not main v19; source03 is intermediate",
+  "blend_sha256": "c0d9035696cc565951264011bf4851bdb902d16f691b609a32470a3ffa7a532f",
+  "reference_features": [
+    {
+      "file": "ae7a83a2335cdb941f832e14710fbfd.jpg",
+      "title": "图一：四段式结构",
+      "adopted": "下柜、操作留空、夹层翻门薄柜、上柜都保留；右端三横抽。",
+      "adapted": "参考中的高度、深度不直接抄数值，改成适合本案的880台面、600留空、250薄柜。"
+    },
+    {
+      "file": "b3bec9257e67a128c2de5a02b6679c2.jpg",
+      "title": "图二：深度层次与玻璃门",
+      "adopted": "上柜350、下柜450，薄柜220；保留局部玻璃展示和隐藏电源的思路。",
+      "adapted": "电源位置按最终小电器确定；薄柜翻门在上柜下方开启，限位、五金和净空需做节点验证。"
+    },
+    {
+      "file": "2ea8021416ab025ed07355ded1dabe9.jpg",
+      "title": "图三：抽屉与免拉手",
+      "adopted": "右端700宽三横抽；中部深木色、门板浅色；下柜斜切拉手，上柜下口留手位。",
+      "adapted": "不增加400×800凳子车库：用户已取消卡座，并要求四椅及L形餐面，此处不挤占抽屉和活动区。"
+    }
+  ],
+  "schemes": [
+    {
+      "id": "A",
+      "title": "胡桃木框景 · 浅木餐面",
+      "form": "以胡桃木框住操作壁龛和夹层薄柜，浅木餐面从框景下方伸出；右端细框玻璃柜收住立面。",
+      "finish": "暖白哑光上、下柜＋胡桃木中段＋浅橡木餐面；绿、蓝只用于餐椅软包和小物。",
+      "fridge": "冰箱上方不设储物门，研究同墙色百叶通风检修面；风路、开孔面积和侧距须按最终机型设计。",
+      "light": "纸布感椭圆餐吊灯＋薄柜底工作灯＋玻璃柜内柔光。"
+    },
+    {
+      "id": "B",
+      "title": "圆弧端柜 · 石质餐岛",
+      "form": "直线四段式柜体接圆弧展示端，浅石色餐面和椭圆支座形成雕塑感；不是另加一座大岛台。",
+      "finish": "暖白上柜＋灰苔绿下柜和玻璃框＋胡桃木中段＋浅暖灰哑光石材餐面。",
+      "fridge": "冰箱独立在客厅端，取消整个上方柜盒，顶部是开放的连续墙面；不保留被柜盒框出的黑色横洞。",
+      "light": "克制的柔光餐吊灯＋薄柜底工作灯＋圆弧展示端柔光。"
+    },
+    {
+      "id": "C",
+      "title": "细木线框 · 半透展示",
+      "form": "以连续木纹薄柜、细木餐面边和长向分缝统一柜桌；右端半透玻璃只露出少量深蓝背景。",
+      "finish": "暖白门板＋棕灰胡桃木中段和细边＋浅木餐面＋窄铜色玻璃框；少量深蓝、绿色。",
+      "fridge": "冰箱上方研究同墙色微孔通风检修面，不画成高位储物门；散热条件未选型验证。",
+      "light": "细薄陶瓷/乳白玻璃餐吊灯＋薄柜底工作灯＋半透展示内光。"
+    }
+  ],
+  "online_references": [
+    {
+      "title": "Norm / Reform PROFILE",
+      "url": "https://www.reformcph.com/us/kitchens/collections/profile-norm-architects",
+      "take": "连续线条、克制分缝和木材质感。"
+    },
+    {
+      "title": "Cesar Tangram",
+      "url": "https://www.cesar.it/it/collezioni/cucine/tangram/",
+      "take": "圆弧和直线柜体连接成整体的形式。"
+    },
+    {
+      "title": "Cosentino 餐台连接案例",
+      "url": "https://www.cosentino.com/inspiration/projects/a-perfectly-crafted-dining-table-integration/",
+      "take": "高低两种台面在连接处形成家具整体。"
+    },
+    {
+      "title": "Kesseböhmer iMove",
+      "url": "https://www.kesseboehmer.com/en/storage-solutions/kitchen/wall-units/imove",
+      "take": "餐边上柜下拉取物的机构原理；不等于已选定该五金。"
+    },
+    {
+      "title": "Häfele iMove 规格实例",
+      "url": "https://hafelehome.com.my/products/imove",
+      "take": "600/900门宽模块的净宽初查；实际深度、运动轨迹和载荷仍需按安装图核对。"
+    },
+    {
+      "title": "普通冰箱安装限制实例",
+      "url": "https://media3.bosch-home.com/Documents/8001142358_B.pdf",
+      "take": "证明普通冰箱不能任意封死散热空间；具体以最终机型为准，不把实例当通用标准。"
+    }
+  ],
+  "fittings_status": "concept only: upper pull-down and thin flap travel need selected hardware drawings",
+  "corner_radius_provisional": 60,
+  "tool": "built-in imagegen, separate geometry anchor",
+  "main_model_modified": false,
+  "v20_started": false,
+  "images": [
+    {
+      "scheme": "A",
+      "file": "A-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "4eeb6bd5a1a38c642dbac9ac0748e745cf25817b37db59c2bcded4115264fe68",
+      "native_size": true
+    },
+    {
+      "scheme": "B",
+      "file": "B-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "83e17cf316725771b913c72e1b9cfc141ed609fb7ff01c44ed21ba2345368a9d",
+      "native_size": true
+    },
+    {
+      "scheme": "C",
+      "file": "C-开关灯对照.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "e74fd58fe82c87392fc80bfa1828acc92e0e52f77e0ff00fb667ceaf01890916",
+      "native_size": true
+    }
+  ],
+  "main_baseline_sha256": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  }
+}

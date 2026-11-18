@@ -1,0 +1,55 @@
+{
+  "revision": 20,
+  "modelSha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+  "geometrySha256": "1a666b7428654737fa63e8ccad8fbc55e39b24e38aa9eceb10f82470942d5136",
+  "panoramas": [
+    {
+      "id": "living",
+      "kind": "pano",
+      "path": "07_renders/v20-photographic/living-pano.png",
+      "deliveryPath": "09_delivery/vr-tour-v06/全景原图/living.png",
+      "resolution": [
+        1774,
+        887
+      ],
+      "sha256": "4334c2efc65d9c12105e20663b4aa63cb0caf47f295581d572575fa0e6fdd9c1"
+    },
+    {
+      "id": "dining",
+      "kind": "pano",
+      "path": "07_renders/v20-photographic/dining-pano.png",
+      "deliveryPath": "09_delivery/vr-tour-v06/全景原图/dining.png",
+      "resolution": [
+        1774,
+        887
+      ],
+      "sha256": "00f4a2694ae56e5b1e4bacc55f70e9eec35f5f62c515a3b3dae9e94d987f79e3"
+    },
+    {
+      "id": "balcony",
+      "kind": "pano",
+      "path": "07_renders/v20-photographic/balcony-pano.png",
+      "deliveryPath": "09_delivery/vr-tour-v06/全景原图/balcony.png",
+      "resolution": [
+        1774,
+        887
+      ],
+      "sha256": "7e37e683ee95d2a371b0f53fa20c6dd12ba79975b06d11959962b746acff4f48"
+    },
+    {
+      "id": "entry",
+      "kind": "pano",
+      "path": "07_renders/v20-photographic/entry-pano.png",
+      "deliveryPath": "09_delivery/vr-tour-v06/全景原图/entry.png",
+      "resolution": [
+        1774,
+        887
+      ],
+      "sha256": "1c7dc20165d7d8b6da3e163730cc633a5ae787d8993c89400fc17f631a7fad48"
+    }
+  ],
+  "viewerSha256": "cc7e9cb929dfb3a86e717d842e057f7982e1da3706061635149b9a903a68aa0a",
+  "networkDependencies": 0,
+  "previousTourPreserved": "09_delivery/vr-tour-v05/打开360全景漫游.html",
+  "browserVisualQA": false
+}

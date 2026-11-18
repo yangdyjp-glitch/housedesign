@@ -1,0 +1,881 @@
+{
+  "doorPoses": [
+    {
+      "ratio": 0.0,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8851.758003234863,
+            4133.666515350342,
+            9165.33374786377,
+            4447.242259979248
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8561.844825744629,
+            4423.580646514893,
+            8875.419616699219,
+            4737.156867980957
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.08333333333333333,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.13089969754219055
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8890.082359313965,
+            4135.730743408203,
+            9167.33169555664,
+            4480.539321899414
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.13089969754219055
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8568.868637084961,
+            4456.944465637207,
+            8913.677215576172,
+            4734.193325042725
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.16666666666666666,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.2617993950843811
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8932.913780212402,
+            4137.961387634277,
+            9169.09122467041,
+            4508.103847503662
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.2617993950843811
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8585.895538330078,
+            4484.979629516602,
+            8956.038475036621,
+            4721.157073974609
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.25,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.39269909262657166
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8979.519844055176,
+            4140.321731567383,
+            9170.585632324219,
+            4529.463768005371
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.39269909262657166
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8612.63656616211,
+            4507.205963134766,
+            9001.778602600098,
+            4698.27127456665
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.3333333333333333,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.5235987901687622
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9029.10327911377,
+            4142.770290374756,
+            9171.786308288574,
+            4544.254302978516
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.5235987901687622
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8648.630142211914,
+            4523.243427276611,
+            9050.114631652832,
+            4665.927410125732
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.4166666666666667,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.6544984579086304
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9080.679893493652,
+            4145.130634307861,
+            9172.809600830078,
+            4552.356243133545
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.6544984579086304
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8693.127632141113,
+            4532.6828956604,
+            9100.353240966797,
+            4624.813556671143
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.5,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.7853981852531433
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9133.502960205078,
+            4147.496700286865,
+            9173.502922058105,
+            4553.497791290283
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.7853981852531433
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8745.501518249512,
+            4535.497188568115,
+            9151.50260925293,
+            4575.498580932617
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.5833333333333334,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            0.9162978529930115
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9134.196281433105,
+            4145.130157470703,
+            9226.325035095215,
+            4552.356719970703
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -0.9162978529930115
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8800.159454345703,
+            4479.167938232422,
+            9207.385063171387,
+            4571.296691894531
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.6666666666666666,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            1.0471975803375244
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9135.218620300293,
+            4142.769336700439,
+            9277.902603149414,
+            4544.254302978516
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -1.0471975803375244
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8860.861778259277,
+            4417.128086090088,
+            9262.345314025879,
+            4559.810638427734
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.75,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            1.1780972480773926
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9136.420249938965,
+            4140.320777893066,
+            9327.485084533691,
+            4529.464244842529
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -1.1780972480773926
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8926.436424255371,
+            4350.306034088135,
+            9315.57846069336,
+            4541.370391845703
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.8333333333333334,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            1.3089969158172607
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9137.914657592773,
+            4137.960910797119,
+            9374.091148376465,
+            4508.103847503662
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -1.3089969158172607
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            8995.896339416504,
+            4279.979705810547,
+            9366.039276123047,
+            4516.156196594238
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 0.9166666666666666,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            1.4398967027664185
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9139.674186706543,
+            4135.729789733887,
+            9416.922569274902,
+            4480.539321899414
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -1.4398967027664185
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9068.053245544434,
+            4207.352161407471,
+            9412.861824035645,
+            4484.600067138672
+          ]
+        }
+      ]
+    },
+    {
+      "ratio": 1.0,
+      "leaves": [
+        {
+          "id": "v20f-bath-bifold-leaf-0",
+          "rotation": [
+            0.0,
+            0.0,
+            1.5707963705062866
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "a*pi/2",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9141.672134399414,
+            4133.665561676025,
+            9455.24787902832,
+            4447.242259979248
+          ]
+        },
+        {
+          "id": "v20f-bath-bifold-leaf-1",
+          "rotation": [
+            0.0,
+            0.0,
+            -1.5707963705062866
+          ],
+          "drivers": [
+            {
+              "type": "SCRIPTED",
+              "expression": "-a*pi/2",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "9.1535029296875+0.410*(-0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            },
+            {
+              "type": "SCRIPTED",
+              "expression": "-4.14549755859375-0.410*(0.7071067811865476*cos(a*pi/2)+0.7071067811865476*sin(a*pi/2))",
+              "valid": true
+            }
+          ],
+          "boundsMm": [
+            9141.671180725098,
+            4133.666515350342,
+            9455.246925354004,
+            4447.242259979248
+          ]
+        }
+      ]
+    }
+  ],
+  "curtainDrivers": [
+    {
+      "name": "v12-curtain-1",
+      "drivers": [
+        {
+          "path": "location",
+          "index": 0,
+          "expression": "0.9149444444444444*(1-opened)+0.865*opened"
+        },
+        {
+          "path": "rotation_euler",
+          "index": 2,
+          "expression": "angle*pi/180"
+        }
+      ]
+    },
+    {
+      "name": "v12-curtain-2",
+      "drivers": [
+        {
+          "path": "location",
+          "index": 0,
+          "expression": "1.0388333333333333*(1-opened)+0.877*opened"
+        },
+        {
+          "path": "rotation_euler",
+          "index": 2,
+          "expression": "angle*pi/180"
+        }
+      ]
+    },
+    {
+      "name": "v12-curtain-44",
+      "drivers": [
+        {
+          "path": "location",
+          "index": 0,
+          "expression": "6.242166666666667*(1-opened)+1.381*opened"
+        },
+        {
+          "path": "rotation_euler",
+          "index": 2,
+          "expression": "angle*pi/180"
+        }
+      ]
+    },
+    {
+      "name": "v12-curtain-45",
+      "drivers": [
+        {
+          "path": "location",
+          "index": 0,
+          "expression": "6.366055555555556*(1-opened)+1.393*opened"
+        },
+        {
+          "path": "rotation_euler",
+          "index": 2,
+          "expression": "angle*pi/180"
+        }
+      ]
+    }
+  ],
+  "pendants": [
+    {
+      "name": "v19-dining-pendant-shade",
+      "hidden": false,
+      "archive": false,
+      "source": "v19-dining-pendant-shade"
+    },
+    {
+      "name": "v19-dining-pendant-cord",
+      "hidden": false,
+      "archive": false,
+      "source": "v19-dining-pendant-cord"
+    },
+    {
+      "name": "v19-dining-pendant-canopy",
+      "hidden": false,
+      "archive": false,
+      "source": "v19-dining-pendant-canopy"
+    },
+    {
+      "name": "v20-dining-048",
+      "hidden": false,
+      "archive": true,
+      "source": "v20-dining-pendant"
+    }
+  ],
+  "lightPositions": [
+    {
+      "name": "v19 嵌入功能光 3",
+      "pos": [
+        5.400000095367432,
+        -5.599999904632568,
+        2.734999895095825
+      ]
+    }
+  ],
+  "roles": {
+    "panorama_camera": 4,
+    "floor": 1,
+    "glass": 12,
+    "furniture": 28,
+    "annotation": 11,
+    "presentation_only": 47,
+    "presentation_camera": 2,
+    "none": 54,
+    "baseline_furniture_reference": 14,
+    "baseline_window_reference": 7,
+    "window_frame": 20,
+    "insect_screen_concept": 2,
+    "door_assembly": 1,
+    "door_leaf": 2,
+    "door_frame": 16,
+    "door_glass": 3,
+    "public_finish_overlay": 2,
+    "curtain_control": 1,
+    "curtain_fabric": 45,
+    "shower_control": 1,
+    "master_suite_lighting": 3,
+    "master_suite_camera": 3,
+    "entry_camera": 2,
+    "v19_lighting": 16,
+    "v20_lighting": 4,
+    "retired_furniture": 7,
+    "reference_finish_detail": 11,
+    "wall": 63,
+    "wall_finish_proposal": 11,
+    "wall_visual_union": 1,
+    "bath_door_control": 1,
+    "public_finish_detail": 41,
+    "master_suite_detail": 21,
+    "ceiling_finish": 1,
+    "ceiling_coordination": 28,
+    "mep_coordination_envelope": 4
+  }
+}

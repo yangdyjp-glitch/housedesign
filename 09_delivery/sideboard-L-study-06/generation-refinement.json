@@ -1,0 +1,7 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "input": "L形餐岛-地面待校正.png",
+  "prompt": "Use case: precise-object-edit. Edit ONLY THE FLOOR MATERIAL in both panels of this existing L-dining-island lighting diptych. Replace the beige large-format square floor tiles and their grout grid with continuous pale natural oak plank flooring, desaturated light warm wood matching the project's clean warm-white/pale-oak Japanese interior. Real fine oak grain, matte finish, restrained narrow plank joints, no yellow-orange cast. Preserve perspective, every chair leg contact, contact shadows, daylight and each panel's OFF/ON lighting states. Change absolutely NOTHING ELSE: keep the compound L-shaped dining top with its short bridge and long return, the open inside corner, four chairs in exactly these locations, all solid opaque cabinet doors, the thin dark walnut flap cupboard, open niche, three drawers, fridge at left outside L, coffee machine/cups, pendant physically present in both panels, cabinet proportions, labels, framing, divider and native image size. Do not redesign the room, widen the floor area, move furniture, add plants or make glass doors. Sole change is tile-to-pale-oak floor surface in both panels.",
+  "reason": "Initial concept image changed existing pale-oak floor to square tile; restore floor material only.",
+  "output": "L形餐岛-开关灯概念对照.png"
+}

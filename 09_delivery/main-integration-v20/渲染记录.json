@@ -1,0 +1,118 @@
+[
+  {
+    "id": "living",
+    "path": "07_renders/v20-integrated-native/living-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 7.5,
+    "lightingMode": 0
+  },
+  {
+    "id": "dining",
+    "path": "07_renders/v20-integrated-native/dining-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 6.7,
+    "lightingMode": 0,
+    "camera": [
+      0.6299999952316284,
+      -9.550000190734863,
+      2.0999999046325684
+    ]
+  },
+  {
+    "id": "balcony",
+    "path": "07_renders/v20-integrated-native/balcony-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 7.2,
+    "lightingMode": 0
+  },
+  {
+    "id": "entry",
+    "path": "07_renders/v20-integrated-native/entry-native.png",
+    "resolution": [
+      1400,
+      1800
+    ],
+    "seconds": 6.8,
+    "lightingMode": 0
+  },
+  {
+    "id": "office",
+    "path": "07_renders/v20-integrated-native/office-native.png",
+    "resolution": [
+      2100,
+      1400
+    ],
+    "seconds": 7.4,
+    "lightingMode": 0
+  },
+  {
+    "id": "living-pano",
+    "path": "07_renders/v20-integrated-native/living-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 23.1,
+    "lightingMode": 0
+  },
+  {
+    "id": "dining-pano",
+    "path": "07_renders/v20-integrated-native/dining-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 21.8,
+    "lightingMode": 0,
+    "camera": [
+      0.7699999809265137,
+      -8.850000381469727,
+      1.600000023841858
+    ]
+  },
+  {
+    "id": "balcony-pano",
+    "path": "07_renders/v20-integrated-native/balcony-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 22.3,
+    "lightingMode": 0
+  },
+  {
+    "id": "entry-pano",
+    "path": "07_renders/v20-integrated-native/entry-pano-native.png",
+    "resolution": [
+      4096,
+      2048
+    ],
+    "seconds": 20.5,
+    "lightingMode": 0
+  },
+  {
+    "id": "overview-observation",
+    "path": "07_renders/v20-integrated-native/overview-observation.png",
+    "resolution": [
+      2200,
+      1800
+    ],
+    "note": "ceiling hidden and walls shortened in observation only; complete master untouched",
+    "lightingMode": 0,
+    "camera": [
+      16.0,
+      -20.0,
+      17.0
+    ],
+    "seconds": 5.1
+  }
+]

@@ -1,0 +1,11 @@
+BlenderMCP addon registered
+Info: Saved as "home-main-v20.blend"
+V20_COMPLETED_DESIGNS_MERGED 26 OFFICE B
+BlenderMCP addon unregistered
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\sideboard-U-study-11\短连接长餐台-胡桃白冰箱圆边-独立11.blend"
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-02\B\办公区-B-近端半墙远端敞开-独立02.blend"
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v19.blend"
+Read blend: "D:\AI-Yang.cn\HomeDesign\06_blender\home-main-v20.blend"
+
+Blender quit

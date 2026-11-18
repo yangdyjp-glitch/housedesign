@@ -1,0 +1,38 @@
+{
+  "mode": "built-in image_gen",
+  "jobs": [
+    {
+      "v": "A",
+      "args": {
+        "prompt": "Use case: precise-object-edit. One tightly localized correction to image1, a two-panel A office design board. In BOTH panels remove the leftover interior horizontal ledge/beam BEHIND THE SOFA'S FAR/BALCONY-SIDE ARM: the narrow horizontal timber/ivory strip just above/behind the upholstered far arm, lying across the room below the exterior guardrail. It is especially visible extending sideways behind the chaise. There must be NO piece of interior furniture running crosswise along the window side, neither behind the sofa arm nor across the office entrance. Reconstruct only the floor/glass background revealed by this removal. Image2 is the corrected native geometry reference: it has no such interior crosspiece. Preserve the upholstered sofa arm itself and ALL fixed glazing/frame and outdoor safety guardrail.\nChange only that remnant far crosspiece. LOCK the large solid warm-white FOREGROUND halfwall all the way to right bookcase, its full cap, the retained LONG sofa-back raised ledge perpendicular to the far sofa arm,750mm seated worktop,one34-inch monitor,one chair,one keyboard,one mouse,task lamp,plant,mug,pen cup. Keep near wall950mm, same A materials and geometry, same right bookcase and open balcony entry; do not remove or shorten long sofa-back ledge or near halfwall. Same exact camera,crop,photographic grain,daylight/shadows and LEFT OFF / RIGHT ON lighting. Keep the existing Chinese labels verbatim, left lights fully off/right lights on. No extra changes,no new objects,no new rails.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/A/A-半墙初稿.png",
+          "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/A/A-OFF-半墙敞开端实体参考.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "v": "B",
+      "args": {
+        "prompt": "Use case: precise-object-edit. One tightly localized correction to image1, a two-panel B office design board. In BOTH panels remove the leftover interior horizontal ledge/beam BEHIND THE SOFA'S FAR/BALCONY-SIDE ARM: the narrow horizontal timber/ivory strip just above/behind the upholstered far arm, lying across the room below the exterior guardrail. It is especially visible extending sideways behind the chaise. There must be NO piece of interior furniture running crosswise along the window side, neither behind the sofa arm nor across the office entrance. Reconstruct only the floor/glass background revealed by this removal. Image2 is the corrected native geometry reference: it has no such interior crosspiece. Preserve the upholstered sofa arm itself and ALL fixed glazing/frame and outdoor safety guardrail.\nChange only that remnant far crosspiece. LOCK the large solid warm-white FOREGROUND halfwall all the way to right bookcase, its full cap, the retained LONG sofa-back raised ledge perpendicular to the far sofa arm,750mm seated worktop,one34-inch monitor,one chair,one keyboard,one mouse,task lamp,plant,mug,pen cup. Keep near wall950mm, same B materials and geometry, same right bookcase and open balcony entry; do not remove or shorten long sofa-back ledge or near halfwall. Same exact camera,crop,photographic grain,daylight/shadows and LEFT OFF / RIGHT ON lighting. Keep the existing Chinese labels verbatim, left lights fully off/right lights on. No extra changes,no new objects,no new rails.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/B/B-半墙初稿.png",
+          "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/B/B-OFF-半墙敞开端实体参考.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "v": "C",
+      "args": {
+        "prompt": "Use case: precise-object-edit. One tightly localized correction to image1, a two-panel C office design board. In BOTH panels remove the leftover interior horizontal ledge/beam BEHIND THE SOFA'S FAR/BALCONY-SIDE ARM: the narrow horizontal timber/ivory strip just above/behind the upholstered far arm, lying across the room below the exterior guardrail. It is especially visible extending sideways behind the chaise. There must be NO piece of interior furniture running crosswise along the window side, neither behind the sofa arm nor across the office entrance. Reconstruct only the floor/glass background revealed by this removal. Image2 is the corrected native geometry reference: it has no such interior crosspiece. Preserve the upholstered sofa arm itself and ALL fixed glazing/frame and outdoor safety guardrail.\nChange only that remnant far crosspiece. LOCK the large solid warm-white FOREGROUND halfwall all the way to right bookcase, its full cap, the retained LONG sofa-back raised ledge perpendicular to the far sofa arm,750mm seated worktop,one34-inch monitor,one chair,one keyboard,one mouse,task lamp,plant,mug,pen cup. Keep near wall950mm, same C materials and geometry, same right bookcase and open balcony entry; do not remove or shorten long sofa-back ledge or near halfwall. Same exact camera,crop,photographic grain,daylight/shadows and LEFT OFF / RIGHT ON lighting. Keep the existing Chinese labels verbatim, left lights fully off/right lights on. No extra changes,no new objects,no new rails.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/C/C-半墙初稿.png",
+          "D:/AI-Yang.cn/HomeDesign/09_delivery/office-study-02/C/C-OFF-半墙敞开端实体参考.png"
+        ],
+        "transparent_background": false
+      }
+    }
+  ]
+}

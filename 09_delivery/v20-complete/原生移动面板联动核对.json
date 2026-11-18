@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "operator": "home_design.move",
+  "axis": "X",
+  "linkedIds": [
+    "washer",
+    "dryer",
+    "laundry-enclosure"
+  ],
+  "moveMm": 100,
+  "restored": true
+}

@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "mode": "offline JavaScript VM with DOM/canvas stubs; not a browser visual check",
+  "furnitureCount": 28,
+  "selectionMoveUndo": [
+    {
+      "id": "refrigerator",
+      "clickSelection": true,
+      "step100AndUndo": true
+    },
+    {
+      "id": "dining-sideboard-island",
+      "clickSelection": true,
+      "step100AndUndo": true
+    },
+    {
+      "id": "office-divider",
+      "clickSelection": true,
+      "step100AndUndo": true
+    },
+    {
+      "id": "double-desk",
+      "clickSelection": true,
+      "step100AndUndo": true
+    },
+    {
+      "id": "bookcase",
+      "clickSelection": true,
+      "step100AndUndo": true
+    },
+    {
+      "id": "living-rug",
+      "clickSelection": true,
+      "step100AndUndo": true
+    },
+    {
+      "id": "laundry-enclosure",
+      "clickSelection": true,
+      "step100AndUndo": true
+    }
+  ],
+  "hoverDimensions": [
+    "refrigerator",
+    "dining-sideboard-island",
+    "office-divider",
+    "double-desk",
+    "bookcase",
+    "living-rug",
+    "laundry-enclosure"
+  ],
+  "revision19And20RestoreTwiceWithoutDoubleOffset": true,
+  "sourceMeshGeometryParsed": true,
+  "interiorAndCeilingControls": true,
+  "bifoldDoorOpenCloseWithSeparatedPanels": true,
+  "laundryThreePartLinkedMove": true
+}

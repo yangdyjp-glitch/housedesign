@@ -1,0 +1,486 @@
+{
+  "hashes": {
+    "06_blender/home-main-v20.blend": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+    "02_geometry/geometry-master-v20.json": "1a666b7428654737fa63e8ccad8fbc55e39b24e38aa9eceb10f82470942d5136",
+    "05_style/modern-japanese-v20.json": "58810ceb96c7e6f5f23689f97af764fae41eb2082ac436cfbe05d52932ba5cf4",
+    "06_blender/active-model.json": "39119f5e0da93baac332b16030ff940fe93a941fb915773c15435616bf812d2c",
+    "06_blender/active-presentation.json": "0b744e72237f1815e449920f927a66452489f6b21987ed93d5451e5187c26817"
+  },
+  "active": {
+    "revision": 20,
+    "filename": "home-main-v20.blend",
+    "geometry": "02_geometry/geometry-master-v20.json",
+    "geometry_sha256": "1a666b7428654737fa63e8ccad8fbc55e39b24e38aa9eceb10f82470942d5136",
+    "style": "05_style/modern-japanese-v20.json",
+    "style_sha256": "58810ceb96c7e6f5f23689f97af764fae41eb2082ac436cfbe05d52932ba5cf4",
+    "style_revision": "modern-japanese-v20",
+    "previous_active_filename": "home-main-v19.blend",
+    "furniture_count": 26,
+    "live_session_verified": false,
+    "cabinet_selection": "C, lower navy replaced with milk yellow",
+    "cabinet_top_gap_mm": 0,
+    "kitchen_sliding_door": true,
+    "door_default_open": false,
+    "public_details": 25,
+    "reference_details": 11,
+    "curtain_blades": 45,
+    "curtain_default": "open",
+    "curtain_translation_and_rotation_separate": true,
+    "lighting_scenes": [
+      "day",
+      "evening",
+      "cleaning",
+      "viewing"
+    ],
+    "default_lighting_scene": "day",
+    "reference_pdf": "00_sources/entry-tv-lighting-curtain-reference.pdf",
+    "entry_clear_width_mm": 1271,
+    "entry_mirror_local_clear_width_mm": 1254,
+    "balcony_tea_set": {
+      "type": "low round pedestal tea table with two opposing low lounge tea chairs",
+      "tableDiameterMm": 700,
+      "tableHeightMm": 380,
+      "chairCount": 2,
+      "chairSizeMm": [
+        600,
+        560,
+        580
+      ],
+      "chairSeatHeightMm": 230,
+      "designer_selected_dimensions": true,
+      "orientation": "chairs oppose along plan x, parallel to balcony glazing",
+      "footprintMm": {
+        "x": 2580,
+        "z": 270,
+        "w": 2140,
+        "d": 700
+      },
+      "windowGapMm": 270,
+      "sofaGapMm": 330,
+      "pullBackTrialMm": 300,
+      "washerFrontClearZone": {
+        "x": 5488,
+        "z": 170,
+        "w": 1000,
+        "d": 600
+      },
+      "rightChairWithPullbackToWasherBodyMm": 1468,
+      "teaware": "one small pot and two cups on one tray",
+      "furnitureIds": [
+        "balcony-tea-table",
+        "balcony-tea-chair-1",
+        "balcony-tea-chair-2"
+      ],
+      "siteAccuracy": "concept dimensions, actual window opening and equipment governs",
+      "reason_for_100mm_shift": "reserve the new curtain blade envelope without changing the latest user sofa or coffee-table positions"
+    },
+    "budget_considered": false,
+    "master_bath_study_only": false,
+    "private_room_boundaries_changed": true,
+    "model_sha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+    "panorama_tour": "09_delivery/vr-tour-v06/打开360全景漫游.html",
+    "panorama_nodes": 4,
+    "panorama_resolution": [
+      1774,
+      887
+    ],
+    "panorama_projection": "monoscopic equirectangular 360x180",
+    "master_bath_concept_applied": true,
+    "construction_approval_status": "unverified; concept model only",
+    "master_suite": {
+      "status": "applied-to-concept-model; site feasibility unverified",
+      "source": "00_sources/master-bath-expansion-markup-01.png",
+      "source_sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36",
+      "ownerConfirmed": [
+        "新增段与原主卫合并",
+        "洗手台—马桶—淋浴；干湿分离；无浴缸",
+        "床垫2000宽；头北脚南；图左衣柜"
+      ],
+      "bathRectMm": {
+        "x": 9323,
+        "z": 4096,
+        "w": 1472,
+        "d": 2814
+      },
+      "extensionMm": 800,
+      "wallThicknessMm": 120,
+      "door": {
+        "rawOpeningMm": 800,
+        "leafMm": 760,
+        "conceptClearOpeningMm": 720,
+        "openingZ": [
+          4136,
+          4936
+        ],
+        "swing": "outwards into private foyer, south/top hinge",
+        "hingePlanMm": [
+          9203,
+          4156
+        ],
+        "defaultOpen": false,
+        "frameProductSelected": false
+      },
+      "foyer": {
+        "stepIntoHallMm": 200,
+        "newFrontOuterZ": 5096,
+        "previousFrontOuterZ": 4896,
+        "referenceBandToGuestFrontMm": 1049,
+        "referenceBandIsNotCertifiedClearance": true
+      },
+      "shower": {
+        "depthMm": 900,
+        "widthMm": 1472,
+        "screenZ": 6010,
+        "defaultOpen": false,
+        "slidingTravelMm": 700,
+        "clearOpeningConceptMm": 700,
+        "serviceBlockRetained": true
+      },
+      "bed": {
+        "mattressWidthMm": 2000,
+        "framePlanMm": [
+          2150,
+          2150
+        ],
+        "head": "north / image bottom",
+        "feet": "south / image top",
+        "wardrobeGapMm": 717,
+        "footGapMm": 754,
+        "rightSideGapMm": 0,
+        "singleSideAccess": true
+      },
+      "constructionStatus": "Not approved for construction; original wet boundary, lower-storey use, structure, drains, window and finished sizes remain unverified",
+      "publicFurnitureUnchanged": 23,
+      "budgetConsidered": false
+    },
+    "panorama_model_revision": 20,
+    "panorama_stale_for_current_master_suite": false,
+    "current_perspective_renders": "09_delivery/main-integration-v20/index.html",
+    "interactive_model": "09_delivery/house-v20-preview.html",
+    "panorama_presentation_revision": 20,
+    "photoreal_presentation": {
+      "presentation_revision": 20,
+      "geometry_revision": 20,
+      "base_architecture_revision": 14,
+      "model": "06_blender/home-main-v20.blend",
+      "model_sha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+      "geometry": "02_geometry/geometry-master-v20.json",
+      "geometry_sha256": "1a666b7428654737fa63e8ccad8fbc55e39b24e38aa9eceb10f82470942d5136",
+      "style": "05_style/modern-japanese-v20.json",
+      "style_sha256": "58810ceb96c7e6f5f23689f97af764fae41eb2082ac436cfbe05d52932ba5cf4",
+      "tour": "09_delivery/vr-tour-v06/打开360全景漫游.html",
+      "resolution": [
+        1774,
+        887
+      ],
+      "upscaled": false,
+      "native_anchor_resolution": [
+        4096,
+        2048
+      ],
+      "view_count": 4,
+      "projection": "monoscopic equirectangular360x180",
+      "method": "same-model native full spheres + built-in image_gen photographic concepts",
+      "placement_snapshot": "03_layout/widget-layout-v20-initial.json",
+      "source_layout_furniture_count": 26,
+      "all_unaffected_positions_retained": true,
+      "retired_dining_objects": [
+        "dining-table",
+        "dining-chair-1",
+        "dining-chair-2",
+        "dining-chair-3",
+        "dining-chair-4"
+      ],
+      "ai_image_details_are_conceptual": true,
+      "exterior_is_illustrative": true,
+      "main_editable_model_preserved": true,
+      "perspective_gallery": "09_delivery/main-integration-v20/index.html",
+      "render_source_model": "06_blender/home-v20-render-source.blend",
+      "render_source_model_sha256": "fbae426344d802fa4a99e10e1936ecc1e4ef95a19b04f1558ac3e6408ae8fd01",
+      "metadata_confirmation": "09_delivery/main-integration-v20/表现元数据一致性.json",
+      "office_variant": "B",
+      "office_variant_status": "temporary preview; homeowner material choice pending",
+      "browser_visual_qa": false,
+      "headset_tested": false
+    },
+    "panorama_master_suite_note": "v14 suite boundaries retained; v17 front-wall alignment still awaits a workable door decision. Public four points use the current v18 entry and placements.",
+    "latest_layout_snapshot": "03_layout/widget-layout-v20-initial.json",
+    "latest_presentation_geometry": "02_geometry/geometry-master-v20.json",
+    "entry": {
+      "status": "applied-concept",
+      "direction": "Enter from plan left at x0,z10150, heading +x; right is +z/north/image-bottom, left is -z/south/image-top",
+      "right": {
+        "id": "entry-shoe-cabinet",
+        "wall": "left-step-return-end",
+        "widthMm": 1271,
+        "depthMm": 350,
+        "heightMm": 2750,
+        "bottomGapMm": 160,
+        "keyNicheHeightMm": [
+          1200,
+          1400
+        ]
+      },
+      "left": {
+        "id": "entry-piano-bench",
+        "integratedCabinetEndZ": [
+          8500,
+          9500
+        ],
+        "lengthMm": 1000,
+        "depthMm": 400,
+        "seatHeightMm": 450,
+        "totalHeightMm": 2750,
+        "pianoKeyRows": 3,
+        "pianoKeyColumns": 20,
+        "keysOpenForIllustration": 4,
+        "keysBeyondBenchProjection": false
+      },
+      "entryOpeningPlanZ": [
+        9535,
+        10765
+      ],
+      "cabinetEndGapToOpeningMm": 35,
+      "openingAndSwingVerified": false,
+      "no_new_floor_footprint": true,
+      "reference": "https://www.peruse.be/piano",
+      "referenceUse": "foldable timber-key principle only; no exact product selection or copied dimensions"
+    },
+    "wall_alignment_v17": {
+      "request": "主卫朝走廊墙面以书柜墙为基准收回200mm",
+      "status": "pending door arrangement; no owner choice received",
+      "options": [
+        "diagonal doorway, full swing still requires verification",
+        "keep straight door, adjust bed/head partition"
+      ],
+      "currentMainWallsRemainV14": true
+    },
+    "saved_native_file_verified": true,
+    "deepening_v19": {
+      "status": "design development concept",
+      "userConfirmed": {
+        "atmosphere": "natural modern Japanese with deep timber, green and blue accents",
+        "ceiling": "full-home suspended-ceiling intent; public areas detailed this phase",
+        "centralAirConditioning": true,
+        "childSpecificDesign": false,
+        "tvWall": "as clean as possible",
+        "livingLighting": "no central main luminaire",
+        "concealedLightLocations": [
+          "curtain",
+          "cabinet"
+        ],
+        "diningLighting": "independent diffuse pendant"
+      },
+      "ceiling": {
+        "finishedPlaneMm": 2750,
+        "status": "provisional visual plane inherited, not measured structure or confirmed AC clearance",
+        "modelSkinThicknessMm": 18,
+        "constructionVoidMm": null,
+        "structureHeightMm": null,
+        "beamBottomMm": null,
+        "acUnitModel": null,
+        "acUnitPosition": null,
+        "acSupplyReturnFinalized": false,
+        "intent": "coordinate equipment, return, supply and accessible service panels before final ceiling shop drawings",
+        "publicModelScope": "common matte ceiling plane; other private finishes unchanged",
+        "acCoordination": {
+          "status": "schematic candidate zones, not equipment or duct sizing",
+          "serviceBandPlanMm": [
+            3500,
+            5100,
+            4500,
+            800
+          ],
+          "supplyCandidatePlanMm": [
+            1000,
+            4810,
+            1900,
+            90
+          ],
+          "returnCandidatePlanMm": [
+            3900,
+            5800,
+            1800,
+            90
+          ],
+          "visualIntent": "straight narrow white face at corridor/living transition; keep the main ceiling quiet and access outside tall cabinets",
+          "requires": [
+            "structure/beam survey",
+            "equipment selection and capacity",
+            "static pressure and duct routing",
+            "condensate route and slope",
+            "manufacturer service access",
+            "supply/return separation and seated draft check"
+          ],
+          "diningBranch": "separate branch/zone subject to load and equipment coordination; no invented vent dimensions",
+          "source": "designer candidate layout, not HVAC engineering approval"
+        }
+      },
+      "changedFurniture": [
+        "side-table",
+        "dining-table",
+        "double-desk",
+        "sofa-modular",
+        "ottoman",
+        "bookcase",
+        "dining-chair-1",
+        "dining-chair-2",
+        "dining-chair-3",
+        "dining-chair-4"
+      ],
+      "allLatestPlacementsPreserved": true,
+      "cleanTVWallRemovedIds": [
+        "v12-tv-background",
+        "v12-tv-frame-left",
+        "v12-tv-frame-right",
+        "v12-tv-frame-top",
+        "v12-tv-fine-line-0",
+        "v12-tv-fine-line-1"
+      ],
+      "bookcase": {
+        "heightMm": 2750,
+        "baseClosedHeightMm": 800,
+        "openBandMm": [
+          800,
+          2150
+        ],
+        "newClosedTopMm": [
+          2150,
+          2750
+        ],
+        "openBays": 6,
+        "displayBooks": 18
+      },
+      "dining": {
+        "pendantMm": [
+          600,
+          350,
+          240
+        ],
+        "pendantBottomMm": 1500,
+        "tableGapMm": 750,
+        "artMm": [
+          900,
+          600
+        ]
+      },
+      "paletteRule": "warm white and pale oak dominate; deep walnut limited to recesses and bases, sage/navy in small textile/art areas; milk-yellow corridor lower doors retained",
+      "placementChoicePending": false,
+      "layoutTrials": [
+        {
+          "ids": [
+            "double-desk",
+            "office-chair-1"
+          ],
+          "dx": -200,
+          "dz": 0,
+          "chairRearGapBeforeMm": 408,
+          "chairRearGapAfterMm": 608,
+          "sofaDeskGapAfterMm": 100
+        },
+        {
+          "ids": [
+            "dining-table",
+            "dining-chair-1",
+            "dining-chair-2",
+            "dining-chair-3",
+            "dining-chair-4"
+          ],
+          "dx": 0,
+          "dz": -200,
+          "doorEndGapBeforeMm": 285,
+          "doorEndGapAfterMm": 485
+        }
+      ],
+      "laundryCurtainGapMm": 10,
+      "laundryUnchangedPendingEquipmentCoordination": true,
+      "noBudgetConstraint": true,
+      "placementDecision": "owner confirmed retain every current position on 2026-11-04; 200mm trials not applied",
+      "layoutTrialsStatus": "not adopted; historical comparison only"
+    },
+    "completed_integration_v20": {
+      "authorization": "设计完成后，全部都加到主模型中",
+      "diningSource": {
+        "path": "09_delivery/sideboard-U-study-11/短连接长餐台-胡桃白冰箱圆边-独立11.blend",
+        "sha256": "550c093dfc600121e486044424033bb11c451965dd8e072e476fa3432b185387"
+      },
+      "officeSource": {
+        "path": "09_delivery/office-study-02/B/办公区-B-近端半墙远端敞开-独立02.blend",
+        "sha256": "6e54cfa4465ff0175d881c03151b340a6a58179c1e3f5343cc7f20812c2faa41"
+      },
+      "officeVariant": "B",
+      "officeVariantStatus": "temporary designer preview; choice pending",
+      "retiredFurnitureIds": [
+        "dining-table",
+        "dining-chair-1",
+        "dining-chair-2",
+        "dining-chair-3",
+        "dining-chair-4"
+      ],
+      "seating": "deferred by owner; old four chairs archived, not deployed",
+      "scope": "completed dining11 and office02 only; wider v20 construction/MEP refinement remains pending",
+      "sourceCounts": {
+        "dining": {
+          "refrigerator": 6,
+          "dining-sideboard-island": 119,
+          "dining-pendant": 2
+        },
+        "office": {
+          "double-desk": 26,
+          "bookcase": 54,
+          "office-divider": 8
+        }
+      },
+      "mainAxisMapping": "(global x,global z,height) mm -> Blender(x,-z,height)/1000",
+      "diningMapping": "global x=3082-v; global z=6162.5+u",
+      "positions": "every unaffected furniture origin preserved; replaced dining programme uses latest independent11 coordinates"
+    },
+    "wider_v20_refinement_status": "pending design details; this integration does not claim all earlier v20 items complete"
+  },
+  "presentation": {
+    "presentation_revision": 20,
+    "geometry_revision": 20,
+    "base_architecture_revision": 14,
+    "model": "06_blender/home-main-v20.blend",
+    "model_sha256": "bb866bab55c0c05884e932d6fea1f535be5a79e0edd1d043c83aaa72a874ca06",
+    "geometry": "02_geometry/geometry-master-v20.json",
+    "geometry_sha256": "1a666b7428654737fa63e8ccad8fbc55e39b24e38aa9eceb10f82470942d5136",
+    "style": "05_style/modern-japanese-v20.json",
+    "style_sha256": "58810ceb96c7e6f5f23689f97af764fae41eb2082ac436cfbe05d52932ba5cf4",
+    "tour": "09_delivery/vr-tour-v06/打开360全景漫游.html",
+    "resolution": [
+      1774,
+      887
+    ],
+    "upscaled": false,
+    "native_anchor_resolution": [
+      4096,
+      2048
+    ],
+    "view_count": 4,
+    "projection": "monoscopic equirectangular360x180",
+    "method": "same-model native full spheres + built-in image_gen photographic concepts",
+    "placement_snapshot": "03_layout/widget-layout-v20-initial.json",
+    "source_layout_furniture_count": 26,
+    "all_unaffected_positions_retained": true,
+    "retired_dining_objects": [
+      "dining-table",
+      "dining-chair-1",
+      "dining-chair-2",
+      "dining-chair-3",
+      "dining-chair-4"
+    ],
+    "ai_image_details_are_conceptual": true,
+    "exterior_is_illustrative": true,
+    "main_editable_model_preserved": true,
+    "perspective_gallery": "09_delivery/main-integration-v20/index.html",
+    "render_source_model": "06_blender/home-v20-render-source.blend",
+    "render_source_model_sha256": "fbae426344d802fa4a99e10e1936ecc1e4ef95a19b04f1558ac3e6408ae8fd01",
+    "metadata_confirmation": "09_delivery/main-integration-v20/表现元数据一致性.json",
+    "office_variant": "B",
+    "office_variant_status": "temporary preview; homeowner material choice pending",
+    "browser_visual_qa": false,
+    "headset_tested": false
+  },
+  "liveLayout": "Live Blender was a clean v19 with identical retained furniture positions; saved integrated v20 is the merge base."
+}

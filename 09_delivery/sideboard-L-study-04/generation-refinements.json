@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-05",
+  "tool": "built-in imagegen",
+  "scope": "local corrections to generated proposal images only",
+  "B": {
+    "input": "B-初稿-关灯吊灯缺失.png",
+    "prompt": "Use case: precise-object-edit. Edit this existing sideboard lighting-comparison diptych with ONE correction only. In the LEFT 'B OFF' panel the suspended oval paper pendant lamp and its cord are missing. Add that exact same pendant fixture, suspension cord and ceiling canopy visible in the RIGHT 'B ON' panel at the identical position, size and height relative to the dining table. In the left panel its bulb is OFF, paper shade natural off-white, no emitted glow. Right panel stays exactly as supplied, lit lamp and all. Keep ALL cabinets, FOUR-STAGE arrangement (white uppers, dark walnut thin flap cabinet, open work niche, base), refrigerator left outside L, rounded stone dining table, exactly four chairs, materials, props, camera, daylight, shadows, labels, canvas dimensions and divider unchanged. Do not redesign or move anything. No added lights, no removed objects. The only edit is restoring the unlit physical pendant to the left panel so both panels describe the same design.",
+    "reason": "Initial OFF panel omitted the physical pendant. Restore the same fixture unlit, preserve design."
+  },
+  "C": {
+    "input": "C-初稿-冰箱上方待整理.png",
+    "prompt": "Use case: precise-object-edit. Make ONE local construction correction in BOTH panels of this existing sideboard diptych. Over the LEFT refrigerator in each panel, there is a plain solid white top panel plus a short perforated grille below it, and a dark gap at the ceiling. Replace that ENTIRE above-fridge area (from fridge top all the way up to the finished ceiling) with a SINGLE continuous warm-white micro-perforated removable VENTILATION SCREEN. Fine subtle perforations uniformly cover the entire height, not just a lower strip. It is service ventilation facing, with NO storage-cupboard door, NO large unperforated high panel, NO knobs, and NO black open gap at the ceiling. Scribe screen neatly to ceiling with minimal clean reveal, matching adjacent cabinet closure. Keep plausible fine breathing clearances beside the ordinary fridge, not a sealed solid enclosure. This screen change is exactly the same in OFF and ON panels. Change NOTHING ELSE: preserve all full four-stage sideboard cupboards, the CLOSED dark walnut slim flap band, open niche, three horizontal drawers, far-right reeded glass showcase, oak L table, exactly four chairs, physical pendant in both panels, lighting states, daylight, camera, dimensions, object positions, textures, labels and divider. Do not redesign the right sideboard or fill its open working niche.",
+    "reason": "Initial top-fridge service face appeared as high storage cupboard. Make the full face continuously ventilated and scribe to ceiling."
+  }
+}

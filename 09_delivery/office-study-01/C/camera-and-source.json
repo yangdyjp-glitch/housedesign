@@ -1,0 +1,25 @@
+{
+  "cameraPositionM": [
+    6.6,
+    -5.9,
+    2.7
+  ],
+  "targetM": [
+    5.3,
+    -2.9,
+    0.8
+  ],
+  "lensMm": 37,
+  "nativeImageSizePx": [
+    1600,
+    1300
+  ],
+  "axis": "main (x,z,height) mm -> Blender (x,-z,height) m /1000",
+  "source": "D:\\AI-Yang.cn\\HomeDesign\\02_geometry\\geometry-master-v19.json",
+  "sourceSha256": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+  "blendSha256": "c0277793451417026b925580226a38e561adb5c2a07468d0835cc1054c0a7411",
+  "sourceOwnerReferenceHashes": {
+    "位置批注.png": "1951d1d7a87e17ab67d615c198a45d0a32b17efb83ec2f8690c2281d9b3702f1",
+    "办公高台参考.png": "225747d0082ca07f79fd83515f9fde68e81c203cb8554626899fa459583a98d2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "mode": "built-in image_gen",
+  "jobs": [
+    {
+      "id": "dining",
+      "kind": "photo",
+      "args": {
+        "prompt": "Use case: sketch-to-render / style-transfer. Transform image1 into a premium physically convincing architectural interior photograph of the SAME newly integrated dining room. Image1 alone defines camera,wall/door geometry,furniture positions,counts and U-outline. Image2 is the owner's desired realism and natural LIGHT/SHADOW quality reference only,not geometry.\nReturn ONE perspective photograph with image1's same orientation and crop. Keep complete rounded dining rail and its supporting legs in frame.\nLocked design: ordinary WHITE two-vertical-door refrigerator at LIVING END of the wall and OUTSIDE the U. Keep its white service louvre above. Adjacent full-height warm-white OPAQUE sideboard,2200 wide800 overall deep2750 high,door fronts flush with refrigerator front. FOUR stages: white base with3horizontal drawers;600-high uninterrupted OPEN niche;thin closed WALNUT flip-door band;full white upper doors to ceiling,concealed pull-down trays inside,no separate unusable tiny high box,no glass cabinet door. The right fixed end has R100 rounded white edge.\nONE continuous WALNUT U tabletop: back counter880 high,flush with narrow connecting arm from fridge-side end;short connector350wide,inside access600deep;long outer dining rail1800x550 atsame880height,R60 outer corners,two recessed walnut round legs. Same walnut colour on worktop,niche back,thin band and dining rail; no raised root lip,no step. Centre of U is empty retrieval space. NO dining chairs,stools,bench or old separate dining table. Keep paper pendant in exactly the native position;do not enlarge or move it.\nPreserve the actual narrow room and732mm outer furniture gap;don't widen passage. Opposite corridor built-ins retain cream-white uppers and milk-yellow lower doors. Entry bench/piano hooks and shoe cabinet,existing dark-framed kitchen GLASS SLIDING PARTITION and distant sofa/window all remain where image1 shows. No new wall/furniture/no new appliances.\nPhotographic treatment: clean warm-white matte paint,real dark walnut grain at subtle scale,pale oak floor,soft edge highlights,cloth/paper texture. Beautiful warm afternoon daylight and credible bounced shadows like image2;clear distant trees/urban sky replace gloomy stadium reflection. Very restrained3000K niche/pendant indirect warmth,not a global yellow filter. No cartoon look,no bright glowing outlines or plastic surfaces. No UI,text,dimensions,labels,watermark or people. Only improve realism,materials and light while preserving geometry.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-integrated-native/dining-native.png",
+          "D:/AI-Yang.cn/HomeDesign/00_sources/photographic-style-reference-v16.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "id": "dining",
+      "kind": "pano",
+      "args": {
+        "prompt": "Use case: sketch-to-render / style-transfer. Transform image1 into a premium physically convincing architectural interior photograph of the SAME newly integrated dining room. Image1 alone defines camera,wall/door geometry,furniture positions,counts and U-outline. Image2 is the owner's desired realism and natural LIGHT/SHADOW quality reference only,not geometry.\nReturn ONE seamless full360x180 EQUIRECTANGULAR PANORAMA at2:1 aspect,matching image1's spherical warp/horizon/azimuth and ceiling-floor poles. Both left/right edges continue seamlessly. Do not make a normal perspective photo,a collage or fisheye circle.\nLocked design: ordinary WHITE two-vertical-door refrigerator at LIVING END of the wall and OUTSIDE the U. Keep its white service louvre above. Adjacent full-height warm-white OPAQUE sideboard,2200 wide800 overall deep2750 high,door fronts flush with refrigerator front. FOUR stages: white base with3horizontal drawers;600-high uninterrupted OPEN niche;thin closed WALNUT flip-door band;full white upper doors to ceiling,concealed pull-down trays inside,no separate unusable tiny high box,no glass cabinet door. The right fixed end has R100 rounded white edge.\nONE continuous WALNUT U tabletop: back counter880 high,flush with narrow connecting arm from fridge-side end;short connector350wide,inside access600deep;long outer dining rail1800x550 atsame880height,R60 outer corners,two recessed walnut round legs. Same walnut colour on worktop,niche back,thin band and dining rail; no raised root lip,no step. Centre of U is empty retrieval space. NO dining chairs,stools,bench or old separate dining table. Keep paper pendant in exactly the native position;do not enlarge or move it.\nPreserve the actual narrow room and732mm outer furniture gap;don't widen passage. Opposite corridor built-ins retain cream-white uppers and milk-yellow lower doors. Entry bench/piano hooks and shoe cabinet,existing dark-framed kitchen GLASS SLIDING PARTITION and distant sofa/window all remain where image1 shows. No new wall/furniture/no new appliances.\nPhotographic treatment: clean warm-white matte paint,real dark walnut grain at subtle scale,pale oak floor,soft edge highlights,cloth/paper texture. Beautiful warm afternoon daylight and credible bounced shadows like image2;clear distant trees/urban sky replace gloomy stadium reflection. Very restrained3000K niche/pendant indirect warmth,not a global yellow filter. No cartoon look,no bright glowing outlines or plastic surfaces. No UI,text,dimensions,labels,watermark or people. Only improve realism,materials and light while preserving geometry.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-integrated-native/dining-pano-native.png",
+          "D:/AI-Yang.cn/HomeDesign/00_sources/photographic-style-reference-v16.png"
+        ],
+        "transparent_background": false
+      }
+    }
+  ]
+}

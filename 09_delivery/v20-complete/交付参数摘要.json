@@ -1,0 +1,52 @@
+{
+  "phase": "full-v20-design",
+  "storage": [
+    {
+      "id": "tv-high",
+      "description": "六模块，五组可调层板＋一高位清洁模块；首模块高处双层下拉",
+      "usableDepthMm": 332,
+      "adjustable": true
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "description": "双仓五层可调鞋位／上方三层可调；右端R40固定封板不计收纳",
+      "clearWidthsMm": [
+        608.5,
+        558.5
+      ],
+      "usableDepthMm": 304,
+      "adjustable": true
+    },
+    {
+      "id": "bookcase",
+      "description": "保留开放六格及北端平移门；封闭块改真实空腔、可调层板",
+      "usableDepthMm": 306,
+      "adjustable": true
+    },
+    {
+      "id": "dining-sideboard-island",
+      "description": "保留四段式／完整上柜双层下拉；三横抽补齐抽盒底板与侧板",
+      "drawerInternalMm": [
+        526,
+        534,
+        148
+      ],
+      "upperEffectiveDepthMm": 313,
+      "backServiceVoidIsStorage": false
+    },
+    {
+      "id": "laundry-enclosure",
+      "description": "敞开设备位；上柜双层下拉，后部服务空腔不计收纳",
+      "upperUsefulDepthMm": 314,
+      "adjustable": true
+    }
+  ],
+  "workingDrawingStatus": "design nodes and coordination, not certified shop drawings",
+  "palette": [
+    "clean warm white",
+    "pale oak",
+    "limited walnut",
+    "milk-yellow corridor lower",
+    "sage and navy accents"
+  ]
+}

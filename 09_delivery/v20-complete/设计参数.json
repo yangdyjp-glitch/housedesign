@@ -1,0 +1,307 @@
+{
+  "authorization": "实装v20",
+  "label": "v20 实装完整版",
+  "phase": "full-design-implementation",
+  "finishedCeilingMm": 2750,
+  "serviceBandFinishMm": 2600,
+  "structureHeightMm": null,
+  "beamBottomMm": null,
+  "acUnitModel": null,
+  "acStatus": "coordinated design locations / proxy service envelopes; engineer and manufacturer verification pending",
+  "acPublic": {
+    "bandPlanMm": [
+      3500,
+      4900,
+      4500,
+      1000
+    ],
+    "supplyFaceMm": [
+      3700,
+      4895,
+      2000,
+      8,
+      2630,
+      60
+    ],
+    "returnFaceMm": [
+      5800,
+      5780,
+      1700,
+      100,
+      2600
+    ],
+    "accessPanelMm": [
+      6050,
+      5170,
+      1300,
+      650
+    ],
+    "unitEnvelopeMm": [
+      6100,
+      5250,
+      1200,
+      550,
+      2780,
+      230
+    ],
+    "renderedEquipment": false
+  },
+  "privateAC": [
+    [
+      "master",
+      7600,
+      1300,
+      1200,
+      400
+    ],
+    [
+      "guest",
+      5000,
+      6410,
+      1200,
+      350
+    ],
+    [
+      "secondary",
+      7800,
+      7170,
+      1400,
+      350
+    ]
+  ],
+  "storage": [
+    {
+      "id": "tv-high",
+      "description": "六模块，五组可调层板＋一高位清洁模块；首模块高处双层下拉",
+      "usableDepthMm": 332,
+      "adjustable": true
+    },
+    {
+      "id": "entry-shoe-cabinet",
+      "description": "双仓五层可调鞋位／上方三层可调；右端R40固定封板不计收纳",
+      "clearWidthsMm": [
+        608.5,
+        558.5
+      ],
+      "usableDepthMm": 304,
+      "adjustable": true
+    },
+    {
+      "id": "bookcase",
+      "description": "保留开放六格及北端平移门；封闭块改真实空腔、可调层板",
+      "usableDepthMm": 306,
+      "adjustable": true
+    },
+    {
+      "id": "dining-sideboard-island",
+      "description": "保留四段式／完整上柜双层下拉；三横抽补齐抽盒底板与侧板",
+      "drawerInternalMm": [
+        526,
+        534,
+        148
+      ],
+      "upperEffectiveDepthMm": 313,
+      "backServiceVoidIsStorage": false
+    },
+    {
+      "id": "laundry-enclosure",
+      "description": "敞开设备位；上柜双层下拉，后部服务空腔不计收纳",
+      "upperUsefulDepthMm": 314,
+      "adjustable": true
+    }
+  ],
+  "doorWall": {
+    "flushDoorCount": 3,
+    "leafThicknessMm": 40,
+    "perimeterJointMm": 4,
+    "hiddenFrameMm": [
+      12,
+      30
+    ],
+    "backingMm": 18,
+    "skirtingMm": {
+      "height": 58,
+      "joint": 4,
+      "recess": 8
+    },
+    "constructionSystemUnselected": true
+  },
+  "curve": {
+    "skeleton": "straight",
+    "hallFixedEndR50": true,
+    "shoeEndR40": true,
+    "wallExposedR60": true,
+    "touchEdgesR2": true,
+    "existingDiningR100": true,
+    "officeCap": "B R45 provisional"
+  },
+  "laundry": {
+    "framePlanMm": [
+      6468,
+      145,
+      720,
+      668
+    ],
+    "openMachineFront": true,
+    "machinesMoved": false,
+    "curtainRightEndMm": 6428,
+    "curtainToFrameGapMm": 40,
+    "frontServiceAreaMm": [
+      5488,
+      170,
+      980,
+      600
+    ],
+    "specificMachineVentilationUnknown": true
+  },
+  "rug": {
+    "sizeMm": [
+      3600,
+      3000,
+      8
+    ],
+    "positionMm": [
+      1950,
+      1600
+    ],
+    "lowPile": true
+  },
+  "masterBath": {
+    "status": "applied-to-concept-model; site feasibility unverified",
+    "source": "00_sources/master-bath-expansion-markup-01.png",
+    "source_sha256": "49a851e70dcb2da264a42c7f4fdd899f11869e05fdf278ad431d33ca3212db36",
+    "ownerConfirmed": [
+      "新增段与原主卫合并",
+      "洗手台—马桶—淋浴；干湿分离；无浴缸",
+      "床垫2000宽；头北脚南；图左衣柜"
+    ],
+    "bathRectMm": {
+      "x": 9323,
+      "z": 4096,
+      "w": 1472,
+      "d": 2814
+    },
+    "extensionMm": 800,
+    "wallThicknessMm": 120,
+    "door": {
+      "type": "diagonal inward bifold, opaque warm-white",
+      "status": "designer implementation proposal; owner preference may override",
+      "rawOpeningMm": 860,
+      "leafMm": 820,
+      "leafCount": 2,
+      "individualPanelMm": 406,
+      "thicknessMm": 40,
+      "stileRadiusMm": 20,
+      "conceptClearOpeningMm": 735,
+      "hingePlanMm": [
+        9153.5029296875,
+        4145.49755859375
+      ],
+      "basisU": [
+        -0.7071067690849304,
+        0.7071067690849304
+      ],
+      "basisN": [
+        0.7071067690849304,
+        0.7071067690849304
+      ],
+      "halfSpanMm": 410.0,
+      "openingStartMm": [
+        9167.64453125,
+        4131.35546875
+      ],
+      "openingEndMm": [
+        8559.533203125,
+        4739.46728515625
+      ],
+      "swing": "folds inward; balcony/bed furniture unchanged",
+      "defaultOpen": false,
+      "frameProductSelected": false
+    },
+    "foyer": {
+      "stepIntoHallMm": 0,
+      "newFrontOuterZ": 4896,
+      "previousFrontOuterZ": 5096,
+      "referenceBandToGuestFrontMm": 1249,
+      "referenceBandIsNotCertifiedClearance": true
+    },
+    "shower": {
+      "depthMm": 900,
+      "widthMm": 1472,
+      "screenZ": 6010,
+      "defaultOpen": false,
+      "slidingTravelMm": 700,
+      "clearOpeningConceptMm": 700,
+      "serviceBlockRetained": true
+    },
+    "bed": {
+      "mattressWidthMm": 2000,
+      "framePlanMm": [
+        2150,
+        2150
+      ],
+      "head": "north / image bottom",
+      "feet": "south / image top",
+      "wardrobeGapMm": 717,
+      "footGapMm": 754,
+      "rightSideGapMm": 0,
+      "singleSideAccess": true
+    },
+    "constructionStatus": "Not approved for construction; original wet boundary, lower-storey use, structure, drains, window and finished sizes remain unverified",
+    "publicFurnitureUnchanged": 23,
+    "budgetConsidered": false,
+    "bathExtensionPocketMm": [
+      [
+        9203.0,
+        4096.0
+      ],
+      [
+        8523.0,
+        4776.0
+      ],
+      [
+        9323,
+        4776
+      ],
+      [
+        9323,
+        4096
+      ]
+    ],
+    "doorApproachTrial": {
+      "centerMm": [
+        8480,
+        4400
+      ],
+      "radiusMm": 250,
+      "meaning": "single-person circular proxy, not accessibility certification"
+    }
+  },
+  "positions": "26 retained origins unchanged; two added assemblies only",
+  "officeMaterial": "B temporary preview; owner final choice pending",
+  "seating": "dining chairs remain deferred",
+  "lighting": {
+    "circuits": [
+      "curtain",
+      "bookcase",
+      "entry",
+      "office",
+      "office-ledge",
+      "dining",
+      "dining-niche",
+      "general"
+    ],
+    "modes": [
+      "day",
+      "evening",
+      "dining",
+      "cleaning",
+      "viewing"
+    ],
+    "ambientCctTargetK": 3000,
+    "taskCctTargetK": 3500,
+    "cctAreDesignTargets": true,
+    "photometricCalculation": false
+  },
+  "constructionStatus": "design package, not certified construction drawings"
+}

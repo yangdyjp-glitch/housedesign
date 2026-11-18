@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-05",
+  "status": "independent proposal, not owner selected, no v19 merge",
+  "coordinates": "local x=global z-6090-72.5; local y=3082-global x; mm",
+  "source_wall": "geometry-master-v19.json / lower-narrow-left-end",
+  "wall_length": 3545,
+  "cabinet_span": 3400,
+  "height_provisional": 2750,
+  "fridge": {
+    "zone": [
+      0,
+      1200
+    ],
+    "appliance": [
+      920,
+      750,
+      1850
+    ],
+    "front_from_wall": 800,
+    "outside_L": true,
+    "position": "living end",
+    "upper_region": "ventilated removable fixed service fascia, no overhead storage doors",
+    "ventilation_status": "screen opening, free area, manufacturer approval and exact model still unverified; no zero-embedding claim"
+  },
+  "low_cabinet": {
+    "x": [
+      1200,
+      3400
+    ],
+    "depth": 300,
+    "height": 750,
+    "coffee_only": {
+      "x": [
+        2850,
+        3400
+      ],
+      "depth": 450,
+      "height": 900
+    }
+  },
+  "dining_return": {
+    "x": [
+      1650,
+      2400
+    ],
+    "y": [
+      300,
+      1700
+    ],
+    "size": [
+      1400,
+      750,
+      750
+    ],
+    "near_fridge_buffer": 450,
+    "seats": 4,
+    "chair_arrangement": "two on each long side, no end seat",
+    "base_under_join": "fixed connection, no cupboard door blocked by table"
+  },
+  "chairs": [
+    {
+      "id": "chair-living-1",
+      "x": 1350,
+      "y": 450,
+      "w": 450,
+      "d": 450,
+      "facing_x": 1,
+      "occupied_overlap_under_table": 150
+    },
+    {
+      "id": "chair-living-2",
+      "x": 1350,
+      "y": 1250,
+      "w": 450,
+      "d": 450,
+      "facing_x": 1,
+      "occupied_overlap_under_table": 150
+    },
+    {
+      "id": "chair-kitchen-1",
+      "x": 2250,
+      "y": 450,
+      "w": 450,
+      "d": 450,
+      "facing_x": -1,
+      "occupied_overlap_under_table": 150
+    },
+    {
+      "id": "chair-kitchen-2",
+      "x": 2250,
+      "y": 1250,
+      "w": 450,
+      "d": 450,
+      "facing_x": -1,
+      "occupied_overlap_under_table": 150
+    }
+  ],
+  "room_width": 3082,
+  "opposite_cabinet_depth": 400,
+  "clearance": {
+    "bypass_at_table_free_end": 982,
+    "kitchen_end_occupied_chair_to_wall": 772.5,
+    "pullout_trial_extra": 250,
+    "kitchen_end_after_pullout": 522.5,
+    "not_all_actions_simultaneous": true
+  },
+  "original_master_sha256": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+  "limitations": [
+    "Widths are provisional model data, not survey",
+    "Chair150mm overlap is normal under-table insertion in this proposal, not hidden collision clearance",
+    "Pulled chair leaves only522.5mm kitchen end; cannot claim generous simultaneous passage",
+    "Appliance hinge angle and drawer extraction unknown; must verify actual model",
+    "Observation platform and cut-away viewpoint are not entire apartment reconstruction"
+  ],
+  "model_sha256": "77319c5737d26fb99d0dba50ce76fdb2405ccbedf72650a8a2397b4dfa96c34e"
+}

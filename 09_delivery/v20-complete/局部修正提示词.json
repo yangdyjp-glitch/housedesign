@@ -1,0 +1,49 @@
+{
+  "method": "built-in image_gen",
+  "jobs": [
+    {
+      "id": "dining-pano",
+      "args": {
+        "prompt": "Use case: precise-object-edit. Image 1 is the photographic edit target. Image 2 is the exact same scene's native geometry reference, to correct only the listed errors. Restore the single paper pendant that was accidentally omitted, using Image 2 for its exact cord position, size, height and equirectangular distortion (roughly 36% across the canvas). Also remove the invented tea table and chairs visible outside the small entrance glazing at the far right: that opening shows only the distant landscape as in Image 2, with no exterior terrace furniture. Do not change the kitchen sliding glass door. Keep the U tabletop shape, white fridge, opaque cabinetry, open niche, walnut colour, lighting, floor, and everything else. Preserve Image 1's photographic quality, light, materials, proportions and all unmentioned features. CRITICAL: keep the complete seamless 2:1 full 360x180 EQUIRECTANGULAR projection, existing camera centre, all horizontal feature positions, poles and matching left/right seam; output one panorama, never a perspective crop. No people, UI, text or watermark. Distinctive marker V20FULL-LOCAL-CORRECTION-dining-pano.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-photographic/dining-pano.png",
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/dining-pano-native.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "id": "balcony-photo",
+      "args": {
+        "prompt": "Use case: precise-object-edit. Image 1 is the photographic edit target. Image 2 is the exact same scene's native geometry reference, to correct only the listed errors. Remove ONLY the small added rug beneath the balcony tea table and two low tea chairs. Image 2 shows the correct uninterrupted pale oak floor here. The living-room rug is in another area and is not visible in this close view. Preserve all furniture positions, exactly one low tea table and two chairs, their reflections, all plants, sofa, glazing and the photographic sunlight. Do not change the camera or crop. Preserve Image 1's photographic quality, light, materials, proportions and all unmentioned features. Keep the same image aspect and framing. No people, UI, text or watermark. Distinctive marker V20FULL-LOCAL-CORRECTION-balcony-photo.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-photographic/balcony-photo.png",
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-native.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "id": "balcony-pano",
+      "args": {
+        "prompt": "Use case: precise-object-edit. Image 1 is the photographic edit target. Image 2 is the exact same scene's native geometry reference, to correct only the listed errors. Correct ONLY rug placement. Remove the added separate small rug under the balcony low tea table and low tea chairs in the foreground, restoring pale oak flooring. Preserve the larger living-room rug under sofa/coffee table/ottoman, with its outline/location matched to Image 2. Keep the sofa, TV, low tea furniture, laundry, desk, near halfwall, glazing, plants, natural light and all other geometry. Do not join the two floor areas with a carpet. Preserve Image 1's photographic quality, light, materials, proportions and all unmentioned features. CRITICAL: keep the complete seamless 2:1 full 360x180 EQUIRECTANGULAR projection, existing camera centre, all horizontal feature positions, poles and matching left/right seam; output one panorama, never a perspective crop. No people, UI, text or watermark. Distinctive marker V20FULL-LOCAL-CORRECTION-balcony-pano.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-photographic/balcony-pano.png",
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/balcony-pano-native.png"
+        ],
+        "transparent_background": false
+      }
+    },
+    {
+      "id": "entry-pano",
+      "args": {
+        "prompt": "Use case: precise-object-edit. Image 1 is the photographic edit target. Image 2 is the exact same scene's native geometry reference, to correct only the listed errors. Correct ONLY the invented contents of the exterior glazing and mirror. At the matching far-left and far-right seam edges, delete the exterior tea table and chairs: this entrance opening sees only distant trees/houses, with no patio furniture. In the central mirror, remove the impossible washer/dryer and replace it with the reflection of the entrance opening and landscape as anchored by Image 2. Do not move or alter the mirror itself, the left bench/piano-key board, right white shoe cabinet, U dining furniture, milk-yellow cabinet, floor, ceiling, lighting, camera or projection. Preserve Image 1's photographic quality, light, materials, proportions and all unmentioned features. CRITICAL: keep the complete seamless 2:1 full 360x180 EQUIRECTANGULAR projection, existing camera centre, all horizontal feature positions, poles and matching left/right seam; output one panorama, never a perspective crop. No people, UI, text or watermark. Distinctive marker V20FULL-LOCAL-CORRECTION-entry-pano.",
+        "referenced_image_paths": [
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-photographic/entry-pano.png",
+          "D:/AI-Yang.cn/HomeDesign/07_renders/v20-complete-native/entry-pano-native.png"
+        ],
+        "transparent_background": false
+      }
+    }
+  ]
+}

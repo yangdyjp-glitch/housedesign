@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-06",
+  "scope": "independent08",
+  "main_model_unchanged": true,
+  "v20_started": false,
+  "frozen_main_files": {
+    "06_blender/home-main-v19.blend": "04f55222258c1a866e84b9eff3b7987e48f399ca520789ba458b3fa16d4dc214",
+    "06_blender/active-model.json": "52766c728b10a878baddff725d50a81dd796543efd14c877b7c70601d2a6342f",
+    "02_geometry/geometry-master-v19.json": "44d4cd19f7a90b9c1bf24f958a50f66db46bffba5e0ddfe147cc49543ae7aa9d",
+    "05_style/modern-japanese-v19.json": "387f6be47a1aeaf64a0e58d178fe5507c9ab5cf9cf26c19f7dfaa4b16b092b4c",
+    "06_blender/active-presentation.json": "4f967c49e33cb02e893de5344a452258fe34c14354ae9ec4582004c8ca684e97"
+  },
+  "checks": {
+    "saved_native_model_reopened": true,
+    "three_visible_chairs": true,
+    "three_chairs_at_two_exterior_ends": true,
+    "no_chairs_in_retrieval_notch": true,
+    "no_chairs_on_outer_long_edge": true,
+    "fridge_cabinet_upper_fronts_v800": true,
+    "cabinet_width2200_includes_end_panel": true,
+    "numeric_clearances_checked": true,
+    "images_decode": true,
+    "offline_html_links_valid": true
+  },
+  "images": {
+    "齐平柜-开关灯概念对照.png": {
+      "format": "PNG",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 2029541
+    },
+    "齐平柜与外端三椅-实体关系参考.png": {
+      "format": "PNG",
+      "width": 1800,
+      "height": 1350,
+      "bytes": 2756443
+    },
+    "齐平柜-三椅全外置尺寸图.png": {
+      "format": "PNG",
+      "width": 1500,
+      "height": 1800,
+      "bytes": 1618905
+    }
+  },
+  "visual_review": {
+    "method": "direct inspection of saved native reference, plan, and selected generated diptych",
+    "first_ai_draft": "rejected: two chairs were placed on outer long edge, contrary to geometry",
+    "correction": "one targeted correction; selected image has two sage living-end chairs and one navy kitchen-end chair",
+    "strengths": [
+      "aligned opaque elevation",
+      "four-stage hierarchy retained",
+      "empty inner notch",
+      "actual compact L and warm oak/walnut",
+      "same furnishings in OFF/ON"
+    ],
+    "limitations": [
+      "photographic image is a concept, not a pixel-accurate CAD view",
+      "coffee machine front details remain a generic appliance proxy",
+      "actual oak, fabric, light output and outdoor daylight unselected"
+    ],
+    "no_unfounded_scores": true
+  },
+  "practical_review": {
+    "result": "compact provisional plan, no circulation approval",
+    "outer_gap": 682,
+    "inner_closed_gap": 600,
+    "end_chair_back_gap": 702.5,
+    "end_pullout250_gap": 452.5,
+    "retained_opposite_cabinet": true,
+    "retained_entry_bench": true,
+    "spare_storage_unselected": true,
+    "pending": [
+      "real survey",
+      "fridge manual and full door sweep",
+      "drawer and human access together",
+      "structural support and fixing design"
+    ]
+  },
+  "browser_visual_preview_performed": false,
+  "ai_tool": "built-in image_gen",
+  "generation_prompt": "generation-prompt.json",
+  "correction_prompt": "correction-prompt.json"
+}

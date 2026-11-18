@@ -1,0 +1,1122 @@
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:35:27)
+Fra:1 Mem:27.10M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor observation crop
+Fra:1 Mem:27.10M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.001
+Fra:1 Mem:27.10M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.005
+Fra:1 Mem:27.10M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.006
+Fra:1 Mem:27.10M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.010
+Fra:1 Mem:27.10M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.014
+Fra:1 Mem:27.11M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.019
+Fra:1 Mem:27.11M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.021
+Fra:1 Mem:27.11M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.022
+Fra:1 Mem:27.12M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.025
+Fra:1 Mem:27.12M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.028
+Fra:1 Mem:27.12M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.029
+Fra:1 Mem:27.12M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.030
+Fra:1 Mem:27.13M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.032
+Fra:1 Mem:27.13M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.034
+Fra:1 Mem:27.13M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-seat
+Fra:1 Mem:27.13M (Peak 28.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-3135
+Fra:1 Mem:29.14M (Peak 29.14M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-3135
+Fra:1 Mem:29.15M (Peak 29.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-x
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-z
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster--250-0
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-250-0
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0--250
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0-250
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-base
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-back-cushion
+Fra:1 Mem:29.22M (Peak 29.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-0
+Fra:1 Mem:29.25M (Peak 29.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-0
+Fra:1 Mem:29.26M (Peak 29.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-1
+Fra:1 Mem:29.25M (Peak 29.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-1
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-north-arm
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-south-arm
+Fra:1 Mem:29.35M (Peak 29.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight sun
+Fra:1 Mem:29.35M (Peak 29.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight soft window
+Fra:1 Mem:29.37M (Peak 29.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed return strip
+Fra:1 Mem:29.35M (Peak 29.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-1370
+Fra:1 Mem:29.39M (Peak 29.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-1370
+Fra:1 Mem:29.42M (Peak 29.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-2200
+Fra:1 Mem:29.51M (Peak 29.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-2370
+Fra:1 Mem:29.60M (Peak 29.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-4170
+Fra:1 Mem:29.64M (Peak 29.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-4170
+Fra:1 Mem:29.65M (Peak 29.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-navy
+Fra:1 Mem:29.64M (Peak 29.64M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-base-34
+Fra:1 Mem:29.68M (Peak 29.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-body-34
+Fra:1 Mem:29.69M (Peak 29.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-screen-34
+Fra:1 Mem:29.70M (Peak 29.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-keyboard-single
+Fra:1 Mem:29.81M (Peak 29.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-mouse-single
+Fra:1 Mem:29.90M (Peak 29.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-base
+Fra:1 Mem:29.97M (Peak 29.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-stem
+Fra:1 Mem:29.96M (Peak 29.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-cup
+Fra:1 Mem:29.97M (Peak 29.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-0
+Fra:1 Mem:29.96M (Peak 29.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-1
+Fra:1 Mem:29.95M (Peak 29.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-2
+Fra:1 Mem:30.01M (Peak 30.01M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-water-cup
+Fra:1 Mem:30.00M (Peak 30.01M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-0
+Fra:1 Mem:29.99M (Peak 30.01M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-1
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-body
+Fra:1 Mem:30.09M (Peak 30.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-0
+Fra:1 Mem:30.10M (Peak 30.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-1
+Fra:1 Mem:30.11M (Peak 30.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-scribe
+Fra:1 Mem:30.13M (Peak 30.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow drawer reveal
+Fra:1 Mem:30.15M (Peak 30.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-body
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-0
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-scribe
+Fra:1 Mem:30.36M (Peak 30.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow end drawer
+Fra:1 Mem:30.37M (Peak 30.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-body
+Fra:1 Mem:30.38M (Peak 30.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-top
+Fra:1 Mem:30.35M (Peak 30.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-0
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-1
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-2
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-3
+Fra:1 Mem:30.45M (Peak 30.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-open-back
+Fra:1 Mem:30.48M (Peak 30.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-0
+Fra:1 Mem:30.48M (Peak 30.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-1
+Fra:1 Mem:30.50M (Peak 30.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-2
+Fra:1 Mem:30.59M (Peak 30.59M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-800
+Fra:1 Mem:30.60M (Peak 30.60M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden desktop longitudinal frame
+Fra:1 Mem:30.62M (Peak 30.62M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1250
+Fra:1 Mem:30.66M (Peak 30.66M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1700
+Fra:1 Mem:30.66M (Peak 30.66M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-2130
+Fra:1 Mem:30.67M (Peak 30.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-body
+Fra:1 Mem:30.71M (Peak 30.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-0
+Fra:1 Mem:30.71M (Peak 30.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-2
+Fra:1 Mem:30.82M (Peak 30.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk right end support
+Fra:1 Mem:30.83M (Peak 30.83M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-3
+Fra:1 Mem:30.86M (Peak 30.86M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-scribe
+Fra:1 Mem:30.86M (Peak 30.86M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-0
+Fra:1 Mem:30.92M (Peak 30.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support.001
+Fra:1 Mem:30.91M (Peak 30.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-1
+Fra:1 Mem:30.94M (Peak 30.96M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-2
+Fra:1 Mem:30.98M (Peak 30.98M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-2
+Fra:1 Mem:31.06M (Peak 31.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-0
+Fra:1 Mem:31.12M (Peak 31.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support
+Fra:1 Mem:31.11M (Peak 31.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-1
+Fra:1 Mem:31.13M (Peak 31.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-2
+Fra:1 Mem:31.12M (Peak 31.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-1
+Fra:1 Mem:31.13M (Peak 31.13M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-2
+Fra:1 Mem:31.24M (Peak 31.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-0
+Fra:1 Mem:31.21M (Peak 31.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-2
+Fra:1 Mem:31.27M (Peak 31.27M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-0
+Fra:1 Mem:31.31M (Peak 31.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-2
+Fra:1 Mem:31.38M (Peak 31.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing bedroom-wall context
+Fra:1 Mem:31.43M (Peak 31.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context
+Fra:1 Mem:31.39M (Peak 31.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.001
+Fra:1 Mem:31.42M (Peak 31.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window sill context
+Fra:1 Mem:31.50M (Peak 31.50M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window side rail context
+Fra:1 Mem:31.50M (Peak 31.50M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Seated desktop 2400x700 H750
+Fra:1 Mem:31.61M (Peak 31.61M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Long raised ledge 2600x200 H950
+Fra:1 Mem:31.65M (Peak 31.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support
+Fra:1 Mem:31.64M (Peak 31.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Short raised return to same H950
+Fra:1 Mem:31.76M (Peak 31.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.15M (Peak 31.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.15M (Peak 31.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.15M (Peak 31.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.15M (Peak 31.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.26M (Peak 31.76M) | Time:00:00.01 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.26M (Peak 31.76M) | Time:00:00.01 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.26M (Peak 31.76M) | Time:00:00.01 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.26M (Peak 31.76M) | Time:00:00.01 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.26M (Peak 31.76M) | Time:00:00.01 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.26M (Peak 31.76M) | Time:00:00.01 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.29M (Peak 31.76M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.29M (Peak 31.76M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.29M (Peak 31.76M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.29M (Peak 31.76M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.29M (Peak 31.76M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.80M (Peak 31.76M) | Time:00:00.01 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.78M (Peak 31.76M) | Time:00:00.01 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.78M (Peak 31.76M) | Time:00:00.01 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.78M (Peak 31.76M) | Time:00:00.01 | Mem:1.25M, Peak:1.25M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.78M (Peak 31.76M) | Time:00:00.02 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.78M (Peak 31.76M) | Time:00:00.02 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.56M, Peak:3.56M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.56M, Peak:3.56M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.09M (Peak 31.76M) | Time:00:00.02 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.10M (Peak 31.76M) | Time:00:00.02 | Mem:3.48M, Peak:3.57M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.10M (Peak 31.76M) | Time:00:00.02 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.10M (Peak 31.76M) | Time:00:00.02 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.10M (Peak 31.76M) | Time:00:00.02 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:25.10M (Peak 31.76M) | Time:00:00.02 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.14M (Peak 176.14M) | Time:00:00.30 | Remaining:00:04.26 | Mem:154.33M, Peak:154.33M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:239.62M (Peak 334.83M) | Time:00:09.72 | Mem:154.33M, Peak:154.33M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:239.62M (Peak 334.83M) | Time:00:09.72 | Mem:154.33M, Peak:154.33M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\A\A-OFF-native.png'
+Time: 00:10.12 (Saving: 00:00.38)
+
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor observation crop
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.001
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.003
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.004
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.005
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.006
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.007
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.008
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.009
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.010
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.011
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.012
+Fra:1 Mem:29.28M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.013
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.014
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.015
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.017
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.018
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.019
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.020
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.021
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.022
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.023
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.024
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.025
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.026
+Fra:1 Mem:29.29M (Peak 29.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.028
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.029
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.030
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.031
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.032
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.033
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.034
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-seat
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-back
+Fra:1 Mem:29.35M (Peak 29.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-2635
+Fra:1 Mem:29.38M (Peak 29.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-2635
+Fra:1 Mem:29.40M (Peak 29.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-3135
+Fra:1 Mem:29.42M (Peak 29.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-3135
+Fra:1 Mem:29.45M (Peak 29.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-column
+Fra:1 Mem:29.46M (Peak 29.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-x
+Fra:1 Mem:29.46M (Peak 29.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster--250-0
+Fra:1 Mem:29.50M (Peak 29.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-250-0
+Fra:1 Mem:29.51M (Peak 29.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0--250
+Fra:1 Mem:29.51M (Peak 29.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0-250
+Fra:1 Mem:29.53M (Peak 29.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back
+Fra:1 Mem:29.51M (Peak 29.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-main-base
+Fra:1 Mem:29.56M (Peak 29.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-base
+Fra:1 Mem:29.58M (Peak 29.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-cushion
+Fra:1 Mem:29.60M (Peak 29.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-back-cushion
+Fra:1 Mem:29.63M (Peak 29.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-0
+Fra:1 Mem:29.66M (Peak 29.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-0
+Fra:1 Mem:29.68M (Peak 29.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-1
+Fra:1 Mem:29.70M (Peak 29.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-1
+Fra:1 Mem:29.70M (Peak 29.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-north-arm
+Fra:1 Mem:29.78M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ambient reflected
+Fra:1 Mem:29.77M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Task lamp
+Fra:1 Mem:29.77M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge indirect soft
+Fra:1 Mem:29.77M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight sun
+Fra:1 Mem:29.77M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight soft window
+Fra:1 Mem:29.76M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed return strip
+Fra:1 Mem:29.76M (Peak 29.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-1370
+Fra:1 Mem:29.80M (Peak 29.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed long strip
+Fra:1 Mem:29.83M (Peak 29.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-1370
+Fra:1 Mem:29.85M (Peak 29.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Removable cable channel
+Fra:1 Mem:29.88M (Peak 29.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-2200
+Fra:1 Mem:29.89M (Peak 29.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow drawer reveal
+Fra:1 Mem:29.90M (Peak 29.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow end drawer
+Fra:1 Mem:29.95M (Peak 29.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-2370
+Fra:1 Mem:29.99M (Peak 29.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden desktop longitudinal frame
+Fra:1 Mem:30.00M (Peak 30.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-4170
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-4170
+Fra:1 Mem:30.04M (Peak 30.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk right end support
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-green
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-navy
+Fra:1 Mem:30.10M (Peak 30.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support.001
+Fra:1 Mem:30.13M (Peak 30.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-base-34
+Fra:1 Mem:30.17M (Peak 30.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-stand-34
+Fra:1 Mem:30.15M (Peak 30.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support
+Fra:1 Mem:30.19M (Peak 30.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-body-34
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.002
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-screen-34
+Fra:1 Mem:30.27M (Peak 30.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.001
+Fra:1 Mem:30.28M (Peak 30.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-keyboard-single
+Fra:1 Mem:30.31M (Peak 30.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support
+Fra:1 Mem:30.34M (Peak 30.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-mouse-single
+Fra:1 Mem:30.33M (Peak 30.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Short raised return to same H950
+Fra:1 Mem:30.34M (Peak 30.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-base
+Fra:1 Mem:30.35M (Peak 30.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-stem
+Fra:1 Mem:30.42M (Peak 30.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-shade
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-cup
+Fra:1 Mem:30.46M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-0
+Fra:1 Mem:30.42M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-1
+Fra:1 Mem:30.44M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-2
+Fra:1 Mem:30.44M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-water-cup
+Fra:1 Mem:30.45M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-pot
+Fra:1 Mem:30.45M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-soil
+Fra:1 Mem:30.46M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-0
+Fra:1 Mem:30.46M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-1
+Fra:1 Mem:30.47M (Peak 30.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Long raised ledge 2600x200 H950
+Fra:1 Mem:30.54M (Peak 30.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Seated desktop 2400x700 H750
+Fra:1 Mem:30.61M (Peak 30.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window side rail context
+Fra:1 Mem:30.63M (Peak 30.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window sill context
+Fra:1 Mem:30.66M (Peak 30.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-2
+Fra:1 Mem:30.66M (Peak 30.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window head context
+Fra:1 Mem:30.70M (Peak 30.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-3
+Fra:1 Mem:30.70M (Peak 30.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-body
+Fra:1 Mem:30.72M (Peak 30.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context.001
+Fra:1 Mem:30.76M (Peak 30.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-0
+Fra:1 Mem:30.74M (Peak 30.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context
+Fra:1 Mem:30.79M (Peak 30.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-1
+Fra:1 Mem:30.83M (Peak 30.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-scribe
+Fra:1 Mem:30.84M (Peak 30.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing bedroom-wall context
+Fra:1 Mem:30.86M (Peak 30.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-body
+Fra:1 Mem:30.88M (Peak 30.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-0
+Fra:1 Mem:30.90M (Peak 30.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-2
+Fra:1 Mem:30.90M (Peak 30.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-1
+Fra:1 Mem:30.97M (Peak 30.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-1
+Fra:1 Mem:30.95M (Peak 30.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-body
+Fra:1 Mem:31.02M (Peak 31.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-top
+Fra:1 Mem:31.04M (Peak 31.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-0
+Fra:1 Mem:31.05M (Peak 31.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-0
+Fra:1 Mem:31.08M (Peak 31.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-1
+Fra:1 Mem:31.13M (Peak 31.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-2
+Fra:1 Mem:31.16M (Peak 31.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-2
+Fra:1 Mem:31.13M (Peak 31.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-3
+Fra:1 Mem:31.19M (Peak 31.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-open-back
+Fra:1 Mem:31.18M (Peak 31.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-1
+Fra:1 Mem:31.23M (Peak 31.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-0
+Fra:1 Mem:31.25M (Peak 31.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-1
+Fra:1 Mem:31.25M (Peak 31.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-2
+Fra:1 Mem:31.31M (Peak 31.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-800
+Fra:1 Mem:31.34M (Peak 31.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1250
+Fra:1 Mem:31.37M (Peak 31.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-2
+Fra:1 Mem:31.39M (Peak 31.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1700
+Fra:1 Mem:31.39M (Peak 31.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-2130
+Fra:1 Mem:31.43M (Peak 31.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-1
+Fra:1 Mem:31.46M (Peak 31.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-body
+Fra:1 Mem:31.46M (Peak 31.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-0
+Fra:1 Mem:31.49M (Peak 31.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-1
+Fra:1 Mem:31.57M (Peak 31.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-2
+Fra:1 Mem:31.55M (Peak 31.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-3
+Fra:1 Mem:31.59M (Peak 31.59M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-scribe
+Fra:1 Mem:31.63M (Peak 31.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-2
+Fra:1 Mem:31.65M (Peak 31.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-0
+Fra:1 Mem:31.64M (Peak 31.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-1
+Fra:1 Mem:31.68M (Peak 31.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-1
+Fra:1 Mem:31.72M (Peak 31.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-2
+Fra:1 Mem:31.73M (Peak 31.73M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-0
+Fra:1 Mem:31.75M (Peak 31.75M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-0
+Fra:1 Mem:31.78M (Peak 31.78M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-2
+Fra:1 Mem:31.79M (Peak 31.79M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-1
+Fra:1 Mem:31.81M (Peak 31.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.15M (Peak 31.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.15M (Peak 31.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.15M (Peak 31.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.15M (Peak 31.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.26M (Peak 31.81M) | Time:00:00.04 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.26M (Peak 31.81M) | Time:00:00.04 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.26M (Peak 31.81M) | Time:00:00.04 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.26M (Peak 31.81M) | Time:00:00.04 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.26M (Peak 31.81M) | Time:00:00.04 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.26M (Peak 31.81M) | Time:00:00.04 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.30M (Peak 31.81M) | Time:00:00.04 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.30M (Peak 31.81M) | Time:00:00.04 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.30M (Peak 31.81M) | Time:00:00.04 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.30M (Peak 31.81M) | Time:00:00.04 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.30M (Peak 31.81M) | Time:00:00.04 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.80M (Peak 31.81M) | Time:00:00.04 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.78M (Peak 31.81M) | Time:00:00.04 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.79M (Peak 31.81M) | Time:00:00.04 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.79M (Peak 31.81M) | Time:00:00.04 | Mem:1.25M, Peak:1.25M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.79M (Peak 31.81M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.79M (Peak 31.81M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.09M (Peak 31.81M) | Time:00:00.04 | Mem:3.56M, Peak:3.56M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:25.10M (Peak 31.81M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:25.16M (Peak 31.81M) | Time:00:00.05 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.16M (Peak 31.81M) | Time:00:00.05 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.16M (Peak 31.81M) | Time:00:00.05 | Mem:3.55M, Peak:3.63M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.16M (Peak 31.81M) | Time:00:00.05 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.16M (Peak 31.81M) | Time:00:00.05 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.17M (Peak 31.81M) | Time:00:00.05 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:25.17M (Peak 31.81M) | Time:00:00.05 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.20M (Peak 176.20M) | Time:00:02.21 | Remaining:00:32.39 | Mem:154.39M, Peak:154.39M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:239.68M (Peak 334.90M) | Time:00:53.99 | Mem:154.39M, Peak:154.39M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:239.68M (Peak 334.90M) | Time:00:53.99 | Mem:154.39M, Peak:154.39M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\A\A-ON-native.png'
+Time: 00:54.25 (Saving: 00:00.25)
+
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\A\办公区-A-独立提案.blend"
+Fra:1 Mem:29.14M (Peak 29.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor observation crop
+Fra:1 Mem:29.14M (Peak 29.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint
+Fra:1 Mem:29.15M (Peak 29.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.001
+Fra:1 Mem:29.15M (Peak 29.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.002
+Fra:1 Mem:29.15M (Peak 29.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.004
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.005
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.007
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.008
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.009
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.010
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.011
+Fra:1 Mem:29.16M (Peak 29.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.013
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.014
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.015
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.017
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.018
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.019
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.020
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.021
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.022
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.023
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.024
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.025
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.026
+Fra:1 Mem:29.18M (Peak 29.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.028
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.029
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.030
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.031
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.032
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.034
+Fra:1 Mem:29.19M (Peak 29.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-seat
+Fra:1 Mem:29.22M (Peak 29.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-back
+Fra:1 Mem:29.25M (Peak 29.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-2635
+Fra:1 Mem:29.27M (Peak 29.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-2635
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-3135
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-3135
+Fra:1 Mem:29.36M (Peak 29.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-column
+Fra:1 Mem:29.36M (Peak 29.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-x
+Fra:1 Mem:29.38M (Peak 29.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-z
+Fra:1 Mem:29.41M (Peak 29.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight sun
+Fra:1 Mem:29.41M (Peak 29.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight soft window
+Fra:1 Mem:29.41M (Peak 29.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed return strip
+Fra:1 Mem:29.45M (Peak 29.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster--250-0
+Fra:1 Mem:29.44M (Peak 29.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-250-0
+Fra:1 Mem:29.45M (Peak 29.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0--250
+Fra:1 Mem:29.46M (Peak 29.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0-250
+Fra:1 Mem:29.46M (Peak 29.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed long strip
+Fra:1 Mem:29.46M (Peak 29.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back
+Fra:1 Mem:29.52M (Peak 29.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-main-base
+Fra:1 Mem:29.55M (Peak 29.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-base
+Fra:1 Mem:29.57M (Peak 29.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Removable cable channel
+Fra:1 Mem:29.58M (Peak 29.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-cushion
+Fra:1 Mem:29.61M (Peak 29.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-back-cushion
+Fra:1 Mem:29.64M (Peak 29.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Sage shallow end storage door
+Fra:1 Mem:29.63M (Peak 29.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-0
+Fra:1 Mem:29.67M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-0
+Fra:1 Mem:29.72M (Peak 29.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-1
+Fra:1 Mem:29.74M (Peak 29.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Sage shallow end storage
+Fra:1 Mem:29.73M (Peak 29.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-1
+Fra:1 Mem:29.77M (Peak 29.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-north-arm
+Fra:1 Mem:29.79M (Peak 29.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-south-arm
+Fra:1 Mem:29.79M (Peak 29.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden desktop longitudinal frame
+Fra:1 Mem:29.85M (Peak 29.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-1370
+Fra:1 Mem:29.86M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-1370
+Fra:1 Mem:29.88M (Peak 29.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk right end support
+Fra:1 Mem:29.90M (Peak 29.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-2370
+Fra:1 Mem:29.92M (Peak 29.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support.001
+Fra:1 Mem:29.95M (Peak 29.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-4170
+Fra:1 Mem:29.97M (Peak 29.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support
+Fra:1 Mem:29.97M (Peak 29.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-4170
+Fra:1 Mem:30.03M (Peak 30.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-green
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-navy
+Fra:1 Mem:30.08M (Peak 30.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-base-34
+Fra:1 Mem:30.16M (Peak 30.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-stand-34
+Fra:1 Mem:30.15M (Peak 30.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.001
+Fra:1 Mem:30.15M (Peak 30.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-body-34
+Fra:1 Mem:30.19M (Peak 30.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-keyboard-single
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-mouse-single
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-base
+Fra:1 Mem:30.27M (Peak 30.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-stem
+Fra:1 Mem:30.30M (Peak 30.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-shade
+Fra:1 Mem:30.28M (Peak 30.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Short raised return to same H950
+Fra:1 Mem:30.31M (Peak 30.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-cup
+Fra:1 Mem:30.34M (Peak 30.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-0
+Fra:1 Mem:30.39M (Peak 30.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-1
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-2
+Fra:1 Mem:30.39M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-water-cup
+Fra:1 Mem:30.43M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-pot
+Fra:1 Mem:30.43M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-soil
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-0
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-1
+Fra:1 Mem:30.47M (Peak 30.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-2
+Fra:1 Mem:30.48M (Peak 30.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-3
+Fra:1 Mem:30.49M (Peak 30.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-body
+Fra:1 Mem:30.54M (Peak 30.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-0
+Fra:1 Mem:30.56M (Peak 30.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-1
+Fra:1 Mem:30.60M (Peak 30.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Long raised ledge 2600x200 H950
+Fra:1 Mem:30.60M (Peak 30.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-scribe
+Fra:1 Mem:30.72M (Peak 30.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-body
+Fra:1 Mem:30.70M (Peak 30.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-0
+Fra:1 Mem:30.74M (Peak 30.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-1
+Fra:1 Mem:30.73M (Peak 30.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-scribe
+Fra:1 Mem:30.83M (Peak 30.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-body
+Fra:1 Mem:30.78M (Peak 30.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Seated desktop 2400x700 H750
+Fra:1 Mem:30.79M (Peak 30.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-top
+Fra:1 Mem:30.81M (Peak 30.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-0
+Fra:1 Mem:30.92M (Peak 30.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-1
+Fra:1 Mem:30.93M (Peak 30.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-2
+Fra:1 Mem:30.93M (Peak 30.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-3
+Fra:1 Mem:30.98M (Peak 30.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-open-back
+Fra:1 Mem:31.07M (Peak 31.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-0
+Fra:1 Mem:31.00M (Peak 31.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window side rail context
+Fra:1 Mem:31.05M (Peak 31.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-1
+Fra:1 Mem:31.09M (Peak 31.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-2
+Fra:1 Mem:31.06M (Peak 31.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window sill context
+Fra:1 Mem:31.11M (Peak 31.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-800
+Fra:1 Mem:31.15M (Peak 31.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1250
+Fra:1 Mem:31.14M (Peak 31.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window head context
+Fra:1 Mem:31.18M (Peak 31.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1700
+Fra:1 Mem:31.18M (Peak 31.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context.001
+Fra:1 Mem:31.22M (Peak 31.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-2130
+Fra:1 Mem:31.23M (Peak 31.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context
+Fra:1 Mem:31.27M (Peak 31.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-body
+Fra:1 Mem:31.29M (Peak 31.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing bedroom-wall context
+Fra:1 Mem:31.30M (Peak 31.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-0
+Fra:1 Mem:31.33M (Peak 31.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-2
+Fra:1 Mem:31.36M (Peak 31.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-1
+Fra:1 Mem:31.39M (Peak 31.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-1
+Fra:1 Mem:31.38M (Peak 31.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-2
+Fra:1 Mem:31.42M (Peak 31.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-0
+Fra:1 Mem:31.43M (Peak 31.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-3
+Fra:1 Mem:31.48M (Peak 31.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-2
+Fra:1 Mem:31.48M (Peak 31.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-scribe
+Fra:1 Mem:31.51M (Peak 31.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-0
+Fra:1 Mem:31.54M (Peak 31.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-1
+Fra:1 Mem:31.57M (Peak 31.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-1
+Fra:1 Mem:31.58M (Peak 31.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-2
+Fra:1 Mem:31.61M (Peak 31.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-0
+Fra:1 Mem:31.63M (Peak 31.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-0
+Fra:1 Mem:31.66M (Peak 31.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-1
+Fra:1 Mem:31.68M (Peak 31.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-2
+Fra:1 Mem:31.71M (Peak 31.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-2
+Fra:1 Mem:31.73M (Peak 31.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-0
+Fra:1 Mem:31.75M (Peak 31.75M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-1
+Fra:1 Mem:31.77M (Peak 31.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-1
+Fra:1 Mem:31.79M (Peak 31.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-0
+Fra:1 Mem:31.80M (Peak 31.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-2
+Fra:1 Mem:31.83M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.20M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.20M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.20M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.20M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.30M (Peak 31.83M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.30M (Peak 31.83M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.30M (Peak 31.83M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.30M (Peak 31.83M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.30M (Peak 31.83M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.30M (Peak 31.83M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.34M (Peak 31.83M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.34M (Peak 31.83M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.34M (Peak 31.83M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.34M (Peak 31.83M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.34M (Peak 31.83M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.85M (Peak 31.83M) | Time:00:00.03 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.83M (Peak 31.83M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.83M (Peak 31.83M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.83M (Peak 31.83M) | Time:00:00.04 | Mem:1.26M, Peak:1.26M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.83M (Peak 31.83M) | Time:00:00.04 | Mem:2.19M, Peak:2.90M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.83M (Peak 31.83M) | Time:00:00.04 | Mem:2.19M, Peak:2.90M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:2.19M, Peak:2.90M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.59M, Peak:3.59M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.59M, Peak:3.59M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.59M, Peak:3.59M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.15M (Peak 31.83M) | Time:00:00.04 | Mem:3.59M, Peak:3.59M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.16M (Peak 31.83M) | Time:00:00.04 | Mem:3.51M, Peak:3.59M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.16M (Peak 31.83M) | Time:00:00.04 | Mem:3.60M, Peak:3.60M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.16M (Peak 31.83M) | Time:00:00.04 | Mem:3.60M, Peak:3.60M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.16M (Peak 31.83M) | Time:00:00.04 | Mem:3.60M, Peak:3.60M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:25.16M (Peak 31.83M) | Time:00:00.04 | Mem:3.60M, Peak:3.60M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.20M (Peak 176.20M) | Time:00:01.77 | Remaining:00:26.02 | Mem:154.35M, Peak:154.35M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:239.68M (Peak 334.90M) | Time:00:48.44 | Mem:154.35M, Peak:154.35M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:239.68M (Peak 334.90M) | Time:00:48.44 | Mem:154.35M, Peak:154.35M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\B\B-OFF-native.png'
+Time: 00:48.70 (Saving: 00:00.25)
+
+Fra:1 Mem:29.31M (Peak 29.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint
+Fra:1 Mem:29.31M (Peak 29.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.003
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.004
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.005
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.006
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.007
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.008
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.009
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.011
+Fra:1 Mem:29.32M (Peak 29.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.012
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.013
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.015
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.016
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.017
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.018
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.019
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.020
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.021
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.023
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.024
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.025
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.026
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.028
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.030
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.031
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.032
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.033
+Fra:1 Mem:29.34M (Peak 29.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-seat
+Fra:1 Mem:29.35M (Peak 29.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-back
+Fra:1 Mem:29.40M (Peak 29.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-2635
+Fra:1 Mem:29.42M (Peak 29.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-2635
+Fra:1 Mem:29.42M (Peak 29.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-3135
+Fra:1 Mem:29.49M (Peak 29.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-3135
+Fra:1 Mem:29.51M (Peak 29.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-column
+Fra:1 Mem:29.52M (Peak 29.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-x
+Fra:1 Mem:29.50M (Peak 29.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-z
+Fra:1 Mem:29.56M (Peak 29.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster--250-0
+Fra:1 Mem:29.54M (Peak 29.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-250-0
+Fra:1 Mem:29.56M (Peak 29.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0--250
+Fra:1 Mem:29.57M (Peak 29.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0-250
+Fra:1 Mem:29.58M (Peak 29.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back
+Fra:1 Mem:29.56M (Peak 29.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-cushion
+Fra:1 Mem:29.64M (Peak 29.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-back-cushion
+Fra:1 Mem:29.64M (Peak 29.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-0
+Fra:1 Mem:29.67M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-0
+Fra:1 Mem:29.71M (Peak 29.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-1
+Fra:1 Mem:29.73M (Peak 29.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-1
+Fra:1 Mem:29.75M (Peak 29.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-north-arm
+Fra:1 Mem:29.78M (Peak 29.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-south-arm
+Fra:1 Mem:29.81M (Peak 29.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-1370
+Fra:1 Mem:29.86M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ambient reflected
+Fra:1 Mem:29.85M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Task lamp
+Fra:1 Mem:29.84M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge indirect soft
+Fra:1 Mem:29.84M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight sun
+Fra:1 Mem:29.84M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight soft window
+Fra:1 Mem:29.85M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed return strip
+Fra:1 Mem:29.85M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-1370
+Fra:1 Mem:29.84M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-2370
+Fra:1 Mem:29.92M (Peak 29.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-4170
+Fra:1 Mem:29.94M (Peak 29.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-4170
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-navy
+Fra:1 Mem:30.01M (Peak 30.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Removable cable channel
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-base-34
+Fra:1 Mem:30.08M (Peak 30.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-stand-34
+Fra:1 Mem:30.06M (Peak 30.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Sage shallow end storage door
+Fra:1 Mem:30.11M (Peak 30.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-body-34
+Fra:1 Mem:30.13M (Peak 30.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-screen-34
+Fra:1 Mem:30.13M (Peak 30.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Sage shallow end storage
+Fra:1 Mem:30.18M (Peak 30.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-keyboard-single
+Fra:1 Mem:30.20M (Peak 30.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-mouse-single
+Fra:1 Mem:30.21M (Peak 30.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-stem
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-shade
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-cup
+Fra:1 Mem:30.21M (Peak 30.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-0
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-1
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-2
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-water-cup
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-pot
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-soil
+Fra:1 Mem:30.25M (Peak 30.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-0
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-1
+Fra:1 Mem:30.28M (Peak 30.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-2
+Fra:1 Mem:30.29M (Peak 30.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-3
+Fra:1 Mem:30.30M (Peak 30.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-body
+Fra:1 Mem:30.34M (Peak 30.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-0
+Fra:1 Mem:30.35M (Peak 30.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-1
+Fra:1 Mem:30.35M (Peak 30.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-scribe
+Fra:1 Mem:30.41M (Peak 30.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-body
+Fra:1 Mem:30.48M (Peak 30.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-0
+Fra:1 Mem:30.47M (Peak 30.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-1
+Fra:1 Mem:30.51M (Peak 30.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-scribe
+Fra:1 Mem:30.50M (Peak 30.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-body
+Fra:1 Mem:30.54M (Peak 30.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden desktop longitudinal frame
+Fra:1 Mem:30.59M (Peak 30.59M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-0
+Fra:1 Mem:30.61M (Peak 30.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-1
+Fra:1 Mem:30.64M (Peak 30.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk right end support
+Fra:1 Mem:30.67M (Peak 30.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-2
+Fra:1 Mem:30.69M (Peak 30.69M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-3
+Fra:1 Mem:30.68M (Peak 30.69M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-open-back
+Fra:1 Mem:30.71M (Peak 30.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support.001
+Fra:1 Mem:30.75M (Peak 30.75M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-0
+Fra:1 Mem:30.79M (Peak 30.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-1
+Fra:1 Mem:30.78M (Peak 30.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-2
+Fra:1 Mem:30.84M (Peak 30.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support
+Fra:1 Mem:30.82M (Peak 30.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-800
+Fra:1 Mem:30.90M (Peak 30.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1250
+Fra:1 Mem:30.89M (Peak 30.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1700
+Fra:1 Mem:30.91M (Peak 30.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.002
+Fra:1 Mem:30.92M (Peak 30.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-2130
+Fra:1 Mem:30.97M (Peak 30.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.001
+Fra:1 Mem:30.95M (Peak 30.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-body
+Fra:1 Mem:31.00M (Peak 31.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support
+Fra:1 Mem:31.02M (Peak 31.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-0
+Fra:1 Mem:31.05M (Peak 31.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Short raised return to same H950
+Fra:1 Mem:31.05M (Peak 31.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-1
+Fra:1 Mem:31.13M (Peak 31.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-2
+Fra:1 Mem:31.15M (Peak 31.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Long raised ledge 2600x200 H950
+Fra:1 Mem:31.16M (Peak 31.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-3
+Fra:1 Mem:31.24M (Peak 31.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-scribe
+Fra:1 Mem:31.27M (Peak 31.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-0
+Fra:1 Mem:31.33M (Peak 31.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-1
+Fra:1 Mem:31.32M (Peak 31.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Seated desktop 2400x700 H750
+Fra:1 Mem:31.42M (Peak 31.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-2
+Fra:1 Mem:31.42M (Peak 31.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-0
+Fra:1 Mem:31.43M (Peak 31.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-1
+Fra:1 Mem:31.46M (Peak 31.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-2
+Fra:1 Mem:31.48M (Peak 31.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window side rail context
+Fra:1 Mem:31.49M (Peak 31.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-0
+Fra:1 Mem:31.53M (Peak 31.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-1
+Fra:1 Mem:31.55M (Peak 31.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window sill context
+Fra:1 Mem:31.58M (Peak 31.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-2
+Fra:1 Mem:31.59M (Peak 31.59M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window head context
+Fra:1 Mem:31.62M (Peak 31.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-0
+Fra:1 Mem:31.61M (Peak 31.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-2
+Fra:1 Mem:31.66M (Peak 31.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context.001
+Fra:1 Mem:31.68M (Peak 31.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-0
+Fra:1 Mem:31.73M (Peak 31.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context
+Fra:1 Mem:31.75M (Peak 31.75M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-1
+Fra:1 Mem:31.78M (Peak 31.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-2
+Fra:1 Mem:31.78M (Peak 31.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing bedroom-wall context
+Fra:1 Mem:31.83M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-0
+Fra:1 Mem:31.84M (Peak 31.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-2
+Fra:1 Mem:31.87M (Peak 31.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-1
+Fra:1 Mem:31.88M (Peak 31.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.20M (Peak 31.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.20M (Peak 31.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.20M (Peak 31.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.20M (Peak 31.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.30M (Peak 31.88M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.30M (Peak 31.88M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.30M (Peak 31.88M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.30M (Peak 31.88M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.30M (Peak 31.88M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.30M (Peak 31.88M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.34M (Peak 31.88M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.34M (Peak 31.88M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.34M (Peak 31.88M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.34M (Peak 31.88M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.34M (Peak 31.88M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.85M (Peak 31.88M) | Time:00:00.03 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.83M (Peak 31.88M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.83M (Peak 31.88M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.83M (Peak 31.88M) | Time:00:00.04 | Mem:1.26M, Peak:1.26M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.83M (Peak 31.88M) | Time:00:00.04 | Mem:2.19M, Peak:2.90M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.83M (Peak 31.88M) | Time:00:00.04 | Mem:2.19M, Peak:2.90M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:2.19M, Peak:2.90M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:3.51M, Peak:3.51M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.15M (Peak 31.88M) | Time:00:00.04 | Mem:3.59M, Peak:3.59M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:25.16M (Peak 31.88M) | Time:00:00.04 | Mem:3.59M, Peak:3.59M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:25.22M (Peak 31.88M) | Time:00:00.04 | Mem:3.66M, Peak:3.66M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.22M (Peak 31.88M) | Time:00:00.04 | Mem:3.66M, Peak:3.66M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.22M (Peak 31.88M) | Time:00:00.04 | Mem:3.58M, Peak:3.66M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.22M (Peak 31.88M) | Time:00:00.04 | Mem:3.66M, Peak:3.66M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.22M (Peak 31.88M) | Time:00:00.04 | Mem:3.66M, Peak:3.66M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.23M (Peak 31.88M) | Time:00:00.04 | Mem:3.66M, Peak:3.66M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:25.23M (Peak 31.88M) | Time:00:00.04 | Mem:3.66M, Peak:3.66M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.26M (Peak 176.26M) | Time:00:02.11 | Remaining:00:31.01 | Mem:154.42M, Peak:154.42M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:239.74M (Peak 334.96M) | Time:00:53.99 | Mem:154.42M, Peak:154.42M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:239.74M (Peak 334.96M) | Time:00:53.99 | Mem:154.42M, Peak:154.42M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\B\B-ON-native.png'
+Time: 00:54.25 (Saving: 00:00.24)
+
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\B\办公区-B-独立提案.blend"
+Fra:1 Mem:29.18M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor observation crop
+Fra:1 Mem:29.18M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint
+Fra:1 Mem:29.18M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.001
+Fra:1 Mem:29.19M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.002
+Fra:1 Mem:29.19M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.003
+Fra:1 Mem:29.19M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.004
+Fra:1 Mem:29.19M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.006
+Fra:1 Mem:29.20M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.005
+Fra:1 Mem:29.20M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.007
+Fra:1 Mem:29.20M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.008
+Fra:1 Mem:29.20M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.009
+Fra:1 Mem:29.20M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.010
+Fra:1 Mem:29.20M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.011
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.012
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.013
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.014
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.015
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.017
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.018
+Fra:1 Mem:29.21M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.019
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.020
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.021
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.022
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.023
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.024
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.025
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.026
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.027
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.028
+Fra:1 Mem:29.22M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.029
+Fra:1 Mem:29.23M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.030
+Fra:1 Mem:29.23M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.031
+Fra:1 Mem:29.23M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.032
+Fra:1 Mem:29.23M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.033
+Fra:1 Mem:29.23M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.034
+Fra:1 Mem:29.23M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-seat
+Fra:1 Mem:29.27M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-back
+Fra:1 Mem:29.29M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-2635
+Fra:1 Mem:29.31M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-2635
+Fra:1 Mem:29.33M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-3135
+Fra:1 Mem:29.36M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-3135
+Fra:1 Mem:29.38M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-column
+Fra:1 Mem:29.39M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-x
+Fra:1 Mem:29.42M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-z
+Fra:1 Mem:29.44M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster--250-0
+Fra:1 Mem:29.44M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-250-0
+Fra:1 Mem:29.45M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0--250
+Fra:1 Mem:29.46M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0-250
+Fra:1 Mem:29.47M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back
+Fra:1 Mem:29.48M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-main-base
+Fra:1 Mem:29.51M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-base
+Fra:1 Mem:29.56M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight sun
+Fra:1 Mem:29.56M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight soft window
+Fra:1 Mem:29.55M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-cushion
+Fra:1 Mem:29.58M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed return strip
+Fra:1 Mem:29.61M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-back-cushion
+Fra:1 Mem:29.60M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-0
+Fra:1 Mem:29.65M (Peak 29.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-0
+Fra:1 Mem:29.70M (Peak 29.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-1
+Fra:1 Mem:29.69M (Peak 29.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-1
+Fra:1 Mem:29.71M (Peak 29.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed long strip
+Fra:1 Mem:29.75M (Peak 29.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-north-arm
+Fra:1 Mem:29.77M (Peak 29.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-south-arm
+Fra:1 Mem:29.77M (Peak 29.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-1370
+Fra:1 Mem:29.81M (Peak 29.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Removable cable channel
+Fra:1 Mem:29.83M (Peak 29.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-2200
+Fra:1 Mem:29.89M (Peak 29.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow drawer reveal
+Fra:1 Mem:29.87M (Peak 29.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-2370
+Fra:1 Mem:29.87M (Peak 29.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow end drawer
+Fra:1 Mem:29.92M (Peak 29.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-4170
+Fra:1 Mem:29.94M (Peak 29.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-4170
+Fra:1 Mem:29.95M (Peak 29.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden desktop longitudinal frame
+Fra:1 Mem:29.99M (Peak 29.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-green
+Fra:1 Mem:30.01M (Peak 30.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-navy
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-base-34
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk right end support
+Fra:1 Mem:30.07M (Peak 30.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-stand-34
+Fra:1 Mem:30.11M (Peak 30.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-body-34
+Fra:1 Mem:30.15M (Peak 30.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-screen-34
+Fra:1 Mem:30.12M (Peak 30.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-keyboard-single
+Fra:1 Mem:30.20M (Peak 30.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-mouse-single
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-base
+Fra:1 Mem:30.23M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-stem
+Fra:1 Mem:30.22M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support
+Fra:1 Mem:30.23M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-shade
+Fra:1 Mem:30.25M (Peak 30.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-cup
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-0
+Fra:1 Mem:30.27M (Peak 30.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-1
+Fra:1 Mem:30.28M (Peak 30.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-2
+Fra:1 Mem:30.29M (Peak 30.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-water-cup
+Fra:1 Mem:30.29M (Peak 30.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-pot
+Fra:1 Mem:30.32M (Peak 30.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-soil
+Fra:1 Mem:30.33M (Peak 30.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-0
+Fra:1 Mem:30.37M (Peak 30.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-1
+Fra:1 Mem:30.38M (Peak 30.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-2
+Fra:1 Mem:30.39M (Peak 30.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-3
+Fra:1 Mem:30.41M (Peak 30.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-body
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-0
+Fra:1 Mem:30.46M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-1
+Fra:1 Mem:30.47M (Peak 30.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-scribe
+Fra:1 Mem:30.50M (Peak 30.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-body
+Fra:1 Mem:30.55M (Peak 30.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-0
+Fra:1 Mem:30.56M (Peak 30.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-1
+Fra:1 Mem:30.56M (Peak 30.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-scribe
+Fra:1 Mem:30.58M (Peak 30.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support
+Fra:1 Mem:30.63M (Peak 30.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-body
+Fra:1 Mem:30.67M (Peak 30.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Short raised return to same H950
+Fra:1 Mem:30.74M (Peak 30.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-top
+Fra:1 Mem:30.76M (Peak 30.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-0
+Fra:1 Mem:30.77M (Peak 30.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-1
+Fra:1 Mem:30.82M (Peak 30.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-2
+Fra:1 Mem:30.83M (Peak 30.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-3
+Fra:1 Mem:30.85M (Peak 30.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-open-back
+Fra:1 Mem:30.95M (Peak 30.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-0
+Fra:1 Mem:30.89M (Peak 30.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Long raised ledge 2600x200 H950
+Fra:1 Mem:30.90M (Peak 30.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-1
+Fra:1 Mem:30.98M (Peak 30.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-2
+Fra:1 Mem:30.99M (Peak 30.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-800
+Fra:1 Mem:31.03M (Peak 31.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1250
+Fra:1 Mem:31.06M (Peak 31.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1700
+Fra:1 Mem:31.07M (Peak 31.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-2130
+Fra:1 Mem:31.10M (Peak 31.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-body
+Fra:1 Mem:31.13M (Peak 31.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Seated desktop 2400x700 H750
+Fra:1 Mem:31.20M (Peak 31.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-0
+Fra:1 Mem:31.18M (Peak 31.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-1
+Fra:1 Mem:31.24M (Peak 31.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-2
+Fra:1 Mem:31.26M (Peak 31.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-3
+Fra:1 Mem:31.28M (Peak 31.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window side rail context
+Fra:1 Mem:31.29M (Peak 31.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-scribe
+Fra:1 Mem:31.32M (Peak 31.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-0
+Fra:1 Mem:31.35M (Peak 31.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window sill context
+Fra:1 Mem:31.41M (Peak 31.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-1
+Fra:1 Mem:31.40M (Peak 31.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-2
+Fra:1 Mem:31.42M (Peak 31.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window head context
+Fra:1 Mem:31.45M (Peak 31.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-0
+Fra:1 Mem:31.47M (Peak 31.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-1
+Fra:1 Mem:31.50M (Peak 31.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context.001
+Fra:1 Mem:31.51M (Peak 31.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-2
+Fra:1 Mem:31.53M (Peak 31.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context
+Fra:1 Mem:31.55M (Peak 31.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-0
+Fra:1 Mem:31.58M (Peak 31.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing bedroom-wall context
+Fra:1 Mem:31.60M (Peak 31.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-2
+Fra:1 Mem:31.62M (Peak 31.62M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-1
+Fra:1 Mem:31.65M (Peak 31.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-1
+Fra:1 Mem:31.65M (Peak 31.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-2
+Fra:1 Mem:31.70M (Peak 31.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-0
+Fra:1 Mem:31.70M (Peak 31.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-0
+Fra:1 Mem:31.76M (Peak 31.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-1
+Fra:1 Mem:31.78M (Peak 31.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-2
+Fra:1 Mem:31.81M (Peak 31.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-2
+Fra:1 Mem:31.77M (Peak 31.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-0
+Fra:1 Mem:31.83M (Peak 31.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-1
+Fra:1 Mem:31.85M (Peak 31.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.19M (Peak 31.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.19M (Peak 31.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.19M (Peak 31.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.19M (Peak 31.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.30M (Peak 31.85M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.30M (Peak 31.85M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.30M (Peak 31.85M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.30M (Peak 31.85M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.30M (Peak 31.85M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.30M (Peak 31.85M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.34M (Peak 31.85M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.34M (Peak 31.85M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.34M (Peak 31.85M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.34M (Peak 31.85M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.34M (Peak 31.85M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.84M (Peak 31.85M) | Time:00:00.03 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.82M (Peak 31.85M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.83M (Peak 31.85M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.83M (Peak 31.85M) | Time:00:00.03 | Mem:1.25M, Peak:1.25M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.83M (Peak 31.85M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.83M (Peak 31.85M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.56M, Peak:3.56M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.56M, Peak:3.56M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.48M, Peak:3.57M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.14M (Peak 31.85M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.15M (Peak 31.85M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:25.15M (Peak 31.85M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.18M (Peak 176.18M) | Time:00:01.76 | Remaining:00:25.75 | Mem:154.33M, Peak:154.33M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:239.66M (Peak 334.88M) | Time:00:48.53 | Mem:154.33M, Peak:154.33M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:239.66M (Peak 334.88M) | Time:00:48.53 | Mem:154.33M, Peak:154.33M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\C\C-OFF-native.png'
+Time: 00:48.79 (Saving: 00:00.25)
+
+Fra:1 Mem:29.35M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor observation crop
+Fra:1 Mem:29.35M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint
+Fra:1 Mem:29.35M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.001
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.002
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.003
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.004
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.005
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.006
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.007
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.008
+Fra:1 Mem:29.36M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.009
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.010
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.011
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.012
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.013
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.014
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.015
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.016
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.017
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.018
+Fra:1 Mem:29.37M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.019
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.020
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.021
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.024
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.025
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.026
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.027
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.028
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.029
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.030
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.031
+Fra:1 Mem:29.38M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.033
+Fra:1 Mem:29.39M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Floor joint.034
+Fra:1 Mem:29.39M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-seat
+Fra:1 Mem:29.39M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-back
+Fra:1 Mem:29.42M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-2635
+Fra:1 Mem:29.47M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-2635
+Fra:1 Mem:29.50M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-3135
+Fra:1 Mem:29.52M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-arm-support-3135
+Fra:1 Mem:29.54M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-column
+Fra:1 Mem:29.54M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-x
+Fra:1 Mem:29.55M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-base-z
+Fra:1 Mem:29.61M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster--250-0
+Fra:1 Mem:29.60M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-250-0
+Fra:1 Mem:29.61M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ambient reflected
+Fra:1 Mem:29.62M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | office-chair-1-caster-0--250
+Fra:1 Mem:29.61M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Task lamp
+Fra:1 Mem:29.61M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back
+Fra:1 Mem:29.62M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-main-base
+Fra:1 Mem:29.64M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-base
+Fra:1 Mem:29.64M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-cushion
+Fra:1 Mem:29.67M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight sun
+Fra:1 Mem:29.65M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Daylight soft window
+Fra:1 Mem:29.67M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed return strip
+Fra:1 Mem:29.66M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-chaise-back-cushion
+Fra:1 Mem:29.71M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-0
+Fra:1 Mem:29.73M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-seat-1
+Fra:1 Mem:29.77M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Recessed long strip
+Fra:1 Mem:29.78M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-0
+Fra:1 Mem:29.78M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-back-cushion-1
+Fra:1 Mem:29.83M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Removable cable channel
+Fra:1 Mem:29.86M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-north-arm
+Fra:1 Mem:29.87M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-south-arm
+Fra:1 Mem:29.94M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-1370
+Fra:1 Mem:29.94M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Shallow drawer reveal
+Fra:1 Mem:29.94M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-1370
+Fra:1 Mem:29.96M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-2970-2200
+Fra:1 Mem:29.99M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-2370
+Fra:1 Mem:30.00M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-3920-4170
+Fra:1 Mem:30.07M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-foot-4670-4170
+Fra:1 Mem:30.05M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-green
+Fra:1 Mem:30.06M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | sofa-modular-pillow-navy
+Fra:1 Mem:30.13M (Peak 30.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden desktop longitudinal frame
+Fra:1 Mem:30.19M (Peak 30.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-base-34
+Fra:1 Mem:30.17M (Peak 30.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-stand-34
+Fra:1 Mem:30.20M (Peak 30.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-body-34
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk right end support
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-monitor-screen-34
+Fra:1 Mem:30.25M (Peak 30.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-keyboard-single
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support.001
+Fra:1 Mem:30.30M (Peak 30.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-mouse-single
+Fra:1 Mem:30.33M (Peak 30.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Desk support
+Fra:1 Mem:30.34M (Peak 30.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-base
+Fra:1 Mem:30.37M (Peak 30.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-stem
+Fra:1 Mem:30.37M (Peak 30.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-lamp-shade
+Fra:1 Mem:30.37M (Peak 30.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-cup
+Fra:1 Mem:30.37M (Peak 30.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.002
+Fra:1 Mem:30.40M (Peak 30.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-0
+Fra:1 Mem:30.39M (Peak 30.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-pen-1
+Fra:1 Mem:30.40M (Peak 30.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-water-cup
+Fra:1 Mem:30.41M (Peak 30.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-pot
+Fra:1 Mem:30.42M (Peak 30.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-soil
+Fra:1 Mem:30.43M (Peak 30.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-0
+Fra:1 Mem:30.43M (Peak 30.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-1
+Fra:1 Mem:30.43M (Peak 30.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support.001
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-2
+Fra:1 Mem:30.44M (Peak 30.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | double-desk-plant-leaf-3
+Fra:1 Mem:30.46M (Peak 30.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-body
+Fra:1 Mem:30.49M (Peak 30.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-door-0
+Fra:1 Mem:30.53M (Peak 30.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Ledge support
+Fra:1 Mem:30.56M (Peak 30.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-balcony-scribe
+Fra:1 Mem:30.56M (Peak 30.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-body
+Fra:1 Mem:30.63M (Peak 30.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Short raised return to same H950
+Fra:1 Mem:30.65M (Peak 30.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-0
+Fra:1 Mem:30.70M (Peak 30.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-door-1
+Fra:1 Mem:30.78M (Peak 30.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-hall-scribe
+Fra:1 Mem:30.77M (Peak 30.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-body
+Fra:1 Mem:30.79M (Peak 30.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-top
+Fra:1 Mem:30.81M (Peak 30.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-0
+Fra:1 Mem:30.85M (Peak 30.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-1
+Fra:1 Mem:30.87M (Peak 30.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-2
+Fra:1 Mem:30.87M (Peak 30.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-base-door-3
+Fra:1 Mem:31.01M (Peak 31.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-open-back
+Fra:1 Mem:30.96M (Peak 31.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-0
+Fra:1 Mem:31.02M (Peak 31.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-1
+Fra:1 Mem:31.02M (Peak 31.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-partition-2
+Fra:1 Mem:31.08M (Peak 31.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-800
+Fra:1 Mem:31.09M (Peak 31.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1250
+Fra:1 Mem:31.14M (Peak 31.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-1700
+Fra:1 Mem:31.17M (Peak 31.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-shelf-2130
+Fra:1 Mem:31.14M (Peak 31.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Seated desktop 2400x700 H750
+Fra:1 Mem:31.23M (Peak 31.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-body
+Fra:1 Mem:31.24M (Peak 31.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-0
+Fra:1 Mem:31.26M (Peak 31.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-1
+Fra:1 Mem:31.35M (Peak 31.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-door-2
+Fra:1 Mem:31.28M (Peak 31.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window side rail context
+Fra:1 Mem:31.31M (Peak 31.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-upper-scribe
+Fra:1 Mem:31.41M (Peak 31.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-0
+Fra:1 Mem:31.38M (Peak 31.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-1
+Fra:1 Mem:31.43M (Peak 31.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window sill context
+Fra:1 Mem:31.46M (Peak 31.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-0-2
+Fra:1 Mem:31.49M (Peak 31.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-0
+Fra:1 Mem:31.49M (Peak 31.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-1
+Fra:1 Mem:31.53M (Peak 31.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-0-1-2
+Fra:1 Mem:31.54M (Peak 31.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-0
+Fra:1 Mem:31.56M (Peak 31.56M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-1
+Fra:1 Mem:31.58M (Peak 31.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-0-2
+Fra:1 Mem:31.61M (Peak 31.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-0
+Fra:1 Mem:31.64M (Peak 31.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-1
+Fra:1 Mem:31.65M (Peak 31.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-1-1-2
+Fra:1 Mem:31.68M (Peak 31.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context.001
+Fra:1 Mem:31.71M (Peak 31.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-0
+Fra:1 Mem:31.73M (Peak 31.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-1
+Fra:1 Mem:31.73M (Peak 31.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-0-2
+Fra:1 Mem:31.79M (Peak 31.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Window jamb context
+Fra:1 Mem:31.78M (Peak 31.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-0
+Fra:1 Mem:31.81M (Peak 31.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-1
+Fra:1 Mem:31.84M (Peak 31.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | v19-book-prop-2-1-2
+Fra:1 Mem:31.85M (Peak 31.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing bedroom-wall context
+Fra:1 Mem:31.90M (Peak 31.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.19M (Peak 31.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.19M (Peak 31.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.19M (Peak 31.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.19M (Peak 31.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.30M (Peak 31.90M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.30M (Peak 31.90M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.30M (Peak 31.90M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.30M (Peak 31.90M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.30M (Peak 31.90M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.30M (Peak 31.90M) | Time:00:00.03 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.34M (Peak 31.90M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.34M (Peak 31.90M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.34M (Peak 31.90M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.34M (Peak 31.90M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.34M (Peak 31.90M) | Time:00:00.03 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.84M (Peak 31.90M) | Time:00:00.03 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.83M (Peak 31.90M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.83M (Peak 31.90M) | Time:00:00.03 | Mem:0.55M, Peak:0.55M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.83M (Peak 31.90M) | Time:00:00.03 | Mem:1.26M, Peak:1.26M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.83M (Peak 31.90M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.83M (Peak 31.90M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:2.17M, Peak:2.88M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.48M, Peak:3.48M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:25.14M (Peak 31.90M) | Time:00:00.04 | Mem:3.57M, Peak:3.57M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:25.20M (Peak 31.90M) | Time:00:00.04 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.20M (Peak 31.90M) | Time:00:00.04 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.21M (Peak 31.90M) | Time:00:00.04 | Mem:3.55M, Peak:3.63M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.21M (Peak 31.90M) | Time:00:00.04 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.21M (Peak 31.90M) | Time:00:00.04 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.21M (Peak 31.90M) | Time:00:00.04 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:25.21M (Peak 31.90M) | Time:00:00.04 | Mem:3.63M, Peak:3.63M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.25M (Peak 176.25M) | Time:00:02.10 | Remaining:00:30.94 | Mem:154.39M, Peak:154.39M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:239.72M (Peak 334.94M) | Time:00:54.12 | Mem:154.39M, Peak:154.39M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:239.72M (Peak 334.94M) | Time:00:54.12 | Mem:154.39M, Peak:154.39M | Scene, ViewLayer | Finished
+Saved: 'D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\C\C-ON-native.png'
+Time: 00:54.37 (Saving: 00:00.24)
+
+Info: Saved as "办公区-A-独立提案.blend"
+Info: Saved as "办公区-B-独立提案.blend"
+Info: Saved as "办公区-C-独立提案.blend"
+OFFICE_STUDY_COMPLETE [{"variant": "A", "parts": [{"name": "Seated desktop 2400x700 H750", "part": "working-top", "minX": 5300, "maxX": 6000, "minPlanZ": 2000, "maxPlanZ": 4400, "topHeight": 750}, {"name": "Long raised ledge 2600x200 H950", "part": "long-raised-ledge", "minX": 5100, "maxX": 5300, "minPlanZ": 1800, "maxPlanZ": 4400, "topHeight": 950}, {"name": "Short raised return to same H950", "part": "short-raised-return", "minX": 5270, "maxX": 6000, "minPlanZ": 1800, "maxPlanZ": 2000, "topHeight": 950}], "monitorScreenParts": 1, "chairSourceGroupCount": 1}, {"variant": "B", "parts": [{"name": "Seated desktop 2400x700 H750", "part": "working-top", "minX": 5300, "maxX": 6000, "minPlanZ": 2000, "maxPlanZ": 4400, "topHeight": 750}, {"name": "Long raised ledge 2600x200 H950", "part": "long-raised-ledge", "minX": 5100, "maxX": 5300, "minPlanZ": 1800, "maxPlanZ": 4400, "topHeight": 950}, {"name": "Short raised return to same H950", "part": "short-raised-return", "minX": 5270, "maxX": 6000, "minPlanZ": 1800, "maxPlanZ": 2000, "topHeight": 950}], "monitorScreenParts": 1, "chairSourceGroupCount": 1}, {"variant": "C", "parts": [{"name": "Seated desktop 2400x700 H750", "part": "working-top", "minX": 5300, "maxX": 6000, "minPlanZ": 2000, "maxPlanZ": 4400, "topHeight": 750}, {"name": "Long raised ledge 2600x200 H950", "part": "long-raised-ledge", "minX": 5100, "maxX": 5300, "minPlanZ": 1800, "maxPlanZ": 4400, "topHeight": 950}, {"name": "Short raised return to same H950", "part": "short-raised-return", "minX": 5270, "maxX": 6000, "minPlanZ": 1800, "maxPlanZ": 2000, "topHeight": 950}], "monitorScreenParts": 1, "chairSourceGroupCount": 1}]
+Read blend: "D:\AI-Yang.cn\HomeDesign\09_delivery\office-study-01\C\办公区-C-独立提案.blend"
+
+Blender quit
